@@ -11,6 +11,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Gegründet 2009 an der CAU Kiel durch vier Studierende; Joachim Perschbacher verbliebener Gründer | intern | GF, 2026-08-26 |
 | Erstprodukt Quassum (Projektmanagement-Websoftware), eingestellt | intern | GF; nicht als aktuelle Referenz |
 | Patrick D. Reschke über Intel-Arbeiten dazugekommen, nicht Gründer | intern | GF, 2026-08-26 |
+| Patrick D. Reschke: Head of Sales, lange PM-Praxis | intern | GF, 2026-08-26 |
 | Immersive Linie begann mit Fulldome/Planetarium und wurde zum Hauptzweck | intern | GF; Asana XM Fulldome / Planetarium historisch |
 | AVPQ 05 119 408129 | intern | Asana, UKSH-Mappe |
 | Büro Kiel, Schauenburgerstr. 116 | öffentlich | Website |
@@ -73,7 +74,8 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | 4× Knowledge Transfer, 75 % Retention 72h | öffentlich | nextfactoryvr.com Case-Claims — in Anträgen als Herstellerangabe/Case, nicht als Meta-Studie |
 | Offline-Training, Pico MDM | öffentlich | nextfactoryvr.com |
 | Trusted by Currenta CHEMPARK, RWE, Framatome | öffentlich (Site) | nextfactoryvr.com Security. Intern: RWE/Framatome = FFVR-Feuerlöscher; Factory-Randfall z. B. Sprinklerwartung, kein Twin-Vollprojekt |
-| Currenta: kein Einzelvolumen | intern | GF 2026-08-26. Custom-Aufträge und FFVR-Kits getrennt führen. Ein belegter Custom-Slice: PO 2960335518 (01.06.2023), Bitterfeld-/Bayer-Arena-Update, 7.680 € netto — **kein** FFVR-Koffer, **nicht** das Gesamtvolumen |
+| ElevenVoice / TTS | intern, **kanonisch** (2026-08-26) | GF. Standard-Sprachausgabe in den meisten XR-Produkten (u. a. FFVR, Meditrain, Factory). **Nicht** für diverse Fulldome-Shows und nicht für VR-Stadttouren (Storywalx). Plugin fehlt im Actemium-Git — trotzdem intern genutzt. Nicht als Website-Feature vermarkten. |
+| Currenta: kein Gesamtvolumen; UKSH-Eignungsslice ca. 20.000 € so lassen | intern | GF 2026-08-26. Custom und FFVR-Kits getrennt. Mappe `02-Eignung-Firmenprofil.md` / `03-eignung.md` **nicht umschreiben**. Extra Custom-Slice: PO 2960335518 (01.06.2023), Arena-Update, 7.680 € netto — **kein** Koffer, **nicht** das Gesamtvolumen |
 | Currenta-Betrieb 2026: Planspiel + GodView-Tileset Bürrig, 5× Pico 4 Ultra Enterprise (April 2026) | intern | UKSH-Eignungsmappe 03-eignung.md |
 | Immersive Erfahrung seit den frühen Firmenjahren (Fulldome/Planetarium) | intern | GF; nicht als Produktalter Spearhead |
 | Spearhead: Auftraggeber **The Marketing Arm (TMA)**, Teil von Omnicom, für US-National-Guard-Trainings; Playground-Sonderversion Kosovo (Streitkräfte, Headsets Osten) | intern, **kanonisch** (2026-08-26) | GF. Site-/Deck-Zahlen (22+, 200+, 7 Headsets) **nicht verwenden**. Nicht pauschal „Auftrag US Army“ oder „Auftrag National Guard“ — Vertragspartner ist TMA |

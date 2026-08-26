@@ -21,6 +21,7 @@ Site-Claims öffentlich: 5+ Touren, 50.000+ Besucher. Deck (3+ Städte, 100+ Hea
 3. Partner amatik namentlich, wo die Live-Site das schon tut.
 4. Keine Tourismus-Erlebnis-App-Sprache, die Northdocks in Vergaben als „unpassend“ geführt hat — Storywalx bleibt Kultur/Stadt-XR, nicht IGA-Garten-App.
 5. Kontakt: kontakt@northdocks.com für GmbH; vorhandene Storywalx-Mails nicht als Firmenstandard ausrollen.
+6. Sprache der Stadttouren **nicht** über ElevenVoice (GF 2026-08-26); das gilt analog für Fulldome-Shows. Standard-TTS der übrigen XR-Produkte nicht auf diese Site schreiben.
 
 ## Nicht auf diese Site
 

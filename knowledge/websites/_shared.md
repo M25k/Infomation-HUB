@@ -30,6 +30,7 @@ Nur Claims der Stufe **öffentlich** in [claims.md](../claims.md). Beispiele die
 - Schockraum-Volumen 380 k€ / KI 40 k€
 - Linode / On-Prem-Hosting intern
 - Pitch 2024 Meditrain-Ausgründung
+- ElevenVoice / intern TTS-Pipeline
 
 ## Was nie vermischt werden darf
 

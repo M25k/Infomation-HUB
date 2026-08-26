@@ -30,14 +30,16 @@ AVPQ-Zugangscodes gehören **nicht** in dieses Repository und nicht in Git.
 - GodView- und Spearhead-Adressen auf den Vertical-Sites sind keine Firmenstandards; in Anträgen und Angeboten nur `kontakt@northdocks.com`.
 - MeditrainVR-Site nennt zusätzlich +49 2173 9996714 — nicht als allgemeinen Northdocks-Kontakt.
 
+Vergabe-Rollenraster und Asana-Stamm: [team.md](team.md).
+
 ## Organe / Kernteam (aus Asana-Nutzung, nicht vollständig)
 
 | Name | Rolle in Quellen |
 |---|---|
 | Joachim Perschbacher | Mitgründer 2009 (einer von vier Studierenden an der CAU Kiel), bis heute Geschäftsführer. Einziger der Gründer, der noch im Unternehmen ist. |
-| Patrick D. Reschke | Geschäftsführer; nicht Gründer. Kam über Arbeiten für Intel dazu. CEO-Interviews, VWA/Horizon |
+| Patrick D. Reschke | Geschäftsführer; nicht Gründer. Kam über Arbeiten für Intel dazu. Intern **Head of Sales**, lange PM-Praxis (GF 26.08.2026). CEO-Interviews, VWA/Horizon |
 | Simona Michel | FiBu, Versand, Ausschreibungsboard |
-| julia.barenthien | Förderprojekte (TEMA, feir, FlowAR, Spot-KI) |
+| julia.barenthien | Förderprojekte (TEMA, feir, FlowAR, Spot-KI); intern Pädagogin (GF 26.08.2026) |
 | silas@northdocks.com | Vergabeunterlagen (Drive-Ordner) |
 
 ## Wirtschaftliche Angaben (nur intern, auf Verlangen)

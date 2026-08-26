@@ -21,7 +21,7 @@ Referenzierbar = in Eignung/Angeboten nutzbar. Freigabe = Namensnennung Person v
 
 | Vorhaben | Auftraggeber | Zeitraum | Volumen netto | Gegenstand | Referenzierbar | Freigabe |
 |---|---|---|---|---|---|---|
-| FirefighterVR Werkfeuer | Henkel AG & Co. KGaA, Werkfeuerwehr Düsseldorf | 2022–2024, Betrieb fortgesetzt | ca. 80.000 € | Brandbekämpfung VR, u. a. Sprinkler, Kreiselpumpe | ja | Ansprechperson Kai Kornetzky; Initiator Blücher nicht mehr im Dienst — vor Abgabe Freigabe Kornetzky |
+| FirefighterVR Werkfeuer | Henkel AG & Co. KGaA, Werkfeuerwehr Düsseldorf | 2022–2024, Betrieb fortgesetzt | ca. 80.000 € | Brandbekämpfung VR, u. a. Sprinkler, Kreiselpumpe | ja | Ansprechperson Kai Kornetzky; **Freigabe Namensnennung GF 26.08.2026**. Kein Telefon ins Git. |
 | Werkfeuer/Chempark | Currenta GmbH & Co. OHG, Leverkusen | mehrere Jahre, mehrere Lose | **kein Einzelvolumen**. Ein belegter Custom-Slice: PO 2960335518 (01.06.2023), Bitterfeld-/Bayer-Arena-Update, 7.680 € netto, **kein** Koffer. Betrieb 2026: Planspiel + GodView Bürrig, 5× Pico 4 Ultra | Chempark-VR, Planspiel, GodView Bürrig, Kits | ja, aber Slice benennen | Peter Walter (technisch), Sven Paulußen (Einkauf) |
 | Schockraum VR | Uniklinik Köln, Orthopädie/Unfallchirurgie | laufend + KI-Erweiterung | ca. 380.000 € + ca. 40.000 € KI | Multiplayer Schockraum, Teamtraining | ergänzend, nicht Pflichtslot UKSH | PD Dr. Rabi Raj Datta |
 | Radiation Protection VR | UKSH/BfS u. a. | Asana archiviert UKSH/BfS | — | Katheterlabor, Echtzeit-Dosimetrie | ja als Meditrain-Modul | — |
@@ -63,14 +63,14 @@ ARiNeP-Kontakt (intern): Dr. med. Johannes Gehrig — nur in Eignung, nicht öff
 |---|---|---|---|
 | Havenspuren Wilhelmshaven | amatik / Stadt | VR-Stadttour, Blicksteuerung | 2021–2022, ca. 70.000 € |
 | Treverer Code Trier | amatik / Trier | 6 VR-Stationen | 2022–2024, ca. 80.000 € |
-| Hannover VR | amatik / Stadt Hannover | gleiche Wilhelmshaven-Architektur (360 + Echtzeit); Szenen u. a. Aegidientor, Leibniz, Kröpcke, Altstadt, Flusswasserkunst (AR); Blicksteuerung. Finale Feedbackrunde intern 10.08.2026 als erledigt; Rest intern Pico-MDM/Aufräumen | seit 03.2026, ca. 55.000 €, Asana ND Hannover VR |
+| Hannover VR | amatik / Stadt Hannover | gleiche Wilhelmshaven-Architektur (360 + Echtzeit); Szenen u. a. Aegidientor, Leibniz, Kröpcke, Altstadt, Flusswasserkunst (AR), intern auch Dunkle Gasse; Blicksteuerung. Finale Feedbackrunde intern 10.08.2026 erledigt (Teststand 0.1.8). Rest intern Pico-MDM/Aufräumen | seit 03.2026, ca. 55.000 €, Asana ND Hannover VR |
 | Meta-dom / ZDV | Zentral-Dombau-Verein / Erzbistum | Photogrammetrie, Instandhaltung, VR | Asana ND-Dom, ZDV-VR |
 | Landeshaus SH | Storywalx-Site | 140 Jahre Landtag | öffentlich |
 | Hamburg Music Business e.V. | nextReality Hamburg | AR/DomVR-ähnliche HQ-Visualisierung, Rahmen ~10 k€ | Auftrag, keine feste Deadline |
 | DDF Und die Salztote | DDF | Auftrag | Auftrag |
 | SPACE EXHIBITION | — | archiviert | archiviert |
 | XM Fulldome | — | archiviert | archiviert |
-| FlowAR | NRW EFRE, Dortmunder U / IGA 2027 | immersive AR-Kunst; intern 05.08.2026 organisatorisch übergeben, Prototyp in 2-Wochen-Rhythmus | Zuschlag, laufend |
+| FlowAR | NRW EFRE, Dortmunder U / IGA 2027 | immersive AR-Kunst; intern 05.08.2026 organisatorisch übergeben. Android-Prototyp 13.07.2026: Mapbox, OpenGL-AR, GLB-Pflanzen, Tap-to-Place. iOS (Mac + Apple Developer) und WebXR-Pico intern offen; rudimentärer Multiplayer intern Due 31.08.2026 | Zuschlag, laufend |
 | Schiffshebewerk | — | Zuschlag historisch (Anträge-Board) | historisch |
 | Armstrong | — | Zuschlag historisch | historisch |
 | Tier VR Tour | — | Zuschlag historisch | historisch |
@@ -104,7 +104,7 @@ FirefighterVR-Inhaltsprojekte (Auswahl): Firefighting, Waldbrand (archiviert), F
 
 | Vorhaben | Status |
 |---|---|
-| TUHH Campus Lab VR/AR | ausgeliefert v1.0.1 (3× Pico 4 Ultra, Institut V8): Scan, VR/AR, Handtracking, Voice-over, Marker. Endrechnung/Puffer erst nach Bioraffinerie-Inhalten (intern geplant Einbau bis 04.09.2026). Folgeinteresse Gaussian Splatting **nicht** beauftragt. 360°-Web (TwinC) intern offen. Nicht als Sicherheit-Eignungsslot. |
+| TUHH Campus Lab VR/AR | ausgeliefert v1.0.1 (3× Pico 4 Ultra, Institut V8): Scan, VR/AR, Handtracking, Voice-over, Marker. v1.0.2 in Review (Asana 20.08.2026): 6×360° an Teleports, Raffinerie-Marker nur noch als Tour, neue Texte/Audio. VR-Spots Bioraffinerie intern erledigt. Endrechnung/Puffer erst nach restlichen Bioraffinerie-Inhalten (intern: Moritz Einbau, geplant bis 04.09.2026). Folgeinteresse Gaussian Splatting **nicht** beauftragt. 360°-Web (TwinC, Seiko) intern offen seit Feb. 2026. Nicht als Sicherheit-Eignungsslot. |
 | TUHH Sensor-CSV / China-Folge | intern Auftrag, CSV-Importer |
 | UKK VR | extern, laufend (Schockraum/Station) |
 

@@ -62,3 +62,42 @@ VWA-AG: Northdocks koordiniert nicht; FIT bis 25.08. still; Wiedervorlage 31.08.
 ## Pass 12 — 2026-08-26 (Loop-Tick)
 
 23 FFVR-Module namentlich aus `trainingslist.html` in websites/firefightervr.md. `NDFramework`: `NDAuth` disabled; ARCore/ARUtilities an; Targets Android+Windows. `TEMA-Server` weiter nur leeres README. UKK KI/Voice unverändert (40 k€, Rechnung ab 01.01.2027, Due 31.12.). Drive Kepler-Fulldome-Profil 07.2026 **nicht kanonisch** (Dom-Zahlen, Renderfarm) — in open-questions.md.
+
+## Pass 13 — 2026-08-26 (Loop-Tick)
+
+`NDFramework` Plugins-Ordner zusätzlich zu den uproject-Häkchen: NDWidgets, NDCommonAssets, ND_LookDev, NDEditorTools, CharacterSetup (nicht ungefragt als Produktionsfeature). `NDGeo` zieht GeoReferencing + WebBrowserWidget. `NDVRActemium.uproject` hat `ElevenVoice` enabled, Plugin-Dateien nicht im Git-Baum — kein Produktclaim. `ND-Strahlensimulation` weiter nicht lokal. `TEMA-Server` weiter leer.
+
+TUHH Campus Lab: v1.0.2 in Review (6×360° an Teleports, Raffinerie-Marker nur noch als Tour, neue Texte/Audio). VR-Spots Bioraffinerie intern erledigt; TwinC-360-Web und Endrechnung/Puffer weiter offen. Keine TUHH-Mails ins Git.
+
+FlowAR: Android-Prototyp Stand 13.07. (Mapbox, Custom-OpenGL-AR, GLB-Pflanzen, Tap-to-Place). iOS (Mac + Apple Developer) und WebXR-Pico intern offen; rudimentärer Multiplayer intern Due 31.08. TEMA: Tecnosylva FireSim als GeoTIFF/KMZ (Arrival Time) — Partnermail nicht versioniert. KPI Immersion erst in 2026-Trials statistisch. UKK: Spracherkennungs-Modelle intern in Test, 40 k€ unverändert. Drive-Eignung `02-Eignung-Firmenprofil.md` unverändert (Currenta dort weiter ca. 20 k€ — nicht als Gesamtvolumen). Keine Kundentelefone übernommen.
+
+GF-Klärung nach Pass 13: ElevenVoice intern Standard-TTS der meisten XR-Sprachen, Ausnahme Fulldome-Shows und VR-Stadttouren. UKSH-Eignung Currenta ca. 20 k€ bewusst so lassen.
+
+## Pass 14 — 2026-08-26 (Loop-Tick)
+
+GodView zwei Browser-Schichten: `ND-GodViewWeb` (SvelteKit/Cesium, Docker, `app.godview.solutions` = `godview.nd-apps.de`, Deploy `deploy.sh`) und `www-pointclouds` (Potree/Express, LAS/LAZ, Dom/Holcim Höver/Bürrig, Host intern `pointclouds.nd-apps.de`). Keine Tokens/.env. `TEMA-Server` weiter nur README. `ND-Strahlensimulation` weiter nicht lokal.
+
+UKSH Flashlight Los 2 **eingereicht 24.08.**; Los 3 Hardware (Pico 4 Eye) ND bietet nicht. VWA-AG: FIT weiter still (Nachfass 20.08.); ohne Lead kein SRIA-Oktober; Valencia 2.–3.11. hängt am Board. DLR Lampoldshausen unverbindlich (FFVR-Bedarf + Plan-zu-VR/KI4Energy), WV 08.09., kein Rahmenvertrag — keine Kundentelefonnummern ins Git.
+
+## Pass 15 — 2026-08-26 (Loop-Tick)
+
+Internes **Didaktisches Konzept FirefighterVR v47** (28.03.2026, Drive `Dokumente, Vorlagen & Preise / Work`): acht Grundprinzipien (Handlungsorientierung, Fehlertoleranz, Wiederholbarkeit, Skalierbarkeit, Gamification, Multimodalität, Adaptivität, Transfer) und Phasen Einführung → VR → Rotation → Auswertung. Kapitel 4 = Kinder/Jugendfeuerwehr (ca. 6–12 vs. 12–18, kurze VR-Zeiten, Aufsicht, Pico-Passform). UKSH Los 2 hat dieselben Prinzipien auf Flashlight umgelegt (`03-Kriterium-2-Didaktik.md`). Dokument zählt **22** Module (Softwarestand März 2026); öffentlich bleiben **23** laut `trainingslist.html`. Kein Katalog-Dump in Custom-Ausschreibungen; Konzept intern, Weitergabe laut Deckblatt nur mit Zustimmung.
+
+Meißen 2026-01-12.8.1.01: Unterlagen Version 2 in Drive `001 Teilnahme / LK-Meissen-2026`. Angebot in Arbeit, Frist 15.09.2026 — noch nicht in grants.md (erst nach Abgabe). `ND-Strahlensimulation` weiter nicht lokal.
+
+## Pass 16 — 2026-08-26 (Loop-Tick)
+
+`NDVRActemium.uproject`: `McpAutomationBridge` enabled — interne Editor-/Agent-Brücke, nicht Kundenfeature (`expertise.md` Verbot). `NDFramework.uproject` hat das Plugin nicht. `ND-Processing`-Skill bestätigt Pipeline Express :3000 → `process.py` → RealityCapture headless → Cesium-Tiles (GLB/Ortho/MinIO). `TEMA-Server` weiter nur README. `ND-Strahlensimulation` weiter nicht lokal.
+
+Asana TUHH: Campus-Lab-Handover 03.08. — Moritz App-Inhalte (Bioraffinerie/360°), Seiko TwinC-360-Web (offen seit Feb.). Keine TUHH-Mails ins Git. SensorViz-Repos auf GitHub genannt, nicht in `C:\Githup`. FlowAR: Apple-Developer-Account und Sachbericht-Rückfragen (Due 31.08.) weiter offen. UKK KI/Voice Due 31.12. unverändert.
+
+Team-Raster neu: `knowledge/team.md` (Asana-Stamm + Drive-Viten Marcel/Moritz/Finn; Medienpädagogik-Lücke). Meißen interne Kalkulation: Software-Ziel 182 T€, Gesamtziel 202 T€ (Headset EK 1.000 / VK 1.200); in `grants.md` als Angebot in Arbeit, nicht als Einreichung.
+
+## Pass 17 — 2026-08-26 (Loop-Tick)
+
+Meißen GF-Linie (nach Pass 16): Angebotsziel **150.000 € netto** (Hardware 22.500 = 15 × 1.500 inkl. Material, Software 127.500 / 112 PT × 1.095 €). Team: Patrick PL, Joachim techn. PL, Finn Senior VR (B.Sc. Informatik FH Kiel 2019), Marcel Unreal, Stephan 3D+QA, Seiko UX+QA, Renke + julia.barenthien Medienpädagogik. Drive-Arbeitsmappe analog UKSH: `01-Angebot` Entwürfe, `02-Einreichung` Portal. Offene GF-Frage: zweite Eignungsreferenz Hand aufs Herz vs. Hannover; Urkunden Renke/Julia/Stephan.
+
+`NDFramework/Plugins`: zusätzlich `VRSpectatorUtilities` (Ordner `UnrealVRSpectatorUtilitiesPlugin-master`) — **nicht** in `NDFramework.uproject`, nicht als Produktfeature. `NDVRTutorial` liegt als Plugin, im uproject disabled. `TEMA-Server` weiter nur README-Titel. `ND-Strahlensimulation` weiter nicht lokal.
+
+VWA-AG: FIT-Lead (Leif Oppermann) weiter ohne Antwort auf 06.08./20.08. LinkedIn-Willkommen 20.08. von David Suárez übernommen. ART REBEL 9 (Silvo Katalenić) Interesse, Rückfrage Deliverables 25.08. Subtask FIT fällig 03.09. Northdocks koordiniert nicht, schreibt kein SRIA-Kapitel.
+

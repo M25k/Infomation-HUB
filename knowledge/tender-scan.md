@@ -78,4 +78,6 @@ Nicht: `Website`, `App` allein, `SAP`, `Headset` allein. UKSH stand unter „VR-
 - Entscheidung: `knowledge/tender-runs/YYYY-MM-DD.md`
 - Treffer nach Kompetenzfilter: **sofort** Asana-Board [Anträge & Ausschreibungen](https://app.asana.com/1/8864272155433/project/1200346071931886), Spalte **Sammlung**, mit dem vollen Bid/No-Bid-Raster ([asana-ticket.md](../.cursor/skills/tender-scan/asana-ticket.md)). Ohne dieses Ticket gilt der Fund als nicht abgelegt.
 
+Eine **konkrete** Ausschreibung schreiben (nicht nur finden): Chat **„Wir machen die Ausschreibung …“**. Unterlagen und Entwürfe liegen in Drive [001 Teilnahme](https://drive.google.com/drive/folders/1uHMr8flT_jj4tRFy4mxbcuk2dbTwegKU), nicht in `tender-runs/`. Ablauf: Skill [grants-and-contracts](../.cursor/skills/grants-and-contracts/SKILL.md).
+
 Bestehende Prüfungstask (Patrick): [Ausschreibung / Förderung Prüfung](https://app.asana.com/1/8864272155433/task/1217550927850615).

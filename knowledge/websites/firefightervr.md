@@ -23,6 +23,8 @@ Rolle: **Leitprodukt** — Koffer, Pakete, 23 Module, Kauf/Miete. Cash- und Refe
 
 23 Module laut `trainingslist.html` (öffentlich): Firesaber, Löschangriff, Innenbrand, Feuerlöscher, Flashover, Flughafen, Waldbrand, Gastankbrand, Kreiselpumpe, Sprinklerwartung, CPR, Erste Hilfe, Notfallpneumatik, Sprungkissen, Unfallsicherung, Erkundung, Bürobrand, Elektronikbrand, Ladeflächenbrand, Ölflächenbrand, Planspiel, Übungsstrecken, Drehleiter.
 
+Internes Didaktik-Dokument v47 (März 2026, Drive Work) beschreibt Methode und Jugendfeuerwehr-Einsatz; es zählt 22 Module — nicht als öffentliche Zahl verwenden. In Custom-Angeboten Prinzipien umlegen, nicht den Katalog mitliefern.
+
 Mitgliedschaften auf der Site: **WFVD, vfdb, DRZ, DIBT**. Nicht DFV.
 
 Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon +49 2173 9996713. Impressum/Datenschutz häufig auf northdocks.com. Neue Rechtstexte: [_shared.md](_shared.md).

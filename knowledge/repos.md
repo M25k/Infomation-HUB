@@ -8,14 +8,14 @@ Zum Verstehen von Technik und Liefergegenstand diese Repos lesen, nicht raten.
 
 | Ordner | Remote | Branch | Was es belegt |
 |---|---|---|---|
-| `NDFramework` | Northdocks-GmbH/NDFramework | main | Unreal 5.7: OpenXR + PICOOpenXR aktiv; Plugins NDVRCore, NDFire, NDGeo, CesiumForUnreal, AdvancedSessions, EOSCore, SmoothSync. OpenXREyeTracker/HandTracking im uproject **disabled**. |
-| `NDVRActemium` | Northdocks-GmbH/NDVRActemium | 5.7_update | Factory/Infinity, Unreal 5.7; `PICOOpenXR` aktiv, Legacy-`PicoXR` **disabled**. TargetPlatforms im uproject: Android. README leer. |
-| `ND-GodViewWeb` | Northdocks-GmbH/ND-GodViewWeb | master | GodView SvelteKit+Cesium, Docker, DE-Hosting, `app.godview.solutions` |
+| `NDFramework` | Northdocks-GmbH/NDFramework | main | Unreal 5.7: OpenXR + PICOOpenXR aktiv; Plugins NDVRCore, NDFire, NDGeo, CesiumForUnreal, AdvancedSessions, EOSCore, SmoothSync. OpenXREyeTracker/HandTracking im uproject **disabled**. Im Plugins-Ordner zusätzlich NDWidgets, NDCommonAssets, ND_LookDev, NDEditorTools, CharacterSetup, NDVRTutorial (uproject disabled), NDAuth (disabled), VaRest, **VRSpectatorUtilities** (Ordner lokal, **nicht** im uproject — nicht als Feature). `NDGeo` hängt an GeoReferencing + WebBrowserWidget. |
+| `NDVRActemium` | Northdocks-GmbH/NDVRActemium | 5.7_update | Factory/Infinity, Unreal 5.7; `PICOOpenXR` aktiv, Legacy-`PicoXR` **disabled**. `ElevenVoice` im uproject enabled (intern Standard-TTS der meisten XR-Sprachen; nicht Fulldome, nicht Stadttouren). Plugin-Dateien **nicht** im Checkout. `McpAutomationBridge` im uproject **enabled** — interne Editor-/Agent-Brücke, **kein** Kundenfeature. TargetPlatforms: Android. README leer. |
+| `ND-GodViewWeb` | Northdocks-GmbH/ND-GodViewWeb | master | GodView SvelteKit+Cesium, pnpm/Lerna, Docker, Node 20+. Dieselbe App unter `https://app.godview.solutions` **und** `https://godview.nd-apps.de` (kein Redirect). Deploy per `deploy.sh`, nicht GitHub Actions. Tokens/.env nicht zitieren. |
+| `www-pointclouds` | Northdocks-GmbH/www-pointclouds | main | Zweite GodView-Schicht: Potree-Viewer + Express (:3001), LAS/LAZ-Extraktion. Szenen u. a. Kölner Dom, Holcim Höver, Currenta Bürrig. Punktdaten nicht im Git (R2/lokal). Öffentlicher Viewer-Host intern `pointclouds.nd-apps.de`. |
 | `ND-Processing` | Northdocks-GmbH/ND-Processing | Standalone | Photogrammetrie RealityCapture → 3D Tiles, Cesium-Viewer |
 | `ND-Strahlensimulation` | Northdocks-GmbH/ND-Strahlensimulation | public GitHub, nicht in C:\Githup | Unreal **4.27**-Projekt `NDRaySimulation.uproject`, Plugin `RaySimulation`. Historische Dosimetrie-Linie für Strahlenschutz VR — **nicht** die aktuelle UE-5.7-Produktionsengine |
 | `TEMA-Server` | Northdocks-GmbH/TEMA-Server | main | Checkout vorhanden, Arbeitsbaum praktisch leer — Inhalt nachziehen |
 | `nd-xyz-protree` | Northdocks-GmbH/nd-xyz-protree | main | XYZ → Potree |
-| `www-pointclouds` | Northdocks-GmbH/www-pointclouds | main | Potree-Viewer, LAS-Extraktion; Szenen Dom / Holcim / Bürrig |
 | `XLR-Punktwolken-Converter` | Northdocks-GmbH/XLR-Punktwolken-Converter | main | Konverter (README fehlt) |
 | `ND-Website` | Northdocks-GmbH/ND-Website | master | ältere Website? README leer |
 | `www-ar` | Northdocks-GmbH/www-ar | main | AR-Web, kein README |
@@ -64,4 +64,5 @@ Diese lokalen Pfade sollen als Workspace-Referenz dienen, wenn Anträge Technik 
 - National-Guard-App intern **State of Emergency** (Asana, kombiniertes Unreal-Projekt) — Content-Repo nicht unter `C:\Githup` gefunden.
 - `gh` CLI fehlt; `ND-Strahlensimulation` weiter nicht lokal (GitHub-Stand UE 4.27, siehe oben).
 - `TEMA-Server` praktisch leer; TEMA-Betrieb läuft u. a. über GodView (BRK) und XR Viewer (KPI Immersion, Trials 2026).
+- GitHub `Northdocks-GmbH/TUHH-SensorViz` und `TUHH-SensorVizCN` (Asana Repo-Info) — **nicht** unter `C:\Githup` ausgecheckt. CSV-Importer China intern beauftragt, Format wie TUHH.
 - Xing-Tippfehler `firefighervr.de` nicht zitieren.

@@ -22,6 +22,18 @@ Erzeugt Antrags- und Vertragstexte, die Northdocks als Bieter, Partner oder Auft
 
 Website-Copy und IA: Skill [website-content](../website-content/SKILL.md), Briefs unter [knowledge/websites/](../../knowledge/websites/README.md). Intern belegte Eignungssätze nicht ungefragt auf Live-Sites heben.
 
+## Konkrete Ausschreibung (nicht der Wochen-Scan)
+
+Start im Chat: **„Wir machen die Ausschreibung {Name oder URL}“** (oder Asana-Link). Das ist Schreiben, nicht Suchen.
+
+| Schicht | Was dort liegt | Was nicht |
+|---|---|---|
+| **Asana** Board [Anträge & Ausschreibungen](https://app.asana.com/1/8864272155433/project/1200346071931886) | Entscheidungsakte: Bid/No-Bid-Raster aus [asana-ticket.md](../tender-scan/asana-ticket.md), Frist, Los, Portal-URL, Link zum Drive-Ordner. Spalte **Sammlung** bis zur Teilnahme-Entscheidung, dann **Eingereicht** / **Nicht eingereicht**. | Keine PDFs, keine Passwörter, kein AVPQ-Code. Kommentare nur Klartext. |
+| **Drive** Ordner [001 Teilnahme](https://drive.google.com/drive/folders/1uHMr8flT_jj4tRFy4mxbcuk2dbTwegKU) (`01 Administration / 03 Förderungen+Ausschreibungen / 001 Teilnahme`) | Unterlagen, LV, Eignungsentwürfe, Preise, eingereichte Dateien. Pro Vorgang ein Unterordner `{Aktenzeichen oder Kurzname}` (Muster: `UKSH-Föd-2026-0001`). | Nichts davon ins Git. |
+| **Information-HUB (Git)** | Wiederverwendbare Firma: `claims.md`, `projects.md`, `expertise.md`. Nach Einreichung **eine Zeile** in [knowledge/grants.md](../../knowledge/grants.md) plus Asana- und Drive-Link. | Keine Ausschreibungs-PDFs, keine Portal-Logins, keine Kundentelefone. |
+
+Ablauf: (1) Asana-Task prüfen oder anlegen. (2) Unterlagen in den Drive-Unterordner. (3) Texte mit diesem Skill aus der KB, Call-Text aus Drive/Portal spiegeln. (4) Abgabe im Portal; Mailbox `ausschreibungen@northdocks.com`. (5) grants.md kurz nachziehen.
+
 ## Was es nicht tut
 
 - Keine Geheimnisse (Zugangscodes, Passwörter, interne Mailbox-Zugänge) in Dokumente oder Git schreiben.
@@ -54,7 +66,8 @@ Website-Copy und IA: Skill [website-content](../website-content/SKILL.md), Brief
 - Spearhead: Auftraggeber **The Marketing Arm (TMA)**, Omnicom, für National-Guard-Trainings; plus Playground-Kosovo. Keine Site-Zahlen, kein pauschales US Army, National Guard nicht als Vertragspartner.
 - Kein DFV, wenn nur WFVD/vfdb auf der Site stehen.
 - RWE/Framatome: FFVR-Feuerlöscher, Factory nur als Randfall (Sprinklerwartung).
-- Currenta: Kits und Custom-Aufträge nicht zu einer Summe zusammenziehen.
+- Currenta: Kits und Custom-Aufträge nicht zu einer Summe zusammenziehen. UKSH-Eignungstext mit ca. 20 k€ **so lassen** — das ist der Slice in der Mappe, nicht das Gesamtvolumen.
+- ElevenVoice: intern Standard-TTS der meisten XR-Sprachen. Nicht für Fulldome-Shows und nicht für VR-Stadttouren. Nicht als Website-Feature.
 - Kontakt immer **kontakt@northdocks.com**.
 - BMA Trainer nicht vermarkten, nicht als FFVR-Modul.
 - Umsatz: Eignungsschwelle >200 k€; intern vage ca. 1 Mio. € p.a. — keine erfundenen GJ-Zahlen.

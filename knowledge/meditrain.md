@@ -46,7 +46,7 @@ Erste Hilfe Actemium (Pitch 2023) ist Industrie-Erste-Hilfe, näher an Next Fact
 - Debriefing / Logs (CSV/JSON analog UKSH)
 - GodView nur als Leitung/Debrief (Typ B), nicht als Headset-App
 
-Medizinspezifisch dazu: physiologische Echtzeit-Engine (Pulse), Sprachsteuerung NPCs, cABCDE, Dosimetrie-Simulation. GitHub `ND-Strahlensimulation` ist Unreal **4.27** (`NDRaySimulation`) — historischer Beleg, nicht der 5.7-Produktionsstand.
+Medizinspezifisch dazu: physiologische Echtzeit-Engine (Pulse), Sprachsteuerung NPCs, cABCDE, Dosimetrie-Simulation. GitHub `ND-Strahlensimulation` ist Unreal **4.27** (`NDRaySimulation`) — historischer Beleg, nicht der 5.7-Produktionsstand. UKK KI/Voice: 40 k€ intern zugesagt, Rechnung ab 01.01.2027. Medizinische ASR-Modelle intern in Test (Asana UKK-VR) — nicht als ausgelieferte Standardfunktion.
 
 ## Sites und Repos
 
