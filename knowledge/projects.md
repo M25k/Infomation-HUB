@@ -15,14 +15,14 @@ Referenzierbar = in Eignung/Angeboten nutzbar. Freigabe = Namensnennung Person v
 | Storywalx | Produkt/Partner | XR-Stadttouren mit amatik | storywalx.com |
 | Meta-dom | Produkt (Coming Soon Stores) | Dom-VR + Digital Twin | meta-dom.de, Asana ND-Dom, ZDV-VR |
 | GodView | Produkt | Browser-Digital-Twin | godview.solutions, `ND-GodViewWeb` |
-| BMA Trainer App | intern/MVP | DIN-14675 FAT/FBF-Simulation | Asana, Repo `www-bma-Trainer-App`, bmatraining.de |
+| BMA Trainer App | eigenes Produkt, keine Vermarktung | DIN-14675 Web-MVP; geplant als Funnel zu FirefighterVR (z. B. WebXR) | Repo `www-bma-Trainer-App`, bmatraining.de intern |
 
 ## B. Referenzprojekte Sicherheit / Feuerwehr (Eignung)
 
 | Vorhaben | Auftraggeber | Zeitraum | Volumen netto | Gegenstand | Referenzierbar | Freigabe |
 |---|---|---|---|---|---|---|
 | FirefighterVR Werkfeuer | Henkel AG & Co. KGaA, Werkfeuerwehr Düsseldorf | 2022–2024, Betrieb fortgesetzt | ca. 80.000 € | Brandbekämpfung VR, u. a. Sprinkler, Kreiselpumpe | ja | Ansprechperson Kai Kornetzky; Initiator Blücher nicht mehr im Dienst — vor Abgabe Freigabe Kornetzky |
-| Werkfeuer/Chempark VR | Currenta GmbH & Co. OHG, Leverkusen | 2022–2026 | ca. 20.000 € in Eignung; letzte PO 7.680 € (2023) für Arena-Update | Chempark-VR, Planspiel, GodView Bürrig, Pico 4 Ultra Enterprise | ja | Peter Walter (technisch), Sven Paulußen (Einkauf) |
+| Werkfeuer/Chempark | Currenta GmbH & Co. OHG, Leverkusen | mehrere Jahre, mehrere Lose | **kein Einzelvolumen**. Ein belegter Custom-Slice: PO 2960335518 (01.06.2023), Bitterfeld-/Bayer-Arena-Update, 7.680 € netto, **kein** Koffer. Betrieb 2026: Planspiel + GodView Bürrig, 5× Pico 4 Ultra | Chempark-VR, Planspiel, GodView Bürrig, Kits | ja, aber Slice benennen | Peter Walter (technisch), Sven Paulußen (Einkauf) |
 | Schockraum VR | Uniklinik Köln, Orthopädie/Unfallchirurgie | laufend + KI-Erweiterung | ca. 380.000 € + ca. 40.000 € KI | Multiplayer Schockraum, Teamtraining | ergänzend, nicht Pflichtslot UKSH | PD Dr. Rabi Raj Datta |
 | Radiation Protection VR | UKSH/BfS u. a. | Asana archiviert UKSH/BfS | — | Katheterlabor, Echtzeit-Dosimetrie | ja als Meditrain-Modul | — |
 | UAD Training | FVR – UAD | archiviert | — | Feuerwehr-VR | intern | — |
@@ -38,6 +38,7 @@ Referenzierbar = in Eignung/Angeboten nutzbar. Freigabe = Namensnennung Person v
 | ARiNeP App Schmetterling | Uniklinik Frankfurt, Neurologie | 2024–2026 | Neurorehabilitation, Eye-Tracking CSV, Pico 4 Enterprise | archiviert, Kontakt offen 2026 |
 | Strahlenschutz VR Mobile | intern + UKSH/BfS-Historie | laufend intern | Mobile-Variante | intern |
 | Flashlight / UKSH Los 2 | UKSH, Interreg DE/DK | Angebot 2026, Laufzeit Projekt bis 30.09.2028 | VR-Trainingsplattform, 8 Lagen, Planspiel-Komponente, Leasing | eingereicht/in Arbeit |
+| Hand aufs Herz | Otto-Hahn-Gymnasium Monheim (Pilot) | 2026, Launch/Warteliste | Schul-CPR auf FFVR-Haptik, offline ohne Schülerdaten. Site handaufsherz-vr.de. Pilot öffentlich nennbar. Vier Kurse bis Aug. 2026; Feedbackrunde nach 31.08. intern offen | intern + öffentliche Site |
 | Koni Trainer | h_da / Uniklinik Würzburg | KMU-Innovativ-Pfad | VR-Koni-Trainer, GitLab h_da | Antragspfad intern |
 
 ARiNeP-Kontakt (intern): Dr. med. Johannes Gehrig — nur in Eignung, nicht öffentlich listen ohne Bedarf.
@@ -62,14 +63,14 @@ ARiNeP-Kontakt (intern): Dr. med. Johannes Gehrig — nur in Eignung, nicht öff
 |---|---|---|---|
 | Havenspuren Wilhelmshaven | amatik / Stadt | VR-Stadttour, Blicksteuerung | 2021–2022, ca. 70.000 € |
 | Treverer Code Trier | amatik / Trier | 6 VR-Stationen | 2022–2024, ca. 80.000 € |
-| Hannover VR | amatik / Stadt Hannover | gleiche Architektur | seit 2026, ca. 55.000 €, Asana ND Hannover VR |
+| Hannover VR | amatik / Stadt Hannover | gleiche Wilhelmshaven-Architektur (360 + Echtzeit); Szenen u. a. Aegidientor, Leibniz, Kröpcke, Altstadt, Flusswasserkunst (AR); Blicksteuerung. Finale Feedbackrunde intern 10.08.2026 als erledigt; Rest intern Pico-MDM/Aufräumen | seit 03.2026, ca. 55.000 €, Asana ND Hannover VR |
 | Meta-dom / ZDV | Zentral-Dombau-Verein / Erzbistum | Photogrammetrie, Instandhaltung, VR | Asana ND-Dom, ZDV-VR |
 | Landeshaus SH | Storywalx-Site | 140 Jahre Landtag | öffentlich |
 | Hamburg Music Business e.V. | nextReality Hamburg | AR/DomVR-ähnliche HQ-Visualisierung, Rahmen ~10 k€ | Auftrag, keine feste Deadline |
 | DDF Und die Salztote | DDF | Auftrag | Auftrag |
 | SPACE EXHIBITION | — | archiviert | archiviert |
 | XM Fulldome | — | archiviert | archiviert |
-| FlowAR | NRW EFRE, Dortmunder U / IGA 2027 | immersive AR-Kunst | Zuschlag |
+| FlowAR | NRW EFRE, Dortmunder U / IGA 2027 | immersive AR-Kunst; intern 05.08.2026 organisatorisch übergeben, Prototyp in 2-Wochen-Rhythmus | Zuschlag, laufend |
 | Schiffshebewerk | — | Zuschlag historisch (Anträge-Board) | historisch |
 | Armstrong | — | Zuschlag historisch | historisch |
 | Tier VR Tour | — | Zuschlag historisch | historisch |
@@ -78,7 +79,8 @@ ARiNeP-Kontakt (intern): Dr. med. Johannes Gehrig — nur in Eignung, nicht öff
 
 | Vorhaben | Auftraggeber | Gegenstand | Status |
 |---|---|---|---|
-| USA National Guard General + Szenarien I–VI | US National Guard | Field Clinic, River Crossing, Hazmat, Air Traffic Control, Vehicle Recovery, Saving Lives | archiviert; Deck: 200+ Szenarien-Durchläufe, 7 Headsets in US-Staaten (Zahlen widersprüchlich zur Spearhead-Site) |
+| TMA / State of Emergency | **The Marketing Arm (TMA)**, Teil von Omnicom (Auftraggeber); Trainings für US National Guard | Kombinierte Unreal-App intern **State of Emergency** (Asana: HAZMAT, RIVER, AIRTRAF/COPTER, URBTANK u. a.; Szenario-Feld u. a. Blackhawk Rescue, Bridge Builders, Hotzone, Saving Lives). Nicht Disasterville. | intern belegbar (GF 2026-08-26 + Asana `USA - National Guard - General`, archiviert) |
+| Playground Kosovo | Streitkräfte des Kosovo | spezielle Playground-Version, Headsets in den Osten | intern belegbar (GF 2026-08-26) |
 | Prismacom | — | Auftrag | Auftrag |
 | NRW FlowAR | s. o. | AR | Zuschlag |
 
@@ -102,8 +104,8 @@ FirefighterVR-Inhaltsprojekte (Auswahl): Firefighting, Waldbrand (archiviert), F
 
 | Vorhaben | Status |
 |---|---|
-| TUHH Campus Lab VR/AR | extern, Status-Update vorhanden |
-| TUHH VR Visualization of Sensor Data | extern |
-| UKK VR | extern, Status-Update |
+| TUHH Campus Lab VR/AR | ausgeliefert v1.0.1 (3× Pico 4 Ultra, Institut V8): Scan, VR/AR, Handtracking, Voice-over, Marker. Endrechnung/Puffer erst nach Bioraffinerie-Inhalten (intern geplant Einbau bis 04.09.2026). Folgeinteresse Gaussian Splatting **nicht** beauftragt. 360°-Web (TwinC) intern offen. Nicht als Sicherheit-Eignungsslot. |
+| TUHH Sensor-CSV / China-Folge | intern Auftrag, CSV-Importer |
+| UKK VR | extern, laufend (Schockraum/Station) |
 
 Nicht jede Asana-Karte ist ein abgeschlossenes Kundenprojekt. Für Eignung nur Zeilen mit Auftraggeber + Zeitraum verwenden.

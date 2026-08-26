@@ -8,11 +8,11 @@ Zum Verstehen von Technik und Liefergegenstand diese Repos lesen, nicht raten.
 
 | Ordner | Remote | Branch | Was es belegt |
 |---|---|---|---|
-| `NDFramework` | Northdocks-GmbH/NDFramework | main | Unreal 5.7 Trainingsframework: OpenXR, EyeTracker, HandTracking, PICOOpenXR, Advanced Sessions, EOSCore, ARCore |
-| `NDVRActemium` | Northdocks-GmbH/NDVRActemium | 5.7_update | Factory/Infinity-Linie, Unreal 5.7, PicoXR, MCP-Bridge |
+| `NDFramework` | Northdocks-GmbH/NDFramework | main | Unreal 5.7: OpenXR + PICOOpenXR aktiv; Plugins NDVRCore, NDFire, NDGeo, CesiumForUnreal, AdvancedSessions, EOSCore, SmoothSync. OpenXREyeTracker/HandTracking im uproject **disabled**. |
+| `NDVRActemium` | Northdocks-GmbH/NDVRActemium | 5.7_update | Factory/Infinity, Unreal 5.7; `PICOOpenXR` aktiv, Legacy-`PicoXR` **disabled**. TargetPlatforms im uproject: Android. README leer. |
 | `ND-GodViewWeb` | Northdocks-GmbH/ND-GodViewWeb | master | GodView SvelteKit+Cesium, Docker, DE-Hosting, `app.godview.solutions` |
 | `ND-Processing` | Northdocks-GmbH/ND-Processing | Standalone | Photogrammetrie RealityCapture → 3D Tiles, Cesium-Viewer |
-| `ND-Strahlensimulation` | Northdocks-GmbH/ND-Strahlensimulation | public GitHub, nicht in C:\Githup | C/C#/C++ Strahlensimulation (2023), Meditrain/Radiation-Protection-Stack |
+| `ND-Strahlensimulation` | Northdocks-GmbH/ND-Strahlensimulation | public GitHub, nicht in C:\Githup | Unreal **4.27**-Projekt `NDRaySimulation.uproject`, Plugin `RaySimulation`. Historische Dosimetrie-Linie für Strahlenschutz VR — **nicht** die aktuelle UE-5.7-Produktionsengine |
 | `TEMA-Server` | Northdocks-GmbH/TEMA-Server | main | Checkout vorhanden, Arbeitsbaum praktisch leer — Inhalt nachziehen |
 | `nd-xyz-protree` | Northdocks-GmbH/nd-xyz-protree | main | XYZ → Potree |
 | `www-pointclouds` | Northdocks-GmbH/www-pointclouds | main | Potree-Viewer, LAS-Extraktion; Szenen Dom / Holcim / Bürrig |
@@ -33,7 +33,7 @@ Zum Verstehen von Technik und Liefergegenstand diese Repos lesen, nicht raten.
 | `www-meta-dom` | M25k/www-meta-dom | meta-dom.de |
 | `www-godview-landingpage` | Northdocks-GmbH/www-godview-landingpage | godview.solutions |
 | `www-strahlenschutzvr` | Northdocks-GmbH/www-strahlenschutzvr | Strahlenschutz-Landing |
-| `www-handaufsherz` | Northdocks-GmbH/www-handaufsherz | unklar (Medizin/CPR?) |
+| `www-handaufsherz` | Northdocks-GmbH/www-handaufsherz | **https://handaufsherz-vr.de/** Schul-CPR (Launch/Warteliste). Vertical-Mail `info@handaufsherz-vr.de` — Firmenstandard bleibt kontakt@northdocks.com |
 | `www-bma-Trainer-App` | Northdocks-GmbH/www-bma-Trainer-App | bmatraining.de |
 
 ## Cursor-Codebases (Referenz)
@@ -60,8 +60,8 @@ Diese lokalen Pfade sollen als Workspace-Referenz dienen, wenn Anträge Technik 
 
 ## Lücken (nächste Loop-Runde)
 
-- Unreal-Content-Projekte liegen nicht unter `C:\Users\joach\source\repos` (leer). Weitere Disks/GitLab nicht automatisch gescannt.
-- `gh` CLI ist auf dieser Maschine nicht installiert; Org-Repos nur über lokale Checkouts bekannt.
-- `TEMA-Server` ist praktisch leer.
-- FirefighterVR-Unreal-Projekt nicht unter diesem Ordnernamen gefunden.
-- Xing-Profil nutzt die Tippfehler-Domain `firefighervr.de` — nicht zitieren.
+- Unreal-Content-Projekte (FFVR-Szenen) nicht unter `C:\Githup` als eigenes Repo. Drive-Ordner `ND-AssetReferenz` enthält `NDAssetReferenz.uproject` (Stand 2025) — nicht als Git-Remote.
+- National-Guard-App intern **State of Emergency** (Asana, kombiniertes Unreal-Projekt) — Content-Repo nicht unter `C:\Githup` gefunden.
+- `gh` CLI fehlt; `ND-Strahlensimulation` weiter nicht lokal (GitHub-Stand UE 4.27, siehe oben).
+- `TEMA-Server` praktisch leer; TEMA-Betrieb läuft u. a. über GodView (BRK) und XR Viewer (KPI Immersion, Trials 2026).
+- Xing-Tippfehler `firefighervr.de` nicht zitieren.

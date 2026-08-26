@@ -26,9 +26,9 @@ AVPQ-Zugangscodes gehören **nicht** in dieses Repository und nicht in Git.
 ## Kontakt (öffentlich)
 
 - Telefon: +49 (0) 2173 9996713
-- E-Mail: kontakt@northdocks.com
-- GodView-Produktmail: godview@northdocks.com
-- Vertical-Abweichungen: MeditrainVR nennt +49 2173 9996714 und WhatsApp; SpearheadVR nennt info@northdocks.de. Klärung siehe open-questions.md.
+- E-Mail (kanonisch): **kontakt@northdocks.com**
+- GodView- und Spearhead-Adressen auf den Vertical-Sites sind keine Firmenstandards; in Anträgen und Angeboten nur `kontakt@northdocks.com`.
+- MeditrainVR-Site nennt zusätzlich +49 2173 9996714 — nicht als allgemeinen Northdocks-Kontakt.
 
 ## Organe / Kernteam (aus Asana-Nutzung, nicht vollständig)
 
@@ -44,7 +44,8 @@ AVPQ-Zugangscodes gehören **nicht** in dieses Repository und nicht in Git.
 
 Aus UKSH-Eignungsmappe, nicht ungeprüft öffentlich wiederholen:
 
-- Umsatz VR/Simulation: in mindestens einem der letzten drei abgeschlossenen Geschäftsjahre **über 200.000 € netto**.
+- Umsatz VR/Simulation: in mindestens einem der letzten drei abgeschlossenen Geschäftsjahre **über 200.000 € netto** (Eignungsformulierung).
+- Interne Orientierung GF: **ca. 1 Mio. € p.a.**, bewusst vage. Nicht als exakte GJ-Zahl, nicht auf die Website.
 - Betriebshaftpflicht besteht. Deckungssummen 3 Mio. € Personen / 0,5 Mio. € Sachen: „soweit noch nicht erreicht, nach Zuschlag aufstocken“ — das ist eine **Absichtserklärung**, kein Nachweis des aktuellen Stands.
 
 ## Gründungsgeschichte (intern, für Narrative in Anträgen)
@@ -65,10 +66,7 @@ Business Deck (intern): all-in-one, schnelle Feedbackschleifen, praxisnahe Endnu
 
 ## Mitgliedschaften (FirefighterVR-Website, intern zu prüfen ob aktuell)
 
-- WFVD e.V.
-- vfdb e.V.
-- Deutsches Rettungsrobotik-Zentrum (DRZ) e.V.
-- Deutsches Institut für vorbeugenden Brandschutz e.V.
+- WFVD e.V., vfdb e.V., DRZ e.V., DIBT e.V. — so auf firefightervr.de. **Kein** DFV auf der öffentlichen Site.
 - EU Virtual Worlds Partnership / VWA (Asana 2026, Mitglied)
 
 ## Partner (wiederkehrend)

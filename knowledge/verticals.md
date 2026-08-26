@@ -9,7 +9,7 @@
 | # | Marke | Öffentliche Aussage | Canonical URL | northdocks.com-Link |
 |---|---|---|---|---|
 | 1 | Meditrain VR | Hochrealistisches medizinisches Training für kritische Situationen | https://meditrainvr.com/ | meditrainvr.com |
-| 2 | Firefighter VR | Einsatztraining unter Extrembedingungen für Feuerwehren | **https://firefightervr.de/** (Canonical). Alias: firefightervrmobile.de | northdocks.com verlinkt noch die Mobile-Domain |
+| 2 | Firefighter VR | Einsatztraining unter Extrembedingungen für Feuerwehren | **https://firefightervr.de/** (Canonical). EN: https://www.firefightervr.de/en/. Alias: firefightervrmobile.de | northdocks.com verlinkt noch die Mobile-Domain |
 | 3 | Next Factory VR | Interaktives Fabriktraining, Arbeitssicherheit | https://nextfactoryvr.com/ | nextfactoryvr.com |
 | 4 | SpearheadVR | Taktisches Training Polizei/Militär | https://spearheadvr.de/ | spearheadvr.de |
 | 5 | Storywalx | XR-Stadtrundgänge Geschichte/Kultur | https://storywalx.com/ | storywalx.com |
@@ -18,13 +18,17 @@
 
 Zusätzlich auf northdocks.com: [Preise & Förderungen](https://northdocks.com/funding.html), [News](https://northdocks.com/news.html).
 
+Website-IA und Copy-Regeln je Domain: [websites/](websites/README.md).
+
 ## 1. Meditrain VR
 
-Marke der Northdocks GmbH. Medizinisches VR-Training: Schockraum, Strahlenschutz, CPR, Stationsnotfälle. Multiuser, physiologische Simulation, haptische Puppen/Geräte.
+Nächste Produktlinie nach FirefighterVR — Details [meditrain.md](meditrain.md), Strategie [strategy.md](strategy.md).
 
-Öffentliche Module: Radiation Protection VR, Shock Room VR, CPR VR, Station VR.
+Marke der Northdocks GmbH (kein Spin-out). Medizinisches VR-Training: Schockraum, Strahlenschutz, CPR, Stationsnotfälle. Zielprodukt wie FirefighterVR: Koffer, Hardware und Softwarekatalog als Komplettpaket, Local-Only für Klinik-IT.
 
-Kunden laut Deck/Site: Uniklinik Köln, Björn Steiger Stiftung, Bundesamt für Strahlenschutz. AMBOSS-Award 2026 (Excellence in Nursing) mit CeMIT / Uniklinik Köln.
+Öffentliche Module: Radiation Protection VR (strahlenschutzvr.de, Kofferpreise), Shock Room VR, CPR VR, Station VR. Pipeline: Koni/OP, Flashlight-Rettung, Hand aufs Herz (Schulen).
+
+Kunden/Partner: Uniklinik Köln (CeMIT, AMBOSS 2026, Frontiers-Studie Station), Björn Steiger Stiftung, Bundesamt für Strahlenschutz, UKSH.
 
 ## 2. Firefighter VR
 
@@ -32,21 +36,24 @@ Produktplattform für Feuerwehr, Werkfeuerwehr, Brandschutz, Jugendfeuerwehr, Re
 
 Öffentliche Pakete (netto, Website 2026): Strahlrohr 3.299 €, Feuerlöscher 3.199 €, CPR 3.199 €. Software aller Trainings in jedem Paket. 23 Module laut Website.
 
-Interne Spannung: PFIF-Notiz in Asana deutet an, die alte „Firefighter VR Plattform“ sei gescheitert und Mobile sei der Nachfolger. Öffentlich und in Eignung wird FirefighterVR als laufendes Produkt mit >100 Kunden geführt. Siehe open-questions.md.
+Vorgänger: **PCVR** mit PC-Launcher (Steam-ähnlich). Eingestellt nach Kundenfeedback (zu teuer, zu kompliziert). Aktuelles Produkt ist die **Koffer-/Standalone-Lösung**. Nicht als „gescheiterte Plattform“ nach außen formulieren.
 
 ## 3. Next Factory VR
 
 Industrie-/Chemietraining auf Digital Twins (Laserscans), Standalone-VR plus Fallback PC/Tablet/Mobile. Offline-fähig, Pico Device Manager.
 
-Öffentliche Kundenleiste: Bayer, Merck, BASF, Evonik, Henkel, Currenta, Infraserv, Vinci, Actemium.
+Öffentliche Kundenleiste: Bayer, Merck, BASF, Evonik, Henkel, Currenta, Infraserv, Vinci, Actemium. **RWE** und **Framatome** stehen im Security-Text; intern: sie nutzen das FirefighterVR-Paket Feuerlöscher. Als Factory-Referenz nur für Randfälle (z. B. Sprinklerwartung), nicht als Digital-Twin-Vollprojekte.
 
 Referenzprojekte auf der Site: Merck Technikum, Actemium Infinity / Förderband, Currenta Technikum Explorer, Sprinkler Bayer/Henkel.
 
 ## 4. SpearheadVR
 
-Defense/Public-Safety-Marke. Koffer, Offline, haptische Peripherie. Öffentlich: US National Guard / US Army (Deck). GodView als taktische Sandbox (FO/JTAC).
+Defense-/Public-Safety-Marke (Koffer, Offline, Playground). **In Anträgen nur diese Belege:**
 
-Website-Zahlen (nicht unabhängig geprüft): 4+ Jahre im Einsatz, 22+ Missionen, 2 Länder. Widerspruch zu „über zehn Jahre virtuelle Ausbildung“ auf derselben Site.
+1. **The Marketing Arm (TMA)**, Teil von Omnicom — Auftraggeber der US-National-Guard-Trainings. Interner Liefername: kombinierte Unreal-App **State of Emergency**. Nicht das öffentliche Recruiting-Format Disasterville. Nicht so formulieren, als sei die National Guard der Vertragspartner.
+2. Spezielle **Playground-Version** an die Streitkräfte des **Kosovo** (Headsets in den Osten).
+
+Nicht verwenden: Site-/Deck-Zahlen (22+ Missionen, 200+ Szenarien, 7 Headsets, „über zehn Jahre virtuelle Ausbildung“), pauschal „US Army“, beliebige Polizei-IT.
 
 ## 5. Storywalx
 
@@ -70,6 +77,8 @@ Eine Plattform, **zwei Nutzungen**. In Anträgen immer zuerst den Kundentyp nenn
 | **B — Einsatz / Kommando** | Feuerwehr, Werkfeuer, Katastrophenschutz, Spielleitung | Lagebild, Digital Twin des Einsatzraums, Leitungssicht analog Planspiel/Playground | FirefighterVR-Playground, Chempark Bürrig, TEMA-Lage |
 
 Öffentliche Preise Typ A: Basis 119 €/Monat, Module Inspect/Bautagebuch +49 €. Live: `app.godview.solutions` und `godview.nd-apps.de`.
+
+**Öffentliche Site godview.solutions** beschreibt 2026 vor allem Typ A (Baudokumentation, Inspektion). Typ B (Lagebild, KRITIS, DRZ) ist intern kanonisch, steht so **nicht** auf der Landingpage — in Anträgen Typ B nur mit internem Beleg, nicht als Website-Claim.
 
 Technisch: Cesium, 3D Tiles, Punktwolken, Drohnenfotos, Messung, VR-Export, Hosting DE/DSGVO.
 

@@ -1,0 +1,50 @@
+{
+  "comment": "TED expert-search queries. {SINCE} is replaced with YYYYMMDD lookback. Keep queries competence-narrow; do not search generic IT.",
+  "queries": [
+    {
+      "id": "xr-de",
+      "label": "XR/VR/AR Training in DE/AT/DK/NL",
+      "query": "(FT~\"virtual reality\" OR FT~\"Virtual Reality\" OR FT~\"virtuelle Realität\" OR FT~\"Virtuelle Realität\" OR FT~\"VR-Training\" OR FT~\"VR Training\" OR FT~\"augmented reality\" OR FT~\"Augmented Reality\" OR FT~\"extended reality\" OR FT~\"Extended Reality\" OR FT~\"immersive\") AND (buyer-country=DEU OR buyer-country=AUT OR buyer-country=DNK OR buyer-country=NLD) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
+    },
+    {
+      "id": "edu-software-de",
+      "label": "Educational software CPV in DE (UKSH-class)",
+      "query": "classification-cpv=48190000* AND (buyer-country=DEU OR place-of-performance=DE*) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
+    },
+    {
+      "id": "training-sim-de",
+      "label": "Training simulation wording",
+      "query": "(FT~\"Trainingssimulation\" OR FT~\"Simulationstraining\" OR FT~\"Einsatztraining\" OR FT~\"Planspiel\") AND (buyer-country=DEU OR place-of-performance=DE*) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
+    },
+    {
+      "id": "med-xr-de",
+      "label": "Medical + XR/simulation",
+      "query": "(FT~\"Schockraum\" OR FT~\"Strahlenschutz\" OR FT~\"Reanimation\" OR FT~\"Patientensimulation\" OR FT~\"Notfalltraining\") AND (buyer-country=DEU OR place-of-performance=DE*) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
+    },
+    {
+      "id": "fire-de",
+      "label": "Fire/BOS training",
+      "query": "(FT~\"Feuerwehr\" OR FT~\"Brandschutz\" OR FT~\"Katastrophenschutz\" OR FT~\"Werkfeuerwehr\") AND (FT~\"Simulation\" OR FT~\"Training\" OR FT~\"VR\" OR FT~\"virtuell\" OR FT~\"Ausbildung\") AND (buyer-country=DEU OR place-of-performance=DE*) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
+    },
+    {
+      "id": "twin-de",
+      "label": "Digital twin / photogrammetry / point cloud",
+      "query": "(FT~\"Digital Twin\" OR FT~\"digitaler Zwilling\" OR FT~\"Photogrammetrie\" OR FT~\"Punktwolke\" OR FT~\"Laserscan\" OR FT~\"3D-Modell\" OR FT~\"Bestandsdokumentation\") AND (buyer-country=DEU OR place-of-performance=DE*) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
+    },
+    {
+      "id": "command-de",
+      "label": "Lagebild / COP / Einsatzleitung",
+      "query": "(FT~\"Lagebild\" OR FT~\"Einsatzleitung\" OR FT~\"Führungsunterstützung\" OR FT~\"Common Operational Picture\") AND (buyer-country=DEU OR place-of-performance=DE*) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
+    },
+    {
+      "id": "brandschutz-edu",
+      "label": "Brandschutzerziehung / VR-Brillen (Meißen-Klasse)",
+      "query": "(FT~\"Brandschutzerziehung\" OR FT~\"VR-Brille\" OR FT~\"VR Brillen\" OR FT~\"VR-Lern\") AND (buyer-country=DEU OR place-of-performance=DE*) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
+    },
+    {
+      "id": "xr-be-lu",
+      "label": "XR/VR in BE/LU (Nachbar, oft DE-fähig)",
+      "query": "(FT~\"virtual reality\" OR FT~\"Virtual Reality\" OR FT~\"VR-Training\" OR FT~\"réalité virtuelle\") AND (buyer-country=BEL OR buyer-country=LUX) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
+    }
+  ]
+}

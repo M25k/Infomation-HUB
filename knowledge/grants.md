@@ -26,10 +26,10 @@ Deck ergänzt: Radiation Protection VR am European Congress of Radiology ausgeze
 
 ## Zuschläge (Asana-Section)
 
-- TEMA (Horizon Europe, großer Verbund, Koordinator AUTH Thessaloniki, u. a. DLR, Fraunhofer, ATOS, BRK, RAS Sardinien). Northdocks GmbH namentlich Partner. Abstract: NDM, Extremdaten, semantische 3D-Karte, XR-Interface.
+- TEMA (Horizon Europe, großer Verbund, Koordinator AUTH Thessaloniki, u. a. DLR, Fraunhofer, ATOS, BRK, RAS Sardinien). Northdocks GmbH namentlich Partner. Abstract: NDM, Extremdaten, semantische 3D-Karte, XR-Interface. Intern: Pilot Testing 2, Haupttag **24.09.2026** (Fenster 21.–26.09.), Ablauf Smartdesk ↔ XR, Daten über Cesium; BRK nutzt GodView statt einer eigenen TEMA-App.
 - feir (BMBF-Verbund Führungsausbildung, Partner VOMATEC, amatik, antwortING, FZI, Fraunhofer IAO). Teilvorhaben: KI-generierte VR-Szenarien aus nutzergenerierten Daten.
 - Spot-KI
-- FlowAR
+- FlowAR (EFRE.NRW; intern 05.08.2026 organisatorisch übergeben, Prototyp 2-Wochen-Rhythmus)
 - VR Platform (NRW eVergabe, 2023)
 - Strahlenschutz VR, Schiffshebewerk, Armstrong, Tier VR Tour (historisch)
 
@@ -39,10 +39,10 @@ Deck ergänzt: Radiation Protection VR am European Congress of Radiology ausgeze
 |---|---|---|
 | UKSH-Föd-2026-0001 Los 2 Flashlight | Eingereicht, Frist 31.08.2026 | VR-Trainingssoftware, Interreg DE/DK, Lead Uni Lübeck, Leasing 36 Monate bis 30.09.2028, nur Los 2, Standort Kiel, Unreal/OpenXR, Planspiel-Komponente, GodView nicht die Headset-App |
 | KI-Förderung SH GodView AI-Inspect | Eingereicht, Frist intern 31.08.2026 | Schadenerkennung in 3D-Daten |
-| EIC Accelerator FirefighterVR | In Arbeit | mit IB.SH |
+| EIC Accelerator FirefighterVR | In Arbeit (Asana fällig 20.08. intern überfällig) | mit IB.SH. NKS-Hinweis intern: Deep-Tech/High-Risk, Vollantrag-Idee 4.11. **Spin-Off-GmbH nicht übernehmen** — Produktlinie bleibt Northdocks GmbH |
 | WTSH Spieleförderung | In Arbeit | ggf. Playground |
 | Interreg UKSH / TH Lübeck / Franzen | In Arbeit (Überbau zu Flashlight) | Kontakt PD Dr. Klaas F. Franzen |
-| VWA-Arbeitsgruppe XR Public Safety | Sammlung, fällig 26.08.2026 | Horizon-Agenda, TEMA als Basis, Lead Fraunhofer FIT offen |
+| VWA-Arbeitsgruppe XR Public Safety | Sammlung, Wiedervorlage **31.08.2026** | Northdocks stößt an, **koordiniert nicht**. Federführung soll Fraunhofer FIT; ohne FIT keine Gruppe. Beitrag gedeckelt: Domänen-Input, Anwenderkontakte, Demos — keine SRIA-Autorenschaft. FIT bis 25.08. ohne Antwort |
 | ZIM icom Aachener Dom | In Arbeit | — |
 | Rahmenvertrag komplexe Aufgaben / NATO NOI | In Arbeit | BAFA + ACT Contracting Links |
 | KATKOMB Resilienz | Eingereicht | — |
@@ -52,7 +52,8 @@ Deck ergänzt: Radiation Protection VR am European Congress of Radiology ausgeze
 
 - Spieleförderung mit amatik (BMW Games)
 - Hybride Bedrohungen BMBF (Partner ausgelotet)
-- Ausschreibungsportal-Spreadsheet (Drive)
+- Ausschreibungsportal-Spreadsheet (Drive, Logins — nicht ins Git)
+- Wöchentlicher Kompetenz-Scan: [tender-scan.md](tender-scan.md), Skill `tender-scan`
 
 ## Bewusst nicht einreichen / abgelehnt (Lernpunkte, keine Claims)
 

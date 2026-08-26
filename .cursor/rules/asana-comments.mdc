@@ -1,0 +1,26 @@
+---
+description: Asana comments as readable plain text, never raw HTML tags
+alwaysApply: true
+---
+
+# Asana-Kommentare
+
+`add_comment` immer mit **`text`** (Klartext). Nicht `html_text` mit `<body>`, `<p>`, `<ul>`, `<strong>` — das landet als sichtbarer HTML-Quelltext.
+
+- Absätze durch Leerzeilen trennen
+- Listen als `- ` oder `1.` in Klartext
+- Links als volle URL (Asana macht sie klickbar)
+- Keine Passwörter, AVPQ-Codes, Portal-Logins
+
+Task-**Beschreibungen** (`html_notes` beim Anlegen/Aktualisieren) dürfen HTML sein. Kommentare nicht.
+
+```text
+# falsch (wird so angezeigt)
+<body><p>Login-Check …</p></body>
+
+# richtig
+Login-Check 26.08.2026 (keine Passwörter hier)
+
+Ok: subreport, Deutsche eVergabe
+https://docs.google.com/document/d/…
+```

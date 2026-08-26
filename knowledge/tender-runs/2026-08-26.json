@@ -1,0 +1,3122 @@
+{
+  "generated": "2026-08-26",
+  "since": "20260812",
+  "source": "https://api.ted.europa.eu/v3/notices/search",
+  "query_count": 7,
+  "notice_count": 67,
+  "review": [
+    {
+      "publication_number": "588358-2026",
+      "title": "Deutschland – Unterrichtssoftwarepaket – VR-Trainingsumgebung inkl. VR-Endgeräte, sowie Eyetracking",
+      "buyer": "Universitätsklinikum Schleswig-Holstein AöR",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "48190000 66114000 38400000 34152000 32322000 48460000 72416000 38430000 48190000 72416000 72267000 72212190 30200000 48780000 50312000",
+      "buyer_country": "DEU",
+      "place": "DEF03 DEU DEF03 DEF03 DEF03 DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/588358-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/588358-2026",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "edu-software-de",
+      "matched_queries": [
+        "edu-software-de"
+      ]
+    }
+  ],
+  "maybe": [
+    {
+      "publication_number": "588245-2026",
+      "title": "Deutschland – Multimediaausrüstung – Softwareentwicklung VR und Kauf von VR Brillen",
+      "buyer": "Landkreis Meißen, Landratsamt, Rechts- und Kommunalamt, Vergabestelle",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "32322000 72230000 32322000 72230000",
+      "buyer_country": "DEU",
+      "place": "DED2E DEU DED2E DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/588245-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/588245-2026",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr-de",
+      "matched_queries": [
+        "xr-de"
+      ]
+    },
+    {
+      "publication_number": "568564-2026",
+      "title": "Deutschland – Dienstleistungen der Feuerwehr und von Rettungsdiensten – Krankenhausübungen/-schulungen",
+      "buyer": "Stadt Frankfurt am Main, Gesundheitsamt",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "75250000 75250000",
+      "buyer_country": "DEU",
+      "place": "DE712 DEU DE712 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568564-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568564-2026",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    }
+  ],
+  "skip": [
+    {
+      "publication_number": "559805-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Bildungsmanagementsoftware",
+      "buyer": "Institut der Feuerwehr NRW",
+      "publication_date": "2026-08-12",
+      "deadline": "2026-09-03",
+      "cpv": "72000000 48000000 48100000 48190000 72200000 72263000 72000000 48000000 48100000 48190000 72200000 72263000",
+      "buyer_country": "DEU",
+      "place": "DEA33 DEU DEA33 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559805-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559805-2026",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "edu-software-de",
+      "matched_queries": [
+        "edu-software-de"
+      ]
+    },
+    {
+      "publication_number": "573705-2026",
+      "title": "Deutschland – Technische Planungsleistungen für maschinen- und elektrotechnische Gebäudeanlagen – Bau einer Kinderklinik - TGA-Planungsleistungen",
+      "buyer": "Knappschaft Kliniken Bottrop GmbH",
+      "publication_date": "2026-08-19",
+      "deadline": "2026-09-03",
+      "cpv": "71321000 71320000 71321200 71321300 71323100 71321000 71320000 71321200 71321300 71323100",
+      "buyer_country": "DEU",
+      "place": "DEA31 DEU DEA31 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/573705-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/573705-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "560554-2026",
+      "title": "Deutschland – Anpflanzungs- und Pflegearbeiten an Grünflächen – Grünflächenpflege 2027 ff.",
+      "buyer": "Grün Berlin GmbH",
+      "publication_date": "2026-08-13",
+      "deadline": "2026-09-08",
+      "cpv": "77310000 77313000 77211500 77340000 77314100 77311000 77310000 77313000 77211500 77340000 77314100 77311000",
+      "buyer_country": "DEU",
+      "place": "DE300 DEU DE300 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/560554-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/560554-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "command-de",
+      "matched_queries": [
+        "command-de"
+      ]
+    },
+    {
+      "publication_number": "585196-2026",
+      "title": "Deutschland – Einbau von Trennwänden – OP-Trennwände (VE027), CVK, DHZC",
+      "buyer": "Charité - Universitätsmedizin Berlin",
+      "publication_date": "2026-08-25",
+      "deadline": "",
+      "cpv": "45421141 45324000 45421100 45324000 45421141 45421100",
+      "buyer_country": "DEU",
+      "place": "DE300 DEU DE300 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/585196-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/585196-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "583182-2026",
+      "title": "Deutschland – Bildgebungsausrüstung für medizinische, zahnärztliche und tiermedizinische Anwendungen – HKL – Angiografieanlagen - Rhön Klinikum: Klinikum Frankfurt (Oder)",
+      "buyer": "Rhön Klinikum: Klinikum Frankfurt (Oder) GmbH",
+      "publication_date": "2026-08-24",
+      "deadline": "",
+      "cpv": "33110000 51411000 33110000",
+      "buyer_country": "DEU",
+      "place": "DE403 DEU DE403 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/583182-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/583182-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "575814-2026",
+      "title": "Deutschland – Einbau von Türen und Fenstern sowie Zubehör – Holztüren (VE033), CVK, DHZC",
+      "buyer": "Charité - Universitätsmedizin Berlin",
+      "publication_date": "2026-08-20",
+      "deadline": "",
+      "cpv": "45421100 45421100",
+      "buyer_country": "DEU",
+      "place": "DE300 DEU DE300 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/575814-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/575814-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "563029-2026",
+      "title": "Deutschland – Softwareprogrammierung und -beratung – IT-Dienstleistungen im Bereich Business-Intelligence-Systemerstellung unter Einsatz der ORACLE Produktpalette (hier: Pflege, Betrieb, Entwicklung und Auswertung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-13",
+      "deadline": "",
+      "cpv": "72200000 72260000 72220000 72200000 72260000 72220000",
+      "buyer_country": "DEU",
+      "place": "DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/563029-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/563029-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "562201-2026",
+      "title": "Deutschland – Beratung im Bereich Gefahrenschutz und -kontrolle – SV-FLA-260710-003, Modernisierung des U-Bahnhofs Hauptbahnhof Oben (HO) inkl. Fahrradabstellanlage (FAA), Brandschutzplanung",
+      "buyer": "Stadtwerke München GmbH",
+      "publication_date": "2026-08-13",
+      "deadline": "",
+      "cpv": "71317000 71317000",
+      "buyer_country": "DEU",
+      "place": "DE212 DEU DE212 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/562201-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/562201-2026",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "557614-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Brandschutztechnische Beratungsleistungen Maßnahmenpaket 2 U-Bahnhof KWS, HAZ, OBM, ELS und OBB",
+      "buyer": "Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Vergabe und Versicherungen, Zentrale Vergabestelle",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "71000000 71000000",
+      "buyer_country": "DEU",
+      "place": "DEA11 DEU DEA11 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/557614-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/557614-2026",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "569239-2026",
+      "title": "Deutschland – Aushub- und Erdbewegungsarbeiten – Neubau Feuerwehrhaus der Stadt Rietberg - Erdarbeiten / Entwässerung",
+      "buyer": "Stadt Rietberg",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "45112000 45112000 45112000 45112000 45112000 45112000",
+      "buyer_country": "DEU",
+      "place": "DEA42 DEU DEA42 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/569239-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/569239-2026",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "572751-2026",
+      "title": "Deutschland – Feuerwehrfahrzeuge – Beschaffung eines Gefahrgutzuges, bestehend aus GW-Mess, 3x WLF, AB-Atemschutz/Strahlenschutz, AB-Gefahrgut und AB-Dekon",
+      "buyer": "Landratsamt Saale-Orla-Kreis",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "34144210 34144210 34144210 34144210",
+      "buyer_country": "DEU",
+      "place": "DEG0K DEU DEG0K DEG0K DEG0K DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/572751-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/572751-2026",
+      "score": 25,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "feuerwehrfahrzeug",
+        "gefahrgutzug"
+      ],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "589465-2026",
+      "title": "Deutschland – Elektroinstallationsarbeiten – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "45311200 45311200",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works supplies works supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/589465-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/589465-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "582445-2026",
+      "title": "Deutschland – Fassadenarbeiten – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-24",
+      "deadline": "",
+      "cpv": "45443000 45443000",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works supplies works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/582445-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/582445-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "583672-2026",
+      "title": "Deutschland – Einbau von Toren – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-24",
+      "deadline": "",
+      "cpv": "45421148 45421148",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works services works services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/583672-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/583672-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "583211-2026",
+      "title": "Deutschland – Einbau von Türen und Fenstern sowie Zubehör – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel - Alu-, Fenster- und Türanlagen",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-24",
+      "deadline": "",
+      "cpv": "45421100 45421100",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/583211-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/583211-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "574508-2026",
+      "title": "Deutschland – Installation von Lüftungsanlagen – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "45331210 45331210",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574508-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574508-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "568906-2026",
+      "title": "Deutschland – Brandschutzarbeiten – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "45343100 45343100",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568906-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568906-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "568694-2026",
+      "title": "Deutschland – Installation von Sanitäreinrichtungen – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "45332400 45332400",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568694-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568694-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "sanit.reinrichtung",
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "568273-2026",
+      "title": "Deutschland – Installation von Zentralheizungen – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "45331100 45331100",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568273-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568273-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "568941-2026",
+      "title": "Deutschland – Brandbekämpfung – Städtisches Klinikum Braunschweig: Hausfeuerwehr für den Klinikstandort S2",
+      "buyer": "Städtisches Klinikum Braunschweig gGmbH",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "75251100 71317100 75251100",
+      "buyer_country": "DEU",
+      "place": "DE911 DEU DE911 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568941-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568941-2026",
+      "score": 25,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "hausfeuerwehr"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "562737-2026",
+      "title": "Deutschland – Feuerwehrfahrzeuge – Abrollbehälter inkl. Auf-/Ausbau für die Berufsfeuerwehr der Stadt Hanau",
+      "buyer": "Magistrat der Stadt Hanau Amt für Brand- und Bevölkerungsschutz",
+      "publication_date": "2026-08-13",
+      "deadline": "",
+      "cpv": "34144210 34144210",
+      "buyer_country": "DEU",
+      "place": "DE719 DEU DE719 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/562737-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/562737-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "feuerwehrfahrzeug"
+      ],
+      "query_id": "command-de",
+      "matched_queries": [
+        "command-de"
+      ]
+    },
+    {
+      "publication_number": "589157-2026",
+      "title": "Deutschland – Bauleistungen im Hochbau – WASEB, Inhauser Landstraße 20. 26388 Wilhelmshaven",
+      "buyer": "Stadt Wilhelmshaven, FB 30 Rechtsamt, Zentrale Vergabestelle",
+      "publication_date": "2026-08-26",
+      "deadline": "2026-08-19",
+      "cpv": "45210000 45200000",
+      "buyer_country": "DEU",
+      "place": "DE945 DEU DE945 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/589157-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/589157-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "580014-2026",
+      "title": "Deutschland – Dienstleistungen von Architekturbüros – Vergabe von Leistungen für die BIM-Gesamtkoordination – Neubau Zukunftszentrum für Deutsche Einheit und Europäische Transformation, Standort Riebeckplatz in Halle (Saale) - VgV 86-25",
+      "buyer": "Amt für Immobilien- und Baumanagement Halle (Saale) - AIB Halle",
+      "publication_date": "2026-08-21",
+      "deadline": "2026-08-21",
+      "cpv": "71200000 71200000 71240000",
+      "buyer_country": "DEU",
+      "place": "DEE02 DEU DEE02 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/580014-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/580014-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "559845-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Villingen-Schwenningen - Ingenieurtechnische Auswertung kommunales Abwassernetz",
+      "buyer": "Stadt Villingen-Schwenningen - Grünflächen- und Tiefbauamt",
+      "publication_date": "2026-08-12",
+      "deadline": "2026-09-03",
+      "cpv": "71000000 71300000 71000000 71300000",
+      "buyer_country": "DEU",
+      "place": "DE136 DEU DE136 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559845-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559845-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "562238-2026",
+      "title": "Deutschland – Forstinventur – Multiperspektivluftbildbefliegung im Frühjahr 2027 in fünf regionalen Teillosen",
+      "buyer": "Regionalverband Ruhr",
+      "publication_date": "2026-08-13",
+      "deadline": "2026-09-07",
+      "cpv": "77231400 71355100 77231400 77231400 77231400 77231400 77231400 71355100 71355100 71355100 71355100 71355100",
+      "buyer_country": "DEU",
+      "place": "DEA13 DEU DEA13 DEA13 DEA13 DEA13 DEA13 DEU DEU DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/562238-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/562238-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "568264-2026",
+      "title": "Deutschland – Dienstleistungen von Sicherheitsdiensten – Bewachung und/oder Bestreifung von Gemeinschaftsunterkünften für Menschen mit Fluchthintergrund in der Hansestadt Lübeck",
+      "buyer": "1.102.3 Zentrale Verwaltungsdienste, Statistik und Wahlen - Hansestadt Lübeck - Der Bürgermeister",
+      "publication_date": "2026-08-17",
+      "deadline": "2026-09-07",
+      "cpv": "79710000 79713000 79710000 79713000",
+      "buyer_country": "DEU",
+      "place": "DEF03 DEU DEF03 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568264-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568264-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "command-de",
+      "matched_queries": [
+        "command-de"
+      ]
+    },
+    {
+      "publication_number": "567782-2026",
+      "title": "Deutschland – Dienstleistungen von Ingenieurbüros – Planungsleistungen - Neubau einer Mischwasserbehandlungsanlage und eines Schmutzwasserpumpwerks für das Einzugsgebiet Innenstadt",
+      "buyer": "Stadt Münster - Zentrale Rechtsdienstleistungen und Vergabemanagement",
+      "publication_date": "2026-08-17",
+      "deadline": "2026-09-08",
+      "cpv": "71300000 71300000",
+      "buyer_country": "DEU",
+      "place": "DEA33 DEU DEA33 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/567782-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/567782-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "586206-2026",
+      "title": "Deutschland – Dienstleistungen von Detekteien und Sicherheitsdiensten – Gesellschaft zur Durchführung der Magdeburger Weihnachtsmärkte mbH / Sicherheitsdienstleistungen Weihnachtsmarkt",
+      "buyer": "Gesellschaft zur Durchführung der Magdeburger Weihnachtsmärkte mbH",
+      "publication_date": "2026-08-25",
+      "deadline": "2026-09-09",
+      "cpv": "79700000 79713000 79700000 79713000",
+      "buyer_country": "DEU",
+      "place": "DEE03 DEU DEE03 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/586206-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/586206-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "command-de",
+      "matched_queries": [
+        "command-de"
+      ]
+    },
+    {
+      "publication_number": "581625-2026",
+      "title": "Deutschland – Erteilung von Fahrstunden – 2026-0462 Rahmenvereinbarung Fahrerlaubnis-Ausbildung in 2 Losen",
+      "buyer": "Einkauf der Stadt Duisburg (10-31)",
+      "publication_date": "2026-08-24",
+      "deadline": "2026-09-12",
+      "cpv": "80411200 80411100 80411200 80411200 80411100 80411100",
+      "buyer_country": "DEU",
+      "place": "DEA12 DEU DEA12 DEA12 DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/581625-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/581625-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "582376-2026",
+      "title": "Deutschland – Umspann-Unterstation – Ersatzneubau einer Mittelspannungsschaltanlage einschließlich Neubau eines Betriebsgebäudes",
+      "buyer": "Stadtwerke Velbert GmbH",
+      "publication_date": "2026-08-24",
+      "deadline": "2026-09-14",
+      "cpv": "45232221 45231000 45232000 45300000 45310000 45311000 45311100 45311200 45314300 45314310 45315100 45315300 45315500 45315700 45317200 45317300 45232221 45231000 45232000 45300000 45310000 45311000 45311100 45311200 45314300 45314310 45315100 45315300 45315500 45315700 45317200 45317300",
+      "buyer_country": "DEU",
+      "place": "DEA1C DEU DEA1C DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/582376-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/582376-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "563848-2026",
+      "title": "Deutschland – Installation von Heizungs-, Lüftungs- und Klimaanlagen – NSS Neubau 2-Feld-Sporthalle, Schwerin, VE420 Wärmeversorgung",
+      "buyer": "Erzbistum Hamburg",
+      "publication_date": "2026-08-14",
+      "deadline": "2026-09-22",
+      "cpv": "45331000 45232141 45331000 45232141",
+      "buyer_country": "DEU",
+      "place": "DE804 DEU DE804 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/563848-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/563848-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "565663-2026",
+      "title": "Deutschland – Elektroinstallationsarbeiten – NSS Neubau 2-Feld-Sporthalle, Schwerin, VE440 Elektro-/Fernmeldetechnik und Gebäudeautomation",
+      "buyer": "Erzbistum Hamburg",
+      "publication_date": "2026-08-14",
+      "deadline": "2026-09-22",
+      "cpv": "45311200 45312310 45343000 45314000 45311200 45312310 45343000 45314000",
+      "buyer_country": "DEU",
+      "place": "DE804 DEU DE804 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/565663-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/565663-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "589394-2026",
+      "title": "Deutschland – Vorführgeräte – Lieferung einer 3-Seiten-Cave",
+      "buyer": "Hochschule Offenburg",
+      "publication_date": "2026-08-26",
+      "deadline": "2026-10-06",
+      "cpv": "38652100 32322000 38652100 38652100 32322000 38652100",
+      "buyer_country": "DEU",
+      "place": "DE134 DEU DE134 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/589394-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/589394-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "xr-de",
+      "matched_queries": [
+        "twin-de",
+        "xr-de"
+      ]
+    },
+    {
+      "publication_number": "578208-2026",
+      "title": "Deutschland – Vorführgeräte – Lieferung einer 3-Seiten-Cave",
+      "buyer": "Hochschule Offenburg",
+      "publication_date": "2026-08-20",
+      "deadline": "2026-10-06",
+      "cpv": "38652100 32322000 38652100 38652100 32322000 38652100",
+      "buyer_country": "DEU",
+      "place": "DE134 DEU DE134 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/578208-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/578208-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "xr-de",
+      "matched_queries": [
+        "xr-de"
+      ]
+    },
+    {
+      "publication_number": "569980-2026",
+      "title": "Deutschland – Dienstleistungen von Verfassern – Rahmenvertrag Erstellung von DAAD-Veröffentlichungen (Print-, Online- und Multimedia): Konzeption, Redaktion, Gestaltung, Lektorat, Übersetzung, Satz etc.",
+      "buyer": "Deutscher Akademischer Austauschdienst e. V.",
+      "publication_date": "2026-08-18",
+      "deadline": "",
+      "cpv": "92312210 79822500 92110000 92312210 79822500 92110000",
+      "buyer_country": "DEU",
+      "place": "DEA22 DEU DEA22 DEA22 DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/569980-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/569980-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "xr-de",
+      "matched_queries": [
+        "xr-de"
+      ]
+    },
+    {
+      "publication_number": "588467-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Beratung Standortkonzepte - Polizei Petersweg",
+      "buyer": "Land Hessen, vertreten durch den Landesbetrieb Bau und Immobilien Hessen, Zentrale Vergabe",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "71000000 71300000 71210000 71000000 71300000 71210000",
+      "buyer_country": "DEU",
+      "place": "DE714 DEU DE714 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/588467-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/588467-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "training-sim-de",
+      "matched_queries": [
+        "training-sim-de"
+      ]
+    },
+    {
+      "publication_number": "589843-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Dienstleistungen im SAP-Umfeld HANA",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "72000000 72220000 72266000 72000000 72220000 72266000",
+      "buyer_country": "DEU",
+      "place": "DEA22 DEU DEA22 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/589843-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/589843-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [
+        "\\bsap\\b"
+      ],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "587538-2026",
+      "title": "Deutschland – Fernsprech- und Datenübertragungsdienste – Festnetztelekommunikationsdienstleistungen - VoIP",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "64210000 64215000 72400000 64210000 64215000 72400000",
+      "buyer_country": "DEU",
+      "place": "DEA22 DEU DEA22 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/587538-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/587538-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "582979-2026",
+      "title": "Deutschland – Bau von Laborgebäuden – TU Sonderbereiche",
+      "buyer": "Staatl. Bauamt München 1",
+      "publication_date": "2026-08-24",
+      "deadline": "",
+      "cpv": "45214610 45331000 39370000 71240000 71320000 45300000 45214610 45331000 39370000 71240000 71320000 45300000",
+      "buyer_country": "DEU",
+      "place": "DE212 DEU DE212 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/582979-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/582979-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "578999-2026",
+      "title": "Deutschland – Fernsprech- und Datenübertragungsdienste – Festnetztelekommunikationsdienstleistungen - VoIP",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-21",
+      "deadline": "",
+      "cpv": "64210000 64215000 72400000 64210000 64215000 72400000",
+      "buyer_country": "DEU",
+      "place": "DEA22 DEU DEA22 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/578999-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/578999-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "576423-2026",
+      "title": "Deutschland – Softwarepaket und Informationssysteme – GitLab Lizenzen und Paid Addons (restliche Bundesverwaltung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-20",
+      "deadline": "",
+      "cpv": "48000000 48000000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/576423-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/576423-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "577007-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – IT-Dienstleistungen im Kontext GitLab",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-20",
+      "deadline": "",
+      "cpv": "72000000 72260000 72266000 72000000 72260000 72266000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/577007-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/577007-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "572822-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenvereinbarung über Technologiespezifische IT-Betriebsunterstützung - Leistungsbereich 3: Integrations- und Middleware Services - Los 9 (Restliche Bundesverwaltung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "72000000 72514000 72610000 50312610 72000000 72514000 72610000 50312610",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/572822-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/572822-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "574817-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenvereinbarung über Technologiespezifische IT-Betriebsunterstützung - Leistungsbereich 2: IT-Infrastruktursicherheit und Netzwerksicherheit Services - Los 7 (Restliche Bundesverwaltung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "72000000 72222300 72700000 72000000 72222300 72700000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574817-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574817-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "574623-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenvereinbarung über Technologiespezifische IT-Betriebsunterstützung - Leistungsbereich 4: Anwendungsbetriebsunterstützung - Los 12 (Restliche Bundesverwaltung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "72000000 72250000 72000000 72250000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574623-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574623-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "574913-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenvereinbarung über Technologiespezifische IT-Betriebsunterstützung - Leistungsbereich 1: IT-Infrastruktur Services - Los 4 (Restliche Bundesverwaltung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "72000000 72514000 72610000 50312610 72000000 72514000 72610000 50312610",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574913-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574913-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "566076-2026",
+      "title": "Deutschland – Fernsprech- und Datenübertragungsdienste – Festnetztelekommunikationsdienstleistungen - VoIP",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-14",
+      "deadline": "",
+      "cpv": "64210000 64215000 72400000 64210000 64215000 72400000",
+      "buyer_country": "DEU",
+      "place": "DEA22 DEU DEA22 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/566076-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/566076-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "560513-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – IT-Dienstleistungen für die Softwareentwicklung im Bereich Datenbank MySQL, hier: Konzeption, Entwicklung und Migration",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-13",
+      "deadline": "",
+      "cpv": "72000000 72320000 72212610 72000000 72320000 72212610",
+      "buyer_country": "DEU",
+      "place": "DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/560513-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/560513-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "558387-2026",
+      "title": "Deutschland – Tragbare Computer – Nachhaltige Notebooks (produktneutral) der Kategorie Hohe Leistung und Zusatzleistungen Los 4: Restliche Bundesverwaltung ohne ITZBund",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern und für Heimat, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "30213100 30213100",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/558387-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/558387-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "559900-2026",
+      "title": "Deutschland – Tragbare Computer – Nachhaltige Notebooks (produktneutral) der Kategorie Robust/Outdoor und Zusatzleistungen Los 5: Gesamte Bundesverwaltung",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern und für Heimat, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "30213100 30213100",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559900-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559900-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "557550-2026",
+      "title": "Deutschland – Tischcomputer – Nachhaltige Arbeitsplatzcomputer (produktneutral) der Kategorie Konfigurierbar und Zusatzleistungen",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "30213300 30214000 72611000 30213300 30214000 72611000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/557550-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/557550-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "559065-2026",
+      "title": "Deutschland – Tragbare Computer – Nachhaltige Notebooks (produktneutral) der Kategorie Standard und Zusatzleistungen Los 2: Restliche Bundesverwaltung ohne ITZBund",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern und für Heimat, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "30213100 30213100",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559065-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559065-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "559279-2026",
+      "title": "Deutschland – Tischcomputer – Nachhaltige Arbeitsplatzcomputer (produktneutral) der Kategorie Standard und Zusatzleistungen",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "30213300 30214000 72611000 30213300 30214000 72611000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559279-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559279-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "578494-2026",
+      "title": "Deutschland – Dienstleistungen von Ingenieurbüros – HER-Planungsleistungen für den Neubau der Atemschutzübungsanlage",
+      "buyer": "Landkreis Hersfeld-Rotenburg",
+      "publication_date": "2026-08-21",
+      "deadline": "",
+      "cpv": "71300000 71327000 71321200 71321300 71321400 71314100 71222000 71327000 71321200 71314100 71222000 71321300 71321400",
+      "buyer_country": "DEU",
+      "place": "DE733 DEU DE733 DE733 DE733 DE733 DEU DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/578494-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/578494-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "580510-2026",
+      "title": "Deutschland – Dienstleistungen von Sicherheitsdiensten – Sicherheitsdienstleistungen Schlossmuseum",
+      "buyer": "Welterbestadt Quedlinburg, SG 3.1 Bauverwaltung, Stadtentwicklung und Verkehrsplanung",
+      "publication_date": "2026-08-21",
+      "deadline": "",
+      "cpv": "79710000 79710000",
+      "buyer_country": "DEU",
+      "place": "DEE09 DEU DEE09 DEE09 DEE09 DEE09 DEE09 DEU DEU DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/580510-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/580510-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "574726-2026",
+      "title": "Deutschland – Dienstleistungen von Architekturbüros – GWE - Westerbach - Fachplanungen",
+      "buyer": "Gemeinnütziges Wohnungsunternehmen Eschborn GmbH",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "71200000 71300000 71300000 71300000 71300000 71300000 71310000",
+      "buyer_country": "DEU",
+      "place": "DE71A DEU DE71A DE71A DE71A DE71A DE71A DEU DEU DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574726-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574726-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "557000-2026",
+      "title": "Deutschland – Dienstleistungen in der Tragwerksplanung – Grundschule St. Veit - Tragwerksplanung",
+      "buyer": "Stadtverwaltung Mayen",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "71327000 71327000",
+      "buyer_country": "DEU",
+      "place": "DEB17 DEU DEB17 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/557000-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/557000-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "559178-2026",
+      "title": "Deutschland – Technische Planungsleistungen für maschinen- und elektrotechnische Gebäudeanlagen – SV-KWE-260729-004 - TW - Virginia Depot (VD) - Energiezentrale (EZ) - Planung Technik",
+      "buyer": "SWM Services GmbH",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "71321000 71315000 71323000 71321000 71315000 71323000",
+      "buyer_country": "DEU",
+      "place": "DE212 DEU DE212 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559178-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559178-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "557269-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Sanierung Torhaus, MRZ Cottbus",
+      "buyer": "Menschenrechtszentrum Cottbus (MRZ) e.V.",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "71000000 71221000 71321000 71327000 71221000 71221000 71221000",
+      "buyer_country": "DEU",
+      "place": "DE402 DEU DE402 DE402 DE402 DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/557269-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/557269-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "588886-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Rahmenvertrag Ingenieurvermessung",
+      "buyer": "Bundesamt für Auswärtige Angelegenheiten",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "71000000 71000000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/588886-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/588886-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "574440-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen – A565, Visualisierung",
+      "buyer": "Die Autobahn GmbH des Bundes - NL Rheinland",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "71240000 71240000",
+      "buyer_country": "DEU",
+      "place": "DEA23 DEU DEA23 DEA24 DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574440-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574440-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "571024-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen – A565, Visualisierung",
+      "buyer": "Die Autobahn GmbH des Bundes - NL Rheinland",
+      "publication_date": "2026-08-18",
+      "deadline": "",
+      "cpv": "71240000 71240000",
+      "buyer_country": "DEU",
+      "place": "DEA23 DEU DEA23 DEA24 DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/571024-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/571024-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "558580-2026",
+      "title": "Deutschland – Elektronische Messgeräte – Messsystem für synchronisierte dreidimensionale Dehnungs- und Temperaturfeldbewertungen",
+      "buyer": "Bauhaus-Universität Weimar",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "38552000 38552000",
+      "buyer_country": "DEU",
+      "place": "DEG05 DEU DEG05 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/558580-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/558580-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "558884-2026",
+      "title": "Deutschland – Entwurf und Gestaltung, Kostenschätzung – Rahmenvertrag BIM Modellieren 2027- 2030",
+      "buyer": "Bundesgesellschaft für Endlagerung mbH (BGE)",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "71242000 71242000",
+      "buyer_country": "DEU",
+      "place": "DE91B DEU DE91B DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/558884-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/558884-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    }
+  ],
+  "errors": [],
+  "all": [
+    {
+      "publication_number": "588358-2026",
+      "title": "Deutschland – Unterrichtssoftwarepaket – VR-Trainingsumgebung inkl. VR-Endgeräte, sowie Eyetracking",
+      "buyer": "Universitätsklinikum Schleswig-Holstein AöR",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "48190000 66114000 38400000 34152000 32322000 48460000 72416000 38430000 48190000 72416000 72267000 72212190 30200000 48780000 50312000",
+      "buyer_country": "DEU",
+      "place": "DEF03 DEU DEF03 DEF03 DEF03 DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/588358-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/588358-2026",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "edu-software-de",
+      "matched_queries": [
+        "edu-software-de"
+      ]
+    },
+    {
+      "publication_number": "588245-2026",
+      "title": "Deutschland – Multimediaausrüstung – Softwareentwicklung VR und Kauf von VR Brillen",
+      "buyer": "Landkreis Meißen, Landratsamt, Rechts- und Kommunalamt, Vergabestelle",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "32322000 72230000 32322000 72230000",
+      "buyer_country": "DEU",
+      "place": "DED2E DEU DED2E DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/588245-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/588245-2026",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr-de",
+      "matched_queries": [
+        "xr-de"
+      ]
+    },
+    {
+      "publication_number": "568564-2026",
+      "title": "Deutschland – Dienstleistungen der Feuerwehr und von Rettungsdiensten – Krankenhausübungen/-schulungen",
+      "buyer": "Stadt Frankfurt am Main, Gesundheitsamt",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "75250000 75250000",
+      "buyer_country": "DEU",
+      "place": "DE712 DEU DE712 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568564-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568564-2026",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "559805-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Bildungsmanagementsoftware",
+      "buyer": "Institut der Feuerwehr NRW",
+      "publication_date": "2026-08-12",
+      "deadline": "2026-09-03",
+      "cpv": "72000000 48000000 48100000 48190000 72200000 72263000 72000000 48000000 48100000 48190000 72200000 72263000",
+      "buyer_country": "DEU",
+      "place": "DEA33 DEU DEA33 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559805-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559805-2026",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "edu-software-de",
+      "matched_queries": [
+        "edu-software-de"
+      ]
+    },
+    {
+      "publication_number": "573705-2026",
+      "title": "Deutschland – Technische Planungsleistungen für maschinen- und elektrotechnische Gebäudeanlagen – Bau einer Kinderklinik - TGA-Planungsleistungen",
+      "buyer": "Knappschaft Kliniken Bottrop GmbH",
+      "publication_date": "2026-08-19",
+      "deadline": "2026-09-03",
+      "cpv": "71321000 71320000 71321200 71321300 71323100 71321000 71320000 71321200 71321300 71323100",
+      "buyer_country": "DEU",
+      "place": "DEA31 DEU DEA31 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/573705-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/573705-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "560554-2026",
+      "title": "Deutschland – Anpflanzungs- und Pflegearbeiten an Grünflächen – Grünflächenpflege 2027 ff.",
+      "buyer": "Grün Berlin GmbH",
+      "publication_date": "2026-08-13",
+      "deadline": "2026-09-08",
+      "cpv": "77310000 77313000 77211500 77340000 77314100 77311000 77310000 77313000 77211500 77340000 77314100 77311000",
+      "buyer_country": "DEU",
+      "place": "DE300 DEU DE300 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/560554-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/560554-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "command-de",
+      "matched_queries": [
+        "command-de"
+      ]
+    },
+    {
+      "publication_number": "585196-2026",
+      "title": "Deutschland – Einbau von Trennwänden – OP-Trennwände (VE027), CVK, DHZC",
+      "buyer": "Charité - Universitätsmedizin Berlin",
+      "publication_date": "2026-08-25",
+      "deadline": "",
+      "cpv": "45421141 45324000 45421100 45324000 45421141 45421100",
+      "buyer_country": "DEU",
+      "place": "DE300 DEU DE300 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/585196-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/585196-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "583182-2026",
+      "title": "Deutschland – Bildgebungsausrüstung für medizinische, zahnärztliche und tiermedizinische Anwendungen – HKL – Angiografieanlagen - Rhön Klinikum: Klinikum Frankfurt (Oder)",
+      "buyer": "Rhön Klinikum: Klinikum Frankfurt (Oder) GmbH",
+      "publication_date": "2026-08-24",
+      "deadline": "",
+      "cpv": "33110000 51411000 33110000",
+      "buyer_country": "DEU",
+      "place": "DE403 DEU DE403 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/583182-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/583182-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "575814-2026",
+      "title": "Deutschland – Einbau von Türen und Fenstern sowie Zubehör – Holztüren (VE033), CVK, DHZC",
+      "buyer": "Charité - Universitätsmedizin Berlin",
+      "publication_date": "2026-08-20",
+      "deadline": "",
+      "cpv": "45421100 45421100",
+      "buyer_country": "DEU",
+      "place": "DE300 DEU DE300 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/575814-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/575814-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "563029-2026",
+      "title": "Deutschland – Softwareprogrammierung und -beratung – IT-Dienstleistungen im Bereich Business-Intelligence-Systemerstellung unter Einsatz der ORACLE Produktpalette (hier: Pflege, Betrieb, Entwicklung und Auswertung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-13",
+      "deadline": "",
+      "cpv": "72200000 72260000 72220000 72200000 72260000 72220000",
+      "buyer_country": "DEU",
+      "place": "DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/563029-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/563029-2026",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "562201-2026",
+      "title": "Deutschland – Beratung im Bereich Gefahrenschutz und -kontrolle – SV-FLA-260710-003, Modernisierung des U-Bahnhofs Hauptbahnhof Oben (HO) inkl. Fahrradabstellanlage (FAA), Brandschutzplanung",
+      "buyer": "Stadtwerke München GmbH",
+      "publication_date": "2026-08-13",
+      "deadline": "",
+      "cpv": "71317000 71317000",
+      "buyer_country": "DEU",
+      "place": "DE212 DEU DE212 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/562201-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/562201-2026",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "557614-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Brandschutztechnische Beratungsleistungen Maßnahmenpaket 2 U-Bahnhof KWS, HAZ, OBM, ELS und OBB",
+      "buyer": "Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Vergabe und Versicherungen, Zentrale Vergabestelle",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "71000000 71000000",
+      "buyer_country": "DEU",
+      "place": "DEA11 DEU DEA11 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/557614-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/557614-2026",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "569239-2026",
+      "title": "Deutschland – Aushub- und Erdbewegungsarbeiten – Neubau Feuerwehrhaus der Stadt Rietberg - Erdarbeiten / Entwässerung",
+      "buyer": "Stadt Rietberg",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "45112000 45112000 45112000 45112000 45112000 45112000",
+      "buyer_country": "DEU",
+      "place": "DEA42 DEU DEA42 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/569239-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/569239-2026",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "572751-2026",
+      "title": "Deutschland – Feuerwehrfahrzeuge – Beschaffung eines Gefahrgutzuges, bestehend aus GW-Mess, 3x WLF, AB-Atemschutz/Strahlenschutz, AB-Gefahrgut und AB-Dekon",
+      "buyer": "Landratsamt Saale-Orla-Kreis",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "34144210 34144210 34144210 34144210",
+      "buyer_country": "DEU",
+      "place": "DEG0K DEU DEG0K DEG0K DEG0K DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/572751-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/572751-2026",
+      "score": 25,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "feuerwehrfahrzeug",
+        "gefahrgutzug"
+      ],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "589465-2026",
+      "title": "Deutschland – Elektroinstallationsarbeiten – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "45311200 45311200",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works supplies works supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/589465-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/589465-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "582445-2026",
+      "title": "Deutschland – Fassadenarbeiten – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-24",
+      "deadline": "",
+      "cpv": "45443000 45443000",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works supplies works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/582445-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/582445-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "583672-2026",
+      "title": "Deutschland – Einbau von Toren – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-24",
+      "deadline": "",
+      "cpv": "45421148 45421148",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works services works services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/583672-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/583672-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "583211-2026",
+      "title": "Deutschland – Einbau von Türen und Fenstern sowie Zubehör – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel - Alu-, Fenster- und Türanlagen",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-24",
+      "deadline": "",
+      "cpv": "45421100 45421100",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/583211-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/583211-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "574508-2026",
+      "title": "Deutschland – Installation von Lüftungsanlagen – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "45331210 45331210",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574508-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574508-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "568906-2026",
+      "title": "Deutschland – Brandschutzarbeiten – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "45343100 45343100",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568906-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568906-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "568694-2026",
+      "title": "Deutschland – Installation von Sanitäreinrichtungen – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "45332400 45332400",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568694-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568694-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "sanit.reinrichtung",
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "568273-2026",
+      "title": "Deutschland – Installation von Zentralheizungen – Neubau Brandschutz- und Ausbildungszentrums (BAZ) am Standort Newel",
+      "buyer": "Verbandsgemeindeverwaltung Trier-Land",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "45331100 45331100",
+      "buyer_country": "DEU",
+      "place": "DEB25 DEU DEB25 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568273-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568273-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "neubau .{0,40}ausbildungszentrum"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "568941-2026",
+      "title": "Deutschland – Brandbekämpfung – Städtisches Klinikum Braunschweig: Hausfeuerwehr für den Klinikstandort S2",
+      "buyer": "Städtisches Klinikum Braunschweig gGmbH",
+      "publication_date": "2026-08-17",
+      "deadline": "",
+      "cpv": "75251100 71317100 75251100",
+      "buyer_country": "DEU",
+      "place": "DE911 DEU DE911 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568941-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568941-2026",
+      "score": 25,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "hausfeuerwehr"
+      ],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "562737-2026",
+      "title": "Deutschland – Feuerwehrfahrzeuge – Abrollbehälter inkl. Auf-/Ausbau für die Berufsfeuerwehr der Stadt Hanau",
+      "buyer": "Magistrat der Stadt Hanau Amt für Brand- und Bevölkerungsschutz",
+      "publication_date": "2026-08-13",
+      "deadline": "",
+      "cpv": "34144210 34144210",
+      "buyer_country": "DEU",
+      "place": "DE719 DEU DE719 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/562737-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/562737-2026",
+      "score": 25,
+      "clusters": [
+        "firefighter"
+      ],
+      "decision": "skip",
+      "skip_reasons": [
+        "feuerwehrfahrzeug"
+      ],
+      "query_id": "command-de",
+      "matched_queries": [
+        "command-de"
+      ]
+    },
+    {
+      "publication_number": "589157-2026",
+      "title": "Deutschland – Bauleistungen im Hochbau – WASEB, Inhauser Landstraße 20. 26388 Wilhelmshaven",
+      "buyer": "Stadt Wilhelmshaven, FB 30 Rechtsamt, Zentrale Vergabestelle",
+      "publication_date": "2026-08-26",
+      "deadline": "2026-08-19",
+      "cpv": "45210000 45200000",
+      "buyer_country": "DEU",
+      "place": "DE945 DEU DE945 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/589157-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/589157-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "580014-2026",
+      "title": "Deutschland – Dienstleistungen von Architekturbüros – Vergabe von Leistungen für die BIM-Gesamtkoordination – Neubau Zukunftszentrum für Deutsche Einheit und Europäische Transformation, Standort Riebeckplatz in Halle (Saale) - VgV 86-25",
+      "buyer": "Amt für Immobilien- und Baumanagement Halle (Saale) - AIB Halle",
+      "publication_date": "2026-08-21",
+      "deadline": "2026-08-21",
+      "cpv": "71200000 71200000 71240000",
+      "buyer_country": "DEU",
+      "place": "DEE02 DEU DEE02 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/580014-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/580014-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "559845-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Villingen-Schwenningen - Ingenieurtechnische Auswertung kommunales Abwassernetz",
+      "buyer": "Stadt Villingen-Schwenningen - Grünflächen- und Tiefbauamt",
+      "publication_date": "2026-08-12",
+      "deadline": "2026-09-03",
+      "cpv": "71000000 71300000 71000000 71300000",
+      "buyer_country": "DEU",
+      "place": "DE136 DEU DE136 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559845-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559845-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "562238-2026",
+      "title": "Deutschland – Forstinventur – Multiperspektivluftbildbefliegung im Frühjahr 2027 in fünf regionalen Teillosen",
+      "buyer": "Regionalverband Ruhr",
+      "publication_date": "2026-08-13",
+      "deadline": "2026-09-07",
+      "cpv": "77231400 71355100 77231400 77231400 77231400 77231400 77231400 71355100 71355100 71355100 71355100 71355100",
+      "buyer_country": "DEU",
+      "place": "DEA13 DEU DEA13 DEA13 DEA13 DEA13 DEA13 DEU DEU DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/562238-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/562238-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "568264-2026",
+      "title": "Deutschland – Dienstleistungen von Sicherheitsdiensten – Bewachung und/oder Bestreifung von Gemeinschaftsunterkünften für Menschen mit Fluchthintergrund in der Hansestadt Lübeck",
+      "buyer": "1.102.3 Zentrale Verwaltungsdienste, Statistik und Wahlen - Hansestadt Lübeck - Der Bürgermeister",
+      "publication_date": "2026-08-17",
+      "deadline": "2026-09-07",
+      "cpv": "79710000 79713000 79710000 79713000",
+      "buyer_country": "DEU",
+      "place": "DEF03 DEU DEF03 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/568264-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/568264-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "command-de",
+      "matched_queries": [
+        "command-de"
+      ]
+    },
+    {
+      "publication_number": "567782-2026",
+      "title": "Deutschland – Dienstleistungen von Ingenieurbüros – Planungsleistungen - Neubau einer Mischwasserbehandlungsanlage und eines Schmutzwasserpumpwerks für das Einzugsgebiet Innenstadt",
+      "buyer": "Stadt Münster - Zentrale Rechtsdienstleistungen und Vergabemanagement",
+      "publication_date": "2026-08-17",
+      "deadline": "2026-09-08",
+      "cpv": "71300000 71300000",
+      "buyer_country": "DEU",
+      "place": "DEA33 DEU DEA33 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/567782-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/567782-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "586206-2026",
+      "title": "Deutschland – Dienstleistungen von Detekteien und Sicherheitsdiensten – Gesellschaft zur Durchführung der Magdeburger Weihnachtsmärkte mbH / Sicherheitsdienstleistungen Weihnachtsmarkt",
+      "buyer": "Gesellschaft zur Durchführung der Magdeburger Weihnachtsmärkte mbH",
+      "publication_date": "2026-08-25",
+      "deadline": "2026-09-09",
+      "cpv": "79700000 79713000 79700000 79713000",
+      "buyer_country": "DEU",
+      "place": "DEE03 DEU DEE03 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/586206-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/586206-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "command-de",
+      "matched_queries": [
+        "command-de"
+      ]
+    },
+    {
+      "publication_number": "581625-2026",
+      "title": "Deutschland – Erteilung von Fahrstunden – 2026-0462 Rahmenvereinbarung Fahrerlaubnis-Ausbildung in 2 Losen",
+      "buyer": "Einkauf der Stadt Duisburg (10-31)",
+      "publication_date": "2026-08-24",
+      "deadline": "2026-09-12",
+      "cpv": "80411200 80411100 80411200 80411200 80411100 80411100",
+      "buyer_country": "DEU",
+      "place": "DEA12 DEU DEA12 DEA12 DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/581625-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/581625-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "582376-2026",
+      "title": "Deutschland – Umspann-Unterstation – Ersatzneubau einer Mittelspannungsschaltanlage einschließlich Neubau eines Betriebsgebäudes",
+      "buyer": "Stadtwerke Velbert GmbH",
+      "publication_date": "2026-08-24",
+      "deadline": "2026-09-14",
+      "cpv": "45232221 45231000 45232000 45300000 45310000 45311000 45311100 45311200 45314300 45314310 45315100 45315300 45315500 45315700 45317200 45317300 45232221 45231000 45232000 45300000 45310000 45311000 45311100 45311200 45314300 45314310 45315100 45315300 45315500 45315700 45317200 45317300",
+      "buyer_country": "DEU",
+      "place": "DEA1C DEU DEA1C DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/582376-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/582376-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "563848-2026",
+      "title": "Deutschland – Installation von Heizungs-, Lüftungs- und Klimaanlagen – NSS Neubau 2-Feld-Sporthalle, Schwerin, VE420 Wärmeversorgung",
+      "buyer": "Erzbistum Hamburg",
+      "publication_date": "2026-08-14",
+      "deadline": "2026-09-22",
+      "cpv": "45331000 45232141 45331000 45232141",
+      "buyer_country": "DEU",
+      "place": "DE804 DEU DE804 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/563848-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/563848-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "565663-2026",
+      "title": "Deutschland – Elektroinstallationsarbeiten – NSS Neubau 2-Feld-Sporthalle, Schwerin, VE440 Elektro-/Fernmeldetechnik und Gebäudeautomation",
+      "buyer": "Erzbistum Hamburg",
+      "publication_date": "2026-08-14",
+      "deadline": "2026-09-22",
+      "cpv": "45311200 45312310 45343000 45314000 45311200 45312310 45343000 45314000",
+      "buyer_country": "DEU",
+      "place": "DE804 DEU DE804 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/565663-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/565663-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "589394-2026",
+      "title": "Deutschland – Vorführgeräte – Lieferung einer 3-Seiten-Cave",
+      "buyer": "Hochschule Offenburg",
+      "publication_date": "2026-08-26",
+      "deadline": "2026-10-06",
+      "cpv": "38652100 32322000 38652100 38652100 32322000 38652100",
+      "buyer_country": "DEU",
+      "place": "DE134 DEU DE134 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/589394-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/589394-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "xr-de",
+      "matched_queries": [
+        "twin-de",
+        "xr-de"
+      ]
+    },
+    {
+      "publication_number": "578208-2026",
+      "title": "Deutschland – Vorführgeräte – Lieferung einer 3-Seiten-Cave",
+      "buyer": "Hochschule Offenburg",
+      "publication_date": "2026-08-20",
+      "deadline": "2026-10-06",
+      "cpv": "38652100 32322000 38652100 38652100 32322000 38652100",
+      "buyer_country": "DEU",
+      "place": "DE134 DEU DE134 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/578208-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/578208-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "xr-de",
+      "matched_queries": [
+        "xr-de"
+      ]
+    },
+    {
+      "publication_number": "569980-2026",
+      "title": "Deutschland – Dienstleistungen von Verfassern – Rahmenvertrag Erstellung von DAAD-Veröffentlichungen (Print-, Online- und Multimedia): Konzeption, Redaktion, Gestaltung, Lektorat, Übersetzung, Satz etc.",
+      "buyer": "Deutscher Akademischer Austauschdienst e. V.",
+      "publication_date": "2026-08-18",
+      "deadline": "",
+      "cpv": "92312210 79822500 92110000 92312210 79822500 92110000",
+      "buyer_country": "DEU",
+      "place": "DEA22 DEU DEA22 DEA22 DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/569980-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/569980-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "xr-de",
+      "matched_queries": [
+        "xr-de"
+      ]
+    },
+    {
+      "publication_number": "588467-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Beratung Standortkonzepte - Polizei Petersweg",
+      "buyer": "Land Hessen, vertreten durch den Landesbetrieb Bau und Immobilien Hessen, Zentrale Vergabe",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "71000000 71300000 71210000 71000000 71300000 71210000",
+      "buyer_country": "DEU",
+      "place": "DE714 DEU DE714 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/588467-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/588467-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "training-sim-de",
+      "matched_queries": [
+        "training-sim-de"
+      ]
+    },
+    {
+      "publication_number": "589843-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Dienstleistungen im SAP-Umfeld HANA",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "72000000 72220000 72266000 72000000 72220000 72266000",
+      "buyer_country": "DEU",
+      "place": "DEA22 DEU DEA22 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/589843-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/589843-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [
+        "\\bsap\\b"
+      ],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "587538-2026",
+      "title": "Deutschland – Fernsprech- und Datenübertragungsdienste – Festnetztelekommunikationsdienstleistungen - VoIP",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "64210000 64215000 72400000 64210000 64215000 72400000",
+      "buyer_country": "DEU",
+      "place": "DEA22 DEU DEA22 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/587538-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/587538-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "582979-2026",
+      "title": "Deutschland – Bau von Laborgebäuden – TU Sonderbereiche",
+      "buyer": "Staatl. Bauamt München 1",
+      "publication_date": "2026-08-24",
+      "deadline": "",
+      "cpv": "45214610 45331000 39370000 71240000 71320000 45300000 45214610 45331000 39370000 71240000 71320000 45300000",
+      "buyer_country": "DEU",
+      "place": "DE212 DEU DE212 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "works works",
+      "url": "https://ted.europa.eu/de/notice/-/detail/582979-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/582979-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "578999-2026",
+      "title": "Deutschland – Fernsprech- und Datenübertragungsdienste – Festnetztelekommunikationsdienstleistungen - VoIP",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-21",
+      "deadline": "",
+      "cpv": "64210000 64215000 72400000 64210000 64215000 72400000",
+      "buyer_country": "DEU",
+      "place": "DEA22 DEU DEA22 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/578999-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/578999-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "576423-2026",
+      "title": "Deutschland – Softwarepaket und Informationssysteme – GitLab Lizenzen und Paid Addons (restliche Bundesverwaltung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-20",
+      "deadline": "",
+      "cpv": "48000000 48000000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/576423-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/576423-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "577007-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – IT-Dienstleistungen im Kontext GitLab",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-20",
+      "deadline": "",
+      "cpv": "72000000 72260000 72266000 72000000 72260000 72266000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/577007-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/577007-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "572822-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenvereinbarung über Technologiespezifische IT-Betriebsunterstützung - Leistungsbereich 3: Integrations- und Middleware Services - Los 9 (Restliche Bundesverwaltung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "72000000 72514000 72610000 50312610 72000000 72514000 72610000 50312610",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/572822-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/572822-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "574817-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenvereinbarung über Technologiespezifische IT-Betriebsunterstützung - Leistungsbereich 2: IT-Infrastruktursicherheit und Netzwerksicherheit Services - Los 7 (Restliche Bundesverwaltung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "72000000 72222300 72700000 72000000 72222300 72700000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574817-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574817-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "574623-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenvereinbarung über Technologiespezifische IT-Betriebsunterstützung - Leistungsbereich 4: Anwendungsbetriebsunterstützung - Los 12 (Restliche Bundesverwaltung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "72000000 72250000 72000000 72250000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574623-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574623-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "574913-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenvereinbarung über Technologiespezifische IT-Betriebsunterstützung - Leistungsbereich 1: IT-Infrastruktur Services - Los 4 (Restliche Bundesverwaltung)",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "72000000 72514000 72610000 50312610 72000000 72514000 72610000 50312610",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574913-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574913-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "566076-2026",
+      "title": "Deutschland – Fernsprech- und Datenübertragungsdienste – Festnetztelekommunikationsdienstleistungen - VoIP",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-14",
+      "deadline": "",
+      "cpv": "64210000 64215000 72400000 64210000 64215000 72400000",
+      "buyer_country": "DEU",
+      "place": "DEA22 DEU DEA22 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/566076-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/566076-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "560513-2026",
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – IT-Dienstleistungen für die Softwareentwicklung im Bereich Datenbank MySQL, hier: Konzeption, Entwicklung und Migration",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-13",
+      "deadline": "",
+      "cpv": "72000000 72320000 72212610 72000000 72320000 72212610",
+      "buyer_country": "DEU",
+      "place": "DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/560513-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/560513-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "558387-2026",
+      "title": "Deutschland – Tragbare Computer – Nachhaltige Notebooks (produktneutral) der Kategorie Hohe Leistung und Zusatzleistungen Los 4: Restliche Bundesverwaltung ohne ITZBund",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern und für Heimat, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "30213100 30213100",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/558387-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/558387-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "559900-2026",
+      "title": "Deutschland – Tragbare Computer – Nachhaltige Notebooks (produktneutral) der Kategorie Robust/Outdoor und Zusatzleistungen Los 5: Gesamte Bundesverwaltung",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern und für Heimat, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "30213100 30213100",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559900-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559900-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "557550-2026",
+      "title": "Deutschland – Tischcomputer – Nachhaltige Arbeitsplatzcomputer (produktneutral) der Kategorie Konfigurierbar und Zusatzleistungen",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "30213300 30214000 72611000 30213300 30214000 72611000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/557550-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/557550-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "559065-2026",
+      "title": "Deutschland – Tragbare Computer – Nachhaltige Notebooks (produktneutral) der Kategorie Standard und Zusatzleistungen Los 2: Restliche Bundesverwaltung ohne ITZBund",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern und für Heimat, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "30213100 30213100",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559065-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559065-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "559279-2026",
+      "title": "Deutschland – Tischcomputer – Nachhaltige Arbeitsplatzcomputer (produktneutral) der Kategorie Standard und Zusatzleistungen",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "30213300 30214000 72611000 30213300 30214000 72611000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559279-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559279-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "med-xr-de"
+      ]
+    },
+    {
+      "publication_number": "578494-2026",
+      "title": "Deutschland – Dienstleistungen von Ingenieurbüros – HER-Planungsleistungen für den Neubau der Atemschutzübungsanlage",
+      "buyer": "Landkreis Hersfeld-Rotenburg",
+      "publication_date": "2026-08-21",
+      "deadline": "",
+      "cpv": "71300000 71327000 71321200 71321300 71321400 71314100 71222000 71327000 71321200 71314100 71222000 71321300 71321400",
+      "buyer_country": "DEU",
+      "place": "DE733 DEU DE733 DE733 DE733 DE733 DEU DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/578494-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/578494-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "580510-2026",
+      "title": "Deutschland – Dienstleistungen von Sicherheitsdiensten – Sicherheitsdienstleistungen Schlossmuseum",
+      "buyer": "Welterbestadt Quedlinburg, SG 3.1 Bauverwaltung, Stadtentwicklung und Verkehrsplanung",
+      "publication_date": "2026-08-21",
+      "deadline": "",
+      "cpv": "79710000 79710000",
+      "buyer_country": "DEU",
+      "place": "DEE09 DEU DEE09 DEE09 DEE09 DEE09 DEE09 DEU DEU DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/580510-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/580510-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "574726-2026",
+      "title": "Deutschland – Dienstleistungen von Architekturbüros – GWE - Westerbach - Fachplanungen",
+      "buyer": "Gemeinnütziges Wohnungsunternehmen Eschborn GmbH",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "71200000 71300000 71300000 71300000 71300000 71300000 71310000",
+      "buyer_country": "DEU",
+      "place": "DE71A DEU DE71A DE71A DE71A DE71A DE71A DEU DEU DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574726-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574726-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "557000-2026",
+      "title": "Deutschland – Dienstleistungen in der Tragwerksplanung – Grundschule St. Veit - Tragwerksplanung",
+      "buyer": "Stadtverwaltung Mayen",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "71327000 71327000",
+      "buyer_country": "DEU",
+      "place": "DEB17 DEU DEB17 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/557000-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/557000-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "559178-2026",
+      "title": "Deutschland – Technische Planungsleistungen für maschinen- und elektrotechnische Gebäudeanlagen – SV-KWE-260729-004 - TW - Virginia Depot (VD) - Energiezentrale (EZ) - Planung Technik",
+      "buyer": "SWM Services GmbH",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "71321000 71315000 71323000 71321000 71315000 71323000",
+      "buyer_country": "DEU",
+      "place": "DE212 DEU DE212 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/559178-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/559178-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "557269-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Sanierung Torhaus, MRZ Cottbus",
+      "buyer": "Menschenrechtszentrum Cottbus (MRZ) e.V.",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "71000000 71221000 71321000 71327000 71221000 71221000 71221000",
+      "buyer_country": "DEU",
+      "place": "DE402 DEU DE402 DE402 DE402 DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/557269-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/557269-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ]
+    },
+    {
+      "publication_number": "588886-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Rahmenvertrag Ingenieurvermessung",
+      "buyer": "Bundesamt für Auswärtige Angelegenheiten",
+      "publication_date": "2026-08-26",
+      "deadline": "",
+      "cpv": "71000000 71000000",
+      "buyer_country": "DEU",
+      "place": "anyw anyw",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/588886-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/588886-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "574440-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen – A565, Visualisierung",
+      "buyer": "Die Autobahn GmbH des Bundes - NL Rheinland",
+      "publication_date": "2026-08-19",
+      "deadline": "",
+      "cpv": "71240000 71240000",
+      "buyer_country": "DEU",
+      "place": "DEA23 DEU DEA23 DEA24 DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/574440-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/574440-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "571024-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen – A565, Visualisierung",
+      "buyer": "Die Autobahn GmbH des Bundes - NL Rheinland",
+      "publication_date": "2026-08-18",
+      "deadline": "",
+      "cpv": "71240000 71240000",
+      "buyer_country": "DEU",
+      "place": "DEA23 DEU DEA23 DEA24 DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/571024-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/571024-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "558580-2026",
+      "title": "Deutschland – Elektronische Messgeräte – Messsystem für synchronisierte dreidimensionale Dehnungs- und Temperaturfeldbewertungen",
+      "buyer": "Bauhaus-Universität Weimar",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "38552000 38552000",
+      "buyer_country": "DEU",
+      "place": "DEG05 DEU DEG05 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://ted.europa.eu/de/notice/-/detail/558580-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/558580-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    },
+    {
+      "publication_number": "558884-2026",
+      "title": "Deutschland – Entwurf und Gestaltung, Kostenschätzung – Rahmenvertrag BIM Modellieren 2027- 2030",
+      "buyer": "Bundesgesellschaft für Endlagerung mbH (BGE)",
+      "publication_date": "2026-08-12",
+      "deadline": "",
+      "cpv": "71242000 71242000",
+      "buyer_country": "DEU",
+      "place": "DE91B DEU DE91B DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/558884-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/558884-2026",
+      "score": 10,
+      "clusters": [],
+      "decision": "skip",
+      "skip_reasons": [],
+      "query_id": "twin-de",
+      "matched_queries": [
+        "twin-de"
+      ]
+    }
+  ]
+}

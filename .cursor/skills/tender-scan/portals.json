@@ -1,0 +1,153 @@
+{
+  "comment": "German/EU tender sources for the weekly Northdocks scan. APIs and RSS run without login. Browser/login portals are coverage gaps the agent opens after the script. Portal passwords stay in the Drive sheet — never in this file.",
+  "logins_live_in": "Drive spreadsheet Ausschreibungsportale (Asana task Ausschreibungen / Förderung). Do not copy passwords here.",
+  "layers": {
+    "api": [
+      {
+        "id": "ted",
+        "name": "TED — Tenders Electronic Daily",
+        "covers": "EU-Schwelle, alle Mitgliedstaaten. Oberhalb der Schwelle rechtlich vollständig.",
+        "access": "POST https://api.ted.europa.eu/v3/notices/search (kein Key)",
+        "script": "scripts/ted_search.py"
+      },
+      {
+        "id": "bkms",
+        "name": "Bekanntmachungsservice / Datenservice Öffentlicher Einkauf",
+        "covers": "Bund, Länder, Kommunen in eForms; oft unter Schwelle. Nicht 100 % aller UVgO-Lose.",
+        "access": "POST https://oeffentlichevergabe.de/bkmk/searches plus GET /api/notices/{id}. Open-Data-Tagesexport GET /api/notice-exports (ein Tag Verzug).",
+        "script": "scripts/bkms_search.py"
+      }
+    ],
+    "rss": [
+      {
+        "id": "bund",
+        "name": "service.bund.de Ausschreibungen",
+        "covers": "Aggregator Bund/Länder/Kommunen. Ergänzt BKMS (kwb.tenders: ~die Hälfte der RSS-Treffer nicht im Datenservice).",
+        "access": "https://www.service.bund.de/Content/Globals/Functions/RSSFeed/RSSGenerator_Ausschreibungen.xml",
+        "script": "scripts/bund_rss.py"
+      }
+    ],
+    "browser": [
+      {
+        "id": "evergabe-online",
+        "name": "e-Vergabe des Bundes",
+        "url": "https://www.evergabe-online.de",
+        "covers": "Unterschwellige Bundes-/teilweise Länderlose, die TED/BKMS nicht tragen. Kein öffentliches API; Wicket-UI.",
+        "search": "Virtual Reality, VR-Training, Trainingssimulation, Photogrammetrie, Schockraum"
+      },
+      {
+        "id": "dtvp",
+        "name": "Deutsches Vergabeportal (DTVP / cosinex)",
+        "url": "https://www.dtvp.de",
+        "covers": "Viele Kommunen und Länder-VMPs hinter cosinex. Öffentliche Suche ohne Login, kein stabiles API."
+      },
+      {
+        "id": "vmp-nrw",
+        "name": "Vergabemarktplatz NRW",
+        "url": "https://www.vergabe.nrw.de",
+        "covers": "NRW unter Schwelle"
+      },
+      {
+        "id": "vmp-bayern",
+        "name": "Vergabemarktplatz Bayern",
+        "url": "https://www.vergabe.bayern.de",
+        "covers": "Bayern unter Schwelle"
+      },
+      {
+        "id": "vmp-sh",
+        "name": "e-Vergabe Schleswig-Holstein",
+        "url": "https://www.e-vergabe-sh.de/vergabeverfahren/aktuelle-vergabeverfahren",
+        "covers": "SH, relevant wegen UKSH/Kiel. Alte URL /vergabeplattform/bekanntmachungen ist 404. Angebotsabgabe läuft über RIB/iTWO Tender."
+      },
+      {
+        "id": "deutsche-evergabe",
+        "name": "Deutsche eVergabe (Healy Hudson)",
+        "url": "https://www.deutsche-evergabe.de",
+        "covers": "Weitere Unterschwellen-Bekanntmachungen, kein API"
+      },
+      {
+        "id": "vergabe24",
+        "name": "Vergabe24",
+        "url": "https://www.vergabe24.de",
+        "covers": "Kommerzielles VMP, öffentliche Trefferliste eingeschränkt"
+      }
+    ],
+    "login": [
+      {
+        "id": "subreport",
+        "name": "subreport ELViS / Bieterzugang",
+        "url": "https://www.subreport-elvis.de/login.html",
+        "checked": "2026-08-26 ok"
+      },
+      {
+        "id": "deutsche-evergabe-account",
+        "name": "Deutsche eVergabe Unternehmen",
+        "url": "https://www.deutsche-evergabe.de/account/login",
+        "checked": "2026-08-26 ok"
+      },
+      {
+        "id": "evergabe-online-account",
+        "name": "e-Vergabe des Bundes (AnA-Web)",
+        "url": "https://www.evergabe-online.de/auth/auth.html",
+        "checked": "2026-08-26 ok"
+      },
+      {
+        "id": "itwo-rib",
+        "name": "RIB Tender (ehemals iTWO tender)",
+        "url": "https://www.meinauftrag.rib.de/tender/index",
+        "checked": "2026-08-26 ok. SH-Angebote laufen hier."
+      },
+      {
+        "id": "dtvp-login",
+        "name": "DTVP Bieterlogin",
+        "url": "https://www.dtvp.de/Center/company/login.do",
+        "checked": "credentials in sheet; live login not retested 2026-08-26"
+      },
+      {
+        "id": "vmp-brandenburg",
+        "name": "Vergabemarktplatz Brandenburg",
+        "url": "https://vergabemarktplatz.brandenburg.de/VMPCenter/company/login.do",
+        "checked": "Sheet-Link service.brandenburg.de resolved not. Cosinex may require one-time password update."
+      },
+      {
+        "id": "bi-medien",
+        "name": "B_I MEDIEN / ausschreibungsdienste",
+        "url": "https://bi-medien.de/login",
+        "checked": "Sheet had credentials but no URL"
+      },
+      {
+        "id": "evergabe-sachsen",
+        "name": "eVergabe Sachsen",
+        "url": "https://www.evergabe.sachsen.de/NetServer/LoginControllerServlet?function=LoginForm&thContext=participant"
+      },
+      {
+        "id": "aumass",
+        "name": "AU MASS Plattform",
+        "url": "https://plattform.aumass.de/Home/SignIn",
+        "checked": "Sheet username is truncated (missing m in .com)"
+      },
+      {
+        "id": "mailbox",
+        "name": "ausschreibungen@northdocks.com",
+        "note": "Bieter-Postfach. Passwort steht nicht im Drive-Sheet."
+      }
+    ],
+    "login_gaps": [
+      "e-Vergabe SH: kein Account in der Liste; Login existiert, Abgabe über iTWO",
+      "Vergabeplattform RLP: URL da, kein Benutzer/Passwort",
+      "Vergabe Niedersachsen: Login-URL mit failed=true, keine Zugangsdaten",
+      "Berliner Vergabeplattform: nur Registrierungsseite, kein Account",
+      "DB AG / eVa: kein Login in der Liste",
+      "VMP NRW: zwei verschiedene Passwort-Zeilen im Sheet — klären welche gilt",
+      "Vergabe24: Passwort da, keine Login-URL",
+      "EFRE.NRW / gefoerdert.in.nrw: 404, nicht Tender-Scan",
+      "exam.lba-openuav.de: kein Ausschreibungsportal"
+    ]
+  },
+  "not_this_scan": [
+    "Horizon Europe / Funding & Tenders Portal",
+    "EIC Accelerator",
+    "KMU-innovativ / easy-Online",
+    "WTSH / IB.SH Förderaufrufe"
+  ]
+}

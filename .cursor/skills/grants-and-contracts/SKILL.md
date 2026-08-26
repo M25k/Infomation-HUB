@@ -10,13 +10,17 @@ description: Writes Northdocks grant applications, tenders, eligibility sections
 1. Dieses Skill lesen.
 2. [knowledge/document-rules.md](../../knowledge/document-rules.md) lesen.
 3. Nur Claims verwenden, die in [knowledge/claims.md](../../knowledge/claims.md) stehen.
-4. Vertikale aus [knowledge/verticals.md](../../knowledge/verticals.md), Projekte aus [knowledge/projects.md](../../knowledge/projects.md), Technik aus [knowledge/expertise.md](../../knowledge/expertise.md), Firma aus [knowledge/company.md](../../knowledge/company.md).
+4. Vertikale aus [knowledge/verticals.md](../../knowledge/verticals.md). Produktpriorität: FirefighterVR (läuft) und Meditrain ([knowledge/strategy.md](../../knowledge/strategy.md), [knowledge/meditrain.md](../../knowledge/meditrain.md)).
 5. Offene Widersprüche in [knowledge/open-questions.md](../../knowledge/open-questions.md) **nicht** als Fakten formulieren.
 6. Zuschlagssprache aus [knowledge/proposal-playbook.md](../../knowledge/proposal-playbook.md): Call-Text spiegeln, Eignung von Zuschlag trennen, Horizon-Kästen nicht vermischen.
 
 ## Was dieses Skill tut
 
 Erzeugt Antrags- und Vertragstexte, die Northdocks als Bieter, Partner oder Auftragnehmer beschreiben. Es erfindet keine Referenzen, Umsätze, Kundenzahlen, Fördersummen oder Technikfähigkeiten.
+
+Öffentliche Ausschreibungen **suchen** (nicht schreiben): Skill [tender-scan](../tender-scan/SKILL.md), wöchentlich startbar.
+
+Website-Copy und IA: Skill [website-content](../website-content/SKILL.md), Briefs unter [knowledge/websites/](../../knowledge/websites/README.md). Intern belegte Eignungssätze nicht ungefragt auf Live-Sites heben.
 
 ## Was es nicht tut
 
@@ -45,8 +49,15 @@ Erzeugt Antrags- und Vertragstexte, die Northdocks als Bieter, Partner oder Auft
 - GodView: zwei Kundentypen (Bauinspektion vs. Einsatz/Playground), nie als Headset-App.
 - Spot-KI: nur KI-Transfer-Hub SH, nie Vodafone oder UKK.
 - Dom-Erfassung: 100.000+ Fotos und 1.000 Laserscans; nicht 30.000.
-- Herkunft: 2009 CAU Kiel, Fulldome→XR; nicht 17 Jahre FirefighterVR.
-- Kundenclaim FirefighterVR: **>100 Kunden** darf in Eignung stehen. Interne Historie „alte Plattform gescheitert“ nie nach außen.
+- Meditrain: Vertical der GmbH, Ziel **Koffer + Hardware/Software-Komplettpaket** wie FirefighterVR. Pitch 2024 (Ausgründung) nicht verwenden. Nicht behaupten, Meditrain habe schon 100 Klinik-Kunden.
+- Kundenclaim FirefighterVR: **>100 Kunden** darf in Eignung stehen. Alte Linie: PCVR-Launcher, eingestellt nach Kundenfeedback (zu teuer/kompliziert), Nachfolger ist der Koffer. Nicht „gescheitert“ nach außen.
+- Spearhead: Auftraggeber **The Marketing Arm (TMA)**, Omnicom, für National-Guard-Trainings; plus Playground-Kosovo. Keine Site-Zahlen, kein pauschales US Army, National Guard nicht als Vertragspartner.
+- Kein DFV, wenn nur WFVD/vfdb auf der Site stehen.
+- RWE/Framatome: FFVR-Feuerlöscher, Factory nur als Randfall (Sprinklerwartung).
+- Currenta: Kits und Custom-Aufträge nicht zu einer Summe zusammenziehen.
+- Kontakt immer **kontakt@northdocks.com**.
+- BMA Trainer nicht vermarkten, nicht als FFVR-Modul.
+- Umsatz: Eignungsschwelle >200 k€; intern vage ca. 1 Mio. € p.a. — keine erfundenen GJ-Zahlen.
 
 ## Checkliste vor Abgabe
 

@@ -96,7 +96,19 @@ Schreibregeln dagegen:
 5. Partner korrekt (Spot-KI = Transfer-Hub SH).
 6. Arbeitspakete und Budget zusammen von einer Person gegengelesen.
 
-## 8. Checkliste vor Absenden
+## 8. Meditrain / Medizin (nach FFVR-Produkt)
+
+Wenn der Antrag Medizin, Klinik, Rettung, Strahlenschutz, interprofessionelle Lehre betrifft:
+
+- Traction-Satz über **FirefighterVR** (Betriebsmodell, 100+ Kunden, Koffer).
+- Fachsatz über **UKK / BfS / Steiger**, nicht über erfundene Klinik-Abos.
+- StrahlenschutzVR darf Preise und Pflichtunterweisung § 63 nennen (öffentliche Site).
+- Station VR darf Frontiers 2026 zitieren.
+- Schockraum: Referenz + Award, kein Massenprodukt behaupten.
+- Pulse, Soft-Tissue, Koni: Forschung/Coming Soon.
+- Meditrain ist Vertical der GmbH mit FFVR-Komplettpaket (Koffer, Hardware+Software). Keine Ausgründungs- oder Startup-Story (Pitch 2024 verworfen).
+
+Siehe [strategy.md](strategy.md) und [meditrain.md](meditrain.md).
 
 - [ ] Topic/Los-Wörter kommen in Überschriften vor
 - [ ] Excellence/Impact/Implementation oder Eignung/Zuschlag nicht vermischt

@@ -14,7 +14,9 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Immersive Linie begann mit Fulldome/Planetarium und wurde zum Hauptzweck | intern | GF; Asana XM Fulldome / Planetarium historisch |
 | AVPQ 05 119 408129 | intern | Asana, UKSH-Mappe |
 | Büro Kiel, Schauenburgerstr. 116 | öffentlich | Website |
-| Umsatz VR/Simulation > 200.000 € netto in mind. einem der letzten drei GJ | intern | UKSH-Mappe, Nachweis auf Verlangen |
+| Umsatz VR/Simulation > 200.000 € netto in mind. einem der letzten drei GJ | intern | UKSH-Eignung 2026, Nachweis auf Verlangen |
+| Orientierung intern: ca. 1 Mio. € p.a. (vage) | intern | GF 2026-08-26. Nicht auf Website, nicht als exakte GJ-Zahl. |
+| Betriebshaftpflicht besteht; Zieldeckung 3 Mio. € Personen / 0,5 Mio. € Sache, Aufstockung nach Zuschlag falls nötig | intern | UKSH-Eignung 2026. Keine aktuelle Police-Kopie in dieser KB. |
 | 45+ Projektpartner | intern | Business Deck, nicht nachgezählt |
 
 ## FirefighterVR
@@ -23,31 +25,34 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 |---|---|---|
 | >100 Kunden | intern, **in Eignung erlaubt** (Entscheidung 2026-08-26) | UKSH-Eignung; nicht so auf der FFVR-Website. Nicht als Website-Claim ohne Zählung kopieren |
 | 23 Trainingsmodule | öffentlich | firefightervr.de |
+| Vorgänger PCVR mit PC-Launcher (Steam-ähnlich); Wechsel auf Koffer, weil Kunden PCVR als zu teuer/kompliziert rückmeldeten | intern, **kanonisch** (2026-08-26) | GF. Nicht „Plattform gescheitert“ nach außen |
 | Mehr als sechs Jahre virtuelle Feuerwehrausbildung als Produktlinie | öffentlich + intern | FFVR-Site. Firma seit 2009, immersive Arbeit früher (Fulldome). Nicht zu „17 Jahre FirefighterVR“ aufblasen |
-| Planspiel-Peak 16 gleichzeitige Nutzer | intern | UKSH-Mappe |
-| Mitglied WFVD, vfdb, DRZ, DIBT | öffentlich | FFVR-Site, Aktualität offen |
-| Paketpreise Strahlrohr 3299 / Feuerlöscher 3199 / CPR 3199 € netto | öffentlich | Website 2026 — in Anträgen nur wenn Preis relevant |
-| Entwickelt mit Deutschem Feuerwehrverband | intern | Business Deck „German Fire Brigade Association“ — genaue Rechtsform klären |
+| Planspiel-Peak 16 gleichzeitige Nutzer | intern | UKSH-Mappe. Addon: UKK CeMIT 13 Plätze nur Nachreichbeleg, nicht Peak-Claim |
+| Mitglied WFVD, vfdb, DRZ, DIBT | öffentlich | firefightervr.de (DE+EN). **Kein** Deutscher Feuerwehrverband (DFV) auf der Site |
+| Entwickelt mit Deutschem Feuerwehrverband / „German Fire Brigade Association“ | **nicht verwenden** | Business Deck; öffentliche Mitgliedschaft ist WFVD, nicht DFV |
 
 ## Meditrain / Strahlenschutz
 
 | Claim | Stufe | Quelle |
 |---|---|---|
 | AMBOSS-Award 2026 Excellence in Nursing, CeMIT UKK, Meditrain-Lieferung | öffentlich | News |
-| Schockraum-Volumen ca. 380.000 € + 40.000 € KI | intern | UKSH-Mappe |
-| Radiation Protection: 97 / 94 / 91 % (Presence / Verständnis / Glaubwürdigkeit) | intern | Business Deck; Website-HTML zeigte 0 % (JS). In Anträgen Deck-Zahlen nur mit Studienbeleg |
+| Schockraum-Volumen ca. 380.000 € + 40.000 € KI | intern | UKSH-Eignung; Asana 2026: KI/Voice 40 k€ zugesagt, Rechnung ab 01.01.2027 |
+| Station VR Frontiers-Studie 2026 (Adams et al., DOI 10.3389/frvir.2026.1737515) | öffentlich | meditrainvr.com Station-Seite |
+| StrahlenschutzVR Miete ab 499 €/Woche, Kauf ab 3.499 € | öffentlich | strahlenschutzvr.de |
+| Strahlenschutz: 97 / 94 / 91 % Presence / Verständnis / Glaubwürdigkeit | intern + Deck | Evaluation; in Anträgen mit Studie/Deck, nicht als Website-0 %-HTML |
 | „0 % … credible“ auf meditrainvr.com ohne JS | nicht verwenden | Fetch 2026-08-26 |
 | ECR-Auszeichnung Radiation Protection VR | intern | Deck, nicht auf funding.html |
+| Meditrain = Produktlinie der Northdocks GmbH; Ziel Koffer + Hardware/Software-Komplettpaket analog FirefighterVR | intern, **kanonisch** (2026-08-26) | GF. Pitch 2024 Ausgründung nicht mehr verwenden |
 
 ## GodView / Dom
 
 | Claim | Stufe | Quelle |
 |---|---|---|
-| Zwei GodView-Kundentypen: A Bauinspektion (Dom), B Einsatzleitung (Feuerwehr/Playground) | intern, **kanonisch** (2026-08-26) | GF; nicht als zwei Produkte beschreiben |
+| Zwei GodView-Kundentypen: A Bauinspektion (Dom), B Einsatzleitung (Feuerwehr/Playground) | intern, **kanonisch** (2026-08-26) | GF; nicht als zwei Produkte beschreiben. Landingpage 2026 = vor allem Typ A; Typ B nicht als Website-Claim |
 | Hosting Deutschland, DSGVO | öffentlich | godview.solutions |
 | 119 €/Monat Basis, +49 € Module | öffentlich | Site — nur in Produktangeboten |
 | 100.000+ Fotos **und** 1.000 Laserscans Kölner Dom | intern, **in Anträgen erlaubt** (Entscheidung 2026-08-26) | GF; meta-dom.de hat 100.000+. News 2020 (30.000) ist Altstand, nicht mehr zitieren |
-| 2 Mrd. Polygone Kölner Dom | öffentlich | Deck + meta-dom.de |
+| 2 Mrd. Polygone Kölner Dom | öffentlich | Deck + meta-dom.de. Kepler-Profil 07.2026 (25 Mrd. / 200.000 Fotos) **nicht** verwenden |
 | <1 mm Accuracy / 216K Textur | öffentlich | meta-dom.de, nicht unabhängig gemessen |
 
 ## Storywalx
@@ -67,9 +72,12 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Kunden Bayer, Merck, BASF, Evonik, Henkel, Currenta, Infraserv, Vinci, Actemium | öffentlich | nextfactoryvr.com |
 | 4× Knowledge Transfer, 75 % Retention 72h | öffentlich | nextfactoryvr.com Case-Claims — in Anträgen als Herstellerangabe/Case, nicht als Meta-Studie |
 | Offline-Training, Pico MDM | öffentlich | nextfactoryvr.com |
-| Trusted by Currenta CHEMPARK, RWE, Framatome | öffentlich | nextfactoryvr.com Security-Abschnitt — Framatome/RWE sonst kaum in Asana, vorsichtig |
-| Spearhead 4+ Jahre / 22+ Missionen / 2 Länder | widersprüchlich | vs. „10+ Jahre“ auf derselben Site vs. NG-Deck 200+ completed / 7 headsets |
-| US Army / US National Guard als Kunden | intern | Deck + Asana-Szenarien |
+| Trusted by Currenta CHEMPARK, RWE, Framatome | öffentlich (Site) | nextfactoryvr.com Security. Intern: RWE/Framatome = FFVR-Feuerlöscher; Factory-Randfall z. B. Sprinklerwartung, kein Twin-Vollprojekt |
+| Currenta: kein Einzelvolumen | intern | GF 2026-08-26. Custom-Aufträge und FFVR-Kits getrennt führen. Ein belegter Custom-Slice: PO 2960335518 (01.06.2023), Bitterfeld-/Bayer-Arena-Update, 7.680 € netto — **kein** FFVR-Koffer, **nicht** das Gesamtvolumen |
+| Currenta-Betrieb 2026: Planspiel + GodView-Tileset Bürrig, 5× Pico 4 Ultra Enterprise (April 2026) | intern | UKSH-Eignungsmappe 03-eignung.md |
+| Immersive Erfahrung seit den frühen Firmenjahren (Fulldome/Planetarium) | intern | GF; nicht als Produktalter Spearhead |
+| Spearhead: Auftraggeber **The Marketing Arm (TMA)**, Teil von Omnicom, für US-National-Guard-Trainings; Playground-Sonderversion Kosovo (Streitkräfte, Headsets Osten) | intern, **kanonisch** (2026-08-26) | GF. Site-/Deck-Zahlen (22+, 200+, 7 Headsets) **nicht verwenden**. Nicht pauschal „Auftrag US Army“ oder „Auftrag National Guard“ — Vertragspartner ist TMA |
+| National-Guard-Lieferung intern: kombinierte Unreal-App **State of Emergency** (u. a. HAZMAT, RIVER, AIRTRAF/COPTER, URBTANK; Asana „5 Apps in ein Unreal-Projekt“) | intern | Asana-Projekt `USA - National Guard - General` (archiviert). Öffentliches NG-Recruiting **Disasterville** **nicht** als Northdocks-Lieferung behaupten |
 
 ## Forschung
 

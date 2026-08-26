@@ -19,6 +19,8 @@
 
 Kiel (Schauenburgerstraße 116, 24118 Kiel) ist **Umsetzungsstandort**, nicht der Rechtssitz. Nur nennen, wenn der Auftrag dort erbracht wird.
 
+Vertical-Mails (`info@handaufsherz-vr.de`, `info@northdocks.de`, `godview@…`) sind **kein** Firmenstandard. Immer **kontakt@northdocks.com**.
+
 ## Was nie vermischt werden darf
 
 1. **Produkt vs. Auftrag.** FirefighterVR bleibt eigenständiges Produkt. Ein Auftrag auf Los 2 / Flashlight / Custom gibt keinen Zugang zum gesamten Trainingskatalog, außer das ist ausdrücklich Leistungsbestandteil.
@@ -30,7 +32,7 @@ Kiel (Schauenburgerstraße 116, 24118 Kiel) ist **Umsetzungsstandort**, nicht de
 
 | Stufe | Darf in |
 |---|---|
-| **öffentlich** | Website, Impressum, Presseseite |
+| **öffentlich** | Website, Impressum, Presseseite — Struktur und Verbote je Domain in [websites/](websites/README.md) |
 | **intern belegt** | Angebot, Eignung, Antrag (nicht ungeprüft auf die Website) |
 | **widersprüchlich** | Nur mit Klärung oder der konservativen Variante |
 | **offen** | Nicht verwenden |
