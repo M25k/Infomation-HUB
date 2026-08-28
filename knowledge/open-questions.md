@@ -24,6 +24,20 @@ Geklärte Punkte bleiben kurz dokumentiert. Nur offene Punkte blockieren Formuli
 | Currenta | Viele Jahre, **mehrere** Vorhaben. Immer trennen: Custom-Aufträge vs. FirefighterVR-Kits. Keine einzelne Summe als „das“ Currenta-Volumen. UKSH-Eignungstext mit **ca. 20.000 €** so lassen (GF 2026-08-26) — das ist der Eignungsslice in der Mappe, nicht das Gesamtvolumen. |
 | DFV vs. WFVD | Öffentliche Mitgliedschaften nur wie auf firefightervr.de: WFVD, vfdb, DRZ, DIBT. Deck-Phrase „German Fire Brigade Association“ nicht als DFV-Partnerschaft. |
 | ElevenVoice | Intern **kanonisch**: ElevenVoice für die **meiste** Sprachausgabe (TTS) in den XR-Produkten. Ausnahmen: diverse **Fulldome-Shows** und die **VR-Stadttouren** (Storywalx). Plugin-Dateien fehlen im `NDVRActemium`-Checkout — Nutzung trotzdem intern Standard, nicht als Website-Marketingclaim. |
+| Meißen Eignungsslots | Pflicht: (1) Hannover VR-Stadttour, (2) UKK Schockraum. **Dritte** Referenz: Produkt FirefighterVR (thematisch nächste, formell Produktlinie). Kornetzky optional. |
+
+## Geklärt 2026-08-28
+
+| Thema | Entscheidung |
+|---|---|
+| Kepler-Fulldome-Profil (Drive, 07.07.2026) | **Ignorieren.** XFEL/IWS-Outreach-Fusion: Konsortium hat sich am 13.07.2026 für einen anderen Anbieter entschieden. Dokument nicht zitieren (Dom-Zahlen, Renderfarm, ESA/ESO). |
+| FFVR-Modulzahl | Öffentlich und intern aktuell **23** (`trainingslist.html`). Die Zahl steigt periodisch. Didaktik v47 (22 Module, März 2026) nicht als Zähler. |
+| ERVR-Name / Domains | Außen für das UKK-Schockraum-Projekt: **ERVR** / **Emergency Room VR**. Quelle: Asana [ERVR: Domains sichern und Wortmarke anmelden](https://app.asana.com/1/8864272155433/project/1201612522482993/task/1216921060272475) (27.07.2026). Domains und Markenlage dort sind gültig. Interner Projektname **Schockraum VR** bleibt. **Emergency Response** nicht (Unionsmarken Klasse 41). Zielhardware **Pico Project Swan**; Mobile-Ports laufen deshalb. |
+| EIC-Pitch-Mail 17.07.2026 | C-Level darf nach außen gelegentlich übertreiben. **Interne** Zahlen (KB, Eignung, Agenten) müssen real bleiben: >100 Kunden, TMA nicht Army, keine Spin-Off-GmbH, keine 1,5-Mio-€-Fördersumme. |
+| FlowAR iOS vs. Android | Endziel **Android und iOS**. Mac für Deployment in Beschaffung. Prototyp weiter Android. Nicht „native iOS-App live“. |
+| UKK 357k vs. 380k | Interne/Eignungszahl **ca. 380.000 € + 40.000 € KI** ist korrekt. 357.000 € brutto = C-Level-Übertreibung, nicht verwenden. |
+| EIC-Verschiebung | Grund: **Absprachen mit der UniBw**. Kein Kurzantrag 01.09.2026, kein Vollantrag 04.11.2026. Termine: Abschnitt unten. |
+| julia.barenthien / F&E GmbH Kiel | **Nicht** offizielles ND-Team. Arbeitgeber F&E GmbH Kiel unterbreitet derzeit einen Nebenjob. Expertise intern zugänglich, wenn nötig. Nicht in Eignung Teil 2, nicht als Northdocks-Personal. EIC-Mails von `fe-kiel.de` sind F&E, nicht ND. |
 
 ## Noch offen
 
@@ -35,18 +49,14 @@ Canonical bleibt https://firefightervr.de/. In `www-northdocks` stehen noch Mobi
 
 FFVR-Szenen: Drive `ND-AssetReferenz` (`NDAssetReferenz.uproject`), nicht unter `C:\Githup`. National-Guard **State of Emergency**: Asana-Repo-Karte, Checkout nicht lokal gefunden.
 
-### Kepler-Fulldome-Profil (Drive, 07.07.2026)
+### EIC Accelerator — nächster Einreichungstermin
 
-Dokument „Unternehmensprofil & Referenzen - Northdocks GmbH - KEPLER Fulldome“ ist eine **Antragsfassung**, nicht kanonisch. Widerspricht der KB u. a. bei Dom-Erfassung (dort 200.000 Fotos / 25 Mrd. Polygone / 1 mm — kanonisch bleiben 100.000+ Fotos **und** 1.000 Laserscans, öffentlich 2B+). Renderfarm (40 Server, 90 TB), ESA/ESO/MPI-Netzwerk und „Cross-Platform SciVis-Pipeline“ daraus **nicht** ungeprüft übernehmen. XM Cyber (2023–24) und Intel IFA 360 (2016) stehen nur in diesem Entwurf — intern notieren, nicht als Website-/Eignungsstandard.
+WP **2026** (angenommen): Kurzantrag jederzeit, Batch jeweils erster Dienstag im Monat 17:00 Brüssel. Vollantrag-Cut-offs 2026: 07.01. / 04.03. / 06.05. / 08.07. / 02.09. / **04.11.2026**. Den 04.11. nutzen wir nicht.
 
-### FFVR-Modulzahl 22 vs. 23
+WP **2027** ist noch **Entwurf** (07.07., nicht von der Kommission angenommen). Entwurf-Vollanträge: **03.02. / 01.04. / 01.09. / 03.11.2027**. Erstes realistisches Full-Fenster nach der Verschiebung: **03.02.2027**, sobald das WP steht. Kurzantrag dafür rechtzeitig vorher (GO braucht ca. 4–6 Wochen). Offiziell: [EIC Accelerator](https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en).
 
-Internes Didaktik-Dokument v47 (März 2026) spricht von **22** Modulen. Öffentliche Site und diese KB führen **23** namentlich aus `trainingslist.html` (u. a. Firesaber). Bis zur Abstimmung: nach außen **23** laut Website, v47 nicht als Modulzähler zitieren.
+Noch offen für 2027: Antragsteller GmbH vs. Story, exakter Cut-off nach Annahme des WP.
 
-### FlowAR iOS vs. Android
+### Gmail-Tiefenpass restliche Slices
 
-Öffentlich bleibt EFRE-AR-Kunst. Intern ist der Prototyp Android (Mapbox/OpenGL). iOS braucht Mac + Apple-Developer-Account (Asana offen, 19.08.2026). Nicht „native iOS-App live“ schreiben.
-
-### Meißen zweite Eignungsreferenz
-
-Henkel/Kornetzky **freigegeben** (GF 26.08.2026). Hannover VR **nicht** als Slot 2. Slot 2 soll in der FirefighterVR-Linie bleiben: **Hand aufs Herz** (Bildung, Schule, offline; Volumen in der KB nicht als Euro) oder zweites Werkfeuer (**Currenta**, Slice benennen). Formblatt braucht zwei Kundenprojekte, nicht die Marke allein.
+Coverage: [gmail-pass.md](gmail-pass.md). Historisches Inventar: [history.md](history.md). Quassum, RWE-PO, UKK Station/Pulse, Henkel-POs und TEMA-Amendment-Kern geschlossen. Henkel-Eignung bleibt **ca. 80.000 €**. Noch dünn: Rechnungen-Label (Plugin leer).

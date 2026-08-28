@@ -1,0 +1,25 @@
+---
+description: Google Docs immer als lokale HTML anlegen, nie über Drive-API erzeugen
+alwaysApply: true
+---
+
+# Google Docs über lokale HTML
+
+Google-Docs-API und Drive-Konvertierung (`create_file` als `application/vnd.google-apps.document`) nicht verwenden. Formatierung geht verloren oder das Doc bleibt leer.
+
+**Ablauf, wenn ein Google Doc gebraucht wird:**
+
+1. Saubere lokale **HTML** schreiben (Überschriften `h1`–`h3`, Tabellen, Listen, kurze Print-CSS).
+2. Datei an einen leicht zu öffnenden Ort legen, typisch `C:\Users\joach\Downloads\{Klarer-Dateiname}.html`.
+3. Datei im Browser öffnen (`Start-Process`).
+4. Nutzer kopiert im Browser **Strg+A / Strg+C** und fügt in ein leeres Google Doc ein (**Strg+V**). PDF danach über **Datei → Herunterladen → PDF**.
+
+```text
+# falsch
+Drive create_file → Google Doc / HTML-Konvertierung
+
+# richtig
+Downloads\Angebot-….html  →  Browser  →  in Google Doc einfügen
+```
+
+Kein HTML ins Git, wenn es Angebots-, Kunden- oder Ausschreibungsinhalte enthält. Formulare einer Vergabe (Preisblätter, Eignung, EVB-IT) bleiben separate Dateien.

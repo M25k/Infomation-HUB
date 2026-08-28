@@ -28,6 +28,7 @@ AVPQ-Zugangscodes gehören **nicht** in dieses Repository und nicht in Git.
 - Telefon: +49 (0) 2173 9996713
 - E-Mail (kanonisch): **kontakt@northdocks.com**
 - GodView- und Spearhead-Adressen auf den Vertical-Sites sind keine Firmenstandards; in Anträgen und Angeboten nur `kontakt@northdocks.com`.
+- Reseller intern: `partner@northdocks.com`. Nicht in Eignung/Briefkopf.
 - MeditrainVR-Site nennt zusätzlich +49 2173 9996714 — nicht als allgemeinen Northdocks-Kontakt.
 
 Vergabe-Rollenraster und Asana-Stamm: [team.md](team.md).
@@ -39,8 +40,9 @@ Vergabe-Rollenraster und Asana-Stamm: [team.md](team.md).
 | Joachim Perschbacher | Mitgründer 2009 (einer von vier Studierenden an der CAU Kiel), bis heute Geschäftsführer. Einziger der Gründer, der noch im Unternehmen ist. |
 | Patrick D. Reschke | Geschäftsführer; nicht Gründer. Kam über Arbeiten für Intel dazu. Intern **Head of Sales**, lange PM-Praxis (GF 26.08.2026). CEO-Interviews, VWA/Horizon |
 | Simona Michel | FiBu, Versand, Ausschreibungsboard |
-| julia.barenthien | Förderprojekte (TEMA, feir, FlowAR, Spot-KI); intern Pädagogin (GF 26.08.2026) |
-| silas@northdocks.com | Vergabeunterlagen (Drive-Ordner) |
+| silas@northdocks.com | Vergabeunterlagen (Drive-Ordner); 2026 weiter TEMA-CC |
+
+julia.barenthien ist **kein** offizielles ND-Team (Arbeitgeber F&E GmbH Kiel, derzeit Nebenjob). Expertise intern bei Bedarf; nicht in Eignung. Details: [team.md](team.md).
 
 ## Wirtschaftliche Angaben (nur intern, auf Verlangen)
 
@@ -53,7 +55,7 @@ Aus UKSH-Eignungsmappe, nicht ungeprüft öffentlich wiederholen:
 ## Gründungsgeschichte (intern, für Narrative in Anträgen)
 
 - 2009: Gründung an der **CAU Kiel** durch **vier Studierende**. Joachim Perschbacher ist der verbliebene Gründer.
-- Erstes Produkt: Projektmanagement-Websoftware **Quassum**. Existiert nicht mehr. Nicht als aktuelles Produkt oder Referenz nennen.
+- Erstes Produkt: Projektmanagement-Websoftware **Quassum** (`quassum.com`). Eingestellt **24.05.2018** (JacPer UG i.L., nicht die heutige GmbH). Existiert nicht mehr. Nicht als Produkt oder Referenz nennen.
 - **Patrick D. Reschke** stieß später hinzu, über Arbeiten für **Intel** — nicht Mitgründer.
 - Immersive Arbeit begann **früh** mit **Fulldome- und Planetariumsproduktionen** und wurde schrittweise zum Hauptzweck (heute XR-Training und Digital Twins).
 - Sitz heute Monheim; Kiel bleibt Umsetzungs- und Ursprungsstandort.
@@ -79,4 +81,12 @@ Business Deck (intern): all-in-one, schnelle Feedbackschleifen, praxisnahe Endnu
 - Aristotle University Thessaloniki (TEMA-Koordinator)
 - KI-Transfer-Hub Schleswig-Holstein (Spot-KI; **keine** Verbindung zu Vodafone oder Uniklinik Köln)
 - Uniklinik Köln / CeMIT (Meditrain)
-- IB.SH (EIC-Beratung FirefighterVR)
+- IB.SH / EEN HH-SH (EIC-Beratung FirefighterVR; Anette Benz, Annette Moritz; Förderlotse Christian Hank)
+- AMBOSS SE (LiSA/AI Mode — Kooperations-LoI intern offen, nicht als fertiges Meditrain-Feature)
+- OffTEC Base (Enge-Sande) — Erstkontakt 27.08.2026, kein Vertrag
+- Smart PSA GmbH — FFVR-Reseller (VG Bodenheim-Anfrage)
+- APG (Austrian Power Grid) — GodView-Kunde seit 2023 (Stevica Rakic, Paul Japek; EPSG 31256)
+- Stadt Köln Kompetenzzentrum GIS — Interesse Dom-Modell für städtischen Twin (Bernhard Dirks, 09/2025), kein Auftrag
+- GEOMAR / Roberto Benavides — Spot-KI-Feldkontakt, nicht Vodafone
+- Bayer Immersive Solutions / Crop Science — Pipeline 2026 (Carnariu, Fischer, Roy), kein Vertrag
+- Omnicom DAS / TMA — Spearhead/SOE-Auftraggeber (Vincent Vallos u. a.)

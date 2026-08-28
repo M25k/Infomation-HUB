@@ -33,6 +33,7 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 | [knowledge/meditrain.md](knowledge/meditrain.md) | Medizinlinie: Module, Partner, Transfer von FFVR |
 | [knowledge/expertise.md](knowledge/expertise.md) | Technische Fähigkeiten, die wir belastbar behaupten dürfen |
 | [knowledge/projects.md](knowledge/projects.md) | Projekte, Referenzen, Produkte — mit Quellen |
+| [knowledge/history.md](knowledge/history.md) | Historisches Kompendium: 105 archivierte Asana-Boards + Mail-Belege |
 | [knowledge/grants.md](knowledge/grants.md) | Förderhistorie, laufende Anträge, Pipeline |
 | [knowledge/claims.md](knowledge/claims.md) | Zahlen und Sätze mit Evidenzstufe |
 | [knowledge/proposal-playbook.md](knowledge/proposal-playbook.md) | Horizon/EIC/KMU/VgV: Formulierungen, die Zuschläge wahrscheinlicher machen |
@@ -41,6 +42,7 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 | [knowledge/tender-scan.md](knowledge/tender-scan.md) | Wöchentlicher Scan öffentlicher Ausschreibungen (Kompetenzfilter) |
 | [knowledge/tender-runs/](knowledge/tender-runs/) | Ergebnisse der Wochenläufe |
 | [knowledge/open-questions.md](knowledge/open-questions.md) | Widersprüche und offene Punkte |
+| [knowledge/gmail-pass.md](knowledge/gmail-pass.md) | Laufender Gmail-Tiefenpass: Coverage, Filter, nächste Slices |
 | [knowledge/websites/](knowledge/websites/README.md) | Struktur und Copy-Regeln je Domain |
 
 ## Recherchequellen dieser Version
@@ -49,6 +51,7 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 - Asana-Workspace (Projekte + Board „Anträge & Ausschreibungen“)
 - Google Drive (u. a. UKSH-Eignungsmappe, Business Deck)
 - Lokale Repos unter `C:\Githup`
+- Gmail `joachim@northdocks.com` (Pass 20–21, 2026-08-28; Tiefenpass [knowledge/gmail-pass.md](knowledge/gmail-pass.md); ohne Secrets)
 
 ## Regel
 

@@ -10,7 +10,7 @@ Rolle: Medizin-Dachmarke der **Northdocks GmbH**. Nächste Produktlinie nach Fir
 | Seite | Zweck |
 |---|---|
 | `index.html` | Hero, Services, Projekte |
-| `project-schockraum-training.html` | Schockraum / ERVR (interner Name Emergency Room VR, nicht „Emergency Response“) |
+| `project-schockraum-training.html` | Schockraum; außen **ERVR** / **Emergency Room VR** (Asana Domains/Marke 27.07.2026). Interner Projektname Schockraum VR. Nicht Emergency Response. |
 | `project-station-training.html` | Station VR, Frontiers-DOI |
 | `project-cpr-training.html` | CPR |
 | `contact.html` | Kontakt |
@@ -28,7 +28,7 @@ Kontakt auf der Site: Mail **kontakt@northdocks.com**, Telefon **+49 2173 999671
 4. Station: DOI `10.3389/frvir.2026.1737515` darf bleiben.
 5. AMBOSS 2026 / CeMIT UKK darf (öffentlich, auch northdocks News).
 6. Keine „0 % credible“-Zahlen aus kaputtem HTML. Strahlenschutz 97/94/91 % nur mit Studien-/Deck-Quelle, nicht als nackte Website-Stat ohne Kontext.
-7. Datta/Adams als medizinische Partner, nicht als Gründungsteam.
+7. Datta/Adams als medizinische Partner, nicht als Gründungsteam. Öffentlich **ERVR** / **Emergency Room VR**; intern Schockraum VR. Emergency **Response** nicht auf die Live-Site (Markenlage, Asana `1216921060272475`).
 8. Hand aufs Herz als Schul-CPR verlinken, nicht als Klinik-Koffer.
 9. GodView nicht als Meditrain-Headset verkaufen.
 

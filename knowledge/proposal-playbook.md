@@ -10,7 +10,7 @@ Zum Schreiben immer [claims.md](claims.md) und [document-rules.md](document-rule
 | Verfahren | Was Gutachter kaufen | Northdocks-Hebel |
 |---|---|---|
 | **Horizon Europe** RIA/IA | Excellence, Impact, Implementation je 0–5, Schwelle 3, Summe 10. IA: Impact 1,5× beim Ranking. Part B 2026/27: 40 Seiten (45 Lump Sum). | TEMA-Partner, Endnutzer Feuerwehr/Klinik/Dom, Methodik XR+Twin, nicht Koordinator spielen |
-| **EIC Accelerator** | Excellence, Impact, Need-for-EU-support/Risk. Short any time, dann Full. TRL ≥ 6. EU-/internationaler Markt Pflicht. Interview nur Firmenangehörige. | FirefighterVR 100+ Kunden, Koffer-Skalierung, nicht nur DE-Markt erzählen |
+| **EIC Accelerator** | Excellence, Impact, Need-for-EU-support/Risk. Short any time, dann Full. TRL ≥ 6. EU-/internationaler Markt Pflicht. Interview nur Firmenangehörige. | FirefighterVR 100+ Kunden, Koffer-Skalierung, nicht nur DE-Markt. **Anlauf 2027** (Absprachen UniBw), nicht Cut-off 04.11.2026. Nächstes Full-Fenster Entwurf **03.02.2027**. NKS 08/2026: Deep-Tech Psychologie/Biometrie, nicht KI-as-such; kein Spin-Off ohne GF; Investment max. 10 Mio. €. Historische Referenzen: [history.md](history.md) |
 | **KMU-innovativ** | Skizze 15.04./15.10., dann Antrag. Innovation über Tagesgeschäft, Verwertung beim KMU, Eigenanteil, **keine bereits bezahlte Auftrags-FuE** | PFIF-Regel: Eigenentwicklung ja; Kundenauftrag nein. Playground, AI-Inspect, Adapter |
 | **Interreg / EFRE** | Kooperation, Region, Output-Indikatoren, Nachhaltigkeit nach Laufzeit | Flashlight/UKSH, FlowAR, Standort Kiel/NRW ehrlich zuordnen |
 | **Öffentliche Vergabe** | Erst **Eignung** (dürfen wir?), dann **Zuschlag** (welches Angebot ist wirtschaftlich?). Nicht denselben Satz zweimal werten lassen. | Referenzen in Eignung; im Angebot technische Lösung, Personal **dieses** Auftrags, Support, Hosting DE |
@@ -57,7 +57,7 @@ Evaluatoren scoren unabhängig. Ein brillanter Impact rettet eine dünne Methodi
 
 ## 4. EIC Accelerator (FirefighterVR-Pfad)
 
-Offizielle Tips: disruptiv, EU-Markt, TRL 6+, IP, Umsatz/Jobs, Funding Gap.
+Offizielle Tips: disruptiv, EU-Markt, TRL 6+, IP, Umsatz/Jobs, Funding Gap. **GF 28.08.2026: Anlauf 2027**, Texte hier nur vorhalten.
 
 - **Excellence:** Koffer + Haptik + 23 Module + Offline. Disruptiv gegen Brandübungsanlage/Realbrand, nicht gegen „alle XR-Firmen“.
 - **Impact:** 100+ Kunden ist Traktion — nutzen. Internationalisierung (nicht nur DE) muss im Text stehen, sonst NO-GO.
@@ -95,6 +95,8 @@ Schreibregeln dagegen:
 4. Zahlen nur aus claims.md.
 5. Partner korrekt (Spot-KI = Transfer-Hub SH).
 6. Arbeitspakete und Budget zusammen von einer Person gegengelesen.
+7. **Nicht verwirren.** Im Zuschlagstext keine anderen Lose, Produkte oder Schulen als Analogie (UKSH Los 2, Hand aufs Herz als Schulreferenz, Quest neben festem Pico-Angebot). Einmal Leistungsgrenze reicht; nicht in jedem Abschnitt wiederholen.
+8. **Storyboard muss die Minuten tragen.** Beatliste allein reicht nicht für 8–12 Minuten Szenario (FAQ: Einführung extra, Gesamtdurchlauf ≤ 15). Zeitgerüst, Beispielsätze (7–10 / 11–14), Interaktionsbeispiele und Varianten in derselben Welt — kein zweites Gebäude.
 
 ## 8. Meditrain / Medizin (nach FFVR-Produkt)
 

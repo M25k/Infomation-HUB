@@ -41,7 +41,7 @@ Konservativ heißt: die schwächere, leichter nachzuweisende Aussage.
 
 ## Referenzen
 
-Eine Referenz braucht mindestens: Auftraggeber, Gegenstand, Zeitraum. Volumen und Ansprechperson nur, wenn in `projects.md` als referenzierbar markiert und für das Verfahren nötig.
+Eine Referenz braucht mindestens: Auftraggeber, Gegenstand, Zeitraum. Volumen und Ansprechperson nur, wenn in `projects.md` als referenzierbar markiert und für das Verfahren nötig. Namen und Lose aus der Vergangenheit: [history.md](history.md) — Task-Zahlen sind keine Volumina.
 
 Vor Namensnennung externer Personen: Freigabe einholen, wenn `projects.md` das verlangt (Beispiel Henkel).
 

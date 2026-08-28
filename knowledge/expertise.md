@@ -47,7 +47,7 @@ Nur Fähigkeiten, die durch Produkt, Repo oder dokumentierte Referenz gedeckt si
 - feir: KI-gestützte Generierung von VR-Führungsszenarien (BMBF-Verbund).
 - Spot-KI: autonomer Roboterhund / Erfassung (KI-Transfer-Hub SH).
 - GodView AI Inspect: experimenteller Riss-/Schadensfilter; SH-KI-Förderung in Einreichung.
-- Pulse Engine / Sprachsteuerung UKK: intern 40 k€ zugesagt, Rechnungstellung ab 01.01.2027, Arbeit über das UKK-Projekt (Asana „UKK KI / Voice“). Nicht als ausgelieferte Standardfunktion aller Meditrain-Koffer behaupten.
+- Pulse Engine / Sprachsteuerung UKK: intern 40 k€ zugesagt, Rechnungstellung ab 01.01.2027, Arbeit über das UKK-Projekt (Asana „UKK KI / Voice“). Nicht als ausgelieferte Standardfunktion aller Meditrain-Koffer behaupten. Historie: Evaluierung **06.12.2021** (Joachim an Datta); Unity-Integration vorhanden, Port nach **Unreal/C++**. Engine-Änderungen wären OSS-Rückfluss, die VR-App nicht. **Zuschlag UKK 28.12.2021**. Drei Szenarien von Beginn: Schockraum, Instabiler Patient/Station, Fahrstuhl.
 
 ## Stack-Überblick
 

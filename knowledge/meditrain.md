@@ -15,8 +15,8 @@ Lösungssatz: Standalone-VR, Local-Only, interprofessionell, Physiologie statt S
 
 | Modul | Partner / Beleg | Stand | FFVR-Analog |
 |---|---|---|---|
-| **Schockraum VR** (Marke intern: **ERVR / Emergency Room VR**, nicht „Emergency Response“) | UKK, PD Dr. Rabi Raj Datta; cABCDE; Multiplayer; Physiologie; Debriefing; Sprach-NPCs | Referenzprojekt, ~380 k€ + KI 40 k€ intern zugesagt (Rechnung 01.01.2027); AMBOSS 2026 | Innenangriff / Team / Debriefing |
-| **Station VR** | UKK; 9 randomisierte Notfälle; Zwei-Spieler Arzt & Pflege; Frontiers-Studie 2026 DOI 10.3389/frvir.2026.1737515 | Produktseite live | Szenarien-Katalog |
+| **Schockraum VR** (interner Projektname bleibt; außen **ERVR** / **Emergency Room VR**) | UKK, PD Dr. Rabi Raj Datta; cABCDE; Multiplayer; Physiologie; Debriefing; Sprach-NPCs | Referenzprojekt, ~380 k€ + KI 40 k€ intern zugesagt (Rechnung 01.01.2027); AMBOSS 2026; Voice „Hey Lisa“ Kickoff 01.07. Zielhardware **Pico Project Swan**, Mobile-Ports laufen. Emergency **Response** nicht. | Innenangriff / Team / Debriefing |
+| **Station VR** | UKK; Ursprungsszenario **Instabiler Patient auf Normalstation** (Datta 28.12.2021, neben Schockraum und Fahrstuhl). 9 randomisierte Notfälle; Zwei-Spieler Arzt & Pflege; Frontiers-Studie 2026 DOI 10.3389/frvir.2026.1737515. Rechnung MS III `20230731-01` | Produktseite live | Szenarien-Katalog |
 | **Strahlenschutz VR** | BfS, evaluiert UKK und UKSH; ECR 2024; Site https://strahlenschutzvr.de/ | Am nächsten an FFVR-Produkt: Miete ab 499 €/Woche, Kauf ab 3.499 €; § 63 StrlSchV / ALARA | Koffer + Pflichtunterweisung |
 | **CPR VR** | Björn-Steiger-Stiftung; Puppe, Drucktiefe/Frequenz, Röntgenblick | Auch FirefighterVR-Paket CPR. Schulableger **Hand aufs Herz** (handaufsherz-vr.de): Pilot OHG Monheim öffentlich nennbar; bis Aug. 2026 vier Kurse, Feedback intern nach 31.08. Stiftung-Gespräch intern offen. Offline, keine Schülerdaten. Vertical-Mail nicht als Firmenstandard | Identische Haptik-Linie |
 | **Koni / OP (Coming Soon)** | Soft-Tissue-Cutting auf Edge-Devices; h_da / Uniklinik Würzburg in Antragsgeschichte | Forschung, nicht Katalog | Neues Fachmodul |
@@ -32,6 +32,8 @@ Erste Hilfe Actemium (Pitch 2023) ist Industrie-Erste-Hilfe, näher an Next Fact
 | Uniklinikum Köln / CeMIT | Schockraum, Station, Lehre, AMBOSS 2026 |
 | PD Dr. Rabi Raj Datta | Lehrkoordinator, Testimonial. Pitch-2024-Wort „Gründungsteam“ nicht mehr verwenden |
 | Dr. Jana Adams | Fachpartnerin Station VR, Frontiers-Paper 2026. Nicht als Startup-Gründerin führen |
+| Niels-Benjamin Adams | UKK, CC auf Meditrain-Terminen ab 21.07.2026 — intern, nicht als Website-Zeuge |
+| AMBOSS SE | LiSA / AMBOSS AI Mode. Kontakt Lina Glaser (Product); Hackathon Juni 2026; LoI intern offen. **Nicht** behaupten, Meditrain liefere AMBOSS-Wissen als fertiges Produkt |
 | BfS | Strahlenschutz VR |
 | UKSH | Strahlenschutz-Historie, Flashlight 2026 |
 | Björn-Steiger-Stiftung | CPR |
@@ -39,14 +41,14 @@ Erste Hilfe Actemium (Pitch 2023) ist Industrie-Erste-Hilfe, näher an Next Fact
 
 ## Technik, die aus FFVR kommt
 
-- Unreal / OpenXR / Standalone (Pico/Quest)
+- Unreal / OpenXR / Standalone (Pico/Quest). Schockraum: Mobile-Ports für **Pico Project Swan** laufen; Auslieferung dort wahrscheinlich, noch nicht als live behaupten.
 - Multiuser online und offline
 - Haptische reale Objekte im Tracking
 - Local-Only für regulierte Netze
 - Debriefing / Logs (CSV/JSON analog UKSH)
 - GodView nur als Leitung/Debrief (Typ B), nicht als Headset-App
 
-Medizinspezifisch dazu: physiologische Echtzeit-Engine (Pulse), Sprachsteuerung NPCs, cABCDE, Dosimetrie-Simulation. GitHub `ND-Strahlensimulation` ist Unreal **4.27** (`NDRaySimulation`) — historischer Beleg, nicht der 5.7-Produktionsstand. UKK KI/Voice: 40 k€ intern zugesagt, Rechnung ab 01.01.2027. Medizinische ASR-Modelle intern in Test (Asana UKK-VR) — nicht als ausgelieferte Standardfunktion.
+Medizinspezifisch dazu: physiologische Echtzeit-Engine (Pulse), Sprachsteuerung NPCs, cABCDE, Dosimetrie-Simulation. GitHub `ND-Strahlensimulation` ist Unreal **4.27** (`NDRaySimulation`) — historischer Beleg, nicht der 5.7-Produktionsstand. UKK KI/Voice: 40 k€ intern zugesagt, Rechnung ab 01.01.2027. Kickoff 01.07.2026: Voice Control („Hey Lisa“) statt Webanzeige in der Brille; Stufe 1 medizinische Unterstützung, Stufe 2 Team-Feedback/Evaluation. Stack **unabhängig von AMBOSS** halten. Medizinische ASR-Modelle intern in Test (Asana UKK-VR / Whisper-Amboss-Prototyp) — nicht als ausgelieferte Standardfunktion. Frankfurt-Klinik: Datta sollte Anforderungen konkretisieren (Angebotsfähigkeit) — intern offen. AR-Anamnese separat, Förderidee, nicht Liefergegenstand.
 
 ## Sites und Repos
 

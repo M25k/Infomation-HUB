@@ -47,7 +47,7 @@ Ablauf: (1) Asana-Task prüfen oder anlegen. (2) Unterlagen in den Drive-Unteror
 |---|---|
 | Eignung / Firmenprofil | company.md, claims.md, projects.md |
 | Leistungsbeschreibung | expertise.md, verticals.md, repos.md |
-| Referenzen | projects.md (nur Einträge mit Referenzstatus) |
+| Referenzen | projects.md (nur Einträge mit Referenzstatus). Historisches Inventar: [history.md](../../knowledge/history.md) — Task-Zahlen keine Volumina, nicht ungeprüft in Eignung |
 | Forschungsantrag | grants.md + expertise.md + proposal-playbook.md |
 | Angebot / Vertrag | document-rules.md + proposal-playbook.md + das konkrete Los |
 
@@ -71,6 +71,7 @@ Ablauf: (1) Asana-Task prüfen oder anlegen. (2) Unterlagen in den Drive-Unteror
 - Kontakt immer **kontakt@northdocks.com**.
 - BMA Trainer nicht vermarkten, nicht als FFVR-Modul.
 - Umsatz: Eignungsschwelle >200 k€; intern vage ca. 1 Mio. € p.a. — keine erfundenen GJ-Zahlen.
+- julia.barenthien nicht als Northdocks-Personal oder in Eignung Teil 2. Expertise intern bei Bedarf (Arbeitgeber F&E GmbH Kiel).
 
 ## Checkliste vor Abgabe
 
