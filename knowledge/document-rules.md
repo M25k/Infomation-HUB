@@ -43,18 +43,25 @@ Konservativ heißt: die schwächere, leichter nachzuweisende Aussage.
 
 Eine Referenz braucht mindestens: Auftraggeber, Gegenstand, Zeitraum. Volumen und Ansprechperson nur, wenn in `projects.md` als referenzierbar markiert und für das Verfahren nötig. Namen und Lose aus der Vergangenheit: [history.md](history.md) — Task-Zahlen sind keine Volumina.
 
+**Großkunden** (Currenta, Merck, …): FA-**Gesamtsumme** der Kundenbeziehung ist erlaubt. Oft getrennte Workstreams und Ansprechpartner — nicht so formulieren, als sei alles ein Auftrag. Ein Los nur mit seiner eigenen Zahl.
+
 Vor Namensnennung externer Personen: Freigabe einholen, wenn `projects.md` das verlangt (Beispiel Henkel).
 
 ## Technik in Leistungsbeschreibungen
 
-- Engine: Unreal Engine 5.7 in den lokalen Framework-Repos, OpenXR, Pico OpenXR.
+- Engine: Unreal Engine 5.7 in den Framework-Repos (lokal oder GitHub/Cursor), OpenXR, Pico OpenXR.
 - GodView: SvelteKit, Cesium, Hosting in Deutschland.
 - Photogrammetrie: RealityCapture-Pipeline (`ND-Processing`), Potree/3D Tiles, Drohnenbefliegung. Dom: 100.000+ Fotos und 1.000 Laserscans.
 - Keine Engine erfinden (kein Unity als Standard-Stack, außer ein konkretes Altprojekt das belegt).
 
+## Bücher
+
+Live in **FreeAgent**. Verkaufszahlen aus FA **sind richtig** und zählen. Mail/Deck/alte KB weichen → FA. **Nur Fördermittel** stehen nicht in FA ([grants.md](grants.md)) — nicht auf den Umsatz legen. Git nur destilliert in [accounting.md](accounting.md).
+
 ## Verbote
 
-- Keine AVPQ-Zugangscodes, Passwörter, Mailbox-Zugänge.
+- Keine AVPQ-Zugangscodes, Passwörter, Mailbox-Zugänge, FreeAgent-Tokens.
 - Keine Unteraufträge/Eignungsleihe erfinden.
 - Keine Bietergemeinschaft unterstellen.
 - Keine „100 %“-Sätze aus Landingpages (z. B. Meditrain-Statistiken, die im HTML als 0 gerendert wurden), solange sie nicht in `claims.md` stehen.
+- **Reschke Productions GmbH:** interne Verrechnung, keine Kundenreferenz, nicht in Eignung.

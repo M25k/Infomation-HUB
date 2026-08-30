@@ -6,15 +6,16 @@ Inventar abgeschlossener und archivierter Vorhaben als **Basis für Eignung, Nar
 
 - Task-Zahl ≠ Volumen, ≠ Auftrag. Leere Boards und Ideen-Boards sind keine Referenzen.
 - Eignung nur mit Auftraggeber + Zeitraum aus [projects.md](projects.md) B/C, nicht aus dieser Liste ableiten.
-- Keine neuen Volumensummen. Angebotszahlen (z. B. BIT Gendorf 47.880 €) bleiben intern und ungeprüft.
-- Kosovo-Playground: GF Streitkräfte; Mail 01/2025 Kognita → Interadria (Kosovo) → Endkunde. Rechnung 20241220-03, 10 Quest. Keine Seriennummern hier.
+- Verkaufszahlen: **FreeAgent gilt**. Alte Mappen-Kommentare (Gendorf 47.880 €, Trier 80 k€, UKK 380 k€) weichen — FA steht in [accounting.md](accounting.md).
+- Kosovo-Playground: GF Streitkräfte; Kognita → Interadria. FA `20241220-03` **18.160 €**. Keine Seriennummern hier.
 - TMA-Szenarien intern **State of Emergency**; Vertragspartner TMA/Omnicom, nicht „Kunde US Army“.
+- **Reschke Productions GmbH** in FA: interne Verrechnung, kein historisches Kundenprojekt, nicht in diese Datei.
 
 Laufende Produkte und 2026-Pipeline bleiben in [projects.md](projects.md) A–I. Diese Datei = Vergangenheit.
 
 ## Currenta (ab 2018)
 
-Viele Lose, **kein** Gesamtvolumen. Lieferant **37966**. Eignungsslice UKSH **ca. 20.000 €** unverändert. Custom-Slice PO 2960335518 **7.680 €** (01.06.2023, Arena-Update, kein Koffer). Scan Technikum 11.12.2020 (Ahmet Oeztürk).
+Viele Lose, **verschiedene Ansprechpartner**. FA-Gesamt ca. **685 k€** (Kundenbeziehung, erlaubt). Nicht als ein Projekt erzählen. Lieferant **37966**. UKSH-Mappe **ca. 20.000 €** nicht umschreiben. Custom-Slice PO 2960335518 nach Storno **5.760 €** (01.06.2023, Arena-Update, kein Koffer). Rechnungen ab 2016; 2026 u. a. `20260415-01` 14.748 €. Scan Technikum 11.12.2020 (Ahmet Oeztürk).
 
 | Board (Asana) | ab | Tasks | Hinweis |
 |---|---|---|---|
@@ -105,7 +106,7 @@ Auftraggeber **The Marketing Arm (TMA)** / Omnicom DAS. Lieferung intern kombini
 | USA - Scenario VI: Advanced Vehicle Recovery | 2023 | 54 | |
 | USA - National Guard - General | 2024 | 37 | MOS/ArborXR, Consolidation |
 
-FY26 intern: fünf Apps in **eine** Meta-Store-App; **25.000 USD**; Estimate V4 signed **25.03.2026**. Playground Kosovo: siehe Kognita/Interadria oben; kein eigenes Archive-Board.
+FY26 intern: fünf Apps in **eine** Meta-Store-App; FA **25.000 €** (`20260326-03`); Estimate V4 signed **25.03.2026**. Playground Kosovo: siehe Kognita/Interadria oben; kein eigenes Archive-Board.
 
 ## amatik / Storywalx / Kultur / Fulldome
 
@@ -120,7 +121,7 @@ ElevenVoice gilt **nicht** für Fulldome-Shows und VR-Stadttouren.
 | Amatik - Quizze | 2020 | 35 | |
 | Amatik - SteuerVR | 2021 | 40 | |
 | Amatik - WilhelmshavenVR | 2021 | 123 | Eignung Havenspuren ca. 70.000 € |
-| Trier - VR | 2022 | 310 | Treverer Code, Eignung ca. 80.000 € |
+| Trier - VR | 2022 | 310 | Treverer Code, FA **142.920 €** Paid |
 | Amatik - LKN | 2022 | 86 | |
 | Amatik - LaZuF | 2022 | 40 | |
 | Amatik - LVermGeo | 2022 | 98 | |
@@ -129,7 +130,7 @@ ElevenVoice gilt **nicht** für Fulldome-Shows und VR-Stadttouren.
 | PB - Armstrong | 2018 | 76 | Zuschlag historisch |
 | Black Hole | 2019 | 1 | |
 | ND - Mars2020 | 2019 | 7 | |
-| Sony - ??? - Das Dorf der Teufel | 2019 | 21 | Die drei ??? |
+| Sony - ??? - Das Dorf der Teufel | 2019 | 21 | Die drei ???. Folge **Singende Schlange** 2022 ohne eigenes Board |
 | AR - Schiffshebewerk | 2021 | 33 | Zuschlag historisch |
 | SPACE EXHIBITION | 2022 | 2 | |
 | XM - Fulldome | 2022 | 22 | XM Cyber / Schwarz; CSC2023. Kepler-Profil **nicht** kanonisch |
@@ -137,7 +138,9 @@ ElevenVoice gilt **nicht** für Fulldome-Shows und VR-Stadttouren.
 
 Landtag zusätzlich Mail: RV **2024–2027** Schleswig-Holsteinischer Landtag × amatik (Web-Zeitreise) — intern laufend, Board oben archiviert.
 
-Nicht in dieser Archive-Liste (andere Namen oder nie Board): Traumzauberbaum, DDF Und die Salztote, FD Sojus-Start, Badshahi Mosque — öffentlich/historisch in grants/projects wo genannt, hier nicht als Asana-Beleg.
+DDF **Und die Salztote**: Visuals-Vertrag Sony Music **01.02.2025** (nicht das Asana-Board `Sony - ??? - Das Dorf der Teufel` 2019).
+
+Mail-Lücken ohne Asana-Board (Details in projects.md): **Traumzauberbaum** HO3RRAUM 2022; **FD Sojus-Start** LWL/Berlin 2017–18; DDF Salztote Sony 2025. Weiter ohne Beleg: Badshahi Mosque.
 
 ## Medizin / Hochschule / Spot-KI
 
@@ -190,7 +193,7 @@ Nicht in dieser Archive-Liste (andere Namen oder nie Board): Traumzauberbaum, DD
 
 - John Deere, Omexom (4 Tasks), AC-Ruhrpumpen-BP, leere Currenta-AR, WTSH-2018-Hülle, interne Demos.
 - BIT-Gendorf-Angebotszahl 47.880 € ohne GF-Freigabe als Volumen.
-- TMA 25.000 USD = Consolidation-Slice, nicht Army-Auftragswert.
+- TMA 25.000 € FA = Consolidation-Slice, nicht Army-Auftragswert.
 - Spot-KI-Erstattungen = Teilvorhaben Northdocks, nicht Verbund, nicht Pitch 1,5 Mio. €.
 - Kosovo: Kognita/Interadria intern, Streitkräfte nur GF; Seriennummern nicht listen.
 - Feuerwehr Berlin: Zuschlag **2026-199 VR Brillen Set** (Hardware, 30.06.2026). Kein Volumen, nicht Meißen-Eignung.

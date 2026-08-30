@@ -3,7 +3,7 @@
 Interne Grundlage für **Förderanträge, Ausschreibungen und Verträge**.  
 Stand der ersten Recherche: 2026-08-26.
 
-Dieses Repository ist die kanonische Quelle für Formulierungen, Referenzen, Technik-Claims und Projektgeschichte. Öffentliche Websites, Asana, Google Drive und die lokalen Git-Repos sind **Quellen**, nicht die Endfassung.
+Dieses Repository ist die kanonische Quelle für Formulierungen, Referenzen, Technik-Claims und Projektgeschichte. Öffentliche Websites, Asana, Google Drive, FreeAgent und die lokalen Git-Repos sind **Quellen**, nicht die Endfassung.
 
 ## Für Agenten
 
@@ -38,6 +38,8 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 | [knowledge/claims.md](knowledge/claims.md) | Zahlen und Sätze mit Evidenzstufe |
 | [knowledge/proposal-playbook.md](knowledge/proposal-playbook.md) | Horizon/EIC/KMU/VgV: Formulierungen, die Zuschläge wahrscheinlicher machen |
 | [knowledge/repos.md](knowledge/repos.md) | Lokale Git-Repos und Cursor-Codebase-Pfade |
+| [knowledge/accounting.md](knowledge/accounting.md) | FreeAgent: GJ, Rechnungsindex — **FA-Zahlen gelten**, ohne Fördermittel |
+| [knowledge/accounting-pass.md](knowledge/accounting-pass.md) | Laufender FreeAgent-Tiefenpass (Coverage) |
 | [knowledge/document-rules.md](knowledge/document-rules.md) | Wie Dokumente geschrieben werden |
 | [knowledge/tender-scan.md](knowledge/tender-scan.md) | Wöchentlicher Scan öffentlicher Ausschreibungen (Kompetenzfilter) |
 | [knowledge/tender-runs/](knowledge/tender-runs/) | Ergebnisse der Wochenläufe |
@@ -50,8 +52,9 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 - northdocks.com und die sieben Vertical-Sites
 - Asana-Workspace (Projekte + Board „Anträge & Ausschreibungen“)
 - Google Drive (u. a. UKSH-Eignungsmappe, Business Deck)
-- Lokale Repos unter `C:\Githup`
+- GitHub `Northdocks-GmbH` (Cursor-Zugang); `C:\Githup` nur Teilmenge — [knowledge/repos.md](knowledge/repos.md)
 - Gmail `joachim@northdocks.com` (Pass 20–21, 2026-08-28; Tiefenpass [knowledge/gmail-pass.md](knowledge/gmail-pass.md); ohne Secrets)
+- FreeAgent (Bücher Northdocks GmbH; live per MCP, destilliert in [knowledge/accounting.md](knowledge/accounting.md); ohne Tokens)
 
 ## Regel
 

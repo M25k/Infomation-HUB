@@ -13,6 +13,7 @@ description: Writes Northdocks grant applications, tenders, eligibility sections
 4. Vertikale aus [knowledge/verticals.md](../../knowledge/verticals.md). Produktpriorität: FirefighterVR (läuft) und Meditrain ([knowledge/strategy.md](../../knowledge/strategy.md), [knowledge/meditrain.md](../../knowledge/meditrain.md)).
 5. Offene Widersprüche in [knowledge/open-questions.md](../../knowledge/open-questions.md) **nicht** als Fakten formulieren.
 6. Zuschlagssprache aus [knowledge/proposal-playbook.md](../../knowledge/proposal-playbook.md): Call-Text spiegeln, Eignung von Zuschlag trennen, Horizon-Kästen nicht vermischen.
+7. Umsatz oder Referenzvolumen: wenn FreeAgent-MCP da ist, gegen die Bücher prüfen ([knowledge/accounting.md](../../knowledge/accounting.md)), dann `claims.md` / `projects.md`. Keine erfundenen GJ-Zahlen. MCP fehlt: nur die bestehenden Claims.
 
 ## Was dieses Skill tut
 
@@ -30,7 +31,8 @@ Start im Chat: **„Wir machen die Ausschreibung {Name oder URL}“** (oder Asan
 |---|---|---|
 | **Asana** Board [Anträge & Ausschreibungen](https://app.asana.com/1/8864272155433/project/1200346071931886) | Entscheidungsakte: Bid/No-Bid-Raster aus [asana-ticket.md](../tender-scan/asana-ticket.md), Frist, Los, Portal-URL, Link zum Drive-Ordner. Spalte **Sammlung** bis zur Teilnahme-Entscheidung, dann **Eingereicht** / **Nicht eingereicht**. | Keine PDFs, keine Passwörter, kein AVPQ-Code. Kommentare nur Klartext. |
 | **Drive** Ordner [001 Teilnahme](https://drive.google.com/drive/folders/1uHMr8flT_jj4tRFy4mxbcuk2dbTwegKU) (`01 Administration / 03 Förderungen+Ausschreibungen / 001 Teilnahme`) | Unterlagen, LV, Eignungsentwürfe, Preise, eingereichte Dateien. Pro Vorgang ein Unterordner `{Aktenzeichen oder Kurzname}` (Muster: `UKSH-Föd-2026-0001`). | Nichts davon ins Git. |
-| **Information-HUB (Git)** | Wiederverwendbare Firma: `claims.md`, `projects.md`, `expertise.md`. Nach Einreichung **eine Zeile** in [knowledge/grants.md](../../knowledge/grants.md) plus Asana- und Drive-Link. | Keine Ausschreibungs-PDFs, keine Portal-Logins, keine Kundentelefone. |
+| **FreeAgent** | Live-Bücher: Rechnungen, Kontakte, P&L. Destillat: [knowledge/accounting.md](../../knowledge/accounting.md). | Keine Tokens, IBANs, Lohnzeilen, keine Schreib-Tools (create/send/delete). |
+| **Information-HUB (Git)** | Wiederverwendbare Firma: `claims.md`, `projects.md`, `expertise.md`, `accounting.md`. Nach Einreichung **eine Zeile** in [knowledge/grants.md](../../knowledge/grants.md) plus Asana- und Drive-Link. | Keine Ausschreibungs-PDFs, keine Portal-Logins, keine Kundentelefone. |
 
 Ablauf: (1) Asana-Task prüfen oder anlegen. (2) Unterlagen in den Drive-Unterordner. (3) Texte mit diesem Skill aus der KB, Call-Text aus Drive/Portal spiegeln. (4) Abgabe im Portal; Mailbox `ausschreibungen@northdocks.com`. (5) grants.md kurz nachziehen.
 
@@ -45,7 +47,7 @@ Ablauf: (1) Asana-Task prüfen oder anlegen. (2) Unterlagen in den Drive-Unteror
 
 | Typ | Primärquellen |
 |---|---|
-| Eignung / Firmenprofil | company.md, claims.md, projects.md |
+| Eignung / Firmenprofil | company.md, claims.md, projects.md, accounting.md (Umsatz/Rechnungen gegen FreeAgent) |
 | Leistungsbeschreibung | expertise.md, verticals.md, repos.md |
 | Referenzen | projects.md (nur Einträge mit Referenzstatus). Historisches Inventar: [history.md](../../knowledge/history.md) — Task-Zahlen keine Volumina, nicht ungeprüft in Eignung |
 | Forschungsantrag | grants.md + expertise.md + proposal-playbook.md |
@@ -66,17 +68,19 @@ Ablauf: (1) Asana-Task prüfen oder anlegen. (2) Unterlagen in den Drive-Unteror
 - Spearhead: Auftraggeber **The Marketing Arm (TMA)**, Omnicom, für National-Guard-Trainings; plus Playground-Kosovo. Keine Site-Zahlen, kein pauschales US Army, National Guard nicht als Vertragspartner.
 - Kein DFV, wenn nur WFVD/vfdb auf der Site stehen.
 - RWE/Framatome: FFVR-Feuerlöscher, Factory nur als Randfall (Sprinklerwartung).
-- Currenta: Kits und Custom-Aufträge nicht zu einer Summe zusammenziehen. UKSH-Eignungstext mit ca. 20 k€ **so lassen** — das ist der Slice in der Mappe, nicht das Gesamtvolumen.
+- Großkunden (Currenta, Merck, …): FA-**Gesamtsumme** erlaubt. Trotzdem oft getrennte Workstreams/Ansprechpartner — nicht als ein Projekt. UKSH-Mappe Currenta ca. 20 k€ nicht umschreiben.
 - ElevenVoice: intern Standard-TTS der meisten XR-Sprachen. Nicht für Fulldome-Shows und nicht für VR-Stadttouren. Nicht als Website-Feature.
 - Kontakt immer **kontakt@northdocks.com**.
 - BMA Trainer nicht vermarkten, nicht als FFVR-Modul.
-- Umsatz: Eignungsschwelle >200 k€; intern vage ca. 1 Mio. € p.a. — keine erfundenen GJ-Zahlen.
+- Umsatz: Eignungsschwelle >200 k€; intern vage ca. 1 Mio. € p.a. **FreeAgent-Verkaufszahlen gelten.** Fördermittel nur [grants.md](../../knowledge/grants.md), nicht auf FA legen. Alte Mappen-Zahlen (UKK 380 k, Trier 80 k, TMA 25 k USD) nicht verwenden.
 - julia.barenthien nicht als Northdocks-Personal oder in Eignung Teil 2. Expertise intern bei Bedarf (Arbeitgeber F&E GmbH Kiel).
+- Reschke Productions GmbH: interne Verrechnung, nie als Kunde, Referenz oder Eignung.
 
 ## Checkliste vor Abgabe
 
 - [ ] Firma, HRB, USt-IdNr. stimmen mit company.md
 - [ ] Jede Zahl hat eine Quelle in claims.md
+- [ ] Umsatz/Referenzvolumen gegen [accounting.md](../../knowledge/accounting.md) / FreeAgent, nicht erfunden
 - [ ] Referenzen haben Auftraggeber, Zeitraum, Gegenstand
 - [ ] Technik-Stack stimmt mit repos.md (keine erfundenen Engines)
 - [ ] Playbook: Call-Text gespiegelt, Eignung ≠ Zuschlag, Horizon-Kästen getrennt

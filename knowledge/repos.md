@@ -1,8 +1,27 @@
-# Lokale Git-Repositories
+# Git-Repositories
 
-Alle unter `C:\Githup`, erfasst 2026-08-26. Organisation: überwiegend `Northdocks-GmbH` auf GitHub. `Infomation-HUB` und `www-meta-dom` liegen unter `M25k`.
+**Kanonisch ist GitHub**, nicht die Festplatte. Org: [Northdocks-GmbH](https://github.com/Northdocks-GmbH) (fast alles privat). `Infomation-HUB` und `www-meta-dom` unter `M25k`. Cursor hat den GitHub-Zugang — Repos, die hier fehlen, dort öffnen oder klonen, nicht als „existiert nicht“ behandeln.
 
-Zum Verstehen von Technik und Liefergegenstand diese Repos lesen, nicht raten.
+`C:\Githup` ist nur eine **Teilmenge** (22 Ordner, Stand 30.08.2026). Viele Org-Repos sind nicht ausgecheckt. Öffentlich ohne Login sichtbar u. a. `ND-Strahlensimulation`; der Rest braucht den Cursor-/GitHub-Login.
+
+Zum Verstehen von Technik und Liefergegenstand: zuerst lokal, sonst **GitHub über Cursor**. Nicht raten.
+
+## Zugriff
+
+| Wo | Wann |
+|---|---|
+| `C:\Githup\{Name}` | wenn der Ordner da ist |
+| `https://github.com/Northdocks-GmbH/{Name}` | immer die volle Kopie; in Cursor als GitHub-Projekt / Clone |
+| Drive `ND-AssetReferenz` | FFVR-Szenen, kein Git-Remote |
+
+Nicht lokal, aber auf GitHub / in Asana-Repo-Karten (nicht „Lücke weil nicht auf der Platte“):
+
+| Remote | Hinweis |
+|---|---|
+| `Northdocks-GmbH/ND-Strahlensimulation` | öffentlich, UE 4.27 `NDRaySimulation` — historisch, nicht 5.7-Produktion |
+| `Northdocks-GmbH/TUHH-SensorViz` | Asana Repo-Info; CSV-Importer |
+| `Northdocks-GmbH/TUHH-SensorVizCN` | China-Folge, Format wie TUHH |
+| State of Emergency / FFVR-Content | Remote in Asana; nicht unter `C:\Githup` |
 
 ## Produkt- und Plattformcode
 
@@ -13,7 +32,7 @@ Zum Verstehen von Technik und Liefergegenstand diese Repos lesen, nicht raten.
 | `ND-GodViewWeb` | Northdocks-GmbH/ND-GodViewWeb | master | GodView SvelteKit+Cesium, pnpm/Lerna, Docker, Node 20+. Dieselbe App unter `https://app.godview.solutions` **und** `https://godview.nd-apps.de` (kein Redirect). Deploy per `deploy.sh`, nicht GitHub Actions. Tokens/.env nicht zitieren. |
 | `www-pointclouds` | Northdocks-GmbH/www-pointclouds | main | Zweite GodView-Schicht: Potree-Viewer + Express (:3001), LAS/LAZ-Extraktion. Szenen u. a. Kölner Dom, Holcim Höver, Currenta Bürrig. Punktdaten nicht im Git (R2/lokal). Öffentlicher Viewer-Host intern `pointclouds.nd-apps.de`. |
 | `ND-Processing` | Northdocks-GmbH/ND-Processing | Standalone | Photogrammetrie RealityCapture → 3D Tiles, Cesium-Viewer |
-| `ND-Strahlensimulation` | Northdocks-GmbH/ND-Strahlensimulation | public GitHub, nicht in C:\Githup | Unreal **4.27**-Projekt `NDRaySimulation.uproject`, Plugin `RaySimulation`. Historische Dosimetrie-Linie für Strahlenschutz VR — **nicht** die aktuelle UE-5.7-Produktionsengine |
+| `ND-Strahlensimulation` | Northdocks-GmbH/ND-Strahlensimulation | **nicht lokal** — GitHub/Cursor | Unreal **4.27**-Projekt `NDRaySimulation.uproject`, Plugin `RaySimulation`. Historische Dosimetrie-Linie für Strahlenschutz VR — **nicht** die aktuelle UE-5.7-Produktionsengine |
 | `TEMA-Server` | Northdocks-GmbH/TEMA-Server | main | Checkout vorhanden, Arbeitsbaum praktisch leer — Inhalt nachziehen |
 | `nd-xyz-protree` | Northdocks-GmbH/nd-xyz-protree | main | XYZ → Potree |
 | `XLR-Punktwolken-Converter` | Northdocks-GmbH/XLR-Punktwolken-Converter | main | Konverter (README fehlt) |
@@ -38,7 +57,7 @@ Zum Verstehen von Technik und Liefergegenstand diese Repos lesen, nicht raten.
 
 ## Cursor-Codebases (Referenz)
 
-Diese lokalen Pfade sollen als Workspace-Referenz dienen, wenn Anträge Technik belegen. Information-HUB bleibt die kanonische Textquelle; die anderen Repos sind Beweis, kein zweites Firmenprofil.
+Information-HUB bleibt die Textquelle. Technik belegen: lokaler Ordner **oder** dasselbe Repo über GitHub in Cursor. Die Liste unten ist die lokale Teilmenge, kein Inventar der Org.
 
 | Pfad | Nutzen für Anträge |
 |---|---|
@@ -58,11 +77,10 @@ Diese lokalen Pfade sollen als Workspace-Referenz dienen, wenn Anträge Technik 
 - Photogrammetrie-Workflow aus `ND-Processing/.agent/SKILL_nd_processing.md`.
 - BMA-DIN-Claim nur, wenn das Repo/Produkt gemeint ist, nicht als FirefighterVR-Standardmodul.
 
-## Lücken (nächste Loop-Runde)
+## Lücken (nicht: „fehlt lokal“)
 
-- Unreal-Content-Projekte (FFVR-Szenen) nicht unter `C:\Githup` als eigenes Repo. Drive-Ordner `ND-AssetReferenz` enthält `NDAssetReferenz.uproject` (Stand 2025) — nicht als Git-Remote.
-- National-Guard-App intern **State of Emergency** (Asana, kombiniertes Unreal-Projekt) — Content-Repo nicht unter `C:\Githup` gefunden.
-- `gh` CLI fehlt; `ND-Strahlensimulation` weiter nicht lokal (GitHub-Stand UE 4.27, siehe oben).
-- `TEMA-Server` praktisch leer; TEMA-Betrieb läuft u. a. über GodView (BRK) und XR Viewer (KPI Immersion, Trials 2026).
-- GitHub `Northdocks-GmbH/TUHH-SensorViz` und `TUHH-SensorVizCN` (Asana Repo-Info) — **nicht** unter `C:\Githup` ausgecheckt. CSV-Importer China intern beauftragt, Format wie TUHH.
+- FFVR-Szenen: Drive `ND-AssetReferenz` (`NDAssetReferenz.uproject`, Stand 2025) — kein Git-Remote.
+- **State of Emergency**: Asana-Repo-Karte; über GitHub/Cursor suchen, nicht nur `C:\Githup`.
+- `TEMA-Server` Checkout lokal fast leer — Remote auf GitHub nachziehen.
+- `gh` CLI fehlt auf diesem Rechner; Org-Liste über Cursor-GitHub oder die Website. Private Repos sieht die öffentliche API nicht.
 - Xing-Tippfehler `firefighervr.de` nicht zitieren.

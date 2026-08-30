@@ -18,7 +18,7 @@ Security-Text nennt **RWE** und **Framatome**. Intern: das ist das FirefighterVR
 ## Soll bei Anpassungen
 
 1. RWE/Framatome nicht als Next-Factory-Twin-Referenz aufblasen. Wenn sie bleiben: als Brandschutz/Feuerlöscher-Training im industriellen Umfeld formulieren oder auf FirefighterVR verweisen.
-2. Currenta nicht auf eine Summe reduzieren; Kits und Custom getrennt, keine 7.680 € / 20 k€ als „das Currenta-Projekt“.
+2. Currenta: auf der Site **kein** FA-Gesamt und kein einzelnes Los (20 k€ / 5.760 €) als „das Currenta-Projekt“. Intern/Eignung: Gesamtsumme erlaubt, Workstreams getrennt.
 3. Offline, Pico MDM, Standalone öffentlich sagbar.
 4. Case-Claims „4× Knowledge Transfer, 75 % Retention 72h“ nur als Hersteller-/Case-Angabe, nicht als Meta-Studie.
 5. GodView/Explorer-auf-Twin: Browser-Twin ≠ Headset-Training klar halten.

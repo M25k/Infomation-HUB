@@ -33,7 +33,7 @@ Ehemalige / nicht Stamm (nur Historie, nicht in Eignungsteil 2):
 - `finn@northdocks.com` ist Stamm (s. o.); 2024 ebenfalls TMA-CC
 - Sarah Wehrhahn — Spot-KI-Zwischenbericht/EA 2024 (WTSH), Alumni
 - Tim Waldron — intern weitergeleitet 2023 (Spot-KI-Umfeld), Alumni
-- Jan-Ole Weiss — Arbeitsvertrag für Spot-KI-Schlussabrechnung EA2 genannt, Alumni
+- Jan-Ole Weiss — Arbeitsvertrag für Spot-KI-Schlussabrechnung EA2 genannt, Alumni. 2024–25 intern Support Ainavio/Coduct-Avatar (nicht Stamm)
 - Hans-Jürgen Werner (`hans-juergen.werner@northdocks.com`) — MegaGrant-Kommunikation 2020
 - Alexandra Evdokunin (`alexandra.evdokunin@northdocks.com`) — MegaGrant-Badge-Fwd 2020
 - `michel.magens@northdocks.com` — Intel-IFA/Dome-Mails 2015, Alumni

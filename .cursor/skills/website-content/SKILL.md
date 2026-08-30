@@ -13,7 +13,7 @@ description: Adapt Northdocks public websites (northdocks.com and the seven vert
 4. Nur **öffentliche** Zeilen in [knowledge/claims.md](../../knowledge/claims.md)
 5. Offenes in [knowledge/open-questions.md](../../knowledge/open-questions.md) nicht als Live-Text
 
-Code liegt im jeweiligen Repo unter `C:\Githup` (siehe [knowledge/repos.md](../../knowledge/repos.md)). Information-HUB bleibt die Textquelle; das Website-Repo ist die Umsetzung.
+Code: zuerst `C:\Githup`, sonst dasselbe Repo über GitHub in Cursor ([knowledge/repos.md](../../knowledge/repos.md)). Information-HUB bleibt die Textquelle; das Website-Repo ist die Umsetzung.
 
 ## Was das Skill tut
 

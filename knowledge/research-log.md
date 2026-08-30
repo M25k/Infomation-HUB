@@ -185,3 +185,35 @@ Henkel: SoftwareOne DEC-PO-442523 (12/2022) und **DEC-PO-526042** (07/2023, mobi
 
 TEMA: Amendment ATOS→BULL eingereicht **26.06.2026**; M36-Deliverables akzeptiert; RP2-Rate verzögert. Nicht Produktclaim.
 
+## Pass 29 — 2026-08-28 (Gmail-Loop Rechnungen)
+
+UKK vor 2022: keine Rechnung (Zuschlag erst 28.12.2021).
+
+Neu intern ohne Volumen/Eignung: **DDF/Sony Salztote** Adobe-Sign 01.02.2025, Rechnung 20250304-01. **Holcim Höver** PO 4502769747 / 20250120-01. **Atos Medical** Custom-Quest (nicht TEMA-ATOS), 20250113-01, Support Ende 2025. **Ainavio/Coduct** Jan-Ole-Avatar, mehrere Rechnungen 2024–25. Label_9 weiter Plugin-leer.
+
+## Pass 30 — 2026-08-30 (Gmail-Loop Kultur/Rechnungen)
+
+Traumzauberbaum: HO3RRAUM Rendering 2022, Festival 2023, kein Board. FD Sojus-Start: LWL Voss / Berlin Horn, Premiere 04/2018. ??? Singende Schlange: HO3RRAUM+Sony 2022, Rechnung 20221219-01.
+
+GodView intern: KIWI Kiel 20231115-01; EG Westholstein Befliegung 20220822-03 / 20221103-02. APG-POs 4500320239 / 4500320883. Planetarium Berlin 20230123-01, Bochum 20220920-01. Schiffshebewerk 20220805-02. Keine neuen Volumina.
+
+## Pass 31 — 2026-08-30 (UKFFM Modul Triage)
+
+Spezifikation „VR Digital Twin: Modul Triage“ (28.08.2026): innerklinische Sichtung MANV an der Universitätsmedizin Frankfurt (Anfahrt/Sichtungsbereich, 20 Patienten, BER/MTS-MANV/München/START, Physiologie, Logging, Studie). Erweiterung des UKK-Projekts, eigener Auftraggeber — UKK-Vertrag reicht nicht. ARiNeP bleibt andere Klinik. TEAM-X-Triage 2024 nur Konzept, nicht Lieferstand. EU-Schwelle nicht-zentral 2026: **216.000 €** netto. Asana Sammlung: UKFFM VR-Triage. HTML intern Downloads, nicht Git.
+
+## Pass 30 — 2026-08-30 (FreeAgent-Anbindung)
+
+OAuth + Pass 32–33. **GF: FA-Zahlen gelten, außer Fördermittel.** UKK Paid 328.403 € (380 k Mappe tot); Trier 142.920 €; TMA FY26 25.000 €; Gendorf 80.000 €; Kosovo 18.160 €. Historie: Currenta ab 2016 inkl. `20260415-01` 14.748 €; Merck 401.150 €; Dom nach Jahr; Dräger/sonnen/Actemium/amatik inventarisiert. Offen: PSG-Mix Henkel, 10 Quest vs. 20 Lizenzzeilen (nur Stück, nicht Betrag). Coverage: [accounting-pass.md](accounting-pass.md).
+
+## Pass 34 — 2026-08-30 (Reschke Productions)
+
+GF: **Reschke Productions GmbH** in FreeAgent = interne Verrechnung. Nicht als Kunde, Referenz oder Eignung. Betrag intern, nicht zitieren.
+
+## Pass 35 — 2026-08-30 (Großkunden-Summen)
+
+GF: Große Firmen (Currenta u. a.) haben oft **verschiedene Ansprechpartner und Workstreams**. **Gesamtsummen** (FA-Kontakt) sind erlaubt = Kundenbeziehung. Nicht so tun, als sei alles ein Projekt. Currenta ca. 685 k€. UKSH-Mappe 20 k€ bleibt der damalige Slice. Henkel über PSG/SoftwareONE weiter zuordnen, bevor eine Henkel-Gesamtsumme steht.
+
+## Pass 36 — 2026-08-30 (FA × Drive × Mail × Asana)
+
+Holcim: WT-Turm Höver + GodView-Abo (Asana bis 07/2028), FA ~50 k€, nicht nur 1.600 €. LoI Holcim AI-Inspect nur Entwurf. Sony-Mail 20250304-01 = FA 20250307-02. BfS 3621S42350 / ~204 k€. TikTok/Bytedance 4 Devices NY, ~18 k€. Dräger Custom intern ~200 k€. Offen: PSG-Henkel-Mix, Craftsmen, Neuss, Feishu.
+

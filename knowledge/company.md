@@ -46,6 +46,8 @@ julia.barenthien ist **kein** offizielles ND-Team (Arbeitgeber F&E GmbH Kiel, de
 
 ## Wirtschaftliche Angaben (nur intern, auf Verlangen)
 
+Bücher: [accounting.md](accounting.md) (FreeAgent live = Kundenrechnungen, **ohne** abgerufene Fördermittel). Zuschüsse: [grants.md](grants.md). Nicht zu einer Zahl addieren.
+
 Aus UKSH-Eignungsmappe, nicht ungeprüft öffentlich wiederholen:
 
 - Umsatz VR/Simulation: in mindestens einem der letzten drei abgeschlossenen Geschäftsjahre **über 200.000 € netto** (Eignungsformulierung).

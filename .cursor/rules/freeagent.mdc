@@ -1,0 +1,25 @@
+---
+description: FreeAgent is the live books; Git only distilled facts; read-only MCP
+alwaysApply: true
+---
+
+# FreeAgent
+
+Bücher live in FreeAgent (MCP `freeagent-mcp-server`). Git nur destilliert: [knowledge/accounting.md](knowledge/accounting.md).
+
+Volumen und Rechnungsbeträge: **FreeAgent zählt und ist richtig** (Verkauf). Mail, Deck oder alte KB-Zahlen weichen → FA übernehmen, die alte Zahl nach [knowledge/open-questions.md](knowledge/open-questions.md) als verworfen. **Ausnahme Fördermittel:** nicht in FA, nur [knowledge/grants.md](knowledge/grants.md).
+
+```text
+# falsch
+freeagent_create_invoice / send / delete
+IBAN oder Token ins Repo
+komplette Rechnungsliste committen
+
+# richtig
+freeagent_list_invoices / get_invoice / get_profit_and_loss
+eine Zeile: Ref, Organisation, netto, Status
+```
+
+FreeAgent = Kundenrechnungen / Verkauf. **Keine abgerufenen Fördermittel** (TEMA, feir, Spot-KI, FlowAR) — die stehen in [knowledge/grants.md](knowledge/grants.md). Nicht mit FA-Umsatz addieren.
+
+Nie ins Git: Client-Secret, Tokens, IBANs, Lohn, private Spesen, Kundentelefone. Keine GJ-Zahl erfinden — Eignung >200 k€; intern vage ca. 1 Mio. € p.a.; FA-Jahre in [knowledge/accounting.md](knowledge/accounting.md).
