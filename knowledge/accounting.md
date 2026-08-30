@@ -14,7 +14,7 @@ Widerspruch zu [claims.md](claims.md) → [open-questions.md](open-questions.md)
 
 **Reschke Productions GmbH** in FA = **interne Verrechnung** (GF 30.08.2026). Nicht als Kundenreferenz, nicht in Eignung, nicht zu Umsatz-Narrativen addieren. Betrag intern merken, nicht zitieren.
 
-**Großkunden** (Currenta, Merck, Actemium, Dom, …): FA-Kontakt-**Gesamtsumme darf** (GF 30.08.2026). Es sind oft **getrennte Projekte**, andere Ansprechpartner, andere POs. Summe = Beziehung zum Rechtsträger, nicht „ein Auftrag“. Ein Los nur mit seiner eigenen Zahl nennen. Henkel über PSG/SoftwareONE: Summe erst, wenn die Zeilen zugeordnet sind.
+**Großkunden** (Currenta, Merck, Actemium, Dom, …): FA-Kontakt-**Gesamtsumme darf** (GF 30.08.2026). Es sind oft **getrennte Projekte**, andere Ansprechpartner, andere POs. Summe = Beziehung zum Rechtsträger, nicht „ein Auftrag“. Ein Los nur mit seiner eigenen Zahl nennen. Henkel-POs SoftwareONE 442523/526042 und PSG 4503615550 zugeordnet; restliche Kanal-Zeilen nicht addieren.
 
 ## Nie ins Git
 
@@ -91,7 +91,7 @@ Netto = FreeAgent `net_value`. Status 30.08.2026. Keine neuen Eignungsvolumina a
 | `20250305-01` | 1Komma5 | 1.200 € netto, Paid, 05.03.2025 |
 | `202507-01` | 1Komma5 Mahnung 4.712,40 € | 3.960 € netto, Paid, 01.07.2025 — 3.960 × 1,19 = 4.712,40 (KB = brutto, eine Rechnung) |
 
-UKK acht Rechnungen **328.403 €** Paid (gilt). KI 40 k€ nicht in FA. Henkel-Eignungsslice 80 k€ ist Mappe — PSG/SoftwareONE-FA nicht ungeprüft dazuaddieren (Kanal-Mix offen).
+UKK acht Rechnungen **328.403 €** Paid (gilt). KI 40 k€ nicht in FA. Henkel-Eignungsslice 80 k€ bleibt Mappe. Belegte Henkel-POs: SoftwareONE DEC-PO-442523 / 526042, PSG 4503615550. Restliche PSG/SoftwareONE-Zeilen nicht ungeprüft dazuaddieren.
 
 ## Pass Positionen 30.08.2026
 
@@ -108,7 +108,7 @@ UKK acht Rechnungen **328.403 €** Paid (gilt). KI 40 k€ nicht in FA. Henkel-
 | Universitätsklinikum Köln | 8 | 328.403 € | gilt; KI 40 k€ extra, nicht in FA |
 | PSG Procurement + SoftwareONE + Henkel direkt | 56+5+14 | nicht addieren | Einkaufskanäle; Eignung **ca. 80 k€** bleibt |
 | sonnen GmbH | 50 | ca. 276 k€ | KB nur „Videos“, unterschätzt |
-| 1KOMMA5° | 22 | ca. 214 k€ | mehr als die drei zuvor genannten Refs |
+| 1KOMMA5° | 22 | ca. 214 k€ | monatliche Showroom-Lose + Extras (Malmö); nicht ein Auftrag, nicht Eignung |
 | Actemium Cegelec West | 14 | ca. 210 k€ | Infinity/ACHEMA-Linie |
 | Bundesamt für Strahlenschutz | 4+ | ca. 204 k€ | AP2 `20221114-01` 123.550 €; AP3 `20230913-01` 34.454 € — intern, nicht neues Eignungsvolumen |
 | Dräger Safety Rechnungsstelle | 16 | ca. 200 k€ | KB „kein Volumen“; intern belegt, nicht Website |
@@ -175,8 +175,12 @@ Ohne Fördermittel. Paid/Refund, Drafts raus.
 
 **Actemium/VINCI/PC Mechatronics** 2021–24 inkl. INFINITY Imagefilm 15 k€ (`20221018 -01a`), Controlmatic Mitte 42.369 € (`20240408-01`).
 
-**amatik** 2018–26; 2026 bereits **40.600 €** (Hannover-Nähe). Wilhelmshaven-70 k€-Mappe noch nicht als eine Stadt-Rechnung belegt (über amatik).
+**amatik** 2018–26; 2026 bereits **40.600 €** (Hannover-Nähe). Wilhelmshaven: AG **WTF GmbH**, ND Nachunternehmer von amatik — keine Stadt-Rechnung. Mappe ca. 70 k€ bleibt Mappe.
 
-**Weitere FA-Blöcke intern:** Rhein-Kreis Neuss 61 k€; Craftsmen 60 k€; BASF 58 k€ (14 Rechnungen); Schwarz IT 51 k€; Holcim 50 k€ (mehr als `20250120-01`); THW 21 k€ (`202309`); Evonik 19 k€ 2019; Omexom 18 k€ 2026; DLR 24 k€ 2021; Feishu 28 k€ 2026; TikTok UK 18 k€ 2025 — keine neuen Eignungsslots.
+**Rheinkalk/Lhoist:** drei Drive-Rechnungen **26.400 €** netto (`20191008-07`, `20200408-02`, `20200827-03`). Steinbruch-Visualisierung, nicht Factory.
+
+**Bayer Hi-Fog:** `20230629-01` **33.336 €** netto (PO 2150948372). Ordner „3336“ falsch. Reaktivierung 15–25 k€ nur Angebot.
+
+**Weitere FA-Blöcke intern:** Rhein-Kreis Neuss **61.416 €** netto (`20240930-01` 42.534 + `20241011-02` 18.882, ST 24036 Schul-Hardware); **Craftsmen Industries** ca. 60 k€ = TMA/SMSP-Vendor, nicht Factory; BASF 58 k€ (14 Rechnungen); Schwarz IT 51 k€; Holcim 50 k€ (Twin+Abo); THW 21 k€ (`202309`); Evonik 19 k€ 2019; Omexom 18 k€ 2026; DLR 24 k€ 2021; **Feishu China** 28 k€ 2026 = TUHH-China-Outdoor-Lab; TikTok/Bytedance 18 k€ 2025 — keine neuen Eignungsslots.
 
 **Reschke Productions GmbH:** FA-Kontakt intern ca. 137 k€. **Interne Verrechnung**, kein Kunde. Nicht in `projects.md`, nicht in Eignung, nicht als Referenz.

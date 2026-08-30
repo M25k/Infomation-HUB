@@ -217,3 +217,31 @@ GF: Große Firmen (Currenta u. a.) haben oft **verschiedene Ansprechpartner und 
 
 Holcim: WT-Turm Höver + GodView-Abo (Asana bis 07/2028), FA ~50 k€, nicht nur 1.600 €. LoI Holcim AI-Inspect nur Entwurf. Sony-Mail 20250304-01 = FA 20250307-02. BfS 3621S42350 / ~204 k€. TikTok/Bytedance 4 Devices NY, ~18 k€. Dräger Custom intern ~200 k€. Offen: PSG-Henkel-Mix, Craftsmen, Neuss, Feishu.
 
+## Pass 37 — 2026-08-30 (Gmail-Loop Craftsmen/Feishu)
+
+**Craftsmen Industries** (US): SMSP Mission Day mit TMA, Vertrag 06/2023, `20230616-01`. FA ~60 k€ = Vendor-Kanal, kein Factory-Kunde.
+
+**Feishu China**: TUHH-Outdoor-Lab AR/VR + Sensor-CSV (Nevermann/Shokri), FA ~28 k€. Nicht Lark-Office.
+
+Rhein-Kreis Neuss weiter ohne Mail-Beleg. PSG/Henkel offen.
+
+## Pass 38 — 2026-08-30 (Gmail-Loop Henkel-POs / BASF)
+
+SoftwareONE **DEC-PO-526042** = mobiles FFVR-Setup für **Henkel** (Übergabe persönlich). Renewal-Quote DEC-PPQ-381162 = Henkel, kein neuer Auftrag. PSG 4503615550 bleibt PO. Eignung **80 k€**. Kanal-Summe nicht.
+
+BASF: ICE-Rechnungen 2021; letzter Auftrag 03/2023; EMPL-Custom Rejected; 2025/26 nur Wiedervorlage. FA ~58 k€ intern, kein Eignungsvolumen. Neuss weiter leer.
+
+## Pass 39 — 2026-08-30 (Gmail-Loop Neuss / Wilhelmshaven)
+
+**Rhein-Kreis Neuss ST 24036:** Schul-VR-Hardware (nicht Werkfeuer). Zuschlagsfrist 15.07.2024. Drive `20240930-01` 42.534 € netto (60 Pico 4 Enterprise) + `20241011-02` 18.882 € (Formcase). **61.416 €** = FA ~61 k€. Kein Eignungsslot. Keine Serien ins Git.
+
+**Wilhelmshaven:** AG **Wilhelmshaven Touristik & Freizeit GmbH** (87-21), ND Nachunternehmer von amatik (02.11.2021). Keine Stadt-Rechnung erwartet. Mappe 70 k€ bleibt.
+
+## Pass 40 — 2026-08-30 (Gmail-Loop 1Komma5 / Rheinkalk / Hi-Fog)
+
+**1Komma5:** monatliche Showroom-Wartung, nicht drei Einzelrechnungen. Extra Malmö/Schwedisch, Cell Solar Nordic, Touch Table. FA 22 / ~214 k€ intern. `202507-01` 09/2025 bezahlt.
+
+**Rheinkalk:** NDA 11.12.2018; drei Rechnungen **26.400 €** netto. Steinbruch, nicht Factory.
+
+**Bayer Hi-Fog:** Ordner „3336“ = **33.336 €** netto `20230629-01`, PO 2150948372, GEB 166. v1.1.9 ungenutzt; Reaktivierung nur Angebot.
+

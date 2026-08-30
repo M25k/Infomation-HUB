@@ -19,7 +19,7 @@ Immer ausschließen: `from:asana.com`, Vergabe-Newsletter, Promotions, WordPress
 | Bayer 2026 Pipeline (Mais, Vials, Gewächshaus) | erledigt | 21 |
 | Currenta Absender (Lieferant 37966, POs, Befliegung) | Inventar, keine Volumensumme | 21 |
 | RWE PO | nur Kontaktformular 03/2021 Probeanmeldung; keine PO | 23 |
-| Henkel Absender (Tablet 2.0, VeSACh, Sprinkler, Ariba) | POs belegt (SoftwareOne DEC-PO-442523/526042, PSG 4503615550, Ariba 4577279489). **Kein** neues Volumen; Eignung bleibt ca. 80.000 € | 28 |
+| Henkel Absender (Tablet 2.0, VeSACh, Sprinkler, Ariba) | POs belegt (SoftwareOne DEC-PO-442523/526042, PSG 4503615550, Ariba 4577279489). 526042 = mobiles Setup, persönlich bei Henkel. Renewal DEC-PPQ-381162 = Quote. **Kein** neues Volumen; Eignung bleibt ca. 80.000 € | 28, 38 |
 | UKK Rechnungen 2023 (Meilensteine II/IV) | gelesen; plus MS III Instabiler Patient `20230731-01`, MS II auch `20220822-02`, Start `20220307-01`. Zuschlag **28.12.2021** | 21, 27 |
 | EIC NKS 04.08.2026 | gelesen; **Anlauf auf 2027 verschoben** (GF 28.08., Asana-Kommentar) | 21–22 |
 | Stadt Köln GIS / Dom 09.2025 | gelesen | 21 |
@@ -36,8 +36,10 @@ Immer ausschließen: `from:asana.com`, Vergabe-Newsletter, Promotions, WordPress
 | UKK Station / Pulse / ARiNeP volle Historie | Pulse-Eval 06.12.2021, Zuschlag 28.12.2021, drei Szenarien inkl. Station. ARiNeP-Rechnung UKFFM. Station-Produktseite weiter Frontiers | 27 |
 | Traumzauberbaum / FD Sojus / HO3RRAUM ??? | TZB Rendering HO3RRAUM 2022; Sojus LWL/Berlin 2017–18; Singende Schlange Sony 20221219-01 | 30 |
 | FA-Abgleich Drive/Asana (Holcim, BfS, Sony, TikTok) | Holcim WT-Turm+Abo; BfS 3621S42350; Sony-Mail=FA-Nummer; TikTok NY 4 Devices | 36 |
+| Rhein-Kreis Neuss / Wilhelmshaven-AG | Neuss ST 24036 = 61.416 € Schul-Hardware. WHV AG = WTF GmbH, ND über amatik | 39 |
+| 1Komma5 / Rheinkalk / Bayer Hi-Fog | 1K5 monatlich, FA ~214 k€. Rheinkalk 26.400 € belegt. Hi-Fog `20230629-01` 33.336 € | 40 |
 
-Nächster Tick: PSG/SoftwareONE-Zeilen gegen Henkel; oder Craftsmen / Neuss / Feishu. Sony-Mail vs. FA geschlossen.
+Nächster Tick: Rejected-Estimates-Archiv oder restliche 1K5-Jahre 2022–23. Hi-Fog-Volumen und Rheinkalk-Kern geschlossen.
 
 ## Schreibregel
 

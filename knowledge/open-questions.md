@@ -70,11 +70,11 @@ Geklärt durch GF: **FA-Beträge sind richtig**, außer Förderung.
 - Sony `20250304-01` (Mail) = FA `20250307-02`. Salztote weiter `20250806-01`, `20251022-01`.
 - Holcim 50 k€ = Twin Höver + GodView-Abo, nicht eine Rechnung. LoI AI-Inspect Holcim **nicht** unterschrieben.
 - BfS 204 k€ intern (3621S42350). TikTok/Bytedance 18 k€ = Kits, kein Eignungsslot.
-- **PSG / SoftwareONE:** große FA-Summen. Welche Zeilen sind Henkel-Werkfeuer (Eignungsslice bisher 80 k€)? Offen, weil der Kanal mehrere Kunden mischen kann — Gesamtsumme erst, wenn die Zeilen Henkel sind.
+- **PSG / SoftwareONE:** DEC-PO-442523 / 526042 und PSG 4503615550 sind **Henkel**. Kanal-Gesamtsumme weiter nicht addieren (andere Kunden möglich). Eignung **ca. 80.000 €**.
 - **Reschke Productions GmbH:** geklärt GF 30.08.2026 — interne Verrechnung, **keine** Kundenreferenz / Eignung.
 - **Großkunden:** Gesamtsumme (FA) erlaubt; Workstreams getrennt halten. Currenta ca. 685 k€ gilt als Kundenbeziehung, nicht als ein Los.
 - Fördermittel weiter nur [grants.md](grants.md).
-- Noch dünn nach Drive/Mail/Asana: **Craftsmen**, **Rhein-Kreis Neuss**, **Feishu**, BASF-Positionen. FA-MCP in dieser Session ohne Token — Destillat 30.08. gilt.
+- Craftsmen, Feishu, BASF-ICE-2021, Neuss ST 24036, WHV-WTF, **Rheinkalk-Kern** und **Hi-Fog 33.336 €** geschlossen. 1Komma5 2022–23 weiter dünn. PSG-Kanal-Summe nicht addieren.
 
 ### Gmail-Tiefenpass restliche Slices
 

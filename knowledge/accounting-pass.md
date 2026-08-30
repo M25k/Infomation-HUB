@@ -24,18 +24,22 @@ Start 30.08.2026. Inventar: **854** Rechnungen, **991** Estimates, **665** Konta
 | Dräger Custom | Inventar ~200 k€ intern | 33 |
 | sonnen 2015–23 | Inventar | 33 |
 | Actemium / VINCI / AC-Familie | Inventar | 33 |
-| amatik / Wilhelmshaven-Mappe 70 k€ | amatik-Jahre da; Stadt-WHV-Rechnung offen | 33 |
+| amatik / Wilhelmshaven-Mappe 70 k€ | AG WTF GmbH; ND über amatik; keine Stadt-Rechnung | 39 |
 | Planetarien / Fulldome / Schiffshebewerk | teilweise (Bochum/Berlin/Hamburg in FA) | 33 |
 | Regel: FA-Zahlen gelten außer Förderung | geklärt GF 30.08.2026 | 33 |
 | Reschke Productions | erledigt: interne Verrechnung, keine Referenz | 34 |
-| PSG / SoftwareONE vs. Henkel-80 k€-Slice | offen | — |
+| PSG / SoftwareONE vs. Henkel-80 k€-Slice | POs 442523/526042/4503615550 = Henkel; Kanal-Summe nicht | 38 |
 | Holcim / BfS / Sony-Mail / TikTok gegen Drive+Asana | Holcim Twin+Abo; BfS 3621S42350; Sony-Mail=FA; TikTok NY | 36 |
-| Bayer / BASF / Rheinkalk / Craftsmen Positionen | offen | — |
+| Craftsmen Industries | TMA/SMSP-Vendor, ~60 k€, nicht Factory | 37 |
+| Feishu China | TUHH-Outdoor-Lab, ~28 k€ | 37 |
+| BASF ICE 2021 + Wiedervorlage | intern ~58 k€; EMPL Rejected; kein Eignungsvolumen | 38 |
+| Bayer Hi-Fog / Rheinkalk | Hi-Fog 33.336 €; Rheinkalk 26.400 € belegt | 40 |
 | Estimates Rejected-Archiv (398) | offen | — |
-| 1Komma5 volle Historie | offen | — |
-| Wilhelmshaven als Stadt- vs. amatik-Rechnung | offen | — |
+| 1Komma5 volle Historie | monatlich + 2024–25 Refs; ~214 k€ intern; 2022–23 weiter dünn | 40 |
+| Wilhelmshaven als Stadt- vs. amatik-Rechnung | geschlossen: AG WTF, FA über amatik | 39 |
+| Rhein-Kreis Neuss ST 24036 | 61.416 € netto Schul-Hardware | 39 |
 
-Nächster Tick: PSG/SoftwareONE-Positionen (Henkel?); Craftsmen / Neuss / Feishu; Wilhelmshaven-Beleg.
+Nächster Tick: 1Komma5 2022–23 oder Rejected-Estimates.
 
 ## Schreibregel
 

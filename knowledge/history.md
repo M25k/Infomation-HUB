@@ -49,9 +49,9 @@ Viele Lose, **verschiedene Ansprechpartner**. FA-Gesamt ca. **685 k€** (Kunden
 | Evonik - GIS 3D | 2019 | 5 | Site-Name Factory |
 | Bayer - Handtracking | 2020 | 8 | |
 | Bayer Crop Science Monheim | 2022 | 26 | |
-| BAYER Berlin - Hi-Fog | 2022 | 109 | Sprinkler öffentlich Case |
+| BAYER Berlin - Hi-Fog | 2022 | 109 | öffentlich Case. `20230629-01` **33.336 €** netto, PO 2150948372. v1.1.9 09/2025 ungenutzt |
 
-BASF: kein eigenes Archived-Board. Intern 2022–23 External Collaboration / Digitalization Partners (Heike Seitz); Angebot Mesh-Modell `20230207-01`; Thread „VR für Operator Training bei der BASF“ 01/2023 (Merck-Kontakte im CC). Site-Name ja, **kein** Eignungsvolumen.
+BASF: kein eigenes Archived-Board. Rechnungen 2021 an ICE_0050; letzter Auftrag intern 03/2023. EMPL-Tanklöschfahrzeug **Rejected**. 2025/26 Schiller/Hartauer nur Wiedervorlage. FA ca. 58 k€ intern, **kein** Eignungsvolumen.
 
 ## Dräger, Henkel, THW, Framatome, RWE, Omexom
 
@@ -120,7 +120,7 @@ ElevenVoice gilt **nicht** für Fulldome-Shows und VR-Stadttouren.
 | Amatik - Lehrer VR | 2020 | 142 | |
 | Amatik - Quizze | 2020 | 35 | |
 | Amatik - SteuerVR | 2021 | 40 | |
-| Amatik - WilhelmshavenVR | 2021 | 123 | Eignung Havenspuren ca. 70.000 € |
+| Amatik - WilhelmshavenVR | 2021 | 123 | Havenspuren; AG WTF GmbH, ND Nachunternehmer amatik. Mappe/Eignung ca. 70.000 € |
 | Trier - VR | 2022 | 310 | Treverer Code, FA **142.920 €** Paid |
 | Amatik - LKN | 2022 | 86 | |
 | Amatik - LaZuF | 2022 | 40 | |
@@ -137,6 +137,8 @@ ElevenVoice gilt **nicht** für Fulldome-Shows und VR-Stadttouren.
 | PHH - Planetenreise | 2023 | 20 | |
 
 Landtag zusätzlich Mail: RV **2024–2027** Schleswig-Holsteinischer Landtag × amatik (Web-Zeitreise) — intern laufend, Board oben archiviert.
+
+Rhein-Kreis Neuss: kein Archived-Board. **ST 24036** Schul-VR-Hardware 2024, zwei Rechnungen **61.416 €** netto. Nicht Factory/FFVR.
 
 DDF **Und die Salztote**: Visuals-Vertrag Sony Music **01.02.2025** (nicht das Asana-Board `Sony - ??? - Das Dorf der Teufel` 2019).
 
@@ -159,8 +161,8 @@ Mail-Lücken ohne Asana-Board (Details in projects.md): **Traumzauberbaum** HO3R
 | Sonnen | 2018 | 7 | |
 | Sonnen - Videos | 2020 | 9 | |
 | Sonnen - Videos (2023) | 2023 | 1 | Rechnung sonnenFlat intern |
-| Lhoist - Präsentationsapplikation | 2019 | 20 | |
-| 1Komma5 - Generelles | 2022 | 130 | Touch Cube Hamburg/Lingen; Rechnungen intern 20241202-01, 20250305-01, 202507-01 (Mahnung 4.712,40 € = eine Rechnung) |
+| Lhoist - Präsentationsapplikation | 2019 | 20 | Rheinkalk; NDA 11.12.2018; drei Drive-Rechnungen 26.400 € netto belegt |
+| 1Komma5 - Generelles | 2022 | 130 | monatliche Showroom-Wartung; FA ~214 k€ / 22 Rechnungen intern |
 | egeb - Itzehoe | 2022 | 29 | |
 | KiWi - Strandort | 2022 | 25 | Tippfehler im Board-Namen |
 | Kindswater Online 3D Viewer | 2021 | 7 | |

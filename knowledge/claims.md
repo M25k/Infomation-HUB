@@ -68,7 +68,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Claim | Stufe | Quelle |
 |---|---|---|
 | Blicksteuerung Wilhelmshaven 2021/22, Trier, Hannover | intern | UKSH-Mappe |
-| Volumina Wilhelmshaven ca. 70 k€ (Mappe); Trier **142.920 €** FA; Hannover ca. 55 k€ (Mappe, 2026 amatik 40.600 € bisher) | intern | Trier = FA Paid `20221209-01`+`20230906-02`. 80 k€-Mappe für Trier verworfen |
+| Volumina Wilhelmshaven ca. 70 k€ (Mappe); Trier **142.920 €** FA; Hannover ca. 55 k€ (Mappe, 2026 amatik 40.600 € bisher) | intern | WHV: AG WTF GmbH, FA über amatik, keine Stadt-Rechnung. Trier = FA Paid `20221209-01`+`20230906-02`. 80 k€-Mappe für Trier verworfen |
 | 5+ Touren, 50.000+ Besucher | öffentlich | storywalx.com |
 | 3+ Städte, 100+ Headsets | intern | Deck |
 | Partnerschaft amatik | öffentlich | storywalx.com |
@@ -88,6 +88,8 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Spearhead: Auftraggeber **The Marketing Arm (TMA)**, Teil von Omnicom, für US-National-Guard-Trainings; Playground-Sonderversion Kosovo (Streitkräfte, Headsets Osten) | intern, **kanonisch** (2026-08-26) | GF. Kognita → Interadria; FA `20241220-03` **18.160 €** (20 × 800 € Lizenzen + 2 PT). Mail „10 Quest“ ist nicht der FA-Betrag. Site-/Deck-Zahlen nicht verwenden. Nicht pauschal „Auftrag US Army“. |
 | National-Guard-Lieferung intern: kombinierte Unreal-App **State of Emergency** (u. a. HAZMAT, RIVER, AIRTRAF/COPTER, URBTANK; Asana „5 Apps in ein Unreal-Projekt“) | intern | Asana-Projekt `USA - National Guard - General` (archiviert). Öffentliches NG-Recruiting **Disasterville** **nicht** als Northdocks-Lieferung behaupten |
 | TMA FY26 Consolidation: fünf SOE-Apps in eine Meta-Store-App, **25.000 €**, Estimate V4 signed 25.03.2026 | intern | FA `20260326-03` Overdue, 20 × 1.250 €. Mail „25.000 USD“ verworfen. Slice, nicht Eignung, nicht Army-Auftragswert |
+| Craftsmen ~60 k€ als Factory-Kunde | **nicht verwenden** | FA-Kontakt = US-Vendor SMSP/TMA (`20230616-01`). Nicht nextfactoryvr, nicht Eignung, nicht zu TMA-726 k€ addieren |
+| Feishu 28 k€ als ByteDance-Office / neues Produkt | **nicht verwenden** so | Outdoor-Lab China mit TUHH (Sensor-CSV/AR). Nicht Lark-Suite |
 
 ## Forschung
 
