@@ -22,6 +22,12 @@ Wöchentliche **öffentliche Ausschreibungen** (nur Kompetenz-Match):
 - Startsatz: „Starte den wöchentlichen Ausschreibungs-Scan“
 - Ablauf und Filter: [knowledge/tender-scan.md](knowledge/tender-scan.md)
 
+Wöchentliche **verlorene Leads** (Wiederaufnahme, nicht der Gmail-Tiefenpass):
+
+- [`.cursor/skills/lost-leads/SKILL.md`](.cursor/skills/lost-leads/SKILL.md)
+- Startsatz: „Starte den wöchentlichen Lost-Lead-Scan“
+- Ablauf und Filter: [knowledge/lost-leads.md](knowledge/lost-leads.md)
+
 Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 
 ## Inhalt
@@ -43,6 +49,8 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 | [knowledge/document-rules.md](knowledge/document-rules.md) | Wie Dokumente geschrieben werden |
 | [knowledge/tender-scan.md](knowledge/tender-scan.md) | Wöchentlicher Scan öffentlicher Ausschreibungen (Kompetenzfilter) |
 | [knowledge/tender-runs/](knowledge/tender-runs/) | Ergebnisse der Wochenläufe |
+| [knowledge/lost-leads.md](knowledge/lost-leads.md) | Wöchentlicher Scan stiller Verkaufs-/Anfrage-Threads (Wiederaufnahme) |
+| [knowledge/lost-leads/](knowledge/lost-leads/) | Ergebnisse der Lost-Lead-Wochenläufe |
 | [knowledge/open-questions.md](knowledge/open-questions.md) | Widersprüche und offene Punkte |
 | [knowledge/gmail-pass.md](knowledge/gmail-pass.md) | Laufender Gmail-Tiefenpass: Coverage, Filter, nächste Slices |
 | [knowledge/websites/](knowledge/websites/README.md) | Struktur und Copy-Regeln je Domain |
