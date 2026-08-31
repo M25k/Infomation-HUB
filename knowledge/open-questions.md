@@ -68,13 +68,13 @@ Geklärt durch GF: **FA-Beträge sind richtig**, außer Förderung.
 - Kosovo-Betrag = **18.160 €** FA. Mail „10 Quest“ ist keine FA-Zahl — Stückzahl Hardware vs. 20 Lizenzzeilen weiter offen.
 - IMS vs. mekontor bei `20260807-02`: FA sagt mekontor — gilt für den Beleg. Ob intern trotzdem IMS der Reseller war, offen.
 - Sony `20250304-01` (Mail) = FA `20250307-02`. Salztote weiter `20250806-01`, `20251022-01`.
-- Holcim 50 k€ = Twin Höver + GodView-Abo, nicht eine Rechnung. LoI AI-Inspect Holcim **nicht** unterschrieben.
-- BfS 204 k€ intern (3621S42350). TikTok/Bytedance 18 k€ = Kits, kein Eignungsslot.
+- Holcim: Twin 47.162 € + Abo 3.200 € belegt (**50.362 €**). LoI AI-Inspect Holcim **nicht** unterschrieben. Restliche Abo-Jahre bis 07/2028 noch nicht alle berechnet.
+- BfS 204 k€ intern (3621S42350). TikTok UK `20250217-02` 18.261,70 ≈ FA ~18 k€. NY `20250606-01` 14.801,36 ist **anderes Legal** — nicht zur 18-k€-Zeile addieren, bis FA-Kontakte nach Auth getrennt sind.
 - **PSG / SoftwareONE:** DEC-PO-442523 / 526042 und PSG 4503615550 sind **Henkel**. Kanal-Gesamtsumme weiter nicht addieren (andere Kunden möglich). Eignung **ca. 80.000 €**.
 - **Reschke Productions GmbH:** geklärt GF 30.08.2026 — interne Verrechnung, **keine** Kundenreferenz / Eignung.
 - **Großkunden:** Gesamtsumme (FA) erlaubt; Workstreams getrennt halten. Currenta ca. 685 k€ gilt als Kundenbeziehung, nicht als ein Los.
 - Fördermittel weiter nur [grants.md](grants.md).
-- Craftsmen, Feishu, BASF-ICE-2021, Neuss ST 24036, WHV-WTF, **Rheinkalk-Kern** und **Hi-Fog 33.336 €** geschlossen. 1Komma5 2022–23 weiter dünn. PSG-Kanal-Summe nicht addieren.
+- Craftsmen 42.250 € + 17.472,30 USD, Feishu `20260619-03` 28.358 €, BASF, Neuss, WHV-WTF, Rheinkalk, Hi-Fog, 1Komma5-Abschläge, Schwarz IT, Holcim-Twin/Abo, THW, Evonik 2019, Omexom A270, DLR Dieburg, TikTok-Legal-Split und Planetarien-AGs geschlossen. **FA Rejected 398** erst nach `npx freeagent-mcp-server auth`. PSG-Kanal-Summe offen. TikTok-NY nicht zur 18-k€-Zeile.
 
 ### Gmail-Tiefenpass restliche Slices
 

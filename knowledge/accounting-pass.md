@@ -34,12 +34,25 @@ Start 30.08.2026. Inventar: **854** Rechnungen, **991** Estimates, **665** Konta
 | Feishu China | TUHH-Outdoor-Lab, ~28 k€ | 37 |
 | BASF ICE 2021 + Wiedervorlage | intern ~58 k€; EMPL Rejected; kein Eignungsvolumen | 38 |
 | Bayer Hi-Fog / Rheinkalk | Hi-Fog 33.336 €; Rheinkalk 26.400 € belegt | 40 |
-| Estimates Rejected-Archiv (398) | offen | — |
-| 1Komma5 volle Historie | monatlich + 2024–25 Refs; ~214 k€ intern; 2022–23 weiter dünn | 40 |
+| Estimates Rejected-Archiv (398) | FA ohne Tokens; Mail-Absagen Wunsiedel/Eichstätt; Gendorf 142.190 bleibt | 42 |
+| 1Komma5 volle Historie | 2022 Aufbau + 2023 Tage + 2024+ Stunden; ~214 k€ intern | 41 |
+| 1K5 51.520 drei Abschläge | vollständig: `20220223-01` 12.880 + `20220607-03` 25.760 + `20220807-04` 12.880 | 44 |
 | Wilhelmshaven als Stadt- vs. amatik-Rechnung | geschlossen: AG WTF, FA über amatik | 39 |
 | Rhein-Kreis Neuss ST 24036 | 61.416 € netto Schul-Hardware | 39 |
+| Schwarz IT / XM Fulldome | `20230321-01` 51.400 € netto; PO 2000456014 Plan 41.520; FA ~51 k€ | 44 |
+| Holcim Twin vs. Abo | Twin 47.162 € (drei Rechnungen); Abo 1.600 €/Jahr (`20250120-01`+`20250829-02`); Summe 50.362 € | 45 |
+| THW `202309` | `20230906-01` 21.000 € netto Paid; LV BEBBST; 2 Kits | 45 |
 
-Nächster Tick: 1Komma5 2022–23 oder Rejected-Estimates.
+| Evonik 2019 | `20190828-01` 14.400 + `20190926-01` 4.320 = 18.720 € netto | 46 |
+| Omexom A270 2026 | `20260415-02` 17.900 € Paid; PO 941828791. FR 2022 8.640 separat | 46 |
+| DLR Dieburg 2021 | PO X/369/67300871 24.040 €; `20210922-02` 8.013,33 + `20211118-01` 16.026,67 | 47 |
+| Feishu Shanghai | `20260619-03` 28.358 €; Quote `20260112-01` | 48 |
+| TikTok zwei Legal | UK 18.261,70 (`20250217-02`); NY 14.801,36 (`20250606-01`) separat | 49 |
+| Planetarien drei AGs | Berlin 13.440; Bochum 39.840; Hamburg 24.192 | 50 |
+| Craftsmen zwei Rechnungen | 42.250 € + 17.472,30 USD | 51 |
+| Extreme E / Pico | 5.000 € Sardinia; 2.880 € Re-Cut | 52 |
+
+Nächster Tick: HENRICH Ukraine. FA-Rejected nach Auth. Loop ohne Pause.
 
 ## Schreibregel
 

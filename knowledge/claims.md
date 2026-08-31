@@ -108,7 +108,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Zweiter EPIC Mega Grant „Cologne Cathedral VR Tools“ | **nicht verwenden** als Zuschlag | Bewerbung/Review 2021, kein Award-Mail |
 | VITA-GUARD-RETTUNGSSCHULE, 10 FFVR-Setups | intern | Asana FFVR-Kits + Mail Tomczak 22.08.2026 (Nachsendung Kopfbänder). Nicht öffentlich listen ohne Bedarf |
 | Berliner Feuerwehr Zuschlag VG 2026-199 VR Brillen Set (30.06.2026) | intern | Mail Zentrale Vergabestelle. Hardware-Los. FA u. a. `20251002-01` 2.916 €, `20260701-01` 4.302 € — nicht Meißen-Eignung |
-| Holcim GodView ca. 50 k€ Kontakt / nur 1.600 € Höver-Rechnung | intern | FA-Kontakt ca. 50 k€ = Twin + Abo. Einzeln `20250120-01` 1.600 €. LoI AI-Inspect Holcim nur Entwurf |
+| Holcim GodView ca. 50 k€ Kontakt / nur 1.600 € Höver-Rechnung | intern | Drive Twin+Abo **50.362 €** (drei Twin-Rechnungen + zwei Abo-Jahre). `20250120-01` ist Abo Jahr 1, nicht das Twin. LoI AI-Inspect Holcim nur Entwurf |
 | BfS Strahlenschutz FA ca. 204 k€ | intern | Ausschreibung 3621S42350, Vertrag 08/2021. AP2/AP3 in accounting.md. Nicht neues Eignungsvolumen, Produktlinie StrahlenschutzVR |
 | FirefighterVR Playground auf Meta Store (genehmigt 28.07.2025) | intern | Meta-Einreichung von Planspiel |
 

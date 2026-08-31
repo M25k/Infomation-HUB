@@ -38,8 +38,19 @@ Immer ausschließen: `from:asana.com`, Vergabe-Newsletter, Promotions, WordPress
 | FA-Abgleich Drive/Asana (Holcim, BfS, Sony, TikTok) | Holcim WT-Turm+Abo; BfS 3621S42350; Sony-Mail=FA-Nummer; TikTok NY 4 Devices | 36 |
 | Rhein-Kreis Neuss / Wilhelmshaven-AG | Neuss ST 24036 = 61.416 € Schul-Hardware. WHV AG = WTF GmbH, ND über amatik | 39 |
 | 1Komma5 / Rheinkalk / Bayer Hi-Fog | 1K5 monatlich, FA ~214 k€. Rheinkalk 26.400 € belegt. Hi-Fog `20230629-01` 33.336 € | 40 |
+| 1Komma5 2022–23 Aufbau | Angebot 51.520 €; Videos 40.470; Hamburg/Lingen/Berlin. 2023: 9.538 + 9.600 | 41 |
+| Rejected-Estimates / Vergabe-Absagen | FA 398 ohne Tokens. Mail: Wunsiedel + Eichstätt 2024 verloren. Gendorf 142.190 bleibt andere Zahl | 42 |
+| Schwarz IT / 1K5-Rest 25 % | Schwarz `20230321-01` 51.400 € = FA ~51 k€. 1K5 51.520 vollständig (`20220223-01` war der fehlende 25 %) | 44 |
+| Holcim Twin vs. Abo / THW 202309 | Holcim Drive 50.362 € (Twin 47.162 + Abo 3.200). THW `20230906-01` 21.000 € Paid | 45 |
+| Evonik 2019 / Omexom 2026 | Evonik 18.720 € (`20190828-01`+`20190926-01`). Omexom A270 `20260415-02` 17.900 € Paid | 46 |
+| DLR Campus Dieburg 2021 | PO X/369/67300871 24.040 €; `20210922-02` + `20211118-01`. xRechnung. Nicht TEMA | 47 |
+| Feishu Shanghai 2026 | Quote `20260112-01` 13.01.; `20260619-03` 28.358 € = FA ~28 k€ | 48 |
+| TikTok zwei Legal 2025 | UK `20250217-02` 18.261,70; Dublin NY `20250606-01` 14.801,36 Paid. Nicht addieren | 49 |
+| Planetarien Berlin/Bochum/Hamburg | 13.440 / 39.840 / 24.192 € — drei AGs, nicht addieren | 50 |
+| Craftsmen Rechnungen | `20230616-01` 42.250 € + `20230713-01` 17.472,30 USD | 51 |
+| Extreme E / Pico Immersive | `20231122-01` 5.000 €; `20230612-01` 2.880 € | 52 |
 
-Nächster Tick: Rejected-Estimates-Archiv oder restliche 1K5-Jahre 2022–23. Hi-Fog-Volumen und Rheinkalk-Kern geschlossen.
+Nächster Tick: HENRICH / PE HENRICH Ausgangsbuch 2023. FA-Rejected-Dump erst nach Auth. Kein Pause bis Nutzer stoppt.
 
 ## Schreibregel
 

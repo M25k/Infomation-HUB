@@ -85,7 +85,7 @@ Netto = FreeAgent `net_value`. Status 30.08.2026. Keine neuen Eignungsvolumina a
 | `20241202-02` | Ainavio | 810 € netto, Paid, 02.12.2024 |
 | `20241220-03` | Kognita / Kosovo, 10 Quest | 18.160 € netto, Paid, 20.12.2024 — kein Eignungsslot |
 | `20250113-01` | Atos Medical | 4.400 € netto, Paid, 13.01.2025, Kontakt **Coloplast GmbH** |
-| `20250120-01` | Holcim Höver | 1.600 € netto, Paid, 20.01.2025 — kein Eignungsslot |
+| `20250120-01` | Holcim Höver Abo Jahr 1 | 1.600 € netto, Paid, 20.01.2025 — GodView Unlimited, PO 4502769747 |
 | `20250203-01` | Ainavio | 1.350 € netto, Paid, 03.02.2025 |
 | `20250304-01` | DDF / Sony Salztote (Mail-Betreff Simona 04.03.2025) | FA-Nummer **`20250307-02`** 7.560 € Paid — nicht als fehlend behandeln |
 | `20250305-01` | 1Komma5 | 1.200 € netto, Paid, 05.03.2025 |
@@ -108,7 +108,7 @@ UKK acht Rechnungen **328.403 €** Paid (gilt). KI 40 k€ nicht in FA. Henkel-
 | Universitätsklinikum Köln | 8 | 328.403 € | gilt; KI 40 k€ extra, nicht in FA |
 | PSG Procurement + SoftwareONE + Henkel direkt | 56+5+14 | nicht addieren | Einkaufskanäle; Eignung **ca. 80 k€** bleibt |
 | sonnen GmbH | 50 | ca. 276 k€ | KB nur „Videos“, unterschätzt |
-| 1KOMMA5° | 22 | ca. 214 k€ | monatliche Showroom-Lose + Extras (Malmö); nicht ein Auftrag, nicht Eignung |
+| 1KOMMA5° | 22 | ca. 214 k€ | 2022 Aufbau (u. a. 40.470+28.451+34.870+7.100) + 2023 Tage + 2024+ Stunden; nicht ein Los |
 | Actemium Cegelec West | 14 | ca. 210 k€ | Infinity/ACHEMA-Linie |
 | Bundesamt für Strahlenschutz | 4+ | ca. 204 k€ | AP2 `20221114-01` 123.550 €; AP3 `20230913-01` 34.454 € — intern, nicht neues Eignungsvolumen |
 | Dräger Safety Rechnungsstelle | 16 | ca. 200 k€ | KB „kein Volumen“; intern belegt, nicht Website |
@@ -137,11 +137,11 @@ UKK acht Rechnungen **328.403 €** Paid (gilt). KI 40 k€ nicht in FA. Henkel-
 
 **Sony.** Mail `20250304-01` = FA `20250307-02` 7.560 €. Weiter `20250806-01` 7.560 €, `20251022-01` 13.440 € (Wolfsburg-4K). `20221219-01` 1.240 € = ???-Rendering, anderes Los.
 
-**Holcim.** Kontakt ca. 50 k€ = WT-Turm Höver (Scan/BIM/GodView) **plus** GodView-Abo (Asana bis 07/2028), nicht nur `20250120-01` 1.600 €. Ansprech Karsten Becker. LoI AI-Inspect Holcim nur Drive-Entwurf.
+**Holcim.** Drive Twin+Abo **50.362 €** ≈ FA ~50 k€. Twin: `20240603-08` 10.800 + `20240627-01` 12.602 + `20240807-01` 23.760. Abo 1.600 €/Jahr: `20250120-01` + `20250829-02`. PO-Abo 4502769747; Twin-POs 4502571109 / 4502630049. LoI AI-Inspect nur Entwurf.
 
 **BfS.** Ausschreibung **3621S42350**, Vertrag 08/2021 (Meister). Summe ca. 204 k€ intern, Produktlinie StrahlenschutzVR.
 
-**TikTok / Bytedance.** FA ca. 18 k€ 2025 = FFVR-Geräte (Asana Bestellung + 4 Devices New York). Kein Eignungsslot.
+**TikTok / Bytedance.** Zwei Legal, zwei Rechnungen. UK Ltd `20250217-02` **18.261,70 €** (PO25030300594, 5 Kits London/Dubai) ≈ FA ~18 k€. Dublin `20250606-01` **14.801,36 €** (PO25051300070, 4 Kits NY, Paid 10.07.2025) **nicht** zur 18-k€-Zeile addieren. Kein Eignungsslot.
 
 **VITA-GUARD.** Approved-Angebot `20260805-03`: 10 × FirefighterVR-Kit 2.750 €, 10 × Feuerlöscher 449 €, ohne ÜbungsLöscher −150 €/Stück, **10 Monatsraten à 3.049 €**. Lieferung aller 10 nach Anzahlung. Rechnung `20260820-42` 27.441 €.
 
@@ -158,6 +158,14 @@ UKK acht Rechnungen **328.403 €** Paid (gilt). KI 40 k€ nicht in FA. Henkel-
 ### Offene / genehmigte Angebote (kein Auftrag)
 
 Nur merken, nicht als Referenz: Currenta CP Arena 2.0 106.920 € Open; HELIOS FFVR-Kauf 49.668 € Open; VR Synergy zwei FFVR-Offers ~74/60 k€; Actemium Merlin/Alton Towers 60.820 €; VITA-GUARD 30.490 € Approved (s. o.); THW-VR-01 11.740 €; John Deere Manheim 9.000 €; AKH Wien StrahlenschutzVR Mobile; Fresenius/Michelin/Kaufland FFVR-Kauf. Estimates: 403 Invoiced, 398 Rejected, 171 Open, 3 Approved, 16 Draft.
+
+### Rejected / Absagen (kein Volumen)
+
+FA-Liste der **398** Rejected-Estimates in diesem Pass **nicht** lesbar (keine Tokens). Kein Dump erfinden.
+
+Bereits kanonisch: InfraServ `20210223-BIT-Technikum-02` **142.190 €** Rejected ≠ Paid 80.000 €. BASF EMPL-Custom Asana **Rejected**. Kepler/XFEL anderer Anbieter. Dräger Mobile `20240429` ~2.965 € = Angebot, kein Zuschlag. John Deere 9.000 € bleibt **Open**, nicht Rejected.
+
+Mail-Absagen 2024 (Hardware-Vergabe, nicht Eignung, keine FA-Nummer hier): Landkreis **Wunsiedel** `24-L-0077-LRA` VR-Brillen (09.04.2024); Landratsamt **Eichstätt** `LRA-2024-MZ-1` VR-Equipment (15.03.2024).
 
 ## Pass Historie 30.08.2026 (FA gilt)
 
@@ -181,6 +189,26 @@ Ohne Fördermittel. Paid/Refund, Drafts raus.
 
 **Bayer Hi-Fog:** `20230629-01` **33.336 €** netto (PO 2150948372). Ordner „3336“ falsch. Reaktivierung 15–25 k€ nur Angebot.
 
-**Weitere FA-Blöcke intern:** Rhein-Kreis Neuss **61.416 €** netto (`20240930-01` 42.534 + `20241011-02` 18.882, ST 24036 Schul-Hardware); **Craftsmen Industries** ca. 60 k€ = TMA/SMSP-Vendor, nicht Factory; BASF 58 k€ (14 Rechnungen); Schwarz IT 51 k€; Holcim 50 k€ (Twin+Abo); THW 21 k€ (`202309`); Evonik 19 k€ 2019; Omexom 18 k€ 2026; DLR 24 k€ 2021; **Feishu China** 28 k€ 2026 = TUHH-China-Outdoor-Lab; TikTok/Bytedance 18 k€ 2025 — keine neuen Eignungsslots.
+**1Komma5 2022–23:** Aufbau 2022 Angebot 51.520 € **vollständig** in drei Abschlägen (`20220223-01` 12.880, `20220607-03` 25.760, `20220807-04` 12.880) plus Videos `20220502-02` 40.470 €; 2023 `20230926-01` 9.538 € und `20231207-01` 9.600 €. Kontakt ~214 k€ bleibt Beziehung, nicht ein Los.
+
+**Schwarz IT / XM Cyber:** eine Rechnung `20230321-01` **51.400 €** netto (PO 2000456014 Plan 41.520,17 €; Ist inkl. Extra). FA ~51 k€ = diese Zeile. AG seit 01.03.2026 **Schwarz Digits IT KG**. Fulldome, kein Eignungsslot.
+
+**THW:** `20230906-01` **21.000 €** netto Paid (LV BEBBST, 2 Kits + Lizenzen). FA ~21 k€ = diese Rechnung. `THW-VR-01` 11.740 € bleibt Open.
+
+**Evonik 2019:** `20190828-01` 14.400 + `20190926-01` 4.320 = **18.720 €** netto (Ausgangsbuch brutto 17.136 + 5.140,80). FA ~19 k€. T&I GmbH / GIS-3D Marl.
+
+**Omexom 2026:** `20260415-02` **17.900 €** netto Paid (PO 941828791, A270). FA ~18 k€ = diese Rechnung. 2022 FR `20221124-01` 8.640 € ist anderes Legal.
+
+**DLR 2021:** eine PO **X/369/67300871** Campus Dieburg **24.040 €** netto (`20210922-02` 8.013,33 Paid 22.10. + `20211118-01` 16.026,67). FA ~24 k€ = diese Zeile. Nicht TEMA, nicht Lampoldshausen.
+
+**Feishu China 2026:** eine Rechnung `20260619-03` **28.358 €** (0 % USt, Quote `20260112-01`). FA ~28 k€ = diese Zeile. Outdoor-Lab Shanghai / TUHH-Template, nicht Lark-Office.
+
+**Planetarien (getrennt):** Berlin `20230123-01` 13.440 €; Bochum `20220920-01` 39.840 €; Hamburg `20231238` 24.192 € (`20230802-02` 8.064 + `20230921-01` 16.128). Nicht addieren, nicht Eignung.
+
+**Craftsmen:** `20230616-01` 42.250 € + `20230713-01` 17.472,30 USD. FA ~60 k€ bleibt Kontakt, nicht eine EUR-Summe erfinden.
+
+**Extreme E:** `20231122-01` **5.000 €** (Sardinia-Spesen, Vodafone recharge). **Pico Immersive:** `20230612-01` **2.880 €** (Re-Cut). Nicht Eignung.
+
+**Weitere FA-Blöcke intern:** Rhein-Kreis Neuss **61.416 €** netto; BASF 58 k€ (14 Rechnungen) — keine neuen Eignungsslots.
 
 **Reschke Productions GmbH:** FA-Kontakt intern ca. 137 k€. **Interne Verrechnung**, kein Kunde. Nicht in `projects.md`, nicht in Eignung, nicht als Referenz.

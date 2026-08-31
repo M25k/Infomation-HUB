@@ -46,7 +46,7 @@ Viele Lose, **verschiedene Ansprechpartner**. FA-Gesamt ca. **685 k€** (Kunden
 | AC - Kabel | 2021 | 69 | |
 | AC - Conntronic | 2023 | 63 | |
 | AC-Ruhrpumpen-BP | 2022 | 4 | dünn |
-| Evonik - GIS 3D | 2019 | 5 | Site-Name Factory |
+| Evonik - GIS 3D | 2019 | 5 | NDA 04/2019; `20190828-01`+`20190926-01` = 18.720 € netto. Site-Name Factory |
 | Bayer - Handtracking | 2020 | 8 | |
 | Bayer Crop Science Monheim | 2022 | 26 | |
 | BAYER Berlin - Hi-Fog | 2022 | 109 | öffentlich Case. `20230629-01` **33.336 €** netto, PO 2150948372. v1.1.9 09/2025 ungenutzt |
@@ -62,10 +62,12 @@ BASF: kein eigenes Archived-Board. Rechnungen 2021 an ICE_0050; letzter Auftrag 
 | Dräger - Katalog | 2021 | 112 | |
 | DrägerAssetsMobile | 2023 | 1 | |
 | Henkel - Tablett | 2021 | 6 | plus FFVR-Kits / VeSACh / Sprinkler. POs intern: SoftwareOne DEC-PO-442523 / 526042, PSG 4503615550, Ariba 4577279489. Eignung **ca. 80.000 €** (Kornetzky), keine neue Summe |
-| THW - Feuerlöscher | 2023 | 54 | Kickoff 24.07.2023 |
-| Omexom - Freileitungsbau | 2026 | 4 | archiviert 03/2026; dünn |
+| THW - Feuerlöscher | 2023 | 54 | `20230906-01` 21.000 € netto Paid; LV BEBBST; 2 Kits + 2-Jahres-Lizenz |
+| Omexom - Freileitungsbau | 2026 | 4 | A270; PO 941828791; `20260415-02` 17.900 € Paid. Board dünn |
 
 Framatome: **kein** Asana-Board. Lieferantenanlage 09/2024 (Thomas Kersten) für FFVR-Feuerlöscher. RWE: Site nextfactoryvr Security. Mail 29.03.2021: Udo Moll, Leiter Ausbildung Werkfeuerwehr **RWE Power AG**, Kontaktformular Probeanmeldung — **keine** PO von rwe.com in diesem Pass. Beide Factory nur als Randfall, kein Twin-Vollprojekt.
+
+**DLR Campus Dieburg (2021):** kein Asana-Board hier. AG DLR e.V. Köln; Nutzung h-da. PO **X/369/67300871** 08.07.2021, Angebot `20200915-1` V2. Twin **24.040 €** (`20210922-02` + `20211118-01`). PDF-Rechnungen zuerst für xRechnung zurück. TEMA-Partnerschaft und Lampoldshausen 2026 nicht dieser Job.
 
 Dräger 2024 zusätzlich: Angebot FirefighterVR Mobile Set (Gaeding/Kastens) — bestätigt Site-Namen, kein neues Volumen.
 
@@ -127,13 +129,13 @@ ElevenVoice gilt **nicht** für Fulldome-Shows und VR-Stadttouren.
 | Amatik - LVermGeo | 2022 | 98 | |
 | LWL - Zeitreise 2 | 2022 | 13 | |
 | Superhelden der Tiefsee VR | 2018 | 2 | |
-| PB - Armstrong | 2018 | 76 | Zuschlag historisch |
+| PB - Armstrong | 2018 | 76 | Folge Berlin `20230123-01` 13.440 € netto (Korrekturen 01/2023) |
 | Black Hole | 2019 | 1 | |
 | ND - Mars2020 | 2019 | 7 | |
 | Sony - ??? - Das Dorf der Teufel | 2019 | 21 | Die drei ???. Folge **Singende Schlange** 2022 ohne eigenes Board |
 | AR - Schiffshebewerk | 2021 | 33 | Zuschlag historisch |
 | SPACE EXHIBITION | 2022 | 2 | |
-| XM - Fulldome | 2022 | 22 | XM Cyber / Schwarz; CSC2023. Kepler-Profil **nicht** kanonisch |
+| XM - Fulldome | 2022 | 22 | AG Schwarz IT KG; PO 2000456014; `20230321-01` 51.400 € netto. CSC2023. Kepler-Profil **nicht** kanonisch |
 | PHH - Planetenreise | 2023 | 20 | |
 
 Landtag zusätzlich Mail: RV **2024–2027** Schleswig-Holsteinischer Landtag × amatik (Web-Zeitreise) — intern laufend, Board oben archiviert.
@@ -162,7 +164,7 @@ Mail-Lücken ohne Asana-Board (Details in projects.md): **Traumzauberbaum** HO3R
 | Sonnen - Videos | 2020 | 9 | |
 | Sonnen - Videos (2023) | 2023 | 1 | Rechnung sonnenFlat intern |
 | Lhoist - Präsentationsapplikation | 2019 | 20 | Rheinkalk; NDA 11.12.2018; drei Drive-Rechnungen 26.400 € netto belegt |
-| 1Komma5 - Generelles | 2022 | 130 | monatliche Showroom-Wartung; FA ~214 k€ / 22 Rechnungen intern |
+| 1Komma5 - Generelles | 2022 | 130 | 2022 Aufbau: Angebot 51.520 € in drei Abschlägen vollständig (`20220223-01`/`20220607-03`/`20220807-04`) + Videos; 2023 Tagespakete; 2024+ monatlich. FA ~214 k€ |
 | egeb - Itzehoe | 2022 | 29 | |
 | KiWi - Strandort | 2022 | 25 | Tippfehler im Board-Namen |
 | Kindswater Online 3D Viewer | 2021 | 7 | |

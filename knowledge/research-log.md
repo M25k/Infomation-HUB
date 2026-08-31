@@ -245,3 +245,57 @@ BASF: ICE-Rechnungen 2021; letzter Auftrag 03/2023; EMPL-Custom Rejected; 2025/2
 
 **Bayer Hi-Fog:** Ordner „3336“ = **33.336 €** netto `20230629-01`, PO 2150948372, GEB 166. v1.1.9 ungenutzt; Reaktivierung nur Angebot.
 
+## Pass 41 — 2026-08-30 (Gmail-Loop 1Komma5 2022–23)
+
+2022 = Aufbau, nicht Wartung: Angebot 14.02.2022 **51.520 €** (75 % in `20220607-03`/`20220807-04` gesehen). Videos/Heartbeat `20220502-02` **40.470 €**, `20220502-03` **7.100 €**. Hamburg-Flagship, Lingen, Launch Berlin 04/2022. 2023 gebündelt: `20230926-01` 9.538 €, `20231207-01` 9.600 €. FA ~214 k€ bleibt Beziehung. Rejected-Estimates weiter offen.
+
+## Pass 42 — 2026-08-31 (Gmail-Loop Rejected/Absagen)
+
+FA **398** Rejected ohne Tokens — kein Dump. Mail: Wunsiedel `24-L-0077-LRA` und Eichstätt `LRA-2024-MZ-1` 2024 kein Zuschlag (Hardware, nicht Eignung). Gendorf 142.190 / BASF EMPL / Kepler bleiben wie bisher.
+
+## Pass 42 — 2026-08-30 (TEMA finance/runtime audit)
+
+Consortium Shared Drive + intern `TEMA Finanzen` + Annex 1/2 + RP1-FS. ND-Zuschuss **499.375 €**, 68 PM, Laufzeit **01.12.2022–30.11.2026**. Interne M1–M42 **517.616 € / 84,26 PM** über der Deckelung; Vorfinanzierung 241.365 €; RP1 offiziell 141.340 €; RP2 wegen ATOS→BULL verzögert. WP5-Lead ND. Keine Lohnzeilen ins Git. Canvas: `tema-finance-audit.canvas.tsx`.
+
+## Pass 43 — 2026-08-30 (Ahrtal XR-Session-Skript)
+
+Quellen: TAP BRK Pilot 2, Regiebuch `TEMA_BRK_Trial2_scenario.xlsx`, Margareta-Mail 27.08. General Information, Teilnehmerliste, Asana Pilot Testing 2 + Evaluierung XR Viewer. Skript: 7 Min. Runde 2 Altenahr S2/S3, 4 Min. Runde 3 Update; HTML in Downloads (nicht Git). Overspend M1–M42 bleibt geplanter Puffer.
+
+## Pass 46 — 2026-08-31 (Gmail-Loop Evonik / Omexom)
+
+**Evonik T&I:** NDA 01.04.2019. Ausgangsbuch `20190828-01` 17.136 brutto / 14.400 netto Paid 01.10.; `20190926-01` 5.140,80 / 4.320 Paid 29.11. Summe **18.720 €** ≈ FA ~19 k€. GIS-3D/VR-Bauvis. 2020/21 Folge ohne Beleg hier.
+
+**Omexom:** A270 Elbe–Weser, PO **941828791**, `20260415-02` **17.900 €** netto Paid 29.04.2026 = FA ~18 k€. Multi-User/Dalux nur Angebot. 2022 VINCI FR `20221124-01` 8.640 € anderes Legal.
+
+## Pass 45 — 2026-08-31 (Gmail-Loop Holcim Twin/Abo / THW)
+
+**Holcim Höver:** Twin `20240603-08` 10.800 (PO 4502571109) + `20240627-01` 12.602 + `20240807-01` 23.760 (PO 4502630049 = 36.362). Abo PO 4502769747 / `20241108-01` 1.600 €/Jahr ab 01.08.2024 bis Asana 31.07.2028; bisher zwei Jahre. Drive **50.362 €** ≈ FA ~50 k€. LoI bleibt Entwurf.
+
+**THW:** `20230906-01` **21.000 €** netto Paid 06.10.2023 (Angebot `20230703-01`, 2 Mobile Kits + 2×2-Jahres-Lizenz). FA ~21 k€. `THW-VR-01` 11.740 € bleibt Open. ElbeXtreme 07/2026 nur Anfrage.
+
+## Pass 44 — 2026-08-31 (Gmail-Loop Schwarz IT / 1K5-Rest)
+
+**Schwarz IT:** PO **2000456014** 11.01.2023 Plan 41.520,17 € (841 Std., Angebot `20221213-01`). Rechnung `20230321-01` **51.400 €** netto / 61.166 brutto, Avis 20.04.2023. FA ~51 k€ = diese eine Fulldome-Rechnung (XM Cyber / CSC2023). AG firmiert 01.03.2026 zu Schwarz Digits IT KG. Kein Eignungsslot.
+
+**1K5 51.520:** fehlende 25 % = erste Rate `20220223-01` **12.880 €** (23.02.2022, gezahlt 28.03.2022). Damit 25+50+25 vollständig. Extras liegen auf den Juni-/August-Rechnungen, nicht als vierter Abschlag.
+
+## Pass 47 — 2026-08-31 (Gmail-Loop DLR 2021)
+
+**DLR e.V. Köln / Campus Dieburg:** Digital Twin Standard, Angebot `20200915-1` V2 (10.05.2021; Standortwechsel, Gespräch Schmiedt 09/2020). PO **X/369/67300871** 08.07.2021 **24.040 €**. Bedarfsträger Kai Franke, Einkauf Samiou, operativ h-da (Tamara Dieter) + Eva Brucherseifer. Aufnahme 10.09.2021. `20210922-02` **8.013,33 €** Paid 22.10.; `20211118-01` **16.026,67 €** (PDF 19.11. für xRechnung zurück, 19.071,74 brutto im Konto 12/2021). Summe = PO = FA ~24 k€. Keine weiteren DLR-Verkaufsrechnungen nach 2021. TEMA = Grant; Lampoldshausen 2026 = Anfrage. Kein Eignungsslot.
+
+## Pass 48 — 2026-08-31 (Gmail-Loop Feishu)
+
+**Feishu (Shanghai) Technology Co., Ltd.:** Sister/Twin-Lab Shanghai (TUHH-Template). Quote `20260112-01` unterschrieben 13.01.2026 (Ivy Wang). Calvin Xu operativ. Rechnung `20260619-03` **28.358 €** (0 % USt, § 3a Abs. 2; 13.01.–19.06.2026) = FA ~28 k€. CSV-Klärung 07/2026. Nicht Lark-Office, nicht Eignung. Zahlungsdatum hier nicht aus Mail gezogen.
+
+## Pass 49 — 2026-08-31 (Gmail-Loop TikTok)
+
+Zwei Legal, zwei POs. **UK Ltd** PO **25030300594** / `20250217-02` **18.261,70 €** (5 Kits ERT London+Dubai; BPO24121400022 storniert) ≈ FA ~18 k€. **Dublin** PO **25051300070** / `20250606-01` **14.801,36 €** (4 Kits NY, Payment Notice 10.07.2025). NY nicht zur 18-k€-Zeile. Keine Telefone ins Git.
+
+## Pass 50 — 2026-08-31 (Gmail-Loop Planetarien)
+
+Drei AGs, nicht addieren. **Berlin** `20230123-01` Armstrong **13.440 €** netto (20 Tage −30 %). **Bochum** `20220920-01` Fulldome **39.840 €**. **Hamburg** Angebot `20231238` **24.192 €** (`20230802-02` 8.064 Paid 31.08. + `20230921-01` 16.128, Jupiter/IO). HO3RRAUM `20230711-JP-01` 2.470 € = Darkside-Versand, anderer AG. Kein Eignungsslot.
+
+## Pass 51 — 2026-08-31 (Gmail-Loop Craftsmen-Rechnungen)
+
+**Craftsmen Industries, Inc.** St. Charles MO. `20230616-01` **42.250 €** (3 Kits 15.000 + 25 Tage California-Wildfire 27.000 + Versand). `20230713-01` **17.472,30 USD** (3 Kits). FA ~60 k€ bleibt Kontakt, USD nicht in EUR umrechnen. Nicht Factory, nicht zu TMA.
+
