@@ -49,8 +49,19 @@ Immer ausschließen: `from:asana.com`, Vergabe-Newsletter, Promotions, WordPress
 | Planetarien Berlin/Bochum/Hamburg | 13.440 / 39.840 / 24.192 € — drei AGs, nicht addieren | 50 |
 | Craftsmen Rechnungen | `20230616-01` 42.250 € + `20230713-01` 17.472,30 USD | 51 |
 | Extreme E / Pico Immersive | `20231122-01` 5.000 €; `20230612-01` 2.880 € | 52 |
+| PE HENRICH Kiew | Vertrag 0502/23; 12.597,48 + `20231025-01` 19.500 = 32.097,48 Drohnen | 53 |
+| KIWI Strandort / hhpberlin | Angebot 32.540 € drei Drittel; hhpberlin Pico `20230803-01` 810 € | 54 |
+| EG Westholstein / Schiffshebewerk | EGW 6.830 + 557 (Rest 20.490 offen); LWL 37.250,30 + 500 | 55 |
+| APG Wien Rechnungen | 86.350 € (2×33k + 2×4.800 + 1.000 + 9.750); Teil 2 66k nicht | 56 |
+| Axians / Kindswater | Axians 9.980 über Cegelec West; Kindswater 6.943,33 + Kit 2.965,34 | 57 |
+| Ainavio Jan-Ole | Rahmen 04.06.2024; auslesbar 13.700,99 €; Sept-Rechnung ohne OCR | 58 |
+| Controlmatic Mitte | `20240408-01` 42.369 € PO 930104619 bestätigt | 59 |
+| Atos Medical / Coloplast | `20241115-01` 6.650 + `20250113-01` 4.400 = 11.050 € | 60 |
+| INFINITY Imagefilm / Dom 50 % | Imagefilm 15.000 (nicht doppelt); Dom `20221018-01` 34.200 | 61 |
+| Dom Extra-Lose | 12.720 (2023) + 10.060 + 9.600 (2026); zweite 34.200 weiter offen | 62 |
+| Armstrong MS I–IV | Produktion 94.920 €; Kombi 56.952 ersetzt; Korrekturen 13.440 separat | 63 |
 
-Nächster Tick: HENRICH / PE HENRICH Ausgangsbuch 2023. FA-Rejected-Dump erst nach Auth. Kein Pause bis Nutzer stoppt.
+Nächster Tick: nächster benannter Kunde ohne Pause. FA-Rejected erst nach Auth.
 
 ## Schreibregel
 

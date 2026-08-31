@@ -1,10 +1,10 @@
 # Wöchentlicher Ausschreibungs-Scan
 
-Stand: 2026-08-26.
+Stand: 2026-08-31.
 
 Ziel: öffentliche **Vergaben** finden, die zu FirefighterVR, Meditrain, Next Factory, GodView oder der Twin-/Photogrammetrie-Linie passen. Kein allgemeines VR-Monitoring, keine Fördercalls (die stehen in [grants.md](grants.md)).
 
-Start im Chat: **„Starte den wöchentlichen Ausschreibungs-Scan“** — das Skill [tender-scan](../.cursor/skills/tender-scan/SKILL.md) läuft dann durch.
+**Betrieb:** lokal in diesem Chat, manuell. Keine Cloud-Automation (Asana-OAuth im Automations-Editor bricht ohne `client_id`). Start: **„Starte den wöchentlichen Ausschreibungs-Scan“** — das Skill [tender-scan](../.cursor/skills/tender-scan/SKILL.md) läuft dann durch. Letzter Lauf: `knowledge/tender-runs/2026-08-31.md`.
 
 ## Was wir suchen (Kompetenzfilter)
 
@@ -43,7 +43,7 @@ Vollständige Portal-Karte: [.cursor/skills/tender-scan/portals.json](../.cursor
 | oeffentlichevergabe.de (BKMS) | Bund/Länder/Kommunen, oft unter Schwelle; Volltext + Bekanntmachungstext | Teil von `scripts/scan.py` |
 | service.bund.de RSS | Zweiter Aggregator; ergänzt BKMS | Teil von `scripts/scan.py` |
 | evergabe-online, DTVP, VMP NRW/Bayern/SH | Unterschwelle, kein öffentliches API | Browser nach dem Script, Keywords unten |
-| Drive-Sheet | Portal-Liste + Logins | Task [Ausschreibungen / Förderung](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1210459272235392). **Keine Passwörter ins Repo.** Login-Check 2026-08-26: subreport, Deutsche eVergabe, evergabe-online und RIB/iTWO funktionieren. Lücken: siehe `portals.json` `login_gaps`. |
+| Drive-Sheet | Portal-Liste + Logins | Task [Ausschreibungen / Förderung](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1210459272235392). **Keine Passwörter ins Repo.** Login ok: subreport, Deutsche eVergabe, evergabe-online, RIB/iTWO, **DTVP** (bestätigt 31.08.2026). Lücken: siehe `portals.json` `login_gaps`. |
 
 Ein Lauf:
 

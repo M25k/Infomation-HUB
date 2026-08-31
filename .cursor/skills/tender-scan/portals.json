@@ -39,7 +39,7 @@
         "id": "dtvp",
         "name": "Deutsches Vergabeportal (DTVP / cosinex)",
         "url": "https://www.dtvp.de",
-        "covers": "Viele Kommunen und Länder-VMPs hinter cosinex. Öffentliche Suche ohne Login, kein stabiles API."
+        "covers": "Viele Kommunen und Länder-VMPs hinter cosinex. Öffentliche Suche ohne Login, kein stabiles API. Letzte Keyword-Suche 2026-08-31: nur Meißen/UKSH plus GIS-Hildesheim (kein Match)."
       },
       {
         "id": "vmp-nrw",
@@ -89,7 +89,7 @@
         "id": "evergabe-online-account",
         "name": "e-Vergabe des Bundes (AnA-Web)",
         "url": "https://www.evergabe-online.de/auth/auth.html",
-        "checked": "2026-08-26 ok"
+        "checked": "2026-08-31 ok (Joachim, erneut bestätigt)"
       },
       {
         "id": "itwo-rib",
@@ -101,7 +101,7 @@
         "id": "dtvp-login",
         "name": "DTVP Bieterlogin",
         "url": "https://www.dtvp.de/Center/company/login.do",
-        "checked": "credentials in sheet; live login not retested 2026-08-26"
+        "checked": "2026-08-31 ok (Joachim, Passwort in der Liste, Login funktioniert)"
       },
       {
         "id": "vmp-brandenburg",

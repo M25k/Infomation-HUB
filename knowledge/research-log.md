@@ -299,3 +299,61 @@ Drei AGs, nicht addieren. **Berlin** `20230123-01` Armstrong **13.440 €** nett
 
 **Craftsmen Industries, Inc.** St. Charles MO. `20230616-01` **42.250 €** (3 Kits 15.000 + 25 Tage California-Wildfire 27.000 + Versand). `20230713-01` **17.472,30 USD** (3 Kits). FA ~60 k€ bleibt Kontakt, USD nicht in EUR umrechnen. Nicht Factory, nicht zu TMA.
 
+## Pass 52 — 2026-08-31 (Gmail-Loop Extreme E / Pico)
+
+**Extreme E Ltd:** Sardinia FFVR-Demo mit Vodafone Business. `20231122-01` **5.000 €** (Flug/Hotel/Logistik). Extreme E recharged Vodafone. Mahnung 10.01.2024. Keine Telefone.
+
+**Pico Immersive Pte. Ltd.:** `20230612-01` **2.880 €** (3 Tage Re-Cut). Pico-Store 19,99 € = ND-Einkauf, nicht Verkauf.
+
+## Pass 53 — 2026-08-31 (Gmail-Loop HENRICH)
+
+**PE HENRICH / ПП Генріх, Kiew:** Vertrag **0502/23** 02.05.2023, Drohnen weiterverkauft (nicht XR, nicht Schiffshebewerk). Annex 09.06.2023 **12.597,48 €**; `20231025-01` **19.500 €** Paid 26.10. Summe **32.097,48 €**. Keine Kunden-IBANs. Kein Eignungsslot.
+
+## Pass 54 — 2026-08-31 (Gmail-Loop KIWI / hhpberlin)
+
+**KiWi Kiel / Strandort:** Legal **Kieler Wirtschaftsförderungs- und Strukturentwicklungs GmbH** (nicht „KIWI GmbH“). Steigüber, Wissenschaftspark / Neufeldt Haus. GodView-Zwilling Strandort (Cesium, 360, Website). Angebot **25.02.2022 32.540 €**. `20220822-01` und `20231115-01` je **10.846,66 €** (je 1/3). `20240506-01` dritte Teilrechnung 06.05.2024 — Drive-PDF ohne OCR; Rest **10.846,68 €** nur Rechnung. Twin-Link intern strandort1795575. Asana `KiWi - Strandort` archiviert. Kein Eignungsslot.
+
+**hhpberlin Ingenieure für Brandschutz GmbH:** `20230803-01` **810 €** netto (Pico 4 Enterprise 800 + Versand 10), Paid 07.09.2023. Hardware, kein XR-Los.
+
+## Pass 55 — 2026-08-31 (Gmail-Loop EGW / Schiffshebewerk)
+
+**EG Westholstein mbH (Holst):** Angebot `20220808-04` angenommen 22.08.2022. `20220822-03` **6.830 €** = 1/3 von **20.490 €** (Video FFB-Standortwettbewerb). `20221103-02` **557 €** Flyer, Paid 14.11.2022. Weitere Drittel in Simona-Mails an Holst nicht gefunden. Asana `egeb - Itzehoe`. Keine Telefone.
+
+**LWL Schiffshebewerk Henrichenburg:** Vergabe 07.01.2021 AR. `20211124-03` **37.250,30 €** (Mahnung 01/2022). `20210928-01` 32.930,30 = gleiche Gruppen 1–5, **nicht** addieren. `20220805-02` **500 €** Nachtrag. Belegt **37.750,30 €**. Nicht PE HENRICH.
+
+## Pass 56 — 2026-08-31 (Gmail-Loop APG)
+
+**Austrian Power Grid AG:** Lieferant 143081, §13b. `20221215-02` **33.000 €** PoC PO 4500317974 (Teil 2 66 k€ ausdrücklich nicht). `20230524-03` **33.000 €** Real-Erprobung. `20230614-02` / `20230831-01` je **4.800 €** (POs 4500320239 / 4500320883). Pico `20240603-09` **1.000 €** PO 4500401865. `20260724-01` **9.750 €** PO 4500412134 Paid 21.08.2026. Summe **86.350 €**. Keine Telefone. Kein Eignungsslot.
+
+## Pass 57 — 2026-08-31 (Gmail-Loop Axians / Kindswater)
+
+**Axians Office VR:** Legal **Actemium Cegelec West GmbH**, PO **941230778** 28.11.2023, Projekt G.015612.798.02. `20240221-03` **9.980 €**. Asana `Axians_ArchViz` complete 08.03.2024. Nicht Infinity. Keine Telefone.
+
+**Kindswater AG:** Katalog **20.830 €**, belegt `20210927-01` **6.943,33 €** (1/3). Kit `20250703-03` **2.965,34 €**. Rest Katalog nicht in Drive. 2024 Hohlstrahlrohr = Einkauf stephanzm, kein Umsatz.
+
+## Pass 58 — 2026-08-31 (Gmail-Loop Ainavio)
+
+**Ainavio GmbH:** Rahmen **04.06.2024**, Jan-Ole Weiß / Legal-Assistant. `20240701-02` 6.926,99; `20240801-02` 1.104; `20241008-02` 540; `20241106-01` 2.970; `20241202-02` 810; `20250203-01` 1.350. Auslesbar **13.700,99 €**. `20240902-04` ohne OCR. Kein ND-Produkt, nicht Eignung.
+
+## Pass 59 — 2026-08-31 (Gmail-Loop Controlmatic)
+
+**Actemium Controlmatic Mitte GmbH** (Schkeuditz): PO **930104619** 06.02.2024. `20240408-01` **42.369 €** netto bestätigt (Demonstrator-VR, Pico 4 PC, 01.02.–05.04.2024; Template 3.500 + Lizenz 313 − 2 % 864). Nicht mit Axians 9.980 oder Infinity addieren. Keine Telefone.
+
+## Pass 60 — 2026-08-31 (Gmail-Loop Atos Medical)
+
+**Coloplast GmbH / Atos Medical:** `20241115-01` **6.650 €** (Grund-App + Quest-3-Kit). `20250113-01` **4.400 €** Paid 05.02.2025. Summe **11.050 €**. Nicht TEMA-ATOS. Keine Telefone.
+
+## Pass 61 — 2026-08-31 (Gmail-Loop INFINITY / Dom)
+
+**INFINITY Imagefilm:** `20221018-01a` **15.000 €** an Actemium Cegelec West (Eigeltingen/Frankfurt, intern/extern, DE/EN). `20221017-01` gleiche Summe = Vorgänger, nicht addieren.
+
+**Dom Innenraum:** Angebot `20210503-01` **68.400 €**. `20221018-01` **34.200 €** (50 %). Zweite Hälfte nicht in diesem Treffer.
+
+## Pass 62 — 2026-08-31 (Gmail-Loop Dom-Folge)
+
+Zweite 34.200 € zum Innenraum-Angebot **nicht** gefunden. Extra-Lose: `20230417-01` **12.720 €** Paid 27.04.2023; `20260203-01` **10.060 €**; `20260302-01` **9.600 €**. Nicht als Rest der 68.400 buchen.
+
+## Pass 63 — 2026-08-31 (Gmail-Loop Armstrong MS)
+
+**Maus Armstrong / Stiftung Planetarium Berlin:** MS I `20210921-02` **23.730 €**; MS II `20210921-03` **14.238 €**; MS III `20220221-01` **28.476 €**; MS IV `20220316-03` **28.476 €**. Produktion **94.920 €**. `20220106-02` 56.952 = III+IV kombiniert, nach Rienow ersetzt (IV erst nach Premiere) — nicht addieren. Korrekturen `20230123-01` 13.440 bleiben Nachtrag. Kein Eignungsslot.
+

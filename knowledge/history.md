@@ -133,7 +133,7 @@ ElevenVoice gilt **nicht** für Fulldome-Shows und VR-Stadttouren.
 | Black Hole | 2019 | 1 | |
 | ND - Mars2020 | 2019 | 7 | |
 | Sony - ??? - Das Dorf der Teufel | 2019 | 21 | Die drei ???. Folge **Singende Schlange** 2022 ohne eigenes Board |
-| AR - Schiffshebewerk | 2021 | 33 | Zuschlag historisch |
+| AR - Schiffshebewerk | 2021 | 33 | LWL Henrichenburg; `20211124-03` 37.250,30 + Nachtrag 500 €; Sept-Rechnung nicht addieren |
 | SPACE EXHIBITION | 2022 | 2 | |
 | XM - Fulldome | 2022 | 22 | AG Schwarz IT KG; PO 2000456014; `20230321-01` 51.400 € netto. CSC2023. Kepler-Profil **nicht** kanonisch |
 | PHH - Planetenreise | 2023 | 20 | |
@@ -165,10 +165,10 @@ Mail-Lücken ohne Asana-Board (Details in projects.md): **Traumzauberbaum** HO3R
 | Sonnen - Videos (2023) | 2023 | 1 | Rechnung sonnenFlat intern |
 | Lhoist - Präsentationsapplikation | 2019 | 20 | Rheinkalk; NDA 11.12.2018; drei Drive-Rechnungen 26.400 € netto belegt |
 | 1Komma5 - Generelles | 2022 | 130 | 2022 Aufbau: Angebot 51.520 € in drei Abschlägen vollständig (`20220223-01`/`20220607-03`/`20220807-04`) + Videos; 2023 Tagespakete; 2024+ monatlich. FA ~214 k€ |
-| egeb - Itzehoe | 2022 | 29 | |
-| KiWi - Strandort | 2022 | 25 | Tippfehler im Board-Namen |
-| Kindswater Online 3D Viewer | 2021 | 7 | |
-| Axians_ArchViz | 2023 | 24 | |
+| egeb - Itzehoe | 2022 | 29 | AG EG Westholstein mbH; Video-FFB 20.490 nur 1/3 belegt (6.830) + Flyer 557 |
+| KiWi - Strandort | 2022 | 25 | Legal KiWi / Kieler Wirtschaftsförderungs- und Strukturentwicklungs GmbH; Angebot 25.02.2022 32.540 €; drei Teilrechnungen 2022–24. Board-Name mit i/I-Tipp |
+| Kindswater Online 3D Viewer | 2021 | 7 | Katalog 20.830 nur 1/3 belegt (`20210927-01` 6.943,33); Kit 2025 separat |
+| Axians_ArchViz | 2023 | 24 | Complete 08.03.2024; Rechnung an Actemium Cegelec West `20240221-03` 9.980 € |
 | APG - Drone Controller | 2022 | 45 | zusätzlich zum laufenden GodView-KML-Auftrag |
 | John Deere | 2022 | 1 | **kein** Referenzprojekt |
 

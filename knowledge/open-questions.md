@@ -74,7 +74,7 @@ Geklärt durch GF: **FA-Beträge sind richtig**, außer Förderung.
 - **Reschke Productions GmbH:** geklärt GF 30.08.2026 — interne Verrechnung, **keine** Kundenreferenz / Eignung.
 - **Großkunden:** Gesamtsumme (FA) erlaubt; Workstreams getrennt halten. Currenta ca. 685 k€ gilt als Kundenbeziehung, nicht als ein Los.
 - Fördermittel weiter nur [grants.md](grants.md).
-- Craftsmen 42.250 € + 17.472,30 USD, Feishu `20260619-03` 28.358 €, BASF, Neuss, WHV-WTF, Rheinkalk, Hi-Fog, 1Komma5-Abschläge, Schwarz IT, Holcim-Twin/Abo, THW, Evonik 2019, Omexom A270, DLR Dieburg, TikTok-Legal-Split und Planetarien-AGs geschlossen. **FA Rejected 398** erst nach `npx freeagent-mcp-server auth`. PSG-Kanal-Summe offen. TikTok-NY nicht zur 18-k€-Zeile.
+- Craftsmen, Feishu, BASF, Neuss, WHV-WTF, Rheinkalk, Hi-Fog, 1Komma5, Schwarz IT, Holcim, THW, Evonik, Omexom, DLR, TikTok-Split, Planetarien inkl. Armstrong-Produktion **94.920 €** (Kombi 56.952 nicht extra), KIWI 32.540 (drittes Drittel nur arithmetisch), hhpberlin, Schiffshebewerk, APG 86.350, Axians 9.980, Ainavio 13.700,99 (Sept ohne OCR), Controlmatic 42.369, Atos/Coloplast 11.050, INFINITY Imagefilm 15.000 geschlossen. Dom-Extra 12.720/10.060/9.600 belegt, **nicht** als zweite 34.200. **Offen:** EG Westholstein Rest 2/3 von 20.490; Kindswater Rest 2/3 von 20.830; Dom Innenraum zweite 34.200. **FA Rejected 398** erst nach Auth. PSG-Kanal und TikTok-NY-Split weiter offen.
 
 ### Gmail-Tiefenpass restliche Slices
 

@@ -133,7 +133,7 @@ UKK acht Rechnungen **328.403 €** Paid (gilt). KI 40 k€ nicht in FA. Henkel-
 
 **ARiNeP.** Positionen 9 × 1.080 €-Tage: Schmetterling, Eyetracking, Raum, Rohdaten Gehrig, Mobile, 20 %-Puffer, PM. Passt zur KB (brutto 11.566,80 €).
 
-**Atos / Coloplast.** 2 × 2.500 € 3D-Modell Trachealkanüle + Infopunkte, Rabatt −600 € = 4.400 €. Einkäufer Goran Kladaric. Kein Telefon ins Git.
+**Atos / Coloplast.** Zwei Rechnungen an Coloplast GmbH: `20241115-01` **6.650 €** + `20250113-01` **4.400 €** = **11.050 €**. Operativ Atos Medical Troisdorf. Nicht TEMA-ATOS. Kein Telefon ins Git.
 
 **Sony.** Mail `20250304-01` = FA `20250307-02` 7.560 €. Weiter `20250806-01` 7.560 €, `20251022-01` 13.440 € (Wolfsburg-4K). `20221219-01` 1.240 € = ???-Rendering, anderes Los.
 
@@ -181,7 +181,9 @@ Ohne Fördermittel. Paid/Refund, Drafts raus.
 
 **sonnen** durchgehend 2015–23 (nicht nur ein Video 2023).
 
-**Actemium/VINCI/PC Mechatronics** 2021–24 inkl. INFINITY Imagefilm 15 k€ (`20221018 -01a`), Controlmatic Mitte 42.369 € (`20240408-01`).
+**Actemium/VINCI/PC Mechatronics** 2021–24. INFINITY Imagefilm **15.000 €** (`20221018-01a`; `20221017-01` gleiche Summe, nicht addieren). Controlmatic Mitte `20240408-01` **42.369 €**. Axians Office 9.980 € separat. Lose nicht addieren.
+
+**Dom Innenraum:** Angebot 68.400 €, belegt 50 % `20221018-01` **34.200 €**. Zweite Hälfte offen. Extra `20230417-01` 12.720 + 2026 `20260203-01` 10.060 + `20260302-01` 9.600 — andere Lose, nicht als 68.400-Rest setzen.
 
 **amatik** 2018–26; 2026 bereits **40.600 €** (Hannover-Nähe). Wilhelmshaven: AG **WTF GmbH**, ND Nachunternehmer von amatik — keine Stadt-Rechnung. Mappe ca. 70 k€ bleibt Mappe.
 
@@ -203,11 +205,29 @@ Ohne Fördermittel. Paid/Refund, Drafts raus.
 
 **Feishu China 2026:** eine Rechnung `20260619-03` **28.358 €** (0 % USt, Quote `20260112-01`). FA ~28 k€ = diese Zeile. Outdoor-Lab Shanghai / TUHH-Template, nicht Lark-Office.
 
-**Planetarien (getrennt):** Berlin `20230123-01` 13.440 €; Bochum `20220920-01` 39.840 €; Hamburg `20231238` 24.192 € (`20230802-02` 8.064 + `20230921-01` 16.128). Nicht addieren, nicht Eignung.
+**Planetarien (getrennt):** Berlin Maus Armstrong Produktion **94.920 €** (I 23.730 + II 14.238 + III 28.476 + IV 28.476). Kombi `20220106-02` 56.952 nicht extra. Korrekturen `20230123-01` **13.440 €** separat. Bochum 39.840; Hamburg 24.192. Nicht addieren, nicht Eignung.
 
 **Craftsmen:** `20230616-01` 42.250 € + `20230713-01` 17.472,30 USD. FA ~60 k€ bleibt Kontakt, nicht eine EUR-Summe erfinden.
 
 **Extreme E:** `20231122-01` **5.000 €** (Sardinia-Spesen, Vodafone recharge). **Pico Immersive:** `20230612-01` **2.880 €** (Re-Cut). Nicht Eignung.
+
+**PE HENRICH Kiew:** Vertrag 0502/23. Annex 12.597,48 € + `20231025-01` 19.500 € Paid = **32.097,48 €** Drohnen, kein XR.
+
+**KIWI / Strandort:** Angebot 25.02.2022 **32.540 €**. Belegt `20220822-01` + `20231115-01` je **10.846,66 €** (je 1/3). `20240506-01` = dritte Teilrechnung (Betrag in der Drive-Kopie nicht OCR-lesbar; Rest **10.846,68 €** nur arithmetisch). Nicht Eignung.
+
+**hhpberlin:** `20230803-01` **810 €** netto (Pico 4 Enterprise + Versand), Paid 07.09.2023. Hardware, kein Projektvolumen.
+
+**EG Westholstein:** Angebot 18./08.08.2022 **20.490 €** Video-FFB; belegt nur 1/3 `20220822-03` **6.830 €** plus Flyer `20221103-02` **557 €** Paid. Restliche 2/3 nicht belegt.
+
+**Schiffshebewerk LWL:** `20211124-03` **37.250,30 €** (nicht plus `20210928-01` 32.930,30 — gleiche Gruppen). Nachtrag `20220805-02` **500 €**. Belegt **37.750,30 €**.
+
+**APG Wien:** sechs Drive-Rechnungen **86.350 €** (2×33.000 PoC/Real + 2×4.800 + Pico 1.000 + 2026 9.750). Teil-2-Option 66 k€ aus 2022 **nicht** beauftragt. Nicht Eignung.
+
+**Axians Office:** `20240221-03` **9.980 €** an Actemium Cegelec West (PO 941230778). Nicht Infinity.
+
+**Kindswater AG:** Katalog 20.830 €, belegt 1/3 `20210927-01` **6.943,33 €**. Kit `20250703-03` **2.965,34 €**. Rest Katalog offen.
+
+**Ainavio:** Rahmen 04.06.2024, Jan-Ole Legal-Assistant. Auslesbar **13.700,99 €** (Juni–Feb inkl. `20240701-02` 6.926,99). `20240902-04` ohne OCR-Betrag. Nicht Eignung.
 
 **Weitere FA-Blöcke intern:** Rhein-Kreis Neuss **61.416 €** netto; BASF 58 k€ (14 Rechnungen) — keine neuen Eignungsslots.
 

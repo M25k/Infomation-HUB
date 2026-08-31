@@ -1,0 +1,334 @@
+{
+  "generated": "2026-08-31",
+  "days": 8,
+  "sources_run": [
+    "ted",
+    "bkms",
+    "bund"
+  ],
+  "coverage": {
+    "ted": 36,
+    "bkms": 298,
+    "bund": 500
+  },
+  "notice_count": 783,
+  "review": [
+    {
+      "source": "ted",
+      "id": "588358-2026",
+      "publication_number": "588358-2026",
+      "title": "Deutschland – Unterrichtssoftwarepaket – VR-Trainingsumgebung inkl. VR-Endgeräte, sowie Eyetracking",
+      "lot_title": "",
+      "buyer": "Universitätsklinikum Schleswig-Holstein AöR",
+      "publication_date": "2026-08-26",
+      "deadline": "2026-09-14",
+      "cpv": "48190000 66114000 38400000 34152000 32322000 48460000 72416000 38430000 48190000 72416000 72267000 72212190 30200000 48780000 50312000",
+      "buyer_country": "DEU",
+      "place": "DEF03 DEU DEF03 DEF03 DEF03 DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies supplies supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/a46a0a26-953e-4bf0-a2dc-24b772e6083a",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/a46a0a26-953e-4bf0-a2dc-24b772e6083a",
+      "description": "Gegenstand der Ausschreibung ist die Beschaffung einer VR-Trainingsumgebung inkl. der benötigten VR-Endgeräte, inkl. Eyetracking  im Rahmen eines Leasingmodells über die gesamte Projektlaufzeit (36 Monate, 3 Perioden á 12 Mona-te). Mobile Eye-Tracking-Systeme Mobile Eye-Tracking-Systeme VR-Trainingssoftware (Trainingsplattform) VR-Trainingssoftware (Trainingsplattform) VR-Endgeräte mit Eyetracking VR-Endgeräte mit Eyetracking",
+      "platform": "TED",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "edu-software-de",
+      "matched_queries": [
+        "edu-software-de",
+        "xr"
+      ],
+      "sources": [
+        "bkms",
+        "ted"
+      ]
+    },
+    {
+      "source": "ted",
+      "id": "588245-2026",
+      "publication_number": "588245-2026",
+      "title": "Deutschland – Multimediaausrüstung – Softwareentwicklung VR und Kauf von VR Brillen",
+      "lot_title": "",
+      "buyer": "Landkreis Meißen, Landratsamt, Rechts- und Kommunalamt, Vergabestelle",
+      "publication_date": "2026-08-26",
+      "deadline": "2026-09-15",
+      "cpv": "32322000 72230000 32322000 72230000",
+      "buyer_country": "DEU",
+      "place": "DED2E DEU DED2E DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/c52edd06-e45d-4b09-a1b0-5c17405997ad",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/c52edd06-e45d-4b09-a1b0-5c17405997ad",
+      "description": "Softwareentwicklung VR und Kauf von VR Brillen Softwareentwicklung VR und Kauf von VR Brillen Gegenstand der Ausschreibung ist die Konzeption, Entwicklung, Implementierung, Erprobung und betriebsbereite Übergabe eines modular aufgebauten Virtual-Reality-Lernmoduls (VR) zur Förderung der Resilienz und Handlungskompetenz von Kindern und Jugendlichen im Alter von 7 bis 14 Jahren in Krisen- und Gefahrensituationen sowie die Beschaffung der dafür entsprechenden Hardware ( 15 Stück VR-Brillen + Zubehör).\n\nDas Lernmodul soll reale Alltagssituationen aus dem Bereich des Bevölkerungsschutzes in einer sicheren virtuellen Umgebung vermitteln. Ziel ist es, Kindern und Jugendlichen altersgerecht grundlegende Kenntnisse und Handlungskompetenzen für außergewöhnliche Ereignisse zu vermitteln und ihre Selbstwirksamkeit im Umgang mit Krisensituationen zu stärken.\n\nModul 1 - Brandschutzerziehung\nDie Anwendung vermittelt unter anderem\n•\tErkennen einer Gefahrensituation,\n•\tVerhalten bei Rauchentwicklung,\n•\trichtiges Verlassen eines Gebäudes,\n•\tNutzung von Fluchtwegen,\n•\tVerhalten an Sammelplätzen,\n•\tAbsetzen eines Notrufes,\n•\tZusammenarbeit mit Erwachsenen und Einsatzkräften.\nDer Schwerpunkt liegt auf richtigem Verhalten und nicht auf der Darstellung eines Brandereignisses.\nModul 2 - Blackout\nDie Anwendung vermittelt unter anderem\n•\tErkennen eines Stromausfalls,\n•\tOrientierung ohne elektrische Hilfsmittel,\n•\truhiges Verhalten,\n•\tKommunikation innerhalb der Familie,\n•\tUmgang mit Taschenlampen,\n•\tBedeutung von Notvorräten,\n•\tInformationsbeschaffung,\n•\tenergiesparendes Verhalten,\n•\tZusammenhalt und gegenseitige Unterstützung.\nDie Anwendung ist für den Einsatz in Schulen, außerschulischen Bildungseinrichtungen sowie auf öffentlichen Informations- und Präventionsveranstaltungen vorgesehen. Die Lösung ist so zu entwickeln, dass sie zukünftig ohne grundlegende Änderungen der Softwarearchitektur um weitere Szenarien erweitert werden kann",
+      "platform": "TED",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "firefighter"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "xr-de",
+      "matched_queries": [
+        "brandschutz-edu",
+        "fire",
+        "xr",
+        "xr-de"
+      ],
+      "sources": [
+        "bkms",
+        "ted"
+      ]
+    }
+  ],
+  "maybe": [
+    {
+      "source": "bkms",
+      "id": "25755802",
+      "publication_number": "",
+      "title": "Beschaffung von Mobiliar für die integrierte Leitstelle; Leistung: Lieferung von Leitstellentischen und einer Infowand",
+      "lot_title": "Beschaffung von Mobiliar für die integrierte Leitstelle; Leistung: Lieferung von Leitstellentischen und einer Infowand",
+      "buyer": "Stadt Neumünster - FD 37 Feuerwehr, Rettungsdienst und Katastrophenschutz",
+      "publication_date": "2026-08-27",
+      "deadline": "2026-09-17",
+      "cpv": "",
+      "buyer_country": "DEU",
+      "place": "DEF",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25755802",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25755802",
+      "description": "Lieferung von Leitstellentischen und einer Infowand\n\nBeschaffung von Mobiliar für die integrierte Leitstelle; Leistung: Lieferung von Leitstellentischen und einer Infowand Beschaffung von Mobiliar für die integrierte Leitstelle; Leistung: Lieferung von Leitstellentischen und einer Infowand Lieferung von Leitstellentischen und einer Infowand\n\nBeschaffung von Mobiliar für die integrierte Leitstelle; Leistung: Lieferung von Leitstellentischen und einer Infowand",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    }
+  ],
+  "skip_count": 780,
+  "skip_sample": [
+    {
+      "title": "2025-0459, Aufstellung einer temporären Fahrzeughalle für die Zeit des Neubaus für Freiwillige Feuerwehr LZ13, Bendenweg, 51371 Leverkusen-Bürrig",
+      "buyer": "Stadt Leverkusen - Fachbereich Recht und Vergabe",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "OP-Trennwände (VE027), CVK, DHZC",
+      "buyer": "Charité - Universitätsmedizin Berlin",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Brandschutzoptimierte Monitore",
+      "buyer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Portal zur Freigabe medizinischer Bilddaten",
+      "buyer": "Vivantes - Netzwerk für Gesundheit GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Neubau Feuerwehrhaus Hohnstedt - Feuerwehr-Einsatzspinde",
+      "buyer": "Stadt Northeim",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Neubau Radverkehrsanlage Zscherndorf-Bitterfeld - Anpflanzungs- und Pflegearbeiten (Ersatzpflanzungen)",
+      "buyer": "Stadt Sandersdorf-Brehna",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Sportgeraete",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Generalplanungsleistungen Neubau Feuerwehrhaus Rhede Süd",
+      "buyer": "Stadt Rhede",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Neubau Feuerwehrgerätehaus Lindenholzhausen -Tiefbauarbeiten Teil 02 - Gesamte Außenanlagen-",
+      "buyer": "Magistrat der Kreisstadt Limburg a. d. Lahn",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Neubau Leitstelle Feuerwehr, Toranlage",
+      "buyer": "",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "HKL – Angiografieanlagen - Rhön Klinikum: Klinikum Frankfurt (Oder)",
+      "buyer": "Rhön Klinikum: Klinikum Frankfurt (Oder) GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Beschaffung eines Anti-Dekubitus-Hybridsystems",
+      "buyer": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Chemieschutzanzug Koerperschutzform 3",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Feuerwehrhaus Hördt - Erdungs- und Blitzschutzanlage",
+      "buyer": "Zentrale Vergabestelle Germersheim - Bellheim - Jockgrim - Rülzheim",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "ADS-B - Flarm Transponder",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Erneuerung Personenrufanlage",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "CrowdStrike Cloud Security",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Vergabe Schlauch- und Bekleidungspflege",
+      "buyer": "Stadtverwaltung Belgern-Schildau",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Erweiterung der bestehenden (Net)Backup-Infrastruktur für die Evangelische Klinikum Westerwald gGmbH",
+      "buyer": "Evangelisches Klinikum Westerwald gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Projektionsröntgensystem (\"Röntgen 2\")",
+      "buyer": "TUM Klinikum",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Rahmenvereinbarung zur Lieferung von Tagesdienstkleidung für die Feuerwehr Magdeburg (30-ZV-0142/26)",
+      "buyer": "Landeshauptstadt Magdeburg, Die Oberbürgermeisterin, Zentrale Vergabestelle",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Niedersächsisches Landesamt für Brand- und Katastrophenschutz, Neubau Technikzentrum und Feuerwehrtechnisches Zentrum des Landkreis Celle Scheuen, Fertigteilgrube für KFZ Halle",
+      "buyer": "Land Niedersachsen vertreten durch das Staatliche Baumanagement Niedersachsen",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "217-300 FWH Neubau Feuerwehrgerätehaus, hier: Schlosserarbeiten Innen und Außen",
+      "buyer": "GVE Grundstücksverwaltung Stadt Essen GmbH",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "RV Digital Signature Monitore",
+      "buyer": "Universitätsklinikum Schleswig-Holstein AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Generalsanierung des Dreifachturnhallenkomplexes Fürstenstein - Brandschutzelemente, Metalltüren",
+      "buyer": "Gemeinde Fürstenstein",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "source": "ted",
+      "id": "med-xr-de",
+      "error": "TED HTTP 429: <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.3</center>\r\n</body>\r\n</html>\r\n"
+    }
+  ]
+}
