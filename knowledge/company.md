@@ -8,10 +8,12 @@ Quellen: Impressum northdocks.com, UKSH-Eignungsmappe (Drive), Business Deck JP.
 |---|---|---|
 | Firma | Northdocks GmbH | öffentlich |
 | Sitz | Niederstraße 18, 40789 Monheim am Rhein | öffentlich |
-| Handelsregister | HRB 76844, Amtsgericht Düsseldorf | öffentlich |
+| Handelsregister | HRB 76844, Amtsgericht Düsseldorf (zuvor Kiel **HRB 16574 KI**; Sitzverlegung Monheim 2015, Düsseldorfer Eintrag **04.02.2016**) | öffentlich / HR-Abruf 06.08.2026 |
+| Stammkapital | **27.695,00 €** | intern, HR-Auszug 06.08.2026 (Drive). Vertrag 2015 nannte 25.000 € — die **27.695 €** gelten |
 | USt-IdNr. | DE298519758 | öffentlich |
 | Geschäftsführer | Joachim Perschbacher, Patrick D. Reschke | öffentlich (Impressum: Patrick Reschke; Angebote oft Patrick D. Reschke) |
-| Gründung | 2009, ursprünglich an der CAU Kiel, vier Studierende | intern (GF Joachim Perschbacher, 2026-08-26) |
+| Tätigkeit seit | 2009, ursprünglich an der CAU Kiel, vier Studierende | intern (GF Joachim Perschbacher, 2026-08-26). Narrative, nicht Registeralter |
+| GmbH | Gesellschaftsvertrag **30.01.2015**; Eignung „besteht seit“ = GmbH ab 2015 | HR / FA erstes GJ 30.01.2015–31.12.2015. Nicht „GmbH seit 2009“ |
 | Präqualifikation | AVPQ-Zertifikat 05 119 408129 | intern belegt (Asana Anträge, UKSH-Mappe) |
 
 AVPQ-Zugangscodes gehören **nicht** in dieses Repository und nicht in Git.
@@ -56,7 +58,8 @@ Aus UKSH-Eignungsmappe, nicht ungeprüft öffentlich wiederholen:
 
 ## Gründungsgeschichte (intern, für Narrative in Anträgen)
 
-- 2009: Gründung an der **CAU Kiel** durch **vier Studierende**. Joachim Perschbacher ist der verbliebene Gründer.
+- 2009: Tätigkeit an der **CAU Kiel** durch **vier Studierende**. Joachim Perschbacher ist der verbliebene Gründer. Das ist die **Narrative**, nicht das Registeralter.
+- **GmbH:** Gesellschaftsvertrag **30.01.2015**, Kiel **HRB 16574 KI**, Sitzverlegung Monheim 2015, Düsseldorf **HRB 76844** ab **04.02.2016**. Eignung „besteht seit“ = 2015.
 - Erstes Produkt: Projektmanagement-Websoftware **Quassum** (`quassum.com`). Eingestellt **24.05.2018** (JacPer UG i.L., nicht die heutige GmbH). Existiert nicht mehr. Nicht als Produkt oder Referenz nennen.
 - **Patrick D. Reschke** stieß später hinzu, über Arbeiten für **Intel** — nicht Mitgründer.
 - Immersive Arbeit begann **früh** mit **Fulldome- und Planetariumsproduktionen** und wurde schrittweise zum Hauptzweck (heute XR-Training und Digital Twins).
@@ -66,7 +69,7 @@ Aus UKSH-Eignungsmappe, nicht ungeprüft öffentlich wiederholen:
 
 Pioniere im Spatial Computing: XR mit hochpräzisen Industriedaten zu Digital Twins. Lieferung als durchgängiges Ökosystem von Datenerfassung bis immersiver Anwendung. Industrie 4.0 und Extended Reality.
 
-Für Anträge die Linie: Softwarehaus seit 2009 → frühe immersive Fulldome-Arbeit → heutiger Kern XR-Training und Digital Twin. Nicht „17 Jahre FirefighterVR“.
+Für Anträge die Linie: Software-Tätigkeit seit 2009 (CAU Kiel) → GmbH ab 2015 → frühe immersive Fulldome-Arbeit → heutiger Kern XR-Training und Digital Twin. Nicht „GmbH seit 2009“, nicht „17 Jahre FirefighterVR“.
 
 Business Deck (intern): all-in-one, schnelle Feedbackschleifen, praxisnahe Endnutzerprodukte. Gegründet 2009, 45+ Projektpartner (Zahl nicht unabhängig gezählt).
 

@@ -25,5 +25,5 @@ Site-Claims öffentlich: 5+ Touren, 50.000+ Besucher. Deck (3+ Städte, 100+ Hea
 
 ## Nicht auf diese Site
 
-- Eignungsvolumina 70/80/55 k€
+- Eignungsvolumina (WHV-Mappe 70 k€, Trier nur FA **142.920 €**, Hannover Mappe 55 k€ / FA bisher 40.600 €)
 - ARiNeP / Klinik-Eye-Tracking als Storywalx-Feature

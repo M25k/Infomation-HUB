@@ -27,7 +27,7 @@ Nur Claims der Stufe **öffentlich** in [claims.md](../claims.md). Beispiele die
 - AVPQ-Nummer und Zugangscodes
 - TMA / Omnicom / National Guard als Vertragstext
 - Kosovo-Playground als öffentliche Referenz ohne Freigabe
-- Schockraum-Volumen 380 k€ / KI 40 k€
+- Schockraum-Volumen intern **328.403 €** Paid (Mappe 380 k€ tot); KI 40 k€ (ein Topf Voice/Lisa, nicht auf die Site)
 - Linode / On-Prem-Hosting intern
 - Pitch 2024 Meditrain-Ausgründung
 - ElevenVoice / intern TTS-Pipeline

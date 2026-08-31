@@ -8,7 +8,8 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 |---|---|---|
 | Northdocks GmbH, Niederstr. 18, 40789 Monheim, HRB 76844 Düsseldorf, DE298519758 | öffentlich | Impressum |
 | GF Joachim Perschbacher und Patrick D. Reschke | öffentlich | Impressum / Angebote |
-| Gegründet 2009 an der CAU Kiel durch vier Studierende; Joachim Perschbacher verbliebener Gründer | intern | GF, 2026-08-26 |
+| Tätigkeit 2009 an der CAU Kiel durch vier Studierende; Joachim Perschbacher verbliebener Gründer | intern | GF, 2026-08-26. Narrative, nicht Registeralter |
+| GmbH: Vertrag 30.01.2015, Kiel HRB 16574 KI, Düsseldorf HRB 76844 ab 04.02.2016; Stammkapital **27.695 €** | intern | HR-Auszug 06.08.2026. Eignung „besteht seit“ = GmbH 2015, nicht 2009 |
 | Erstprodukt Quassum (Projektmanagement-Websoftware), eingestellt | intern | GF. Mail: Einstellung **24.05.2018**, Betreiberin JacPer UG i.L. (nicht GmbH). Domain quassum.com. Nicht als Referenz |
 | Patrick D. Reschke über Intel-Arbeiten dazugekommen, nicht Gründer | intern | GF, 2026-08-26 |
 | Patrick D. Reschke: Head of Sales, lange PM-Praxis | intern | GF, 2026-08-26 |
@@ -40,16 +41,16 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Claim | Stufe | Quelle |
 |---|---|---|
 | AMBOSS-Award 2026 Excellence in Nursing, CeMIT UKK, Meditrain-Lieferung | öffentlich | News |
-| Schockraum-Volumen FA **328.403 € netto Paid** (acht Rechnungen 2022–24); KI 40 k€ zugesagt, noch nicht in FA | intern | FreeAgent 30.08.2026. UKSH-Mappe „ca. 380 k€“ ist Alttext. 357.000 € brutto nicht verwenden. KI-Rechnung ab 01.01.2027 |
+| Schockraum-Volumen FA **328.403 € netto Paid** (acht Rechnungen 2022–24); KI 40 k€ zugesagt, noch nicht in FA | intern | FreeAgent 30.08.2026. UKSH-Mappe „ca. 380 k€“ ist Alttext. 357.000 € brutto nicht verwenden. KI = **ein Topf** 40.000 € aus UKK-Mitteln (Datta) ab 01.01. für Voice/Lisa, unabhängig von AMBOSS. Kein zweites 40 k€ |
 | UKK-Zuschlag Schockraum 28.12.2021 | intern | Datta: Rechtsabteilung UKK, Zuschlag an Northdocks. Drei Szenarien von Beginn: Schockraum, Instabiler Patient/Station, Fahrstuhl. Pulse-Evaluierung 06.12.2021 |
 | UKK-Gesamt 357.000 € brutto oder 380 k€ ohne FA | **nicht verwenden** | 357 k = C-Level 2023. 380 k = UKSH-Mappe. Kanonisch: FA **328.403 €** Paid + KI 40 k€ noch nicht fakturiert |
 | AMBOSS LiSA in Meditrain als ausgeliefertes Produkt | **nicht verwenden** | Hackathon Juni 2026 + LoI intern offen. Nur: Zusammenarbeit UKK/AMBOSS, Voice-Pfad intern |
 | Öffentlicher Schockraum-Name **ERVR** / **Emergency Room VR** | intern, **außen für UKK-Projekt** | Asana `1216921060272475` (27.07.2026): Domains/Marke dort gültig. Interner Name **Schockraum VR** bleibt. Emergency **Response** nicht (Unionsmarken Kl. 41). Zielhardware Pico Project Swan; Mobile-Ports laufen |
-| Station VR Frontiers-Studie 2026 (Adams et al., DOI 10.3389/frvir.2026.1737515) | öffentlich | meditrainvr.com Station-Seite |
+| Station VR Frontiers 2026 (Adams et al., DOI 10.3389/frvir.2026.1737515) | öffentlich | **Delphi-Lernziele**, nicht Pico-Koffer-Wirksamkeit. Paper-Hardware PCVR Pimax 8K Plus + Alienware, 13 CeMIT-Plätze, ohne Haptik. Sitz Monheim, nicht Paper-„Düsseldorf“ |
 | StrahlenschutzVR Miete ab 499 €/Woche, Kauf ab 3.499 € | öffentlich | strahlenschutzvr.de |
 | Strahlenschutz: 97 / 94 / 91 % Presence / Verständnis / Glaubwürdigkeit | intern + Deck | Evaluation; in Anträgen mit Studie/Deck, nicht als Website-0 %-HTML |
 | „0 % … credible“ auf meditrainvr.com ohne JS | nicht verwenden | Fetch 2026-08-26 |
-| ECR-Auszeichnung Radiation Protection VR | intern | Deck, nicht auf funding.html |
+| Präsenz ECR 2024 (Wien) mit StrahlenschutzVR | intern | Gmail: BfS/MyESR-Badge, Besucheranfrage. „Auszeichnung“ nur Deck — ohne Urkunde nicht als Award |
 | Meditrain = Produktlinie der Northdocks GmbH; Ziel Koffer + Hardware/Software-Komplettpaket analog FirefighterVR | intern, **kanonisch** (2026-08-26) | GF. Pitch 2024 Ausgründung nicht mehr verwenden |
 
 ## GodView / Dom
@@ -85,9 +86,10 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Großkunden (Currenta, Merck, Actemium, Dom, …): FA-Gesamtsumme des Kontakts ist nutzbar | intern, **kanonisch** (30.08.2026) | GF. Oft **mehrere Ansprechpartner und Workstreams** — Summe = Kundenbeziehung, nicht ein Projekt. Einzelnennen, wenn das Los gemeint ist. UKSH-Mappe 2026 mit Currenta **ca. 20.000 €** nicht umschreiben (damaliger Slice). Currenta-FA ca. **685 k€** über viele Lose (Kits, Custom, Arena, Technikum, Bürrig, …). Custom-Beispiel PO 2960335518 nach Storno **5.760 €**, kein Koffer |
 | Currenta-Betrieb 2026: Planspiel + GodView-Tileset Bürrig, 5× Pico 4 Ultra Enterprise (April 2026) | intern | UKSH-Eignungsmappe 03-eignung.md |
 | Immersive Erfahrung seit den frühen Firmenjahren (Fulldome/Planetarium) | intern | GF; nicht als Produktalter Spearhead |
-| Spearhead: Auftraggeber **The Marketing Arm (TMA)**, Teil von Omnicom, für US-National-Guard-Trainings; Playground-Sonderversion Kosovo (Streitkräfte, Headsets Osten) | intern, **kanonisch** (2026-08-26) | GF. Kognita → Interadria; FA `20241220-03` **18.160 €** (20 × 800 € Lizenzen + 2 PT). Mail „10 Quest“ ist nicht der FA-Betrag. Site-/Deck-Zahlen nicht verwenden. Nicht pauschal „Auftrag US Army“. |
-| National-Guard-Lieferung intern: kombinierte Unreal-App **State of Emergency** (u. a. HAZMAT, RIVER, AIRTRAF/COPTER, URBTANK; Asana „5 Apps in ein Unreal-Projekt“) | intern | Asana-Projekt `USA - National Guard - General` (archiviert). Öffentliches NG-Recruiting **Disasterville** **nicht** als Northdocks-Lieferung behaupten |
+| Spearhead: Auftraggeber **The Marketing Arm (TMA)**, Teil von Omnicom, für US-National-Guard-Trainings; Playground-Sonderversion Kosovo (Streitkräfte, Headsets Osten) | intern, **kanonisch** (2026-08-26) | GF. Kognita → Interadria; FA `20241220-03` **18.160 €** (20 × 800 € Lizenzen + 2 PT). Hardware: **10 Quest** versendet (8 + 2 Ersatz nach Diebstahl). Nicht pauschal „Auftrag US Army“. |
+| National-Guard-Lieferung intern: kombinierte Unreal-App **State of Emergency**; Asana **sechs** Boards I–VI (VI Advanced Vehicle Recovery); FA sechstes Rechnungs-Szenario **Urban Tank Mission** (nicht als siebtes). FY26 „fünf Apps“ = Consolidation-Slice | intern | Asana National Guard General. Disasterville **nicht** als ND-Lieferung. Urban Tank ≟ AVR nicht hart gleichsetzen |
 | TMA FY26 Consolidation: fünf SOE-Apps in eine Meta-Store-App, **25.000 €**, Estimate V4 signed 25.03.2026 | intern | FA `20260326-03` Overdue, 20 × 1.250 €. Mail „25.000 USD“ verworfen. Slice, nicht Eignung, nicht Army-Auftragswert |
+| Philips Sound / Visual Patient / CDS | intern | **TMA/Omnicom**, nicht eigener Factory-Kunde. Estimate PhilipsAddOns, Invoice `20250124-01-COR` |
 | Craftsmen ~60 k€ als Factory-Kunde | **nicht verwenden** | FA-Kontakt = US-Vendor SMSP/TMA (`20230616-01`). Nicht nextfactoryvr, nicht Eignung, nicht zu TMA-726 k€ addieren |
 | Feishu 28 k€ als ByteDance-Office / neues Produkt | **nicht verwenden** so | Outdoor-Lab China mit TUHH (Sensor-CSV/AR). Nicht Lark-Suite |
 
@@ -98,13 +100,14 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Horizon-Europe-Partner TEMA | öffentlich + intern | funding.html, Asana-Abstract, Grant-ID **101093003** (Mail AUTH/PO) |
 | Kumuliert rund 1,5 Mio. € öffentliche Fördermittel | **nicht verwenden** intern/Eignung ohne Belegliste | EIC-Pitch-Mail 17.07.2026. C-Level-Außenkommunikation kann abweichen; KB nur Einzelzuschläge in grants.md |
 | EIC: Ausgründung FirefighterVR als eigene GmbH Kiel | **nicht verwenden** | Pitch-Mail 17.07.; GF/KB: Spin-Off nicht übernehmen |
-| BMBF feir-Teilvorhaben | öffentlich + intern | funding.html, Asana |
+| BMBF feir-Teilvorhaben, FKZ **13N16415**, Höchstbetrag **273.630 €** (70 %), 01.09.2022–31.08.2025 | intern | Bescheid 30.08.2022. Teilvorhaben Northdocks, nicht Verbundsumme |
 | Spot-KI mit KI-Transfer-Hub Schleswig-Holstein, EU + Land SH | öffentlich + intern | funding.html, News, GF 2026-08-26; WTSH **220 23 012**, Laufzeit 01.07.2022–30.06.2024 |
 | Spot-KI Northdocks-Erstattung 42.065,85 € + Schluss 54.671,00 € | intern | WTSH-Mails 2024/25. Nur Teilvorhaben, **nicht** kumulierte 1,5 Mio. €, nicht Verbundsumme |
 | Spot-KI mit Vodafone oder Uniklinik Köln | **nicht verwenden** | Deck falsch; GF: keine Verbindung |
 | EPIC Mega Grant 2020 | öffentlich | funding.html |
 | EPIC Mega Grant Firefighter VR **45.000 USD** | intern | Zusage-Mail 10.06.2020. Nicht zur Pitch-Summe 1,5 Mio. € addieren |
-| EPIC MegaGrants-Perk RealityCapture Enterprise-Lizenz | intern | Folge-Mail nach dem Award |
+| EPIC MegaGrant-Perk RealityCapture Enterprise-Lizenz | intern | Folge-Mail nach dem Award |
+| FlowAR EFRE.NRW bis zu **583.569,83 €** (80 % von 729.462,29 €), Durchführung 01.06.2025–31.05.2028 | intern | Bescheid 23.05.2025, Az. IN-NX-2-013c. 2026 festgelegt 178.000 €, ausgezahlt 28.995,02 € (18.05.2026). PtJ-Rückantwort 31.08.2026 nicht in Gmail — Abruf nicht als vollständig behaupten |
 | Zweiter EPIC Mega Grant „Cologne Cathedral VR Tools“ | **nicht verwenden** als Zuschlag | Bewerbung/Review 2021, kein Award-Mail |
 | VITA-GUARD-RETTUNGSSCHULE, 10 FFVR-Setups | intern | Asana FFVR-Kits + Mail Tomczak 22.08.2026 (Nachsendung Kopfbänder). Nicht öffentlich listen ohne Bedarf |
 | Berliner Feuerwehr Zuschlag VG 2026-199 VR Brillen Set (30.06.2026) | intern | Mail Zentrale Vergabestelle. Hardware-Los. FA u. a. `20251002-01` 2.916 €, `20260701-01` 4.302 € — nicht Meißen-Eignung |
@@ -114,7 +117,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 
 ## Formulierungshilfen (konservativ)
 
-- „Northdocks entwickelt seit 2009 Software und immersive Medien. Gegründet an der CAU Kiel; die VR-Linie begann mit Fulldome- und Planetariumsproduktionen und ist heute der Kern (XR-Training und Digital Twins). FirefighterVR als Produktlinie: mehr als sechs Jahre.“
+- „Northdocks entwickelt seit 2009 Software und immersive Medien (CAU Kiel). Die **GmbH** besteht seit **2015** (HRB 76844 Düsseldorf, zuvor Kiel HRB 16574). Die VR-Linie begann mit Fulldome- und Planetariumsproduktionen und ist heute der Kern (XR-Training und Digital Twins). FirefighterVR als Produktlinie: mehr als sechs Jahre.“
 - „FirefighterVR ist Referenzprodukt und bei mehr als 100 Kunden im Einsatz (Stand Eignungsmappe 2026).“
 - „Nachgewiesener Multiplayer-Peak im Planspiel: 16 gleichzeitige Nutzer.“
 - „Eye-Tracking und Blicksteuerung seit 2021/22 (Wilhelmshaven), fortgeführt in Trier, Hannover und ARiNeP.“

@@ -15,7 +15,7 @@ Immer ausschließen: `from:asana.com`, Vergabe-Newsletter, Promotions, WordPress
 | Slice | Status | Pass |
 |---|---|---|
 | 2026 Kunden/Förder-Oberfläche | erledigt | 20 |
-| TMA / State of Emergency / Omnicom 2024–2026 | Kern gelesen (V4 signed, FY26 25k USD, Consolidation, MOS/ArborXR) | 21 |
+| TMA / State of Emergency / Omnicom 2024–2026 | Kern gelesen (V4 signed, FY26 FA **25.000 €**, Consolidation, MOS/ArborXR). Philips Sounds/CDS/Avatar = TMA | 21, 64 |
 | Bayer 2026 Pipeline (Mais, Vials, Gewächshaus) | erledigt | 21 |
 | Currenta Absender (Lieferant 37966, POs, Befliegung) | Inventar, keine Volumensumme | 21 |
 | RWE PO | nur Kontaktformular 03/2021 Probeanmeldung; keine PO | 23 |
@@ -28,10 +28,10 @@ Immer ausschließen: `from:asana.com`, Vergabe-Newsletter, Promotions, WordPress
 | Starred 22 | gesichtet; Noise (WP-Spam, Asana, Linode) übersprungen | 21 |
 | Crane Currency, XFEL Fusion, Dräger 2024 Angebot | gelesen | 21 |
 | Rechnungen-Label 34 Threads | Plugin weiter leer. Simona 2022–23: KIWI `20231115-01`; APG-POs 4500320239/4500320883; EG Westholstein; Planetarium Berlin/Bochum; Sony ??? `20221219-01`; Schiffshebewerk `20220805-02` | 29–30 |
-| Kosovo Playground Mail | gelesen: Kognita → Interadria, Rechnung 20241220-03, 10 Quest | 23 |
+| Kosovo Playground Mail | 10 Quest versendet (8 + 2 Ersatz); FA 18.160 € = 20 Lizenzzeilen | 23, 64 |
 | Feuerwehr Berlin / VITA-GUARD Belege | Berlin **2026-199** = Berliner Feuerwehr Hardware-Zuschlag. VITA-GUARD 10 Setups intern (Asana + Mail Tomczak) | 24 |
 | Historisches Asana-Archiv (105 Boards) + Merck/Actemium/Framatome/THW/Spot-KI | Inventar in history.md; Merck-POs und Spot-KI-Erstattungen gelesen | 22 |
-| FlowAR / feir / EPIC Mega Grant Originalzusage | FlowAR IN-NX-2-013c + Bescheid 23.05.2025; EPIC **45.000 USD** 10.06.2020 | 23 |
+| FlowAR / feir / EPIC Mega Grant Originalzusage | feir FKZ 13N16415 **273.630 €**; FlowAR bis zu **583.569,83 €**; EPIC **45.000 USD** 10.06.2020 | 23, 64 |
 | Sent-Angebote 2024–2025, Quassum/Fulldome 2009–2018 | Intel IFA 2014/15; **Quassum-Kern**: Einstellung 24.05.2018 JacPer UG i.L.; Support ab 2011. Keine 2009-Gründungsmail | 26 |
 | UKK Station / Pulse / ARiNeP volle Historie | Pulse-Eval 06.12.2021, Zuschlag 28.12.2021, drei Szenarien inkl. Station. ARiNeP-Rechnung UKFFM. Station-Produktseite weiter Frontiers | 27 |
 | Traumzauberbaum / FD Sojus / HO3RRAUM ??? | TZB Rendering HO3RRAUM 2022; Sojus LWL/Berlin 2017–18; Singende Schlange Sony 20221219-01 | 30 |
@@ -60,8 +60,9 @@ Immer ausschließen: `from:asana.com`, Vergabe-Newsletter, Promotions, WordPress
 | INFINITY Imagefilm / Dom 50 % | Imagefilm 15.000 (nicht doppelt); Dom `20221018-01` 34.200 | 61 |
 | Dom Extra-Lose | 12.720 (2023) + 10.060 + 9.600 (2026); zweite 34.200 weiter offen | 62 |
 | Armstrong MS I–IV | Produktion 94.920 €; Kombi 56.952 ersetzt; Korrekturen 13.440 separat | 63 |
+| Offene Fragen 31.08.2026 (Drive/Gmail/Asana) | GmbH 2015, feir 273.630, FlowAR 583.569,83, UKK-40k ein Topf, Philips=TMA, Kosovo 10 Quest, IMS/mekontor ein Los, AI-Inspect 16.07., ECR Präsenz 2024 | 64 |
 
-Nächster Tick: nächster benannter Kunde ohne Pause. FA-Rejected erst nach Auth.
+Nächster Tick: Live-FA nach funktionierendem Token (APG 119 vs 86, Trier 3. Rechnung, TMA Rest ~100 k, Merck 15 vs 12, BfS Rest, VITA 9 vs 10, Berlin VG-199). FA-Rejected erst nach Auth.
 
 ## Schreibregel
 

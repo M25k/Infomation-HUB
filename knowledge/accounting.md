@@ -33,7 +33,7 @@ Widerspruch zu [claims.md](claims.md) → [open-questions.md](open-questions.md)
 | USt-IdNr. | DE298519758, VAT Registered | gleich |
 | Sitz | Niederstr. 18, 40789 Monheim, Germany | gleich |
 | Währung | EUR | — |
-| GJ | Kalenderjahr (Perioden 01.01.–31.12.; erstes GJ 30.01.2015–31.12.2015) | Gründung **2009** bleibt; 2015 = FreeAgent-/GmbH-Buchstart, nicht Firmenalter |
+| GJ | Kalenderjahr (Perioden 01.01.–31.12.; erstes GJ 30.01.2015–31.12.2015) | Tätigkeit **2009**; GmbH/FA-Buch **2015** (Vertrag 30.01.2015). Eignung „besteht seit“ = GmbH |
 | FA-Kontaktmail | `accounts@northdocks.com` | kein öffentlicher Standard; kanonisch `kontakt@northdocks.com` |
 
 ## Geschäftsjahr / Umsatz (ohne Fördermittel)
@@ -83,7 +83,7 @@ Netto = FreeAgent `net_value`. Status 30.08.2026. Keine neuen Eignungsvolumina a
 | `20241106-01` | Ainavio | 2.970 € netto, Paid, 06.11.2024 |
 | `20241202-01` | 1Komma5 | 840 € netto, Paid, 02.12.2024 |
 | `20241202-02` | Ainavio | 810 € netto, Paid, 02.12.2024 |
-| `20241220-03` | Kognita / Kosovo, 10 Quest | 18.160 € netto, Paid, 20.12.2024 — kein Eignungsslot |
+| `20241220-03` | Kognita / Kosovo, 20 Lizenzzeilen + 2 PT (Hardware: 10 Quest) | 18.160 € netto, Paid, 20.12.2024 — kein Eignungsslot |
 | `20250113-01` | Atos Medical | 4.400 € netto, Paid, 13.01.2025, Kontakt **Coloplast GmbH** |
 | `20250120-01` | Holcim Höver Abo Jahr 1 | 1.600 € netto, Paid, 20.01.2025 — GodView Unlimited, PO 4502769747 |
 | `20250203-01` | Ainavio | 1.350 € netto, Paid, 03.02.2025 |
@@ -125,7 +125,7 @@ UKK acht Rechnungen **328.403 €** Paid (gilt). KI 40 k€ nicht in FA. Henkel-
 
 **TMA / SOE.** Zwei Rechnungen à 160 k€ (`20231009-01`, `20231102-01`) mit denselben sechs Szenarien: Helicopter Search & Rescue, Hazmat, River Crossing, Field Clinic, Air Traffic Control, **Urban Tank Mission**. Philips-SOW zwei Mal 65 k€ (`20231102-04`, `20240214-01`). MOS-Kit 40 k€. 2025: Visual Patient Avatar / Sound-Escape-Integration 70 k€ (`20250124-01 COR`, PO über TBWA NEBOKO); Szenario-Updates 39.150 €. `20260326-03` **25.000 € Overdue**: Unified App, 20 × 1.250 € (gilt; Mail-USD verworfen).
 
-**Kognita / Kosovo.** `20241220-03`: **18.160 €** = 20 × 800 € + 2 PT (gilt). Mail „10 Quest“ ist nicht der Betrag.
+**Kognita / Kosovo.** `20241220-03`: **18.160 €** = 20 × 800 € Lizenzen + 2 PT (gilt). Hardware: **10 Quest** versendet (8 + 2 Ersatz).
 
 **Currenta PO 2960335518.** `20230731-02` 5.760 € (3 POIs, Partner, Packaging, PM à 960 €) + `20240226-01` 1.920 € (20 %-Puffer, 2 × 960 €) = 7.680 €. Puffer später `20240405-02` **storniert** (−1.920 €). Slice-Arbeit damit eher **5.760 € netto** nach Storno.
 
@@ -145,9 +145,9 @@ UKK acht Rechnungen **328.403 €** Paid (gilt). KI 40 k€ nicht in FA. Henkel-
 
 **VITA-GUARD.** Approved-Angebot `20260805-03`: 10 × FirefighterVR-Kit 2.750 €, 10 × Feuerlöscher 449 €, ohne ÜbungsLöscher −150 €/Stück, **10 Monatsraten à 3.049 €**. Lieferung aller 10 nach Anzahlung. Rechnung `20260820-42` 27.441 €.
 
-**IMS / 20260807-02.** KB: IMS Services Angebot FirefighterVR-Kauf. FA: Estimate `20260807-02 FIREFIGHTER VR KAUF` **Invoiced** an **mekontor GmbH & Co. KG** (2.789 €), nicht IMS. IMS hat eigene Reseller-Rechnungen 10/2025–01/2026.
+**IMS / mekontor `20260807-02`.** **Ein Los:** IMS Services (Münnerstadt) bestellt, Achim Schmitz/mekontor zahlt. FA-Kontakt **mekontor** 2.789 €. IMS hat daneben eigene Reseller-Rechnungen 10/2025–01/2026.
 
-**Berliner Feuerwehr.** Nicht mehr volumenlos: `20251002-01` 2.916 €, `20260701-01` 4.302 € (Ausschreibung), Offer Verlängerung Support offen.
+**Berliner Feuerwehr.** Zuschlag VG **2026-199** 30.06.2026 (Hardware). `20251002-01` 2.916 € = **Oktober 2025**, anderes Los. `20260701-01` 4.302 € zeitlich passend, ohne Live-Abgleich nicht als VG-199 setzen. Nicht addieren.
 
 **Bodenheim.** Open-Estimate `20260824-02` FirefighterVR Kauf 3.942 € an VG-Verwaltung Bodenheim (Smart-PSA-Pfad).
 
@@ -161,7 +161,7 @@ Nur merken, nicht als Referenz: Currenta CP Arena 2.0 106.920 € Open; HELIOS F
 
 ### Rejected / Absagen (kein Volumen)
 
-FA-Liste der **398** Rejected-Estimates in diesem Pass **nicht** lesbar (keine Tokens). Kein Dump erfinden.
+FA-Liste der **398** Rejected-Estimates 31.08.2026 weiter **nicht** live lesbar (MCP-Tokens speichern nicht). Kein Dump erfinden.
 
 Bereits kanonisch: InfraServ `20210223-BIT-Technikum-02` **142.190 €** Rejected ≠ Paid 80.000 €. BASF EMPL-Custom Asana **Rejected**. Kepler/XFEL anderer Anbieter. Dräger Mobile `20240429` ~2.965 € = Angebot, kein Zuschlag. John Deere 9.000 € bleibt **Open**, nicht Rejected.
 

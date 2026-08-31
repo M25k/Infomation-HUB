@@ -200,5 +200,5 @@ Mail-Lücken ohne Asana-Board (Details in projects.md): **Traumzauberbaum** HO3R
 - TMA 25.000 € FA = Consolidation-Slice, nicht Army-Auftragswert.
 - Spot-KI-Erstattungen = Teilvorhaben Northdocks, nicht Verbund, nicht Pitch 1,5 Mio. €.
 - Kosovo: Kognita/Interadria intern, Streitkräfte nur GF; Seriennummern nicht listen.
-- Feuerwehr Berlin: Zuschlag **2026-199 VR Brillen Set** (Hardware, 30.06.2026). Kein Volumen, nicht Meißen-Eignung.
+- Feuerwehr Berlin: Zuschlag **2026-199 VR Brillen Set** (Hardware, 30.06.2026). Mail ohne Euro. `20251002-01` 2.916 € = anderes Los (Okt. 2025). Nicht Meißen-Eignung.
 - VITA-GUARD: 10 FFVR-Setups intern belegt; nicht ungefragt öffentlich.

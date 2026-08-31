@@ -357,3 +357,7 @@ Zweite 34.200 € zum Innenraum-Angebot **nicht** gefunden. Extra-Lose: `2023041
 
 **Maus Armstrong / Stiftung Planetarium Berlin:** MS I `20210921-02` **23.730 €**; MS II `20210921-03` **14.238 €**; MS III `20220221-01` **28.476 €**; MS IV `20220316-03` **28.476 €**. Produktion **94.920 €**. `20220106-02` 56.952 = III+IV kombiniert, nach Rienow ersetzt (IV erst nach Premiere) — nicht addieren. Korrekturen `20230123-01` 13.440 bleiben Nachtrag. Kein Eignungsslot.
 
+## Pass 64 — 2026-08-31 (Offene Fragen: Drive / Gmail / Asana)
+
+Geklärt ohne Live-FA: GmbH-Vertrag 30.01.2015 / Kiel HRB 16574 / Stammkapital 27.695 €; feir FKZ 13N16415 **273.630 €**; FlowAR bis zu **583.569,83 €**; UKK 40 k€ = ein Topf Voice/Lisa; TMA sechs Asana-Boards; Philips = TMA; Kosovo Hardware 10 Quest; IMS/mekontor ein Los; Frontiers = Delphi; AI-Inspect eingereicht 16.07.2026; ECR 2024 = Präsenz. FA-MCP Auth-Dialog speichert Tokens nicht — APG/Trier/TMA-Rest/Merck/BfS/VITA/Berlin weiter offen.
+
