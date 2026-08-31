@@ -4,7 +4,7 @@ Stand: 2026-08-31.
 
 Ziel: in Gmail **stille Verkaufs- und Anfrage-Threads** finden und gegen die **heutigen** Fähigkeiten in diesem HUB halten. Ergebnis ist eine Wiederaufnahmeliste, kein zweiter Tiefenpass für Rechnungen oder Historie (das bleibt [gmail-pass.md](gmail-pass.md)).
 
-**Betrieb:** lokal in diesem Chat bzw. im Agent, manuell, wöchentlich. Kein Auto-Versand, keine Cloud-Automation. Start: **„Starte den wöchentlichen Lost-Lead-Scan“** — das Skill [lost-leads](../.cursor/skills/lost-leads/SKILL.md) läuft dann durch. Läufe: [lost-leads/](lost-leads/).
+**Betrieb:** lokal in diesem Chat bzw. im Agent, manuell, wöchentlich. Kein Auto-Versand, keine Cloud-Automation. Start: **„Starte den wöchentlichen Lost-Lead-Scan“** — das Skill [lost-leads](../.cursor/skills/lost-leads/SKILL.md) läuft dann durch. Letzter Lauf: [`knowledge/lost-leads/2026-08-31.md`](lost-leads/2026-08-31.md).
 
 Mailbox: `joachim@northdocks.com`. Kein Passwort, Token oder 2FA-Code versionieren.
 
