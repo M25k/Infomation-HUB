@@ -15,6 +15,14 @@ Keine Portal-Passwörter, keine AVPQ-Zugangscodes in die Notes.
 
 Jedes Feld ausfüllen. Unbekannt = `offen` (nicht weglassen). Bekanntmachung/XML/PDF lesen, bevor der Task gespeichert wird.
 
+**Quellenrang für Eignung, Wertung, Fristen, Budget:**
+
+1. Auftragsbekanntmachung (Portal-PDF / TED-XML / bund.de-HTML der Vergabestelle)
+2. Leistungsbeschreibung, Preisblatt, Bewerbungsbedingungen
+3. BKMS/TED-Rohfelder (Titel, CPV, Frist), wenn 1. noch fehlt
+
+Nicht als Quelle: Bidfix, Tender Impulse, dtad, „KI-Kriterien-Analyse“, Such-Snippets. Die dürfen nur den **Fund** (URL) liefern. Kriterien daraus nicht ins Ticket, auch nicht als „zu prüfen“. Bis das amtliche PDF gelesen ist, bleibt das Feld `offen`.
+
 ```
 ENTSCHEIDUNG
 Teilnahme: offen

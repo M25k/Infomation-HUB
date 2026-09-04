@@ -72,6 +72,10 @@ Weitere Einzelwörter: `OpenXR`, `Einsatztraining`, `Planspiel`, `Patientensimul
 
 Nicht: `Website`, `App` allein, `SAP`, `Headset` allein. UKSH stand unter „VR-Trainingsumgebung“, nicht unter englisch „Virtual Reality“ — deshalb mehrere Suchen, nicht eine.
 
+Lektion 04.09.2026 (Uni Bielefeld, bund.de `vmp-nrw/2026/09/228037`): Titel „medizinische Virtual-Reality-Trainingsanwendung“. Das Script fand das Los in BKMS, wertete es aber als Skip, weil `virtual reality` keinen Bindestrich kannte. bund.de-RSS (500er-Kappe) hatte den Eintrag nicht. Die bund.de-Keyword-Suche „Virtual Reality“ fand ihn. TED nein (kein TED-Datensatz). Score-Muster akzeptiert jetzt `Virtual-Reality`. Keyword-Suche auf bund.de bleibt Pflicht, RSS allein reicht nicht.
+
+Zweite Lektion derselben Akte: Websuche traf [Bidfix](https://bidfix.ai/tender/entwicklung-einer-medizinischen-virtual-reality-0edb2185-9aeb-4422-a2b6-70b8d400e401) mit Block **„KI-Kriterien-Analyse“** (K.O. ISO 9001, Umsatz 500 k€, drei Refs >100 k€, Wertung Qualität 30 / Team 10). Nichts davon steht in Bekanntmachung oder Anlage 1. Tender Impulse nannte zudem eine falsche Frist (10.09. statt 29.09.). Ursache: kommerzielle Tender-KI mischt Standard-IT-Eignung in den Snippet. Verhindern: Eignung/Wertung erst nach amtlichem PDF; Aggregator nur für die URL.
+
 ## Ablage
 
 - Rohdaten TED: `knowledge/tender-runs/YYYY-MM-DD.json`

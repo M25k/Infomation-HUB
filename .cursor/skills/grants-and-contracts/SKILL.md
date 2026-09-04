@@ -36,6 +36,8 @@ Start im Chat: **„Wir machen die Ausschreibung {Name oder URL}“** (oder Asan
 
 Ablauf: (1) Asana-Task prüfen oder anlegen. (2) Unterlagen in den Drive-Unterordner. (3) Texte mit diesem Skill aus der KB, Call-Text aus Drive/Portal spiegeln. (4) Abgabe im Portal; Mailbox `ausschreibungen@northdocks.com`. (5) grants.md kurz nachziehen.
 
+Eignung, Wertung und K.O.-Listen nur aus den amtlichen Unterlagen im Drive/Portal. Bidfix und ähnliche Tender-KIs nicht zitieren (Bielefeld 09/2026: erfundene ISO 9001).
+
 ## Was es nicht tut
 
 - Keine Geheimnisse (Zugangscodes, Passwörter, interne Mailbox-Zugänge) in Dokumente oder Git schreiben.

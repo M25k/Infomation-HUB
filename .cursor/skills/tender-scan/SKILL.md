@@ -23,8 +23,8 @@ This loads TED (EU-Schwelle), oeffentlichevergabe.de / BKMS (Bund/Länder/Kommun
 No extra packages. Do not put portal passwords, AVPQ access codes, or mailbox secrets into Git or the run file.
 
 5. **Browser-Lücken** nach dem Script: die Portale unter `layers.browser` in portals.json mit denselben Keyword-Sets aus [knowledge/tender-scan.md](../../knowledge/tender-scan.md) öffnen (evergabe-online, DTVP, VMP NRW/Bayern/SH). Login-Portale nur mit den Daten aus dem Drive-Sheet, Passwort nicht in den Chat oder ins Repo. TED/BKMS ersetzen diese VMPs nicht vollständig unter der Schwelle.
-6. Open every `review` hit (and borderline `maybe` with Meditrain/FFVR/GodView/XR-Software after reading the notice). Re-score with match.md. Script scores are titles + loaded description, still not the Leistungsverzeichnis.
-7. **Sofort Asana**, sobald der Treffer nach dem Lesen ein Kompetenz-Match ist — nicht erst nach einer späteren Runde. Vollständiges Bid/No-Bid-Raster aus [asana-ticket.md](asana-ticket.md). Unbekannte Felder = `offen`. Bekanntmachung (TED-XML oder bund.de) vorher lesen.
+6. Open every `review` hit (and borderline `maybe` with Meditrain/FFVR/GodView/XR-Software after reading the notice). Re-score with match.md. Script scores are titles + loaded description, still not the Leistungsverzeichnis. After the script: run the bund.de keyword URLs in [knowledge/tender-scan.md](../../knowledge/tender-scan.md) — the RSS is capped at 500 and misses VMP-NRW notices that the keyword search finds (Bielefeld 09/2026).
+7. **Sofort Asana**, sobald der Treffer nach dem Lesen ein Kompetenz-Match ist — nicht erst nach einer späteren Runde. Vollständiges Bid/No-Bid-Raster aus [asana-ticket.md](asana-ticket.md). Unbekannte Felder = `offen`. **Eignung und Wertung nur aus der amtlichen Bekanntmachung / dem LV**, nicht aus Bidfix, Tender Impulse oder anderer „KI-Kriterien-Analyse“. Aggregatoren dürfen die URL finden, keine K.O.-Listen.
 8. Write `knowledge/tender-runs/YYYY-MM-DD.md` and include the Asana-URL for every new ticket.
 9. Do not create tasks for Horizon/EIC/KMU-Skizzen in this scan. Do not create tasks for Hard-Skip (Fahrzeuge, Bau, Tourismus-App, …).
 
@@ -59,4 +59,5 @@ Nur notiert: N
 - GodView ist nicht die Headset-App.
 - FirefighterVR-Katalog nicht in jeden Auftrag kippen.
 - Ein Kompetenz-Match ohne Asana-Ticket gilt als unerledigt.
+- Eignung/Wertung/ISO/Umsatzschwellen nicht aus kommerziellen Tender-KIs. Bielefeld 09/2026: Bidfix erfand ISO 9001, 500 k€ Umsatz und drei Refs >100 k€ — stand in keiner Unterlage.
 - Zugangsdaten bleiben im Drive-Sheet der Task [Ausschreibungen / Förderung](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1210459272235392). Niemals hierher kopieren.

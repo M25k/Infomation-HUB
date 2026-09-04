@@ -10,8 +10,8 @@ import re
 POSITIVE = {
     "xr": (
         r"\bvr\b",
-        r"virtual reality",
-        r"virtuelle[rn]? realit",
+        r"virtual[ -]?reality",
+        r"virtuelle[rn]?[ -]?realit",
         r"augmented reality",
         r"extended reality",
         r"\bxr\b",

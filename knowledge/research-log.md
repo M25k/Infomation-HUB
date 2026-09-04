@@ -197,6 +197,10 @@ Traumzauberbaum: HO3RRAUM Rendering 2022, Festival 2023, kein Board. FD Sojus-St
 
 GodView intern: KIWI Kiel 20231115-01; EG Westholstein Befliegung 20220822-03 / 20221103-02. APG-POs 4500320239 / 4500320883. Planetarium Berlin 20230123-01, Bochum 20220920-01. Schiffshebewerk 20220805-02. Keine neuen Volumina.
 
+## Pass 35 — 2026-09-01 (UKFFM zwei Phasen)
+
+Rabi 31.08.2026: Kostenvoranschlag, vier Word-Anlagen (Schockraum-Szenarien 26.08., Vergabeanlage Schockraum 30.08., Vergabeanlage Triage 30.08., Spezifikation Triage 28.08.). Ziel: Software 200 k€, Twin Scan+Handmesh 120 k€, Twin rausgelöst. HTML-Vergabehilfen und interne Kalkulationen in Downloads, nicht Git. Summe 320 k€ > Schwelle 216 k€ — Trennung nur sachlich (CPV/Mesh zuerst), nicht als Umgehung. UKK-FA 328.403 € bleibt Vergleich, nicht LV-Zahl.
+
 ## Pass 31 — 2026-08-30 (UKFFM Modul Triage)
 
 Spezifikation „VR Digital Twin: Modul Triage“ (28.08.2026): innerklinische Sichtung MANV an der Universitätsmedizin Frankfurt (Anfahrt/Sichtungsbereich, 20 Patienten, BER/MTS-MANV/München/START, Physiologie, Logging, Studie). Erweiterung des UKK-Projekts, eigener Auftraggeber — UKK-Vertrag reicht nicht. ARiNeP bleibt andere Klinik. TEAM-X-Triage 2024 nur Konzept, nicht Lieferstand. EU-Schwelle nicht-zentral 2026: **216.000 €** netto. Asana Sammlung: UKFFM VR-Triage. HTML intern Downloads, nicht Git.

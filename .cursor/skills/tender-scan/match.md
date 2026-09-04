@@ -41,7 +41,7 @@ Bei sonst gleichem Fit:
 
 ## Score nach Script + Lesen der Bekanntmachung
 
-Das Script vergibt nur einen **Erstscores** aus Titel/CPV. Der Agent muss die Bekanntmachung öffnen und neu bewerten. Sobald das Los nach dem Lesen ein Kompetenz-Match ist: **sofort Asana mit dem vollen Raster** in [asana-ticket.md](asana-ticket.md).
+Das Script vergibt nur einen **Erstscores** aus Titel/CPV. Der Agent muss die **amtliche** Bekanntmachung öffnen und neu bewerten — nicht Bidfix/Tender-Impulse-Snippets. Sobald das Los nach dem Lesen ein Kompetenz-Match ist: **sofort Asana mit dem vollen Raster** in [asana-ticket.md](asana-ticket.md).
 
 | Score nach Lesen | Aktion |
 |---|---|
