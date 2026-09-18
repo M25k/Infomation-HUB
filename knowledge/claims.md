@@ -21,7 +21,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Orientierung intern: ca. 1 Mio. € p.a. (vage) | intern | GF 2026-08-26. Nicht auf Website, nicht als exakte GJ-Zahl. FA-Verkauf 2023 ~1,31 Mio., 2024 ~0,80, 2025 ~0,58 — plus Fördermittel separat in grants.md |
 | Betriebshaftpflicht besteht; Zieldeckung 3 Mio. € Personen / 0,5 Mio. € Sache, Aufstockung nach Zuschlag falls nötig | intern | UKSH-Eignung 2026. Keine aktuelle Police-Kopie in dieser KB. |
 | 45+ Projektpartner | intern | Business Deck, nicht nachgezählt |
-| julia.barenthien als Northdocks-Mitarbeiterin / Eignungspersonal | **nicht verwenden** | GF 28.08.2026: nicht offizielles ND-Team. Arbeitgeber F&E GmbH Kiel unterbreitet derzeit einen Nebenjob. Expertise intern zugänglich, wenn nötig |
+| julia.barenthien als Northdocks-Mitarbeiterin / Eignungspersonal | **nicht verwenden** | GF 28.08.2026: nicht offizielles ND-Team. Arbeitgeber F&E GmbH Kiel, Nebenjob. **Zuschlagskonzept:** Nutzer hat sie 15.09.2026 in Bielefeld 702-2026-10 (Didaktik) gesetzt — Vorbild für Konzepttabellen, nicht für Eignung Teil 2 |
 
 ## FirefighterVR
 
@@ -45,19 +45,20 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | UKK-Zuschlag Schockraum 28.12.2021 | intern | Datta: Rechtsabteilung UKK, Zuschlag an Northdocks. Drei Szenarien von Beginn: Schockraum, Instabiler Patient/Station, Fahrstuhl. Pulse-Evaluierung 06.12.2021 |
 | UKK-Gesamt 357.000 € brutto oder 380 k€ ohne FA | **nicht verwenden** | 357 k = C-Level 2023. 380 k = UKSH-Mappe. Kanonisch: FA **328.403 €** Paid + KI 40 k€ noch nicht fakturiert |
 | AMBOSS LiSA in Meditrain als ausgeliefertes Produkt | **nicht verwenden** | Hackathon Juni 2026 + LoI intern offen. Nur: Zusammenarbeit UKK/AMBOSS, Voice-Pfad intern |
-| Öffentlicher Schockraum-Name **ERVR** / **Emergency Room VR** | intern, **außen für UKK-Projekt** | Asana `1216921060272475` (27.07.2026): Domains/Marke dort gültig. Interner Name **Schockraum VR** bleibt. Emergency **Response** nicht (Unionsmarken Kl. 41). Zielhardware Pico Project Swan; Mobile-Ports laufen |
+| Öffentlicher Schockraum-Name **ERVR** / **Emergency Room VR** | intern, **außen für UKK-Projekt** | Asana `1216921060272475` (27.07.2026): Domains/Marke dort gültig. Interner Name **Schockraum VR** bleibt. Emergency **Response** nicht (Unionsmarken Kl. 41). Zielhardware **PICO Space Pro** (vormals Project Swan); Mobile-Ports laufen |
 | Station VR Frontiers 2026 (Adams et al., DOI 10.3389/frvir.2026.1737515) | öffentlich | **Delphi-Lernziele**, nicht Pico-Koffer-Wirksamkeit. Paper-Hardware PCVR Pimax 8K Plus + Alienware, 13 CeMIT-Plätze, ohne Haptik. Sitz Monheim, nicht Paper-„Düsseldorf“ |
 | StrahlenschutzVR Miete ab 499 €/Woche, Kauf ab 3.499 € | öffentlich | strahlenschutzvr.de |
 | Strahlenschutz: 97 / 94 / 91 % Presence / Verständnis / Glaubwürdigkeit | intern + Deck | Evaluation; in Anträgen mit Studie/Deck, nicht als Website-0 %-HTML |
 | „0 % … credible“ auf meditrainvr.com ohne JS | nicht verwenden | Fetch 2026-08-26 |
 | Präsenz ECR 2024 (Wien) mit StrahlenschutzVR | intern | Gmail: BfS/MyESR-Badge, Besucheranfrage. „Auszeichnung“ nur Deck — ohne Urkunde nicht als Award |
 | Meditrain = Produktlinie der Northdocks GmbH; Ziel Koffer + Hardware/Software-Komplettpaket analog FirefighterVR | intern, **kanonisch** (2026-08-26) | GF. Pitch 2024 Ausgründung nicht mehr verwenden |
+| Koni Trainer als ausgeliefertes OP-/Katalogmodul oder „klinisch validiert Würzburg“ | **nicht verwenden** | Konisation-Trainer, nicht Koniotomie. KMU-innovativ VR-Koni-Edge **abgelehnt 10.07.2026**. RC1 11/2025 ohne Mesh Cutting. Fresenius/Helios-Decks mit Würzburg-Validierung sind falsch. [koni.md](koni.md) |
 
 ## GodView / Dom
 
 | Claim | Stufe | Quelle |
 |---|---|---|
-| Zwei GodView-Kundentypen: A Bauinspektion (Dom), B Einsatzleitung (Feuerwehr/Playground) | intern, **kanonisch** (2026-08-26) | GF; nicht als zwei Produkte beschreiben. Landingpage 2026 = vor allem Typ A; Typ B nicht als Website-Claim |
+| Zwei GodView-Kundentypen: A Bauinspektion (Dom), B Einsatzleitung (Feuerwehr/Playground) | öffentlich auf der Site (2026-09-13) | GF; nicht als zwei Produkte beschreiben. `index.html` = Typ A, `feuerwehr.html` = Typ B, Umschalter in der Nav. Planspiel-Link: firefightervr.de/trainings/planspiel/ |
 | Hosting Deutschland, DSGVO | öffentlich | godview.solutions |
 | 119 €/Monat Basis, +49 € Module | öffentlich | Site — nur in Produktangeboten |
 | 100.000+ Fotos **und** 1.000 Laserscans Kölner Dom | intern, **in Anträgen erlaubt** (Entscheidung 2026-08-26) | GF; meta-dom.de hat 100.000+. News 2020 (30.000) ist Altstand, nicht mehr zitieren |

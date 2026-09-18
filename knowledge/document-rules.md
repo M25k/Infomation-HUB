@@ -15,7 +15,9 @@
 | Register | HRB 76844, Amtsgericht Düsseldorf |
 | USt-IdNr. | DE298519758 |
 | Geschäftsführer | Joachim Perschbacher, Patrick D. Reschke |
-| Standardkontakt | +49 (0) 2173 9996713, kontakt@northdocks.com |
+| Standardkontakt | +49 (0) 2173 9996715, kontakt@northdocks.com |
+
+Produktnummern: FirefighterVR **9996713**, MeditrainVR/StrahlenschutzVR **9996714**. Erreichbarkeit Mo.–Fr. 9:00–13:00. Nicht 6713 als GmbH-Standard.
 
 Kiel (Schauenburgerstraße 116, 24118 Kiel) ist **Umsetzungsstandort**, nicht der Rechtssitz. Nur nennen, wenn der Auftrag dort erbracht wird.
 
@@ -57,6 +59,14 @@ Vor Namensnennung externer Personen: Freigabe einholen, wenn `projects.md` das v
 ## Bücher
 
 Live in **FreeAgent**. Verkaufszahlen aus FA **sind richtig** und zählen. Mail/Deck/alte KB weichen → FA. **Nur Fördermittel** stehen nicht in FA ([grants.md](grants.md)) — nicht auf den Umsatz legen. Git nur destilliert in [accounting.md](accounting.md).
+
+## Briefkopf
+
+Default für von uns erzeugte HTML-Docs: [.cursor/templates/northdocks-briefkopf.html](../.cursor/templates/northdocks-briefkopf.html) (Wortmarke quer, Haarlinien, vierspaltiger Footer, Telefon **6715**). Ablauf in [.cursor/rules/google-docs-html.mdc](../.cursor/rules/google-docs-html.mdc). Gewertetes Konzept und Portal-Formulare **ohne** Briefkopf.
+
+## Angebots-Paket
+
+Öffentliche Vergabe: Inhaltsangebot (Brief + Preis), Konzept (nur Wertung), Referenzen und Pflicht-Erklärungen getrennt. **Ausfüllhilfe und PT-Kalkulation nie ins Portal.** Konzept ohne Firmenkopf und ohne Summe. Schnitt: [.cursor/skills/grants-and-contracts/offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md).
 
 ## Verbote
 

@@ -11,7 +11,7 @@ Gilt für alle Northdocks-Domains, solange die Site-Datei nichts Engeres festleg
 | Register | HRB 76844, Amtsgericht Düsseldorf |
 | USt-IdNr. | DE298519758 |
 | Geschäftsführer | Joachim Perschbacher, Patrick D. Reschke |
-| Telefon | +49 (0) 2173 9996713 |
+| Telefon | Hub/Impressum **+49 (0) 2173 9996715**; Meditrain/Strahlenschutz **9996714**; FirefighterVR **9996713**. Erreichbarkeit Mo.–Fr. 9:00–13:00 |
 | Mail (kanonisch) | **kontakt@northdocks.com** |
 
 Kiel, Schauenburgerstraße 116, nur wo der Standort inhaltlich vorkommt (nicht als Rechtssitz).

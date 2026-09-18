@@ -13,7 +13,9 @@ Rolle: Browser-Digital-Twin. **Eine Plattform, zwei Kundentypen.** Die Live-Land
 
 ## Ist-Struktur
 
-`index.html` (Hero Baustelle/Inspektion, Features, FAQ, Preise), `news.html`, `roadmap.html`, Impressum, Datenschutz. Sprachumschalter auf derselben URL — **keine** eigene `/en/`-Site (im Gegensatz zu firefightervr.de/en/).
+`index.html` (Hero Baustelle/Inspektion, Features, FAQ, Preise), `feuerwehr.html` (Lagebild/Einsatz, Link zu firefightervr.de/trainings/planspiel/), `news.html`, `roadmap.html`, Impressum, Datenschutz. Umschalter **Bau & Inspektion** / **Einsatz & Feuerwehr** in der Navigation. Sprachumschalter auf derselben URL — **keine** eigene `/en/`-Site (im Gegensatz zu firefightervr.de/en/).
+
+Kontakt live: **kontakt@northdocks.com**, Telefon **+49 (0) 2173 9996715**, Mo.–Fr. 9:00–13:00. `godview@…` nicht verwenden.
 
 Öffentliche Preise Typ A: Basis 119 €/Monat, Module +49 €.
 
@@ -26,7 +28,7 @@ Hosting-Aussage auf der Site: Deutschland, DSGVO. Intern Linode / DLR-On-Prem **
 3. Nie behaupten, GodView sei die Unreal-Trainingsapp auf dem Headset. Headset = Training; GodView = Twin + Leitung/Inspektion.
 4. VR-Export und 3D Tiles (auch kundeneigene Tilesets, analog FFVR-FAQ) sind Produktfeatures, kein FirefighterVR-Katalog.
 5. Englisch: entweder vollwertige EN-Texte oder klarer Umschalter; keine halben Strings.
-6. Kontakt: kontakt@northdocks.com. `godview@…` nicht zum Firmenstandard machen.
+6. Kontakt: kontakt@northdocks.com, Telefon Hub **+49 (0) 2173 9996715**. `godview@…` nicht zum Firmenstandard machen.
 
 ## Öffentlich sagbar
 

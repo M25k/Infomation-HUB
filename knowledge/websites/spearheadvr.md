@@ -16,7 +16,7 @@ Rolle: Defense / Public Safety **Marke**. Öffentliche Site vorsichtig: intern b
 2. Firmenalter/Fulldome nicht als Spearhead-Produktalter.
 3. Wenn Referenzen öffentlich werden: nur nach Freigabe, dann TMA als Auftraggeber, nicht „Auftrag US Army“.
 4. Koffer, Offline, Playground als Produktprinzip — ohne erfundene Stückzahlen.
-5. Kontakt: kontakt@northdocks.com. Vertical-Mails auf der Site nicht zum GmbH-Standard machen.
+5. Kontakt: kontakt@northdocks.com, Telefon Hub **+49 (0) 2173 9996715**. Vertical-Mails auf der Site nicht zum GmbH-Standard machen.
 
 ## Öffentlich sagbar (konservativ)
 

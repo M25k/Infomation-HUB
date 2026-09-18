@@ -23,7 +23,7 @@ Nav heute: Verticals, Über uns, News, Preise & Förderungen, Kontakt. DE/EN üb
 1. **Vertical-Links** auf Canonical-URLs. FirefighterVR → `https://firefightervr.de/`, nicht firefightervrmobile.de. Betroffen heute: `index.html`, `index-en.html`, `virtual-reality-training.html`, `virtual-reality-training-en.html`, `online_index.html`.
 2. Sieben Kacheln, Reihenfolge wie Live: Meditrain, Firefighter, Next Factory, Spearhead, Storywalx, Meta-dom, GodView. Keine fünfte-Vertikale-Story.
 3. GodView-Kachel: Twin + Inspektion **und** (kurz) Lage/Kommando, ohne GodView zur Headset-App zu machen.
-4. Kontakt: nur **kontakt@northdocks.com** und +49 2173 9996713.
+4. Kontakt: nur **kontakt@northdocks.com**. Telefon **+49 (0) 2173 9996715**. Erreichbarkeit Mo.–Fr. 9:00–13:00. Nicht 6713 (FirefighterVR) und nicht 6714 (Meditrain).
 5. Funding: Spot-KI nur KI-Transfer-Hub SH. Keine Vodafone, keine UKK als Spot-Partner. EPIC Mega Grant 2020, AMBOSS 2026 dürfen bleiben (öffentlich).
 6. About: Firma seit 2009, Spatial Computing / XR + Twin. Nicht „17 Jahre FirefighterVR“. Fulldome darf als Herkunft der immersiven Linie, nicht als aktuelles Produkt.
 

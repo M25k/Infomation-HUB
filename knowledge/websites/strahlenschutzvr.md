@@ -16,7 +16,7 @@ Rolle: Meditrain-**Produktpaket** (Pflichtunterweisung Katheterlabor / Strahlens
 2. Preise nur von dieser Site, nicht auf meditrainvr.com verdoppeln ohne Abgleich.
 3. Evaluation 97/94/91 % Presence/Verständnis/Glaubwürdigkeit nur mit Quellenkontext, nicht als unbelegte Hero-Prozente.
 4. Querverweis meditrainvr.com und firefightervr.de (CPR/Brand) nur wo fachlich sinnvoll.
-5. Kontakt: kontakt@northdocks.com; Telefon GmbH-Standard 9996713 außer die Live-Seite hat bewusst die Meditrain-Nummer.
+5. Kontakt: **kontakt@northdocks.com**; Telefon **Meditrain +49 (0) 2173 9996714**, Erreichbarkeit Mo.–Fr. 9:00–13:00. USt-IdNr. **DE298519758**. Nicht die GmbH-Hub-Nummer 6715.
 
 ## Nicht
 

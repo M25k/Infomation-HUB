@@ -27,7 +27,7 @@ FirefighterVR bleibt das Cash- und Referenzprodukt. Es wird nicht abgelöst. Med
 - AMBOSS-Award 2026 mit CeMIT / UKK
 - UKK-Projekt aktiv (Asana UKK-VR, 653 Tasks, Pulse Engine, Modul 3)
 - Brücke Schule: Hand aufs Herz (handaufsherz-vr.de, Launch 2026, CPR-Puppe, FFVR-Bildmaterial)
-- Forschung/Pipeline: Koni/Soft-Tissue, Flashlight/UKSH Rettung, ARiNeP Neurorehab, XR2LEARN-Ideen
+- Forschung/Pipeline: Koni/Soft-Tissue (**KMU-innovativ abgelehnt 10.07.2026**, RC1 freeze; [koni.md](koni.md)), Flashlight/UKSH Rettung, ARiNeP Neurorehab, UKFFM Triage, **Bielefeld Kinderchirurgie** (eingereicht 17.09.2026)
 
 ## Rechtsform und Vertriebsmodell (Entscheidung 2026-08-26)
 

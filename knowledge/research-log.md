@@ -361,7 +361,27 @@ Zweite 34.200 € zum Innenraum-Angebot **nicht** gefunden. Extra-Lose: `2023041
 
 **Maus Armstrong / Stiftung Planetarium Berlin:** MS I `20210921-02` **23.730 €**; MS II `20210921-03` **14.238 €**; MS III `20220221-01` **28.476 €**; MS IV `20220316-03` **28.476 €**. Produktion **94.920 €**. `20220106-02` 56.952 = III+IV kombiniert, nach Rienow ersetzt (IV erst nach Premiere) — nicht addieren. Korrekturen `20230123-01` 13.440 bleiben Nachtrag. Kein Eignungsslot.
 
+## Pass 65 — 2026-09-12 (Wochenabgleich Asana / Gmail / Drive)
+
+Quellen: Asana (neu/geändert ab 25.08., Board Anträge, Projektentwicklung, Kundenanfragen), Gmail `after:2026/08/25` gefiltert, Drive lastModified + Bielefeld-Mappe, TEMA Consortium. FreeAgent-MCP **ohne Token**.
+
+Neu intern belegt und in die KB: TEMA Amendment BULL **angenommen 11.09.** (Beitritt 01.02.2026), GA-eVote 18.09., Dinner 23.09. Meißen **eingereicht 27.08.** (Asana); Zusatzdokumente 08./11.09. ungelesen. Bielefeld-Unterlagen **04.09.**: Module A–D, **50/50**, Budget **170 k€**. KI4Energy-Call **08.09.**, WFVD assoziiert, Skizzenfahrplan Okt/Nov. UniBw DPAR LOI-Vorlage 02.09., Name offen, Frist 21.09. CBRN-Dekon-Idee 10.09., Deconta 22.–23.09. Bayer FFVR-Leihe Monheim Safety Day 10.09. (unbezahlt). Schenker/Bosch-Demo 24.09. HASAW via B-Safe geplant 18.09. TUHH v1.0.2 erledigt 11.09. Holcim-Rechnung `20260907-01` ohne Betrag. Telefon-Split kanonisch: Hub 6715 / Meditrain 6714 / FFVR 6713. OffTEC Vor-Ort-Einladung 31.08.
+
+Nicht übernommen: Kundentelefone, Serien, Tracking, FlowAR-Serverpasswort aus Asana, FA-Zahlen ohne Token, jede FFVR-Landingpage-Anfrage.
+
 ## Pass 64 — 2026-08-31 (Offene Fragen: Drive / Gmail / Asana)
 
 Geklärt ohne Live-FA: GmbH-Vertrag 30.01.2015 / Kiel HRB 16574 / Stammkapital 27.695 €; feir FKZ 13N16415 **273.630 €**; FlowAR bis zu **583.569,83 €**; UKK 40 k€ = ein Topf Voice/Lisa; TMA sechs Asana-Boards; Philips = TMA; Kosovo Hardware 10 Quest; IMS/mekontor ein Los; Frontiers = Delphi; AI-Inspect eingereicht 16.07.2026; ECR 2024 = Präsenz. FA-MCP Auth-Dialog speichert Tokens nicht — APG/Trier/TMA-Rest/Merck/BfS/VITA/Berlin weiter offen.
+
+## Pass 65 — 2026-09-15 (Bielefeld-Angebot: Nutzer-Docs = Paketstandard)
+
+Joachim hat die HTML-Entwürfe nach Google Docs gezogen. Änderungen gegenüber Erstentwurf, jetzt Standard ([offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md)): Ausfüllhilfe eigenes intern-Doc; Konzept ohne Briefkopf, ohne 146 PT / 160 k€, ohne Schlusskatalog Nicht-Leistungsbestandteil; Anschreiben ohne Freiraum-Namen. Konzept-Personal: Renke 3D/QA, Julia Didaktik (Stephan nicht in der Konzeptzeile). Julia weiter nicht in Eignung Teil 2.
+
+## Pass 66 — 2026-09-17 (Wochenabgleich Asana / Gmail / Drive)
+
+Quellen: Asana (Bielefeld, UKSH, UniBw Schalinski, Board Anträge), Gmail `after:2026/09/12` gefiltert, Drive lastModified (Bielefeld-Einreichordner, TEMA M37–M48). FreeAgent-MCP **ohne Token**.
+
+Neu intern belegt und in die KB: Bielefeld `702-2026-10` **eingereicht 17.09.2026** (160 k€ / 170 k€, PICO Space Pro, Refs UKK+BfS). UKSH TED 620293-2026 Frist **21.09.**, Los-2-Nachzug offen. UniBw DPAR: LOI + Kostenaufstellung **14.09.** raus, Anlage I **15.09.**, Schnitt 3,75 PJ / ~497 k€ förderfähig / ~373 k€ Zuwendung; Empfang bei Inga unklar. Mail Inga **17.09.**: Einreichung **18.09. vor 16 Uhr**, Dokumente angekommen, Kosten auf **48 Monate** verlangt; Variante intern 17.09. (3,75 PJ unverändert, VZÄ 1,50 / 1,25 / 0,75 / 0,25). Technische + TRL-Texte 17.09. versendet. KI4Energy PtJ Keller **17.09.**: industrielle Forschung, TRL 1–3, eine Skizze, AWT Haemisch. TEMA KAHY TAP2 zur Prüfung, Periodic Report M37–M48, Smartdesk v1.20-dev. Rosenbauer Bayern-Twin Unterangebot angefragt. PICO Space Pro = Handelsname für Project Swan.
+
+Nicht übernommen: Kundentelefone (Rosenbauer), Serien, Tracking, FlowAR-Passwörter, FA-Beträge ohne Token, MWC-2027-NRW-Stand (Newsletter), GodView-Formular-Leads, ASUB/Voss-Kit-Angebote.
 

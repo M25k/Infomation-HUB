@@ -41,7 +41,7 @@ Ehemalige / nicht Stamm (nur Historie, nicht in Eignungsteil 2):
 
 Zugriff bei Bedarf, **nicht** Stamm und **nicht** Eignungsteil 2:
 
-- julia.barenthien (`julia.barenthien@northdocks.com` / `julia.barenthien@fe-kiel.de`) — Arbeitgeber **F&E GmbH Kiel** unterbreitet derzeit einen Nebenjob. Deshalb **kein** offizielles ND-Team. Förder-/Pädagogik-Expertise intern nutzbar, wenn nötig. EIC-Intros von `fe-kiel.de` sind F&E, nicht Northdocks-Personal.
+- julia.barenthien (`julia.barenthien@northdocks.com` / `julia.barenthien@fe-kiel.de`) — Arbeitgeber **F&E GmbH Kiel** unterbreitet derzeit einen Nebenjob. Deshalb **kein** offizielles ND-Team. Förder-/Pädagogik-Expertise intern nutzbar, wenn nötig. EIC-Intros von `fe-kiel.de` sind F&E, nicht Northdocks-Personal. **Ausnahme Konzept Bielefeld 702-2026-10** (Google Doc 15.09.2026, Nutzer): Didaktik-Zeile Julia Barenthien, 3D/QA Renke Niehaus. Nicht automatisch in andere Lose oder in Eignung Teil 2 kopieren.
 
 Reseller-Postfach intern: `partner@northdocks.com` (z. B. Smart PSA → VG Bodenheim). Nicht als öffentlichen Firmenkontakt statt `kontakt@northdocks.com` verwenden.
 
@@ -63,13 +63,17 @@ Zwei Referenzen der letzten fünf Jahre, eine davon Bildung / Training / Gesundh
 
 Leere Zeilen im Formular sind ein Ausschlussrisiko.
 
+## Zuschlag-Personaltabelle (Konzept, ab Bielefeld 15.09.2026)
+
+Nicht dieselbe Tabelle wie Eignung Teil 2. Vorbild Google Doc Projektkonzept `702-2026-10`: Patrick PL, Joachim technische PL, Finn Senior VR, Marcel Unreal, **Renke 3D/QA**, Seiko UX/QA, **Julia Barenthien Didaktik**. Stephan nicht in dieser Konzeptzeile. Schnitt und Verbote: [offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md).
+
 ## Kompetenzen Firma (nicht Lebenslauf)
 
 Aus [expertise.md](expertise.md) und [claims.md](claims.md): Unreal 5.7, OpenXR, Pico Enterprise, Offline-Standalone, Brandschutz-Didaktik (FirefighterVR, >100 Kunden nur in der Eignung), schulische VR (Hand aufs Herz — Zielgruppe, nicht Meißen-Liefergegenstand).
 
 **Positionierung wie UKSH Los 2** ([Drive UKSH-Föd-2026-0001](https://drive.google.com/drive/folders/1Q86IOygT2-5bP_gCB7YypLX20-B3RmMA)): Leistung = für diesen Auftrag **eigens entwickelte** Module plus ausdrücklich eingesetzte Northdocks-Komponenten (NDFramework). FirefighterVR ist **Eignungsreferenz**, nicht Katalogzugang. Intern: Assets hier bauen, später **angepasste** Produktversion — das steht nicht im Angebot. Ausschließliche Rechte des AG gelten nur am **Neuen** (FAQ 2); Framework bleibt vorbestehend. Roh-Assets aus Meißen nicht ungeprüft in den FFVR-Katalog kippen.
 
-Vorbild-Ablage UKSH: `00-Angebot` Arbeitsnotizen, `01-Einreichung-Los2` nur Portalstücke, `00-LESEHINWEIS`, Firmendokumente (HR, AVPQ, Haftpflicht) getrennt. Meißen analog: `00-Vergabeunterlagen` / `01-Angebot`, vor Abgabe einen Einreichungsordner.
+Vorbild-Ablage UKSH: `00-Angebot` Arbeitsnotizen, `01-Einreichung-Los2` nur Portalstücke, `00-LESEHINWEIS`, Firmendokumente (HR, AVPQ, Haftpflicht) getrennt. Meißen analog: `00-Vergabeunterlagen` / `01-Angebot`, vor Abgabe einen Einreichungsordner. Ab Bielefeld 15.09.2026: Portal-Docs und interne Ausfüllhilfe getrennt ([offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md)).
 
 ## Vor der Abgabe
 

@@ -17,7 +17,7 @@ Geklärte Punkte bleiben kurz dokumentiert. Nur offene Punkte blockieren Formuli
 | Meditrain-Rechtsform | Bleibt Vertical der Northdocks GmbH. Pitch 2024 (Ausgründung/Startup) ist tot. Produktziel: Koffer + Hardware/Software-Komplettpaket analog FirefighterVR. |
 | Spearhead / TMA | **The Marketing Arm (TMA)**, Teil von Omnicom, ist Auftraggeber der National-Guard-Trainings. Lieferung intern **State of Emergency**. Zweitens: Playground-Sonderversion Kosovo. Site-/Deck-Zahlen nicht verwenden. |
 | RWE / Framatome | Nutzen das FirefighterVR-Paket **Feuerlöscher**. Auf nextfactoryvr.com, weil es Factory-Randfälle gibt (z. B. Sprinklerwartung) — nicht als Full-Custom-Next-Factory-Twins führen. |
-| Kontakt | Kanonisch **kontakt@northdocks.com** (+49 2173 9996713). Andere Adressen auf Vertical-Sites nicht als Firmenstandard. |
+| Kontakt | Kanonisch **kontakt@northdocks.com**. Telefon GmbH/Hub **+49 (0) 2173 9996715**; FirefighterVR **9996713**; Meditrain/Strahlenschutz **9996714**. Erreichbarkeit Mo.–Fr. 9:00–13:00. Andere Adressen auf Vertical-Sites nicht als Firmenstandard. |
 | BMA Trainer | Eigenes Produkt, perspektivisch Funnel für FirefighterVR (z. B. WebXR). Derzeit **keine Vermarktung**. |
 | Umsatz | Intern vage **ca. 1 Mio. € p.a.** (GF). In Eignung die Schwelle >200.000 € VR/Simulation in mind. einem der letzten drei GJ. FreeAgent-Verkauf 2023–25 1,31 / 0,80 / 0,58 Mio. €, **ohne Fördermittel**. Keine präzise GJ-Zahl nach außen; FA nicht mit grants.md addieren. |
 | Alte FFVR-Plattform | PCVR mit PC-Launcher (Steam-ähnlich). Eingestellt, weil Kunden PCVR als zu teuer und kompliziert rückmeldeten → Wechsel auf die Koffer-/Standalone-Lösung. Nicht „gescheitert“ nach außen. |
@@ -32,12 +32,18 @@ Geklärte Punkte bleiben kurz dokumentiert. Nur offene Punkte blockieren Formuli
 |---|---|
 | Kepler-Fulldome-Profil (Drive, 07.07.2026) | **Ignorieren.** XFEL/IWS-Outreach-Fusion: Konsortium hat sich am 13.07.2026 für einen anderen Anbieter entschieden. Dokument nicht zitieren (Dom-Zahlen, Renderfarm, ESA/ESO). |
 | FFVR-Modulzahl | Öffentlich und intern aktuell **23** (`trainingslist.html`). Die Zahl steigt periodisch. Didaktik v47 (22 Module, März 2026) nicht als Zähler. |
-| ERVR-Name / Domains | Außen für das UKK-Schockraum-Projekt: **ERVR** / **Emergency Room VR**. Quelle: Asana [ERVR: Domains sichern und Wortmarke anmelden](https://app.asana.com/1/8864272155433/project/1201612522482993/task/1216921060272475) (27.07.2026). Domains und Markenlage dort sind gültig. Interner Projektname **Schockraum VR** bleibt. **Emergency Response** nicht (Unionsmarken Klasse 41). Zielhardware **Pico Project Swan**; Mobile-Ports laufen deshalb. |
+| ERVR-Name / Domains | Außen für das UKK-Schockraum-Projekt: **ERVR** / **Emergency Room VR**. Quelle: Asana [ERVR: Domains sichern und Wortmarke anmelden](https://app.asana.com/1/8864272155433/project/1201612522482993/task/1216921060272475) (27.07.2026). Domains und Markenlage dort sind gültig. Interner Projektname **Schockraum VR** bleibt. **Emergency Response** nicht (Unionsmarken Klasse 41). Zielhardware **PICO Space Pro** (vormals Project Swan); Mobile-Ports laufen deshalb. |
 | EIC-Pitch-Mail 17.07.2026 | C-Level darf nach außen gelegentlich übertreiben. **Interne** Zahlen (KB, Eignung, Agenten) müssen real bleiben: >100 Kunden, TMA nicht Army, keine Spin-Off-GmbH, keine 1,5-Mio-€-Fördersumme. |
 | FlowAR iOS vs. Android | Endziel **Android und iOS**. Mac für Deployment in Beschaffung. Prototyp weiter Android. Nicht „native iOS-App live“. |
 | UKK 357k vs. 380k vs. FA | **FA gilt.** Paid **328.403 €** netto. 357 k brutto und Mappe 380 k nicht verwenden. KI 40 k€ zugesagt, noch nicht in FA. |
 | EIC-Verschiebung | Grund: **Absprachen mit der UniBw**. Kein Kurzantrag 01.09.2026, kein Vollantrag 04.11.2026. Termine: Abschnitt unten. |
 | julia.barenthien / F&E GmbH Kiel | **Nicht** offizielles ND-Team. Arbeitgeber F&E GmbH Kiel unterbreitet derzeit einen Nebenjob. Expertise intern zugänglich, wenn nötig. Nicht in Eignung Teil 2, nicht als Northdocks-Personal. EIC-Mails von `fe-kiel.de` sind F&E, nicht ND. |
+
+## Geklärt 2026-09-12 (Telefon)
+
+| Thema | Entscheidung |
+|---|---|
+| Telefon-Split | Asana [Telefonnummern glattziehen](https://app.asana.com/1/8864272155433/project/1205233000589835/task/1218361891390444) (10.09.2026). GmbH/Hub **9996715**, Meditrain/Strahlenschutz **9996714**, FirefighterVR **9996713**. ABs eingerichtet. Erreichbarkeit Mo.–Fr. 9:00–13:00. 6713 nicht mehr als GmbH-Standard in Angeboten. |
 
 ## Geklärt 2026-08-31 (Quellenlauf Drive / Gmail / Asana)
 
@@ -100,6 +106,40 @@ Geklärt durch GF: **FA-Beträge sind richtig**, außer Förderung.
 ### Gmail-Tiefenpass restliche Slices
 
 Coverage: [gmail-pass.md](gmail-pass.md). Historisches Inventar: [history.md](history.md). Traumzauberbaum und Sojus geschlossen. Simona 2022–23: KIWI, Westholstein, APG-POs, Planetarien, Sony ???, Schiffshebewerk. Henkel-Eignung bleibt **ca. 80.000 €**.
+
+### Review 2026-09-18 — Koni Trainer konsolidiert
+
+Kanonisch: [koni.md](koni.md). Hub-Zeilen „eingereicht/Antragspfad“ waren veraltet.
+
+| Thema | Stand | In Dokumenten |
+|---|---|---|
+| **VR-Koni-Edge** | Abgelehnt 10.07.2026, Skizzen-ID 100771908, 139 Skizzen, keine Priorität. Partner 13.07. informiert. | Abgelehnt, nicht eingereicht. 1,31 Mio. € nicht als bewilligt. |
+| **HAW-ForschungsSchub** | Trapp Mini-Skizze 05.08., 200 k€, Call 1 15.09. Los-Ausgang unbelegt. | Nur HAW-Mittel. ND assoziiert ohne Zuwendung. |
+| **Kiesel Ablehnungsgründe** | Bitte 16.07. unbeantwortet. Bescheid nennt keinen fachlichen Grund. | Nicht „wir wissen warum“. |
+| **Mesh Cutting** | Seit RC1 26.11.2025 offen, ohne Assignee. | Nicht als Engine ausgeliefert. |
+| **Asana-Spalte Antrag** | Task *Koni Trainer KMU Innovativ Antrag* noch *Eingereicht*. | KB gilt, nicht die Spalte. |
+
+### Review 2026-09-17 — neu aus Asana / Gmail / Drive
+
+| Thema | Stand | In Dokumenten |
+|---|---|---|
+| **Bielefeld Abgabe** | Eingereicht 17.09.2026. 160 k€ / Deckel 170 k€, 50/50, PICO Space Pro, Refs UKK+BfS. Bindefrist 29.10. | Status eingereicht. Nicht Zuschlag. |
+| **UKSH Los-2 nach LV-Änderung** | LV Version 2 (08.09.) ändert **Los 3**, nicht Los 2. Nur-Los-2 bleibt zulässig. Keine Pflicht zur kompletten Neuabgabe. Bieterinfo Q17 (360°-Video) und Portal-Status des 24.08-Angebots vor Frist **21.09.2026 23:59** prüfen. | Nicht „Angebot aktualisiert“ behaupten, solange im Portal nichts nachgezogen ist. |
+| **UniBw DPAR 48 Monate** | Dokumente 17.09. angekommen. 48-Monats-Kosten intern: dieselben 3,75 PJ / 497.372,42 €, verteilt auf vier Jahre. Versand der Variante an Inga offen. Netto/Brutto und IPR offen. | ~497 k€ nicht als bewilligt. Antragskontakt Patrick, damit LOI/Anlage I stehen bleiben. |
+| **KI4Energy PtJ** | Keller 17.09.: industrielle Forschung, TRL 1–3, eine Skizze, 1,5–3 Mio. ohne Widerspruch, AWT Haemisch dabei. Einrichtungsleitung DLR offen. | Pipeline. Keine Fördersumme ND. |
+| **Rosenbauer Bayern-Twin** | Unterangebot angefragt 14.09., 100 % Preis. | Nur Pipeline. |
+| **Meißen Zusatzdokumente** | evergabe 08.09. und 11.09. weiter ungelesen. | Status eingereicht. |
+| **Holcim `20260907-01`** | FA-MCP ohne Token, Betrag nicht gelesen. | Nicht als drittes Abo-Jahr. |
+| **TEMA RP2 nach BULL** | Amendment angenommen 11.09. Ob die RP2-Rate fließt, nicht belegt. KAHY TAP2 zur Prüfung, nicht akzeptiert. | Nicht „RP2 ausgezahlt“ / nicht „TAP2 fertig“. |
+| **Hannover Pressetour 10.09.** | Ausgang nicht bestätigt. | Tour nicht als öffentlich gelaufen. |
+| **Deconta / CBRN** | Gespräch geplant 22.–23.09. WFVD. | Nur Pipeline. |
+| **HASAW / B-Safe** | Übergabe Mainz 18.09. geplant, nicht bezahlt. | Angebot, kein Auftrag. |
+
+### Review 2026-09-12 — neu aus Asana / Gmail / Drive
+
+| Thema | Stand | In Dokumenten |
+|---|---|---|
+| **Bielefeld Wertung** | Bekanntmachung/Asana: niedrigster Preis. LV + Preisblatt 04.09.: **50 % Konzept / 50 % Preis**, Budget **170.000 € netto**. | Unterlagen gelten. Nicht „nur Preis“. |
 
 ### Review 2026-08-31 — noch offen (ohne FA-Live)
 

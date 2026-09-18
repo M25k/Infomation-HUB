@@ -27,11 +27,13 @@ AVPQ-Zugangscodes gehören **nicht** in dieses Repository und nicht in Git.
 
 ## Kontakt (öffentlich)
 
-- Telefon: +49 (0) 2173 9996713
 - E-Mail (kanonisch): **kontakt@northdocks.com**
+- Telefon GmbH / Hub / Impressum / Angebote: **+49 (0) 2173 9996715**
+- FirefighterVR: **+49 (0) 2173 9996713**
+- MeditrainVR und StrahlenschutzVR: **+49 (0) 2173 9996714** — nicht als allgemeinen Northdocks-Kontakt
+- Erreichbarkeit: Mo.–Fr. 9:00–13:00 (Asana Webseiten 10.09.2026; ABs eingerichtet)
 - GodView- und Spearhead-Adressen auf den Vertical-Sites sind keine Firmenstandards; in Anträgen und Angeboten nur `kontakt@northdocks.com`.
 - Reseller intern: `partner@northdocks.com`. Nicht in Eignung/Briefkopf.
-- MeditrainVR-Site nennt zusätzlich +49 2173 9996714 — nicht als allgemeinen Northdocks-Kontakt.
 
 Vergabe-Rollenraster und Asana-Stamm: [team.md](team.md).
 

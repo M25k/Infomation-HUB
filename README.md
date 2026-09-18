@@ -1,7 +1,7 @@
 # Information HUB — Northdocks Wissens- und Skill-Basis
 
 Interne Grundlage für **Förderanträge, Ausschreibungen und Verträge**.  
-Stand der ersten Recherche: 2026-08-26.
+Stand der ersten Recherche: 2026-08-26. Letzter Quellenabgleich: **2026-09-17**.
 
 Dieses Repository ist die kanonische Quelle für Formulierungen, Referenzen, Technik-Claims und Projektgeschichte. Öffentliche Websites, Asana, Google Drive, FreeAgent und die lokalen Git-Repos sind **Quellen**, nicht die Endfassung.
 
@@ -31,6 +31,7 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 | [knowledge/company.md](knowledge/company.md) | Rechtsträger, Standorte, Organe, Präqualifikation |
 | [knowledge/strategy.md](knowledge/strategy.md) | FFVR trägt; nächster Aufbau ist Meditrain |
 | [knowledge/meditrain.md](knowledge/meditrain.md) | Medizinlinie: Module, Partner, Transfer von FFVR |
+| [knowledge/koni.md](knowledge/koni.md) | Koni Trainer / Konisation: Port, Ablehnung VR-Koni-Edge, Partner |
 | [knowledge/expertise.md](knowledge/expertise.md) | Technische Fähigkeiten, die wir belastbar behaupten dürfen |
 | [knowledge/projects.md](knowledge/projects.md) | Projekte, Referenzen, Produkte — mit Quellen |
 | [knowledge/history.md](knowledge/history.md) | Historisches Kompendium: 105 archivierte Asana-Boards + Mail-Belege |

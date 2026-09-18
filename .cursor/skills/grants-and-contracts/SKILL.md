@@ -13,7 +13,9 @@ description: Writes Northdocks grant applications, tenders, eligibility sections
 4. Vertikale aus [knowledge/verticals.md](../../knowledge/verticals.md). Produktpriorität: FirefighterVR (läuft) und Meditrain ([knowledge/strategy.md](../../knowledge/strategy.md), [knowledge/meditrain.md](../../knowledge/meditrain.md)).
 5. Offene Widersprüche in [knowledge/open-questions.md](../../knowledge/open-questions.md) **nicht** als Fakten formulieren.
 6. Zuschlagssprache aus [knowledge/proposal-playbook.md](../../knowledge/proposal-playbook.md): Call-Text spiegeln, Eignung von Zuschlag trennen, Horizon-Kästen nicht vermischen.
-7. Umsatz oder Referenzvolumen: wenn FreeAgent-MCP da ist, gegen die Bücher prüfen ([knowledge/accounting.md](../../knowledge/accounting.md)), dann `claims.md` / `projects.md`. Keine erfundenen GJ-Zahlen. MCP fehlt: nur die bestehenden Claims.
+7. Paketschnitt aus [offer-package.md](offer-package.md): Konzept ohne Briefkopf/Preis; Ausfüllhilfe intern extra; Personaltabelle wie Bielefeld-Vorbild.
+8. Umsatz oder Referenzvolumen: wenn FreeAgent-MCP da ist, gegen die Bücher prüfen ([knowledge/accounting.md](../../knowledge/accounting.md)), dann `claims.md` / `projects.md`. Keine erfundenen GJ-Zahlen. MCP fehlt: nur die bestehenden Claims.
+9. HTML-Briefe aus [.cursor/templates/northdocks-briefkopf.html](../templates/northdocks-briefkopf.html). Konzept ohne Briefkopf.
 
 ## Was dieses Skill tut
 
@@ -34,7 +36,7 @@ Start im Chat: **„Wir machen die Ausschreibung {Name oder URL}“** (oder Asan
 | **FreeAgent** | Live-Bücher: Rechnungen, Kontakte, P&L. Destillat: [knowledge/accounting.md](../../knowledge/accounting.md). | Keine Tokens, IBANs, Lohnzeilen, keine Schreib-Tools (create/send/delete). |
 | **Information-HUB (Git)** | Wiederverwendbare Firma: `claims.md`, `projects.md`, `expertise.md`, `accounting.md`. Nach Einreichung **eine Zeile** in [knowledge/grants.md](../../knowledge/grants.md) plus Asana- und Drive-Link. | Keine Ausschreibungs-PDFs, keine Portal-Logins, keine Kundentelefone. |
 
-Ablauf: (1) Asana-Task prüfen oder anlegen. (2) Unterlagen in den Drive-Unterordner. (3) Texte mit diesem Skill aus der KB, Call-Text aus Drive/Portal spiegeln. (4) Abgabe im Portal; Mailbox `ausschreibungen@northdocks.com`. (5) grants.md kurz nachziehen.
+Ablauf: (1) Asana-Task prüfen oder anlegen. (2) Unterlagen in den Drive-Unterordner. (3) Texte mit diesem Skill aus der KB, Call-Text aus Drive/Portal spiegeln. Paket nach [offer-package.md](offer-package.md) (Bielefeld 15.09.2026): Inhaltsangebot, Konzept, Referenzen, Pflicht-Erklärungen je ein Doc; **Ausfüllhilfe intern extra**, nicht ins Portal. (4) Abgabe im Portal; Mailbox `ausschreibungen@northdocks.com`. (5) grants.md kurz nachziehen. Nutzer-Redaktion im Google Doc gilt vor dem HTML-Erstentwurf.
 
 Eignung, Wertung und K.O.-Listen nur aus den amtlichen Unterlagen im Drive/Portal. Bidfix und ähnliche Tender-KIs nicht zitieren (Bielefeld 09/2026: erfundene ISO 9001).
 
@@ -53,7 +55,7 @@ Eignung, Wertung und K.O.-Listen nur aus den amtlichen Unterlagen im Drive/Porta
 | Leistungsbeschreibung | expertise.md, verticals.md, repos.md |
 | Referenzen | projects.md (nur Einträge mit Referenzstatus). Historisches Inventar: [history.md](../../knowledge/history.md) — Task-Zahlen keine Volumina, nicht ungeprüft in Eignung |
 | Forschungsantrag | grants.md + expertise.md + proposal-playbook.md |
-| Angebot / Vertrag | document-rules.md + proposal-playbook.md + das konkrete Los |
+| Angebot / Vertrag | document-rules.md + proposal-playbook.md + [offer-package.md](offer-package.md) + das konkrete Los |
 
 ## Formulierungsregeln
 
@@ -75,7 +77,7 @@ Eignung, Wertung und K.O.-Listen nur aus den amtlichen Unterlagen im Drive/Porta
 - Kontakt immer **kontakt@northdocks.com**.
 - BMA Trainer nicht vermarkten, nicht als FFVR-Modul.
 - Umsatz: Eignungsschwelle >200 k€; intern vage ca. 1 Mio. € p.a. **FreeAgent-Verkaufszahlen gelten.** Fördermittel nur [grants.md](../../knowledge/grants.md), nicht auf FA legen. Alte Mappen-Zahlen (UKK 380 k, Trier 80 k, TMA 25 k USD) nicht verwenden.
-- julia.barenthien nicht als Northdocks-Personal oder in Eignung Teil 2. Expertise intern bei Bedarf (Arbeitgeber F&E GmbH Kiel).
+- julia.barenthien nicht in Eignung Teil 2 (kein ND-Arbeitsverhältnis, F&E GmbH Kiel). Zuschlagskonzept: Vorbild Bielefeld 15.09.2026 (Didaktik-Zeile), sonst nur wenn der Nutzer sie setzt.
 - Reschke Productions GmbH: interne Verrechnung, nie als Kunde, Referenz oder Eignung.
 
 ## Checkliste vor Abgabe
@@ -86,4 +88,5 @@ Eignung, Wertung und K.O.-Listen nur aus den amtlichen Unterlagen im Drive/Porta
 - [ ] Referenzen haben Auftraggeber, Zeitraum, Gegenstand
 - [ ] Technik-Stack stimmt mit repos.md (keine erfundenen Engines)
 - [ ] Playbook: Call-Text gespiegelt, Eignung ≠ Zuschlag, Horizon-Kästen getrennt
+- [ ] Paket: Ausfüllhilfe und PT-Kalkulation nicht im Portal-Angebot; Konzept ohne Briefkopf und ohne Preis
 - [ ] Keine Secrets, keine unfreigegebenen Kundentelefonnummern in öffentlichen Anhängen

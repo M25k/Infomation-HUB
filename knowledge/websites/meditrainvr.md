@@ -18,12 +18,12 @@ Rolle: Medizin-Dachmarke der **Northdocks GmbH**. Nächste Produktlinie nach Fir
 
 Nav: Services, Projects, Contact. DE/EN Umschalter auf derselben Seite.
 
-Kontakt auf der Site: Mail **kontakt@northdocks.com**, Telefon **+49 2173 9996714** (Vertical, nicht Firmenstandard), WhatsApp wie auf der Live-Seite. Neue Firmenangaben immer mit [_shared.md](_shared.md); 9996713 bleibt der GmbH-Standard.
+Kontakt auf der Site: Mail **kontakt@northdocks.com**, Telefon **+49 (0) 2173 9996714** (Meditrain-Vertical), WhatsApp wie auf der Live-Seite. Erreichbarkeit Mo.–Fr. 9:00–13:00. GmbH-Hub ist 6715, FirefighterVR 6713. Neue Firmenangaben immer mit [_shared.md](_shared.md).
 
 ## Soll bei Anpassungen
 
 1. Footer: Marke der Northdocks GmbH, kein Spin-out.
-2. Module klar trennen: **Produkt/Katalog** (Strahlenschutz mit Preisen) vs. **Klinikprojekt** (Schockraum, Station) vs. **Pipeline** (Koni, Flashlight).
+2. Module klar trennen: **Produkt/Katalog** (Strahlenschutz mit Preisen) vs. **Klinikprojekt** (Schockraum, Station) vs. **Pipeline** (Koni = Coming Soon / Forschung, KMU-innovativ abgelehnt; Flashlight). Koni nicht als live oder Würzburg-validiert.
 3. Strahlenschutz auf strahlenschutzvr.de verlinken, nicht Preise erfinden.
 4. Station: DOI `10.3389/frvir.2026.1737515` darf bleiben.
 5. AMBOSS 2026 / CeMIT UKK darf (öffentlich, auch northdocks News).

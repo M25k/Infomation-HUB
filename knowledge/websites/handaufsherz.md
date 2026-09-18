@@ -10,7 +10,7 @@ Rolle: Schul-CPR auf FirefighterVR-Haptik (Puppe, offline). Launch/Warteliste 20
 - Otto-Hahn-Gymnasium Monheim als Pilotschule (namentlich auf der Site)
 - Offline, keine Schülerdaten, keine Cloud, handelsübliche Puppe
 - Herkunft: Wiederbelebungsmodul mit Björn-Steiger-Stiftung 2018–2020, Übertragung in die Schule
-- Vertical-Mail `info@handaufsherz-vr.de` — kein GmbH-Standard; Impressum trotzdem Northdocks GmbH laut [_shared.md](_shared.md)
+- Vertical-Mail `info@handaufsherz-vr.de` — kein GmbH-Standard; Impressum trotzdem Northdocks GmbH laut [_shared.md](_shared.md) (Telefon dort Hub **9996715**, nicht Meditrain 6714)
 
 ## Soll bei Anpassungen
 

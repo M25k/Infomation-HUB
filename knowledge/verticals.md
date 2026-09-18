@@ -78,7 +78,7 @@ Eine Plattform, **zwei Nutzungen**. In Anträgen immer zuerst den Kundentyp nenn
 
 Öffentliche Preise Typ A: Basis 119 €/Monat, Module Inspect/Bautagebuch +49 €. Live: `app.godview.solutions` und `godview.nd-apps.de`.
 
-**Öffentliche Site godview.solutions** beschreibt 2026 vor allem Typ A (Baudokumentation, Inspektion). Typ B (Lagebild, KRITIS, DRZ) ist intern kanonisch, steht so **nicht** auf der Landingpage — in Anträgen Typ B nur mit internem Beleg, nicht als Website-Claim.
+**Öffentliche Site godview.solutions** (Stand 2026-09-13): Typ A auf `index.html` (Baudokumentation, Inspektion), Typ B auf `feuerwehr.html` (Lagebild / Einsatz, Link Planspiel). Eine Plattform, zwei Nutzungen — keine Kundennamen (Bürrig, DRZ) auf die Site, solange nicht extra freigegeben.
 
 Technisch: Cesium, 3D Tiles, Punktwolken, Drohnenfotos, Messung, VR-Export, Hosting DE/DSGVO.
 

@@ -13,6 +13,7 @@ Rolle: Kölner Dom in VR + Digital Twin (ZDV). Eng mit GodView Typ A und Storywa
 4. Coming Soon Stores (Pico, iOS, Android) nicht als bereits lieferbaren App-Store-Stand verkaufen, wenn die Site noch „Coming Soon“ sagt.
 5. Unreal Engine 5 für die VR-Erfahrung sagbar. GodView = Browser-Inspektion des Twins, nicht dieselbe Headset-App.
 6. Unterstützung Zentral-Dombau-Verein / Erzbistum nur in der bestehenden öffentlichen Formulierung.
+7. Kontakt: kontakt@northdocks.com, Telefon Hub **+49 (0) 2173 9996715**.
 
 ## Nicht auf diese Site
 

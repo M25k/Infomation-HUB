@@ -27,7 +27,7 @@ Internes Didaktik-Dokument v47 (März 2026, Drive Work) beschreibt Methode und J
 
 Mitgliedschaften auf der Site: **WFVD, vfdb, DRZ, DIBT**. Nicht DFV.
 
-Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon +49 2173 9996713. Impressum/Datenschutz häufig auf northdocks.com. Neue Rechtstexte: [_shared.md](_shared.md).
+Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 2173 9996713** (FFVR-Vertical, nicht GmbH-Hub). Erreichbarkeit Mo.–Fr. 9:00–13:00. Impressum/Datenschutz häufig auf northdocks.com — dort Hub **9996715**. Neue Rechtstexte: [_shared.md](_shared.md).
 
 ## Soll bei Anpassungen
 

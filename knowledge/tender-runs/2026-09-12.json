@@ -1,0 +1,497 @@
+{
+  "generated": "2026-09-12",
+  "days": 12,
+  "sources_run": [
+    "ted",
+    "bkms",
+    "bund"
+  ],
+  "coverage": {
+    "ted": 66,
+    "bkms": 357,
+    "bund": 500
+  },
+  "notice_count": 856,
+  "review": [
+    {
+      "source": "ted",
+      "id": "620293-2026",
+      "publication_number": "620293-2026",
+      "title": "Deutschland – Unterrichtssoftwarepaket – VR-Trainingsumgebung inkl. VR-Endgeräte, sowie Eyetracking",
+      "lot_title": "",
+      "buyer": "Universitätsklinikum Schleswig-Holstein AöR",
+      "publication_date": "2026-09-09",
+      "deadline": "2026-09-21",
+      "cpv": "48190000 66114000 38400000 34152000 32322000 48460000 72416000 38430000 48190000 72416000 72267000 72212190 30200000 48780000 50312000",
+      "buyer_country": "DEU",
+      "place": "DEF03 DEU DEF03 DEF03 DEF03 DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies supplies supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/67eb53df-7e8a-4b7e-95fb-b4f5629be58b",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/67eb53df-7e8a-4b7e-95fb-b4f5629be58b",
+      "description": "Gegenstand der Ausschreibung ist die Beschaffung einer VR-Trainingsumgebung inkl. der benötigten VR-Endgeräte, inkl. Eyetracking  im Rahmen eines Leasingmodells über die gesamte Projektlaufzeit (36 Monate, 3 Perioden á 12 Mona-te). Mobile Eye-Tracking-Systeme Mobile Eye-Tracking-Systeme VR-Trainingssoftware (Trainingsplattform) VR-Trainingssoftware (Trainingsplattform) VR-Endgeräte mit und ohne Eyetracking VR-Endgeräte mit Eyetracking",
+      "platform": "TED",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "edu-software-de",
+      "matched_queries": [
+        "edu-software-de",
+        "xr"
+      ],
+      "sources": [
+        "bkms",
+        "ted"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25786754",
+      "publication_number": "",
+      "title": "Entwicklung einer medizinischen Virtual-Reality-Trainingsanwendung für die kinderchirurgische Aus- und Weiterbildung",
+      "lot_title": "Entwicklung einer medizinischen Virtual-Reality-Trainingsanwendung für die kinderchirurgische Aus- und Weiterbildung",
+      "buyer": "Universität Bielefeld",
+      "publication_date": "2026-09-04",
+      "deadline": "2026-09-29",
+      "cpv": "48000000-8",
+      "buyer_country": "DEU",
+      "place": "DEA",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25786754",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25786754",
+      "description": "Entwicklung einer medizinischen Virtual-Reality-Trainingsanwendung für die kinderchirurgische Aus- und Weiterbildung Entwicklung einer medizinischen Virtual-Reality-Trainingsanwendung für die kinderchirurgische Aus- und Weiterbildung Entwicklung einer medizinischen Virtual-Reality-Trainingsanwendung für die kinderchirurgische Aus- und Weiterbildung",
+      "platform": "service.bund.de",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    }
+  ],
+  "maybe": [
+    {
+      "source": "bund.de",
+      "id": "https://www.service.bund.de/IMPORTE/Ausschreibungen/evergabede/2026/09/7041990.html",
+      "publication_number": "",
+      "title": "Softwareentwicklung VR und Kauf von VR Brillen",
+      "lot_title": "",
+      "buyer": "Landkreis Meißen, Landratsamt, Rechts- und Kommunalamt, Vergabestelle",
+      "publication_date": "2026-09-11",
+      "deadline": "2026-09-15",
+      "cpv": "",
+      "buyer_country": "DEU",
+      "place": "01662 Meißen",
+      "notice_type": "",
+      "contract_nature": "",
+      "url": "https://www.service.bund.de/IMPORTE/Ausschreibungen/evergabede/2026/09/7041990.html",
+      "url_de": "https://www.service.bund.de/IMPORTE/Ausschreibungen/evergabede/2026/09/7041990.html",
+      "description": "Erfüllungsort: 01662 Meißen | Vergabestelle: Landkreis Meißen, Landratsamt, Rechts- und Kommunalamt, Vergabestelle | | Angebotsfrist: 15.09.2026 13:00 | Veröffentlichungsende: 15.09.2026 13:00 | |",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "bund-rss",
+      "matched_queries": [
+        "bund-rss"
+      ],
+      "sources": [
+        "bund.de"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25812914",
+      "publication_number": "",
+      "title": "Kauf und Lieferung BIosensing Headset",
+      "lot_title": "Kauf und Lieferung BIosensing Headset",
+      "buyer": "Otto-von-Guericke-Universität Magdeburg, Abt. Beschaffung, Zahlstelle (K13)",
+      "publication_date": "2026-09-12",
+      "deadline": "2026-09-23",
+      "cpv": "",
+      "buyer_country": "DEU",
+      "place": "DEE",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25812914",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25812914",
+      "description": "Nationale Ausschreibung nach UVgO\nÖffentliche Ausschreibung\nVergabenr.:\n2026/0255/K13/BHS/KUE\n\n1. Zur Angebotsabgabe auffordernde Stelle, zuschlagserteilende Stelle:\n\nName und Anschrift:\nOtto-von-Guericke-Universität Magdeburg, Abt. Beschaffung, Zahlstelle (K13)\nUniversitätsplatz 2\n39106 Magdeburg\nDeutschland\nTelefonnummer:\nTelefaxnummer:\nE-Mail-Adresse:\nInternet-Adresse:\nhttps://ovgu.de\nZuschlagserteilende Stelle:\nSiehe oben\n\n2. Verfahrensart (§ 8 UVgO):\n\nVerfahrensart:\nÖffentliche Ausschreibung\n\n3. Angebote können abgegeben werden:\n\nelektronisch in Textform\nAnschrift zur Einreichung schriftlicher Angebote:\nENTFÄLLT- (es sind ausschließlich elektronische Angebote zugelassen)\n\n4. Zugriff auf Vergabeunterlagen:\n\nMaßnahmen zum Schutz der Vertraulichkeit und die Informationen zum Zugriff auf die Vergabeunterlagen (§ 29 Abs. 3 UVgO):\nEntfällt (siehe 9.).\n\n5. Art und Umfang sowie Ort der Leistung:\n\nArt der Leistung:\nEin Multisensor-Headset dieser Art liefert Einblicke in Aufmerksamkeit, Arbeitsbelastung und Stress. Ein von uns durchgeführtes Experiment zum Einsatz einer auditiv unterstützten Anwendung zur Exploration in VR zeigte, dass Proband:innen unterschiedlich auf Audio reagierten. Das Headset liefert uns weitere Einblicke, um den Einfluss von Audio im Kontext eines multimodalen User-Interfaces besser zu verstehen und zu optimieren.\nMenge und Umfang:\n1 Stück Biosensing Headset\n(max. zur Verfügung stehendes Budget: 42.000 € brutto)\nOrt der Leistung:\nOtto-von-Guericke-Universität Magdeburg\nUniversitätsplatz 2\n39106 Magdeburg\nDeutschland\n\n6. Losaufteilung:\n\nLosweise Vergabe:\nNein\n\n7. Nebenangebote sind\n\nnicht zugelassen\n\n8. Etwaige Bestimmungen über die Ausführungsfrist:\n\nBeginn der Ausführungsfrist:\nEnde der Ausführungsfrist:\nBemerkung zur Ausführungsfrist:\n\n9. Elektronische Adresse, unter der die Teilnahmewettbewerbsunterlagen/Vergabeunterlagen abgerufen werden können:\n\nunter (URL:):\nhttps://www.evergabe.de/unterlagen/54321-Tender-1a08b562e9b-18324259a19677d1\n\n10. Ablauf der Angebots- und Bindefrist:\n\nAngebote sind einzureichen bis:\n23.09.2026 12:00\nAblauf der Bindefrist:\n23.10.2026\n\n11. Höhe der etwa geforderten Sicherheitsleistungen:\n\n :\n\n12. Wesentliche Zahlungsbedingungen:\n\n :\nEs gelten die Allgemeinen Vertragsbedingungen für die Ausführung von Leistungen - Teil B (VOL/B).\nEs werden keine Vorauszahlungen geleistet.\nZahlungsziel 30 Tage netto, gegen Rechnung.\nEs wird ausschließlich eine elektronische Rechnung (PDF, XRechnung oder ZUGFeRD) per Email akzeptiert.\n\n13. Ggf. mit dem Angebot vorzulegende Unterlagen zur Eignungsprüfung des Bewerbers:\n\n :\nListe der mit dem Angebot vorzulegenden Unterlagen:\nBescheinigung einer Eintragung in das Unternehmer- und Lieferantenverzeichnis der Auftragsberatungsstelle Sachsen-Anhalt oder gültige Bescheinigung einer anerkannten Präqualifizierungsstelle z.B. DIHK PQ-VOL (https://sachsen-anhalt.abst.de/praequalifizierung-unternehmen/)\noder folgender Einzelnachweis:\nEigenerklärung §§123, 124 GWB (https://www.ovgu.de/unimagdeburg_media/Eigenerklärung_123_124_GWB.pdf)\n\n14. Angabe der Zuschlagskriterien:\n\nDer niedrigste Preis:\nJa\n\n15. Sonstiges:\n\nEs gelten ausschließlich die \"Allgemeinen Vertragsbedingungen für die Ausführung von Leistungen \"(VOL/B), Stand: Ausgabe 2003.\nhttps://www.ovgu.de/unimagdeburg_media/VOLB.pdf\nHinweis zum Datenschutz:\nDie vom Auftraggeber erbetenen Angaben werden im Rahmen des Vergabeverfahrens und der Auftragsdurchführung verarbeitet und gespeichert, die gesetzlichen Archivierungszeiträume eingeschlossen.\nDer Bieter erklärt mit der Abgabe seines Angebotes hierzu sein Einverständnis.\nhttps://www.ovgu.de/datenschutzerklaerung.html\nZuständige Stelle für Rechtsbehelfs-/Nachprüfungsverfahren\nOffizielle Bezeichnung:\nLandesverwaltungsamt Sachsen-Anhalt\n3. Vergabekammer\nErnst-Kamieth-Straße 2\n06112 Halle\n\n\nPkw/ Transporter,Kommunaltechnik,Labortechnik/ Messtechnik Kauf und Lieferung BIosensing Headset Nationale Ausschreibung nach UVgO\nÖffentliche Ausschreibung\nVergabenr.:\n2026/02",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "bund-rss",
+        "xr"
+      ],
+      "sources": [
+        "bkms",
+        "bund.de"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "bc99ee98-7cdc-4745-b48f-c3b3becb8330",
+      "publication_number": "612333-2026",
+      "title": "BG Klinik Tübingen, Sanierung Brandschutz, Generalplaner",
+      "lot_title": "BG Klinik Tübingen, Sanierung Brandschutz, Generalplaner",
+      "buyer": "BG Kliniken Ludwigshafen und Tübingen gGmbH",
+      "publication_date": "2026-09-04",
+      "deadline": "2026-10-02",
+      "cpv": "71200000",
+      "buyer_country": "DEU",
+      "place": "DE142",
+      "notice_type": "cn-standard",
+      "contract_nature": "services",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/bc99ee98-7cdc-4745-b48f-c3b3becb8330",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/bc99ee98-7cdc-4745-b48f-c3b3becb8330",
+      "description": "Generalplanungsleistungen (Objektplanung Gebäude und Innenräume, Fachplanung Technische Ausrüstung ELT und HLSK) zur Sanierung von Brandschutzmängeln BG Klinik Tübingen, Sanierung Brandschutz, Generalplaner Das Klinikgelände ist geprägt durch eine Vielzahl unterschiedlicher Gebäude, unterschiedlicher Bauweise und Baujahre. Die Bauteile sind verbunden, die Häuser freistehend. Die im Vorfeld vorgenommene Brandschutztechnische Bestandsanalyse wurde aus diesem Grund auf Bauteilebene bzw. pro Haus durchgeführt. Eine detaillierte Aufstellung der baulichen Randbedingungen der Bauteile/Häuser, der vorgefundenen Mängel sowie möglicher Maßnahmen werden im Verlauf des Vergabeverfahrens zur Verfügung gestellt. Für die brandschutztechnische Behebung der Mängel wird die Generalplanung mit den Leistungsbildern Objektplanung Gebäude und technische Ausrüstung (Anlagengruppen 3 - 5) gemäß HOAI ausgeschrieben. Es werden stufenweise die Leistungsphasen 1-3 und 5-8 des Leistungsbildes Objektplanung Gebäude u. Innenräume gem. § 34 Abs. 1 HOAI 2021 i.V.m. Anl. 10 Nr. 10.1 vergeben. Zudem werden die Besonderen Leistungen der Mitwirkung bei der Beantragung und Abrechnung von Fördermitteln, die arbeitstägliche Besetzung der Baustelle mit fachkundigem Personal vergeben.  Der Klinikbestand soll hinsichtlich des baulichen-, anlagentechnischen Brandschutzes auf Basis der Brandschutztechnischen Bestandsanalyse ertüchtigt werden. Die Maßnahme erfolgt im laufenden Klinikbetrieb. Geplant ist die brandschutztechnische Sanierung der Bauteile 1-3 und 5-8 + Haus 103 & 105 als Gesamtmaßnahme (BGF ca.65.000 m²). Das Projekt gliedert sich in Teilmaßnahmen 1, 3 und 4. Die Teilmaßnahme 2 wurde bereits umgesetzt.",
+      "platform": "dtvp.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/612333-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25782406",
+      "publication_number": "",
+      "title": "Aktives, omnidirektionales VR Locomotion System mit motorisierter Bewegungsplattform",
+      "lot_title": "Aktives, omnidirektionales VR Locomotion System mit motorisierter Bewegungsplattform",
+      "buyer": "Technische Universität Dresden, Dezernat Finanzen und Beschaffung, Sachgebiet Zentrale Beschaffung und Anlagenbuchhaltung",
+      "publication_date": "2026-09-04",
+      "deadline": "2026-10-05",
+      "cpv": "",
+      "buyer_country": "DEU",
+      "place": "DED",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25782406",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25782406",
+      "description": "Nationale Ausschreibung nach VOL/A\nÖffentliche Ausschreibung\nVergabenr.:\n035005/26\n\na) Zur Angebotsabgabe auffordernde Stelle, zuschlagserteilende Stelle:\n\nName und Anschrift:\nTechnische Universität Dresden, Dezernat Finanzen und Beschaffung, Sachgebiet Zentrale Beschaffung und Anlagenbuchhaltung\nMommsenstraße 6\n01069 Dresden\nDeutschland\nTelefonnummer:\n+49 351463-34770\nTelefaxnummer:\n+49 351463-37102\nE-Mail-Adresse:\nbeschaffung@tu-dresden.de\nInternet-Adresse:\nhttps://tu-dresden.de/\nZuschlagserteilende Stelle:\nSiehe oben\nZuschlagserteilende Stelle: siehe Vergabestelle.\n\nb) Art der Vergabe (§ 3 VOL/A):\n\nVerfahrensart:\nÖffentliche Ausschreibung\n\nc) Angebote können abgegeben werden:\n\nelektronisch mit fortgeschrittener Signatur\nelektronisch mit qualifizierter Signatur\nelektronisch in Textform\nAnschrift zur Einreichung schriftlicher Angebote:\nENTFÄLLT- (es sind ausschließlich elektronische Angebote zugelassen)\n\nd) Art und Umfang sowie Ort der Leistung:\n\nArt der Leistung:\nAusgeschrieben wird ein aktives, omnidirektionales VR Locomotion System mit motorisierter Bewegungsplattform mit den nachfolgenden Spezifikationen.\nMenge und Umfang:\n1 Stück VR-Locomotion System\nOrt der Leistung:\nTechnische Universität Dresden\nInstitut für Software- und Multimediatechnik\n\ne) Losaufteilung:\n\nLosweise Vergabe:\nNein\nAngebote sind möglich für:\ndie Gesamtleistung\n\nf) Nebenangebote sind\n\nnicht zugelassen\n\ng) Liefer-/Ausführungsfrist:\n\nBeginn:\nEnde:\n\nh)\n\nDie Vergabeunterlagen sind auf der Vergabeplattform eVergabe.de abrufbar.\n\nAnschrift der Stelle, bei der die Vergabeunterlagen eingesehen werden können:\n\nAnschrift:\nTechnische Universität Dresden, Dezernat Finanzen und Beschaffung, Sachgebiet Zentrale Beschaffung und Anlagenbuchhaltung\nMommsenstraße 6\n01069 Dresden\nDeutschland\n\ni) Ablauf der Angebots- und Bindefrist:\n\nAngebote sind einzureichen bis:\n05.10.2026 14:00\nAblauf der Bindefrist:\n05.11.2026\n\nj) Höhe etwa geforderter Sicherheitsleistungen:\n\n\n\nk) Wesentliche Zahlungsbedingungen:\n\nsiehe Vergabeunterlagen\n\nl) Unterlagen zur Eignungsprüfung:\n\nListe der vorzulegenden Unterlagen:\nNachfolgend genannte Einzelnachweise der Eignung (Forderung gemäß Sächsisches Vergabegesetz - SächsVergabeG § 3) zur Prüfung der Fachkunde, Leistungsfähigkeit und Zuverlässigkeit (VOL/A § 6) sind beizulegen. Fehlen diese Nachweise, sind unvollständig oder veraltet, kann dies zum Ausschluss des Angebotes von der Wertung führen. 1. Angabe über die Ausführung von Leistungen in den letzten drei abgeschlossenen Geschäftsjahren, die mit der zu vergebenden Leistung vergleichbar sind (Referenzen). Gefordert sind mindestens 3 vergleichbare und abgeschlossene Referenzen mit Angabe und Beschreibung der Leistung, Leistungszeit, Rechnungswert, Auftraggeber mit Nennung Ansprechpartner (vorzugsweise mit Telefonnummer). 2. Vorlage einer Kopie der amtlichen Unbedenklichkeitsbescheinigung des zuständigen Finanzamtes (zum Nachweis über die pflichtgemäße Zahlung von Steuern und Abgaben). Dieser Punkt kann durch eine Eigenerklärung abgedeckt werden. 3. Eine Eigenerklärung über die pflichtgemäße Zahlung von Beiträgen zur gesetzlichen Sozialversicherung. Anstelle der geforderten Einzelnachweise zur Zuverlässigkeit, Leistungsfähigkeit und Fachkunde kann die Bescheinigung der Eintragung in die Präqualifikationsdatenbank für den Liefer- und Dienstleistungsbereich (PQ-VOL) oder die Bescheinigung einer anderen Präqualifikationsstelle beigefügt werden, wenn in der Bescheinigung angegeben wird, welche Eignungskriterien anhand welcher Dokumente bei der Präqualifizierung geprüft wurden. Die Nachweise der Referenzen gemäß der Forderung unter Punkt 1 sind jedoch in jedem Fall einzureichen.\n\nm)\n\nDie Unterlagen werden kostenfrei abgegeben.:\n\nn) Angabe der Zuschlagskriterien:\n\nDer niedrigste Preis:\nNein\nWirtschaftlich günstigstes Angebot in Bezug auf die Kriterien, die in den Vergabe-/Ausschreibungsunterlagen, der Aufforderung zur Angebotsabgabe oder zur Verhandlung bzw. in der Beschreibung zum wettbewerblichen Dia",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "a99413a5-6d9b-4f8e-a7c3-c961c6b69c62",
+      "publication_number": "617459-2026",
+      "title": "Beschaffung von zwei Drehleitern Automatik mit Rettungskorb (DLAK) für die Feuerwehr Essen",
+      "lot_title": "Beschaffung von zwei Drehleitern Automatik mit Rettungskorb (DLAK) für die Feuerwehr Essen",
+      "buyer": "Stadt Essen, Zentrales Vergabemanagement",
+      "publication_date": "2026-09-08",
+      "deadline": "2026-10-12",
+      "cpv": "34144213",
+      "buyer_country": "DEU",
+      "place": "DEA13",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/a99413a5-6d9b-4f8e-a7c3-c961c6b69c62",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/a99413a5-6d9b-4f8e-a7c3-c961c6b69c62",
+      "description": "Beschaffung von zwei Drehleitern Automatik mit Rettungskorb (DLAK) für die Feuerwehr Essen Beschaffung von zwei Drehleitern Automatik mit Rettungskorb (DLAK) für die Feuerwehr Essen Die Feuerwehr Essen beschafft eine Drehleiter und eine weitere als Option 1.1 nach DIN 14 043 in Verbindung mit DIN EN 1777, DIN EN 1846 in allen Teilen, DIN 14502-2, UVV Fahrzeug GUV 5.1.\n\nZum Zeitpunkt der Auslieferung müssen die Drehleitern:\n- den gültigen DIN-Vorschriften,\n- der StVZO,\n- den Unfallverhütungsvorschriften,\n- dem DVS-Merkblatt 0211 (Druckgasflaschen in geschlossenen KFZ),\n- dem neuesten Stand der Technik,\n- den sonstigen gesetzlichen Bestimmungen und\n- in ihrem Gesamtausbau den gültigen EMV-Bestimmungen entsprechen.\n\nDie Fahrzeuge und deren Aufbauten müssen zur Übergabe an die Feuerwehr Essen soweit vorbereitet sein, dass eine ordnungsgemäße Abnahme erfolgen kann.\n\nNäheres ist den Vergabeunterlagen zu entnehmen.",
+      "platform": "vergabe.metropoleruhr.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/617459-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "a19676fb-dd77-4c76-ac6d-41fb9ebb7f16",
+      "publication_number": "625460-2026",
+      "title": "Landeshauptstadt Schwerin - Rahmenvereinbarung zur Lieferung von Atemschutztechnik über 48 Monate für die Feuerwehr Schwerin",
+      "lot_title": "Landeshauptstadt Schwerin - Rahmenvereinbarung zur Lieferung von Atemschutztechnik über 48 Monate für die Feuerwehr Schwerin",
+      "buyer": "Landeshauptstadt Schwerin - Der Oberbürgermeister - Fachdienst Feuerwehr und Rettungsdienst",
+      "publication_date": "2026-09-10",
+      "deadline": "2026-10-13",
+      "cpv": "35111100",
+      "buyer_country": "DEU",
+      "place": "DE804",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/a19676fb-dd77-4c76-ac6d-41fb9ebb7f16",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/a19676fb-dd77-4c76-ac6d-41fb9ebb7f16",
+      "description": "Rahmenvereinbarung zur Lieferung von Atemschutztechnik über 48 Monate für die Feuerwehr Schwerin Landeshauptstadt Schwerin - Rahmenvereinbarung zur Lieferung von Atemschutztechnik über 48 Monate für die Feuerwehr Schwerin Gegenstand der Ausschreibung ist der Abschluss einer Rahmenvereinbarung über die bedarfsabhängige Lieferung von Atemschutztechnik und zugehörigem Zubehör für die Feuerwehr der Landeshauptstadt Schwerin. Dies betrifft u.a. die Lieferung von ca. 350 Atemschutzmasken, ca. 200 Lungenautomaten, ca. 139 Tragegestellen sowie diversem Zubehör. Die Lieferungen erfolgen während der Laufzeit der Rahmenvereinbarung entsprechend dem tatsächlichen Bedarf des Auftraggebers durch Einzelabrufe. Die vorgesehenen Jahresmengen, die technischen Anforderungen sowie die nähere Aufteilung der einzelnen Artikel ergeben sich aus dem Mengengerüst und der Leistungsbeschreibung der Vergabeunterlagen. Die angegebenen Mengen stellen voraussichtliche Bedarfsmengen dar. Eine Verpflichtung zur vollständigen Abnahme sämtlicher Mengen besteht nicht.",
+      "platform": "dtvp.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/625460-2026",
+      "sources": [
+        "bkms"
+      ]
+    }
+  ],
+  "skip_count": 848,
+  "skip_sample": [
+    {
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – 62-2026-368-EA RV IT-Dienstleistung für das Clientmanagement für den Brand- und Katastrophenschutz",
+      "buyer": "Stadt Regensburg",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Bildungsmanagementsoftware",
+      "buyer": "Institut der Feuerwehr NRW",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Neubau eines Gesundheitscampus (Medical School und Ausbildungszentrum)",
+      "buyer": "Westpfalz-Klinikum GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Brandschutztechnische Beratungsleistungen Maßnahmenpaket 2 U-Bahnhof KWS, HAZ, OBM, ELS und OBB",
+      "buyer": "Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Vergabe und Versicherungen, Zentrale Vergabestelle",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Elektroinstallation, BIS-19 - Brandschutzsanierung der Hildegardisschule, 3.BA",
+      "buyer": "Stadt Bochum, Referat Zentrale Vergabestelle",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Instandhaltung mobiler Loeschanlagen",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Wartung Atemschutztechnik RDA",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Digitale Meldeempfaenger LX7 inkl. Zubehoer",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Beschaffung von Feuerwehrschutzschuhwerk für die Freiwillige Feuerwehr der Stadt Arnsberg",
+      "buyer": "Stadt Arnsberg Beschaffungsmanagement",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Gemeinde Rossow - Errichtung eines neuen Feuerwehrgerätehauses, Los 5 Dacharbeiten",
+      "buyer": "Gemeinde Rossow über Amt Löcknitz-Penkun",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "RIKS Thermodruckerpapier",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Ergometer",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Generalunternehmerleistung Modulbau - Digitale Pathologie",
+      "buyer": "Universitätsklinikum Aachen AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Neubau ICE-Werk Dortmund-Hafen - VP 04 Los 14 - BOS Funk",
+      "buyer": "DB Fernverkehr AG (Bukr 13)",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Logistikdienstleistung für OP Instrumente RoMed",
+      "buyer": "Kliniken der Stadt und des Landkreises Rosenheim GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur- und Ingenieurbüros sowie Vermessungsdienste – Bestandsdokumentation nach Umbau Dossenheimer Landstraße, Heidelberg",
+      "buyer": "Rhein-Neckar-Verkehr GmbH",
+      "score": 30,
+      "clusters": [
+        "twin"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur- und Ingenieurbüros sowie Vermessungsdienste – Bestandsdokumentation nach Umbau Dossenheimer Landstraße, Heidelberg",
+      "buyer": "Rhein-Neckar-Verkehr GmbH",
+      "score": 30,
+      "clusters": [
+        "twin"
+      ]
+    },
+    {
+      "title": "Stadt Königs Wusterhausen, Beschaffung eines Mehrzweckbootes, einschl. passenden Trailer, Motor und Beladung für die Feuerwehr Königs Wusterhausen",
+      "buyer": "Stadt Königs Wusterhausen, Dezernat Bildung und digitale Verwaltung, Amt Verwaltungsmanagement, Sachgebiet Vergabe- und Vertragsmanagement",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Sekundarschule \"Unteres Geiseltal\" Interimsmaßnahmen Brandschutz; Los 4 - Schlosserarbeiten",
+      "buyer": "Landkreis Saalekreis",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Sekundarschule \"Unteres Geiseltal\" Interimsmaßnahmen Brandschutz; Los 3 - Tischler",
+      "buyer": "Landkreis Saalekreis",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Sekundarschule \"Unteres Geiseltal\" Interimsmaßnahmen Brandschutz; Los 2 - Bauleistung",
+      "buyer": "Landkreis Saalekreis",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Sekundarschule \"Unteres Geiseltal\" Interimsmaßnahmen Brandschutz; Los 1 - Gerüstbau",
+      "buyer": "Landkreis Saalekreis",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "RV Digital Signature Monitore",
+      "buyer": "Universitätsklinikum Schleswig-Holstein AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Projektionsröntgensystem (\"Röntgen 2\")",
+      "buyer": "TUM Klinikum",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Lieferung eines elektrisch gekühlten kompakten HPGe Detektors zum autarken Betrieb auf einem Aero/UAV mit Zubehör",
+      "buyer": "Bundesamt für Strahlenschutz",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "source": "ted",
+      "id": "fire-de",
+      "error": "TED HTTP 429: <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.3</center>\r\n</body>\r\n</html>\r\n"
+    }
+  ]
+}

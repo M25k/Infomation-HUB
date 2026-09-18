@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>Northdocks — Dokumenttitel</title>
+  <style>
+    @page { size: A4; margin: 0; }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      background: #E8E6E0;
+      color: #3D3C39;
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 9.4pt;
+      line-height: 1.38;
+    }
+    .page {
+      width: 210mm;
+      min-height: 297mm;
+      margin: 10mm auto;
+      padding: 16mm 20mm 12mm;
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 1px 8px rgba(0,0,0,.12);
+    }
+    .page + .page { page-break-before: always; }
+    .page-body { flex: 1 1 auto; }
+    .page-body > h2:first-child { margin-top: 0; }
+    header { padding-bottom: 0; }
+    .logo { display: block; height: 11.2mm; width: auto; margin: 0 0 5mm; }
+    .rule {
+      border: 0;
+      border-top: 0.4pt solid #C8C6BE;
+      margin: 0 0 8mm;
+    }
+    .title { text-align: center; margin: 0 0 11mm; }
+    .title h1 {
+      font-size: 15.5pt;
+      font-weight: 700;
+      color: #1A1A1A;
+      letter-spacing: 0.01em;
+      margin: 0 0 3.2mm;
+    }
+    .title .line { margin: 0 0 2.1mm; }
+    .title .quote { margin: 2.4mm 0; color: #1A1A1A; }
+    h2 {
+      font-size: 11pt;
+      font-weight: 700;
+      color: #1A1A1A;
+      margin: 5.5mm 0 2.2mm;
+    }
+    p { margin: 0 0 3.2mm; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5mm 0 4mm;
+      font-size: 9pt;
+    }
+    th, td {
+      border: 0;
+      border-bottom: 0.35pt solid #E6E4DE;
+      padding: 2.3mm 2mm 2.3mm 0;
+      vertical-align: bottom;
+      text-align: left;
+      font-weight: 400;
+    }
+    th { border-bottom: 0.4pt solid #C8C6BE; }
+    td.num, th.num { text-align: right; white-space: nowrap; padding-right: 0; padding-left: 2.5mm; }
+    tr.sum td { font-weight: 700; color: #1A1A1A; border-bottom-color: #C8C6BE; }
+    footer {
+      flex: 0 0 auto;
+      margin-top: auto;
+      padding-top: 10mm;
+    }
+    footer .rule { margin: 0 0 3.2mm; }
+    .footgrid {
+      display: grid;
+      grid-template-columns: 1.15fr 1.15fr 1.1fr 1.25fr;
+      gap: 4mm;
+      font-size: 7.1pt;
+      line-height: 1.35;
+      color: #6B6A65;
+    }
+    .footgrid .lbl {
+      display: block;
+      font-size: 6.2pt;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #9A9891;
+      margin-bottom: 1.4mm;
+    }
+    .pageno { text-align: right; margin-top: 2.4mm; font-size: 7.1pt; color: #6B6A65; }
+    @media print {
+      body { background: #fff; }
+      .page { margin: 0; box-shadow: none; min-height: 297mm; }
+    }
+  </style>
+</head>
+<body>
+
+  <section class="page">
+    <header>
+      <img class="logo" src="northdocks_Logo_quer.png" alt="NORTHDOCKS">
+      <hr class="rule">
+    </header>
+
+    <div class="page-body">
+      <div class="title">
+        <h1>Dokumenttitel</h1>
+        <p class="line">Unterzeile</p>
+        <p class="line">Northdocks GmbH, Monheim am Rhein, TT.MM.JJJJ</p>
+      </div>
+      <h2>1. Abschnitt</h2>
+      <p>Text.</p>
+    </div>
+
+    <footer>
+      <hr class="rule">
+      <div class="footgrid">
+        <div>
+          <span class="lbl">Anschrift</span>
+          Northdocks GmbH<br>
+          Niederstr. 18<br>
+          40789 Monheim am Rhein<br>
+          Deutschland
+        </div>
+        <div>
+          <span class="lbl">Kontakt</span>
+          Telefon +49 2173 9996715<br>
+          kontakt@northdocks.com<br>
+          northdocks.com
+        </div>
+        <div>
+          <span class="lbl">Geschäftsführung</span>
+          Joachim Perschbacher<br>
+          Patrick D. Reschke
+        </div>
+        <div>
+          <span class="lbl">Register und Steuer</span>
+          Amtsgericht Düsseldorf<br>
+          HRB 76844<br>
+          USt-IdNr. DE298519758
+        </div>
+      </div>
+      <div class="pageno">Seite 1</div>
+    </footer>
+  </section>
+
+</body>
+</html>

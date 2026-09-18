@@ -1,5 +1,5 @@
 ---
-description: Google Docs immer als lokale HTML anlegen, nie über Drive-API erzeugen
+description: Google Docs als lokale HTML mit Northdocks-Briefkopf, nie über Drive-API
 alwaysApply: true
 ---
 
@@ -9,17 +9,21 @@ Google-Docs-API und Drive-Konvertierung (`create_file` als `application/vnd.goog
 
 **Ablauf, wenn ein Google Doc gebraucht wird:**
 
-1. Saubere lokale **HTML** schreiben (Überschriften `h1`–`h3`, Tabellen, Listen, kurze Print-CSS).
-2. Datei an einen leicht zu öffnenden Ort legen, typisch `C:\Users\joach\Downloads\{Klarer-Dateiname}.html`.
-3. Datei im Browser öffnen (`Start-Process`).
-4. Nutzer kopiert im Browser **Strg+A / Strg+C** und fügt in ein leeres Google Doc ein (**Strg+V**). PDF danach über **Datei → Herunterladen → PDF**.
+1. Vorlage [`.cursor/templates/northdocks-briefkopf.html`](../templates/northdocks-briefkopf.html) nach `C:\Users\joach\Downloads\{Klarer-Dateiname}.html` kopieren. Logo `northdocks_Logo_quer.png` aus demselben Templates-Ordner **mitkopieren** (Drive-Quelle: *Messe-Material / Bilder / Logos / Northdocks Logos PNG*).
+2. Inhalt einsetzen. Browser öffnen (`Start-Process`).
+3. Nutzer: **Strg+A / Strg+C** ins leere Google Doc (**Strg+V**). PDF über **Datei → Herunterladen → PDF**.
 
 ```text
 # falsch
 Drive create_file → Google Doc / HTML-Konvertierung
+zentrierter Drei-Spalten-Kopf, Rahmen-Tabellen, Footer absolut
 
 # richtig
-Downloads\Angebot-….html  →  Browser  →  in Google Doc einfügen
+Templates → Downloads\{Name}.html + Logo → Browser → in Google Doc einfügen
 ```
 
-Kein HTML ins Git, wenn es Angebots-, Kunden- oder Ausschreibungsinhalte enthält. Formulare einer Vergabe (Preisblätter, Eignung, EVB-IT) bleiben separate Dateien.
+**Briefkopf (Default für von uns erzeugte Docs):** Helvetica; Wortmarke quer; Haarlinie `#C8C6BE`; Text `#3D3C39`; Überschriften `#1A1A1A`; A4, Seitenränder 20 mm. Tabellen ohne Rahmen, nur Haarlinien. Footer **im Fluss** (Flex, `margin-top: auto`), nie `position: absolute` — sonst läuft er in den Text. Vier Spalten: Anschrift, Kontakt **+49 2173 9996715** / `kontakt@northdocks.com`, Geschäftsführung, Register. Zentrierter Titelblock nur bei Memo/Kosten/LOI-Begleit. Anschreiben: Empfänger und Betreff unter dem Kopf, nicht zentriert.
+
+**Kein Briefkopf:** gewertetes Konzept, Portal-Formulare, interne Ausfüllhilfe. Siehe [offer-package.md](../skills/grants-and-contracts/offer-package.md).
+
+Kein HTML ins Git, wenn es Angebots-, Kunden- oder Ausschreibungsinhalte enthält. Eine HTML-Datei je Portal-Doc plus interne Ausfüllhilfe. Nach dem Einfügen gilt das Google Doc; HTML nicht zurückschreiben, wenn der Nutzer im Doc geändert hat.
