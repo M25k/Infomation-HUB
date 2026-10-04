@@ -26,4 +26,6 @@ Templates → Downloads\{Name}.html + Logo → Browser → in Google Doc einfüg
 
 **Kein Briefkopf:** gewertetes Konzept, Portal-Formulare, interne Ausfüllhilfe. Siehe [offer-package.md](../skills/grants-and-contracts/offer-package.md).
 
+**Handout / Fachtagung:** Vorlage [northdocks-handout.html](../templates/northdocks-handout.html). Siehe [handout-layout.mdc](handout-layout.mdc).
+
 Kein HTML ins Git, wenn es Angebots-, Kunden- oder Ausschreibungsinhalte enthält. Eine HTML-Datei je Portal-Doc plus interne Ausfüllhilfe. Nach dem Einfügen gilt das Google Doc; HTML nicht zurückschreiben, wenn der Nutzer im Doc geändert hat.

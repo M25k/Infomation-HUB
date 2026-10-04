@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>Handout</title>
+  <style>
+    @page { size: A4; margin: 0; }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      color: #3D3C39;
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 8.7pt;
+      line-height: 1.34;
+    }
+    .hint {
+      max-width: 210mm;
+      margin: 6mm auto 0;
+      font-size: 8.5pt;
+      color: #3D3C39;
+    }
+    .page {
+      width: 210mm;
+      height: 297mm;
+      padding: 10mm 14mm 8mm;
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+    }
+    .page-body { flex: 1 1 auto; min-height: 0; }
+    header.mast {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8mm;
+      margin-bottom: 2.6mm;
+    }
+    .logo { display: block; height: 5.2mm; width: auto; }
+    .partner { display: flex; align-items: center; gap: 2.2mm; margin: 0; }
+    .emblem { display: block; height: 7.6mm; width: auto; }
+    .word { display: block; height: 7.2mm; width: auto; }
+    .rule { border: 0; border-top: 0.4pt solid #C8C6BE; margin: 0 0 2.6mm; }
+    h1 {
+      font-size: 15.5pt;
+      line-height: 1.15;
+      font-weight: 700;
+      color: #1A1A1A;
+      margin: 0 0 1.4mm;
+      letter-spacing: -0.01em;
+    }
+    .deck { margin: 0 0 3.6mm; font-size: 9pt; }
+    .facts {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      list-style: none;
+      margin: 0 0 4.2mm;
+      padding: 2mm 0 2.2mm;
+      border-top: 0.4pt solid #C8C6BE;
+      border-bottom: 0.4pt solid #C8C6BE;
+    }
+    .facts strong {
+      display: block;
+      font-size: 12pt;
+      line-height: 1.1;
+      font-weight: 700;
+      color: #1A1A1A;
+    }
+    .facts span {
+      display: block;
+      margin-top: 0.7mm;
+      font-size: 6.7pt;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+      color: #6B6A65;
+    }
+    h2 {
+      font-size: 11pt;
+      line-height: 1.15;
+      font-weight: 700;
+      letter-spacing: -0.012em;
+      color: #1A1A1A;
+      margin: 2.2mm 0 1.1mm;
+    }
+    h2 .nr { margin-right: 2mm; }
+    h3 { font-size: 8.4pt; font-weight: 700; color: #1A1A1A; margin: 0 0 1mm; }
+    p { margin: 0 0 2mm; }
+    ul { margin: 0; padding: 0 0 0 3.4mm; }
+    li { margin: 0 0 0.8mm; }
+    .pipe {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 2mm;
+      width: 100%;
+    }
+    .pipe img { width: 100%; height: auto; display: block; border: 0.35pt solid #E4E2DB; background: #F7F6F2; }
+    .caps {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1.2mm 2.2mm;
+      list-style: none;
+      width: 100%;
+      margin: 1.2mm 0 1.4mm;
+      padding: 0;
+      font-size: 7.5pt;
+    }
+    .caps b { color: #1A1A1A; }
+    .fill h2 { margin-top: 12mm; margin-bottom: 2.8mm; }
+    .fill .page-body > h2:first-child { margin-top: 1mm; }
+    .fill p { margin-bottom: 5.2mm; line-height: 1.52; }
+    .fill .caps { margin-top: 3.4mm; margin-bottom: 4.6mm; }
+    .fill .pipe { margin-top: 2.8mm; }
+    .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 6mm; }
+    table { width: 100%; border-collapse: collapse; margin: 1mm 0 0; font-size: 8pt; }
+    th, td {
+      border: 0;
+      border-bottom: 0.35pt solid #E6E4DE;
+      padding: 1.7mm 2.4mm 1.7mm 0;
+      vertical-align: top;
+      text-align: left;
+      font-weight: 400;
+    }
+    th {
+      border-bottom: 0.4pt solid #C8C6BE;
+      font-size: 6.7pt;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+      color: #6B6A65;
+    }
+    footer { margin-top: auto; padding-top: 3.5mm; background: #fff; }
+    footer .rule { margin: 0 0 1.8mm; }
+    .footline {
+      display: flex;
+      justify-content: space-between;
+      gap: 6mm;
+      font-size: 7.2pt;
+      color: #6B6A65;
+    }
+    @media screen {
+      body { background: #E8E6E0; }
+      .page { margin: 8mm auto; box-shadow: 0 1px 6px rgba(0,0,0,.12); }
+    }
+    @media print {
+      .hint { display: none; }
+      body { background: #fff; }
+      .page { margin: 0; box-shadow: none; }
+    }
+  </style>
+</head>
+<body>
+  <p class="hint">PDF: Strg+P → „Als PDF speichern“. Papier A4, Ränder „Keine“, Hintergrundgrafiken an, Kopf- und Fußzeile des Browsers aus.</p>
+
+  <section class="page">
+    <header class="mast">
+      <img class="logo" src="northdocks_Logo_quer.png" alt="Northdocks">
+      <!-- Partner: Zeichen + Wortmarke, Höhe an die Wortmarke angleichen -->
+    </header>
+    <hr class="rule">
+    <div class="page-body">
+      <h1>Titel</h1>
+      <p class="deck">Unterzeile.</p>
+      <ul class="facts">
+        <li><strong>Zahl</strong><span>Bezeichnung</span></li>
+        <li><strong>Zahl</strong><span>Bezeichnung</span></li>
+        <li><strong>Zahl</strong><span>Bezeichnung</span></li>
+        <li><strong>Zahl</strong><span>Bezeichnung</span></li>
+      </ul>
+      <h2><span class="nr">01</span>Abschnitt</h2>
+      <p>Text.</p>
+    </div>
+    <footer>
+      <hr class="rule">
+      <div class="footline">
+        <span>Northdocks GmbH</span>
+        <span>Seite 1 von 2</span>
+      </div>
+    </footer>
+  </section>
+
+  <section class="page fill">
+    <header class="mast">
+      <img class="logo" src="northdocks_Logo_quer.png" alt="Northdocks">
+    </header>
+    <hr class="rule">
+    <div class="page-body">
+      <h2><span class="nr">02</span>Rechenweg</h2>
+      <p>Dieselbe Stelle in vier Zuständen.</p>
+      <div class="pipe">
+        <!-- vier Bilder, gleiche Höhe, Reihe über die Textbreite -->
+      </div>
+      <ol class="caps">
+        <li><b>1</b> Schritt</li>
+        <li><b>2</b> Schritt</li>
+        <li><b>3</b> Schritt</li>
+        <li><b>4</b> Schritt</li>
+      </ol>
+    </div>
+    <footer>
+      <hr class="rule">
+      <div class="footline">
+        <span>Northdocks GmbH</span>
+        <span>Seite 2 von 2</span>
+      </div>
+    </footer>
+  </section>
+</body>
+</html>

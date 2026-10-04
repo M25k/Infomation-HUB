@@ -1,0 +1,27 @@
+---
+description: Layout für Northdocks-Handouts und Fachtagungsblätter (A4-HTML, nicht Briefkopf)
+alwaysApply: false
+---
+
+# Handout-Layout
+
+Für Fachtagung, Handout, zweiseitiges Technikblatt. Briefe bleiben beim Briefkopf.
+
+Vorlage [`.cursor/templates/northdocks-handout.html`](../templates/northdocks-handout.html) nach `Downloads\{Name}.html`, Logo `northdocks_Logo_quer.png` mitkopieren. Kundeninhalt nicht ins Git.
+
+- Helvetica, Text `#3D3C39`, Überschrift `#1A1A1A`, Haarlinie `#C8C6BE`. Keine Navy-, Gold- oder Mint-Karten.
+- Wortmarke links **5.2 mm**. Partnerzeichen rechts, optisch gleich hoch. Dieselbe Kopfzeile auf jeder Seite.
+- Abschnittsüberschriften **11 pt**, nicht als kleine Versalien. Kennzahlen in einer Zeile zwischen zwei Haarlinien.
+- Bilder über die Textbreite. Vier Schritte als **eine Reihe**, gleiche Höhe, etwas breiter als hoch, Bildunterschrift unter dem passenden Feld. Eine zu flache Box lässt rechts eine leere Fläche.
+- Seite 2 trägt die Klasse `fill`: mehr Abstand zwischen Absätzen und Überschriften, bis die Seite voll ist. Footer im Fluss, nicht über der letzten Zeile.
+- PDF: A4, Ränder „Keine“, Hintergrundgrafiken an, Browser-Kopfzeile aus.
+
+```text
+# falsch
+Gold-Kacheln, Verlaufskopf, Bild in zu flacher Box (leere rechte Seite)
+Footer über dem letzten Absatz
+
+# richtig
+Haarlinien, 11-pt-Überschriften, Viererschritte in einer Reihe über die Breite
+Seite 2 mit .fill auffüllen
+```

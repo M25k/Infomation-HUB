@@ -4,7 +4,7 @@
     {
       "id": "xr-de",
       "label": "XR/VR/AR Training in DE/AT/DK/NL",
-      "query": "(FT~\"virtual reality\" OR FT~\"Virtual Reality\" OR FT~\"virtuelle Realität\" OR FT~\"Virtuelle Realität\" OR FT~\"VR-Training\" OR FT~\"VR Training\" OR FT~\"augmented reality\" OR FT~\"Augmented Reality\" OR FT~\"extended reality\" OR FT~\"Extended Reality\" OR FT~\"immersive\") AND (buyer-country=DEU OR buyer-country=AUT OR buyer-country=DNK OR buyer-country=NLD) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
+      "query": "(FT~\"virtual reality\" OR FT~\"Virtual Reality\" OR FT~\"virtuelle Realität\" OR FT~\"Virtuelle Realität\" OR FT~\"VR-Training\" OR FT~\"VR Training\" OR FT~\"augmented reality\" OR FT~\"Augmented Reality\" OR FT~\"extended reality\" OR FT~\"Extended Reality\" OR FT~\"immersive\" OR FT~\"Schulungsszenario\" OR FT~\"XR-Schulung\" OR FT~\"XR-Training\") AND (buyer-country=DEU OR buyer-country=AUT OR buyer-country=DNK OR buyer-country=NLD) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
     },
     {
       "id": "edu-software-de",
@@ -44,7 +44,7 @@
     {
       "id": "xr-be-lu",
       "label": "XR/VR in BE/LU (Nachbar, oft DE-fähig)",
-      "query": "(FT~\"virtual reality\" OR FT~\"Virtual Reality\" OR FT~\"VR-Training\" OR FT~\"réalité virtuelle\") AND (buyer-country=BEL OR buyer-country=LUX) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
+      "query": "(FT~\"virtual reality\" OR FT~\"Virtual Reality\" OR FT~\"VR-Training\" OR FT~\"réalité virtuelle\" OR FT~\"Schulungsszenario\" OR FT~\"XR-Schulung\" OR FT~\"XR-Training\") AND (buyer-country=BEL OR buyer-country=LUX) AND (notice-type=cn-standard OR notice-type=cn-social OR notice-type=pin-cfc-standard) AND PD>={SINCE} SORT BY publication-date DESC"
     }
   ]
 }

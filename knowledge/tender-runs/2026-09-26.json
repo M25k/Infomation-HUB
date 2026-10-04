@@ -1,0 +1,946 @@
+{
+  "generated": "2026-09-26",
+  "days": 8,
+  "sources_run": [
+    "ted",
+    "bkms",
+    "bund"
+  ],
+  "coverage": {
+    "ted": 37,
+    "bkms": 332,
+    "bund": 500
+  },
+  "notice_count": 778,
+  "review": [
+    {
+      "source": "ted",
+      "id": "653402-2026",
+      "publication_number": "653402-2026",
+      "title": "Deutschland – Unterrichtssoftwarepaket – VR-Trainingsumgebung inkl. VR-Endgeräte, sowie Eyetracking",
+      "lot_title": "",
+      "buyer": "Universitätsklinikum Schleswig-Holstein AöR",
+      "publication_date": "2026-09-22",
+      "deadline": "2026-09-28",
+      "cpv": "48190000 66114000 38400000 34152000 32322000 48460000 72416000 38430000 48190000 72416000 72267000 72212190 30200000 48780000 50312000",
+      "buyer_country": "DEU",
+      "place": "DEF03 DEU DEF03 DEF03 DEF03 DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies supplies supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/db33113c-521a-4f5b-842e-8d64ce94d73f",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/db33113c-521a-4f5b-842e-8d64ce94d73f",
+      "description": "Gegenstand der Ausschreibung ist die Beschaffung einer VR-Trainingsumgebung inkl. der benötigten VR-Endgeräte, inkl. Eyetracking  im Rahmen eines Leasingmodells über die gesamte Projektlaufzeit (36 Monate, 3 Perioden á 12 Mona-te). Mobile Eye-Tracking-Systeme Mobile Eye-Tracking-Systeme VR-Trainingssoftware (Trainingsplattform) VR-Trainingssoftware (Trainingsplattform) VR-Endgeräte mit und ohne Eyetracking VR-Endgeräte mit Eyetracking",
+      "platform": "TED",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "edu-software-de",
+      "matched_queries": [
+        "edu-software-de",
+        "xr"
+      ],
+      "sources": [
+        "bkms",
+        "ted"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25857134",
+      "publication_number": "",
+      "title": "Kauf und Lieferung BIosensing Headset",
+      "lot_title": "Kauf und Lieferung BIosensing Headset",
+      "buyer": "Otto-von-Guericke-Universität Magdeburg, Abt. Beschaffung, Zahlstelle (K13)",
+      "publication_date": "2026-09-25",
+      "deadline": "2026-10-06",
+      "cpv": "",
+      "buyer_country": "DEU",
+      "place": "DEE",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25857134",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25857134",
+      "description": "Nationale Ausschreibung nach UVgO\nÖffentliche Ausschreibung\nVergabenr.:\n2026/0255/K13/BHS/KUE\n\n1. Zur Angebotsabgabe auffordernde Stelle, zuschlagserteilende Stelle:\n\nName und Anschrift:\nOtto-von-Guericke-Universität Magdeburg, Abt. Beschaffung, Zahlstelle (K13)\nUniversitätsplatz 2\n39106 Magdeburg\nDeutschland\nTelefonnummer:\nTelefaxnummer:\nE-Mail-Adresse:\nInternet-Adresse:\nhttps://ovgu.de\nZuschlagserteilende Stelle:\nSiehe oben\n\n2. Verfahrensart (§ 8 UVgO):\n\nVerfahrensart:\nÖffentliche Ausschreibung\n\n3. Angebote können abgegeben werden:\n\nelektronisch in Textform\nAnschrift zur Einreichung schriftlicher Angebote:\nENTFÄLLT- (es sind ausschließlich elektronische Angebote zugelassen)\n\n4. Zugriff auf Vergabeunterlagen:\n\nMaßnahmen zum Schutz der Vertraulichkeit und die Informationen zum Zugriff auf die Vergabeunterlagen (§ 29 Abs. 3 UVgO):\nEntfällt (siehe 9.).\n\n5. Art und Umfang sowie Ort der Leistung:\n\nArt der Leistung:\nEin Multisensor-Headset dieser Art liefert Einblicke in Aufmerksamkeit, Arbeitsbelastung und Stress. Ein von uns durchgeführtes Experiment zum Einsatz einer auditiv unterstützten Anwendung zur Exploration in VR zeigte, dass Proband:innen unterschiedlich auf Audio reagierten. Das Headset liefert uns weitere Einblicke, um den Einfluss von Audio im Kontext eines multimodalen User-Interfaces besser zu verstehen und zu optimieren.\nMenge und Umfang:\n1 Stück Biosensing Headset\n(max. zur Verfügung stehendes Budget: 42.000 € brutto)\nOrt der Leistung:\nOtto-von-Guericke-Universität Magdeburg\nUniversitätsplatz 2\n39106 Magdeburg\nDeutschland\n\n6. Losaufteilung:\n\nLosweise Vergabe:\nNein\n\n7. Nebenangebote sind\n\nnicht zugelassen\n\n8. Etwaige Bestimmungen über die Ausführungsfrist:\n\nBeginn der Ausführungsfrist:\nEnde der Ausführungsfrist:\nBemerkung zur Ausführungsfrist:\n\n9. Elektronische Adresse, unter der die Teilnahmewettbewerbsunterlagen/Vergabeunterlagen abgerufen werden können:\n\nunter (URL:):\nhttps://www.evergabe.de/unterlagen/54321-Tender-1a08b562e9b-18324259a19677d1\n\n10. Ablauf der Angebots- und Bindefrist:\n\nAngebote sind einzureichen bis:\n06.10.2026 24:00\nAblauf der Bindefrist:\n23.10.2026\n\n11. Höhe der etwa geforderten Sicherheitsleistungen:\n\n :\n\n12. Wesentliche Zahlungsbedingungen:\n\n :\nEs gelten die Allgemeinen Vertragsbedingungen für die Ausführung von Leistungen - Teil B (VOL/B).\nEs werden keine Vorauszahlungen geleistet.\nZahlungsziel 30 Tage netto, gegen Rechnung.\nEs wird ausschließlich eine elektronische Rechnung (PDF, XRechnung oder ZUGFeRD) per Email akzeptiert.\n\n13. Ggf. mit dem Angebot vorzulegende Unterlagen zur Eignungsprüfung des Bewerbers:\n\n :\nListe der mit dem Angebot vorzulegenden Unterlagen:\nBescheinigung einer Eintragung in das Unternehmer- und Lieferantenverzeichnis der Auftragsberatungsstelle Sachsen-Anhalt oder gültige Bescheinigung einer anerkannten Präqualifizierungsstelle z.B. DIHK PQ-VOL (https://sachsen-anhalt.abst.de/praequalifizierung-unternehmen/)\noder folgender Einzelnachweis:\nEigenerklärung §§123, 124 GWB (https://www.ovgu.de/unimagdeburg_media/Eigenerklärung_123_124_GWB.pdf)\n\n14. Angabe der Zuschlagskriterien:\n\nDer niedrigste Preis:\nJa\n\n15. Sonstiges:\n\nEs gelten ausschließlich die \"Allgemeinen Vertragsbedingungen für die Ausführung von Leistungen \"(VOL/B), Stand: Ausgabe 2003.\nhttps://www.ovgu.de/unimagdeburg_media/VOLB.pdf\nHinweis zum Datenschutz:\nDie vom Auftraggeber erbetenen Angaben werden im Rahmen des Vergabeverfahrens und der Auftragsdurchführung verarbeitet und gespeichert, die gesetzlichen Archivierungszeiträume eingeschlossen.\nDer Bieter erklärt mit der Abgabe seines Angebotes hierzu sein Einverständnis.\nhttps://www.ovgu.de/datenschutzerklaerung.html\nZuständige Stelle für Rechtsbehelfs-/Nachprüfungsverfahren\nOffizielle Bezeichnung:\nLandesverwaltungsamt Sachsen-Anhalt\n3. Vergabekammer\nErnst-Kamieth-Straße 2\n06112 Halle\n\n\nPkw/ Transporter,Kommunaltechnik,Medizintechnik,Labortechnik/ Messtechnik Kauf und Lieferung BIosensing Headset Nationale Ausschreibung nach UVgO\nÖffentliche Ausschreibung\nVerg",
+      "platform": "service.bund.de",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "6f945fdb-185b-4f1d-9752-2b360678ad02",
+      "publication_number": "647965-2026",
+      "title": "Lieferung eines Gerätewagen-Höhenrettung einschließlich Fahrgestell und Auf- /Ausbau für die Feuerwehr der Stadt Hamm",
+      "lot_title": "Lieferung eines Gerätewagen-Höhenrettung einschließlich Fahrgestell und Auf- /Ausbau für die Feuerwehr der Stadt Hamm",
+      "buyer": "Stadt Hamm, Bauverwaltungsamt, Zentrales Beschaffungsmanagement",
+      "publication_date": "2026-09-20",
+      "deadline": "2026-10-20",
+      "cpv": "34144210",
+      "buyer_country": "DEU",
+      "place": "DEA54",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/6f945fdb-185b-4f1d-9752-2b360678ad02",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/6f945fdb-185b-4f1d-9752-2b360678ad02",
+      "description": "Lieferung eines Gerätewagens-Höhenrettung einschließlich Fahrgestell und Auf- /Ausbau für die Feuerwehr Hamm Lieferung eines Gerätewagen-Höhenrettung einschließlich Fahrgestell und Auf- /Ausbau für die Feuerwehr der Stadt Hamm Lieferung von einem Gerätewagen-Höhenrettung einschließlich Fahrgestell und Auf- /Ausbau.\nDas Fahrzeug soll bis zu sechs Personen befördern.  Am Einsatzort sollen Geräteklappen eine schnelle und einfache Unterstandsmöglichkeit bieten.\nDer Aufbau mit seinen Gerätefächern dient der arbeitssicherheitskonformen und verkehrssicheren Lagerung von Beladung in Kunststoffkästen und weiteren angefertigten Halterungen.\nDie Verlastung der Ausrüstungsgegenstände ist so zu wählen, dass sich eine gute Übersicht ergibt. Die Beladung muss jederzeit schnell zugänglich sein, ohne dass nicht benötigtes Material bewegt werden muss,",
+      "platform": "vergabe.metropoleruhr.de",
+      "score": 70,
+      "clusters": [
+        "meditrain",
+        "firefighter",
+        "factory"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/647965-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "cbd14277-1ebf-4fdc-9faa-053f17730f66",
+      "publication_number": "654872-2026",
+      "title": "Lieferung, Installation, Konfiguration, Einführung eines Linac VR-Einzelplatz Schulungssystems",
+      "lot_title": "Lieferung, Installation, Konfiguration, Einführung eines Linac VR-Einzelplatz Schulungssystems",
+      "buyer": "Westküstenkliniken Brunsbüttel und Heide gGmbH",
+      "publication_date": "2026-09-23",
+      "deadline": "2026-10-22",
+      "cpv": "48931000",
+      "buyer_country": "DEU",
+      "place": "DEF05",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/cbd14277-1ebf-4fdc-9faa-053f17730f66",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/cbd14277-1ebf-4fdc-9faa-053f17730f66",
+      "description": "01 Hardware\n02 Software\n03 Dienstleistungen\n04 Support Lieferung, Installation, Konfiguration, Einführung eines Linac VR-Einzelplatz Schulungssystems Mit diesem Projekt soll für das Westküstenklinikum (WKK) ein digitales\nSimulations- und Schulungssystem für die Aus- und Weiterbildung an\nmedizinischen Linearbeschleunigern beschafft werden.",
+      "platform": "bi-medien.de",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "twin",
+        "xr"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/654872-2026",
+      "sources": [
+        "bkms"
+      ]
+    }
+  ],
+  "maybe": [
+    {
+      "source": "bkms",
+      "id": "29a45e96-9f88-4876-9986-b94e6483c024",
+      "publication_number": "644961-2026",
+      "title": "Ärztliche Besetzung der Intensivtransportwagen (ITW) des Essener Rettungsdienstes",
+      "lot_title": "Arztgestellung ITW Feuerwehr Essen",
+      "buyer": "Stadt Essen, Zentrales Vergabemanagement",
+      "publication_date": "2026-09-18",
+      "deadline": "2026-10-02",
+      "cpv": "75252000",
+      "buyer_country": "DEU",
+      "place": "DEA13",
+      "notice_type": "cn-standard",
+      "contract_nature": "services",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/29a45e96-9f88-4876-9986-b94e6483c024",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/29a45e96-9f88-4876-9986-b94e6483c024",
+      "description": "Ärztliche Besetzung der Intensivtransportwagen (ITW) des Essener Rettungsdienstes Arztgestellung ITW Feuerwehr Essen Die Stadt Essen beabsichtigt die Durchführung der ärztlichen Besetzung zweier Intensivtransportwagen (ITW) im Wege eines Offenen Verfahrens nach den Richtlinien der Verordnung über die Vergabe öffentlicher Aufträge (VgV) und des Gesetzes gegen Wettbewerbsbeschränkungen (GWB) zu beauftragen.\nDie Stadt Essen ist Trägerin des Rettungsdienstes gemäß § 6 Abs. 1 RettG NRW. Die Durchführung von Intensivtransporten ist eine Aufgabe des Rettungsdienstes gem. § 2 Abs. 1 in Verbindung mit § 3 Abs. 4 RettG NRW. Ein Intensivtransport ist ein aus medizinischer Sicht notwendiger Transport eines Patienten von einer Behandlungseinrichtung in eine für die weitere Versorgung der Patienten geeignete Behandlungseinrichtung unter intensivmedizinischen Bedingungen.\nDer Auftragnehmer handelt für die Trägerin des Rettungsdienstes und erbringt keine eigene, im Außenverhältnis liquidierbare Leistung gegenüber Patienten oder Krankenkassen.\nDas Rettungsmittel (hier Intensivtransportwagen; kurz: ITW) samt nichtärztlichem Personal und die medizinische Ausstattung werden durch die Feuerwehr Essen, im Folgenden Aufgabenträgerin (AT), bereitgestellt und sind nicht Teil der vom AN geschuldeten Leistung. Arztgestellung ITW Leistungserbringer Die Stadt Essen beabsichtigt die Durchführung der ärztlichen Besetzung zweier Intensivtransportwagen (ITW) im Wege eines Offenen Verfahrens nach den Richtlinien der Verordnung über die Vergabe öffentlicher Aufträge (VgV) und des Gesetzes gegen Wettbewerbsbeschränkungen (GWB) zu beauftragen.\nDie Stadt Essen ist Trägerin des Rettungsdienstes gemäß § 6 Abs. 1 RettG NRW. Die Durchführung von Intensivtransporten ist eine Aufgabe des Rettungsdienstes gem. § 2 Abs. 1 in Verbindung mit § 3 Abs. 4 RettG NRW. Ein Intensivtransport ist ein aus medizinischer Sicht notwendiger Transport eines Patienten von einer Behandlungseinrichtung in eine für die weitere Versorgung der Patienten geeignete Behandlungseinrichtung unter intensivmedizinischen Bedingungen.\nDer Auftragnehmer handelt für die Trägerin des Rettungsdienstes und erbringt keine eigene, im Außenverhältnis liquidierbare Leistung gegenüber Patienten oder Krankenkassen.\nDas Rettungsmittel (hier Intensivtransportwagen; kurz: ITW) samt nichtärztlichem Personal und die medizinische Ausstattung werden durch die Feuerwehr Essen, im Folgenden Aufgabenträgerin (AT), bereitgestellt und sind nicht Teil der vom AN geschuldeten Leistung.",
+      "platform": "vergabe.metropoleruhr.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/644961-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25861176",
+      "publication_number": "",
+      "title": "Kauf von VR-Brillen inkl. Zubehör",
+      "lot_title": "Kauf von VR-Brillen inkl. Zubehör",
+      "buyer": "BG-Phoenics GmbH",
+      "publication_date": "2026-09-25",
+      "deadline": "2026-10-05",
+      "cpv": "33734000",
+      "buyer_country": "DEU",
+      "place": "DE2",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25861176",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25861176",
+      "description": "Gegenstand dieses Vergabeverfahrens ist der Kauf von VR-Brillen inkl. Zubehör\n\nKauf von VR-Brillen inkl. Zubehör Kauf von VR-Brillen inkl. Zubehör Gegenstand dieses Vergabeverfahrens ist der Kauf von VR-Brillen inkl. Zubehör\n\nKauf von VR-Brillen inkl. Zubehör",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "bund-rss",
+        "xr"
+      ],
+      "sources": [
+        "bkms",
+        "bund.de"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25846092",
+      "publication_number": "",
+      "title": "400 faltbare Headsets mit Bluetooth, USB-A-Dongle, Ladekabel (USB-C), Wireless Charging Pad (USB-C), Transporttasche mit Software, Garantie und Service",
+      "lot_title": "400 faltbare Headsets mit Bluetooth, USB-A-Dongle, Ladekabel (USB-C), Wireless Charging Pad (USB-C), Transporttasche mit Software, Garantie und Service",
+      "buyer": "Stadt Soest",
+      "publication_date": "2026-09-22",
+      "deadline": "2026-10-06",
+      "cpv": "72000000",
+      "buyer_country": "DEU",
+      "place": "DEA",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25843696",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25843696",
+      "description": "Lieferung von 400 Headsets\n\n400 faltbare Headsets mit Bluetooth, USB-A-Dongle, Ladekabel (USB-C), Wireless Charging Pad (USB-C), Transporttasche mit Software, Garantie und Service 400 faltbare Headsets mit Bluetooth, USB-A-Dongle, Ladekabel (USB-C), Wireless Charging Pad (USB-C), Transporttasche mit Software, Garantie und Service Lieferung von 400 Headsets\n\n400 faltbare Headsets mit Bluetooth, USB-A-Dongle, Ladekabel (USB-C), Wireless Charging Pad (USB-C), Transporttasche mit Software, Garantie und Service",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bund.de",
+      "id": "https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-bb/2026/09/260610.html",
+      "publication_number": "",
+      "title": "Praktische Brandschutzunterweisung Mitarbeiter der MUL-CT",
+      "lot_title": "",
+      "buyer": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "publication_date": "2026-09-25",
+      "deadline": "2026-10-06",
+      "cpv": "",
+      "buyer_country": "DEU",
+      "place": "03048 Cottbus",
+      "notice_type": "",
+      "contract_nature": "",
+      "url": "https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-bb/2026/09/260610.html",
+      "url_de": "https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-bb/2026/09/260610.html",
+      "description": "Erfüllungsort: 03048 Cottbus | Vergabestelle: Medizinische Universität Lausitz - Carl Thiem KdöR | | Angebotsfrist: 06.10.2026 12:00 | Veröffentlichungsende: 06.10.2026 12:00 | |",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "bund-rss",
+      "matched_queries": [
+        "bund-rss"
+      ],
+      "sources": [
+        "bund.de"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25862808",
+      "publication_number": "",
+      "title": "Lieferung von Bekleidung für die Berufsfeuerwehr Halle (Saale)",
+      "lot_title": "Lieferung von Bekleidung für die Berufsfeuerwehr Halle (Saale)",
+      "buyer": "Stadt Halle (Saale), FB Recht, Team Submission",
+      "publication_date": "2026-09-26",
+      "deadline": "2026-10-09",
+      "cpv": "35113470",
+      "buyer_country": "DEU",
+      "place": "DE",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25862808",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25862808",
+      "description": "Erfüllungsort: Stadt Halle (Saale) Fachbereich Sicherheit Abteilung Brand-, Katastrophenschutz und Rettungsdienst Bekleidungskammer zu Hd. Herr Jünger Liebenauer Straße 123 06110 Halle (Saale) | Vergabestelle: Stadt Halle (Saale), FB Recht, Team Submission | | Angebotsfrist: 09.10.2026 12:00 | Veröffentlichungsende: 09.10.2026 23:59 | |",
+      "platform": "",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "bund-rss",
+        "fire"
+      ],
+      "sources": [
+        "bkms",
+        "bund.de"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25843944",
+      "publication_number": "",
+      "title": "Konzeption, Organisation, Durchführung, Dokumentation und Evaluation einer alltagsintegrierten immersiven Nachbarsprachvermittlung in acht Kindertageseinrichtungen in Frankfurt (Oder) und Slubice",
+      "lot_title": "Konzeption, Organisation, Durchführung, Dokumentation und Evaluation einer alltagsintegrierten immersiven Nachbarsprachvermittlung in acht Kindertageseinrichtungen in Frankfurt (Oder) und Slubice",
+      "buyer": "Stadt Frankfurt (Oder), Bereich des Oberbürgermeisters, Rechtsamt, Zentrale Vergabestelle",
+      "publication_date": "2026-09-22",
+      "deadline": "2026-10-15",
+      "cpv": "98300000-6",
+      "buyer_country": "DEU",
+      "place": "DE4",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25843944",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25843944",
+      "description": "Konzeption, Organisation, Durchführung, Dokumentation und Evaluation einer alltagsintegrierten immersiven Nachbarsprachvermittlung in acht Kindertageseinrichtungen in Frankfurt (Oder) und Slubice Konzeption, Organisation, Durchführung, Dokumentation und Evaluation einer alltagsintegrierten immersiven Nachbarsprachvermittlung in acht Kindertageseinrichtungen in Frankfurt (Oder) und Slubice Konzeption, Organisation, Durchführung, Dokumentation und Evaluation einer alltagsintegrierten immersiven Nachbarsprachvermittlung in acht Kindertageseinrichtungen in Frankfurt (Oder) und Slubice",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bund.de",
+      "id": "https://www.service.bund.de/IMPORTE/Ausschreibungen/stadt-halle/2026/09/54321-Tender-1a0d7d353bc-666fab8dc600a3b5.html",
+      "publication_number": "",
+      "title": "Bekleidungssystem für den Rettungsdienst der Berufsfeuerwehr Halle (Saale)",
+      "lot_title": "",
+      "buyer": "Stadt Halle (Saale), FB Recht, Team Submission",
+      "publication_date": "2026-09-25",
+      "deadline": "2026-10-16",
+      "cpv": "",
+      "buyer_country": "DEU",
+      "place": "Stadt Halle (Saale) Fachbereich Sicherheit Feuerwache Süd Bekleidungskammer Liebenauer Straße 123 06110 Halle (Saale)",
+      "notice_type": "",
+      "contract_nature": "",
+      "url": "https://www.service.bund.de/IMPORTE/Ausschreibungen/stadt-halle/2026/09/54321-Tender-1a0d7d353bc-666fab8dc600a3b5.html",
+      "url_de": "https://www.service.bund.de/IMPORTE/Ausschreibungen/stadt-halle/2026/09/54321-Tender-1a0d7d353bc-666fab8dc600a3b5.html",
+      "description": "Erfüllungsort: Stadt Halle (Saale) Fachbereich Sicherheit Feuerwache Süd Bekleidungskammer Liebenauer Straße 123 06110 Halle (Saale) | Vergabestelle: Stadt Halle (Saale), FB Recht, Team Submission | | Angebotsfrist: 16.10.2026 12:00 | Veröffentlichungsende: 16.10.2026 23:59 | |",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "bund-rss",
+      "matched_queries": [
+        "bund-rss"
+      ],
+      "sources": [
+        "bund.de"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25860524",
+      "publication_number": "",
+      "title": "2026-0118, Update sowie ansschließende Wartungs- und Instandhaltungsleistungen inklusive Softwarepflegevertrag für die Telefonanlage der Verwaltung und der Branddirektion der Feuerwehr Leverkusen",
+      "lot_title": "2026-0118, Update sowie ansschließende Wartungs- und Instandhaltungsleistungen inklusive Softwarepflegevertrag für die Telefonanlage der Verwaltung und der Branddirektion der Feuerwehr Leverkusen",
+      "buyer": "Stadt Leverkusen - Fachbereich Recht und Vergabe",
+      "publication_date": "2026-09-25",
+      "deadline": "2026-10-19",
+      "cpv": "48000000-8",
+      "buyer_country": "DEU",
+      "place": "DEA",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25860524",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25860524",
+      "description": "2026-0118, Update sowie ansschließende Wartungs- und Instandhaltungsleistungen inklusive Softwarepflegevertrag für die Telefonanlage der Verwaltung und der Branddirektion der Feuerwehr Leverkusen 2026-0118, Update sowie ansschließende Wartungs- und Instandhaltungsleistungen inklusive Softwarepflegevertrag für die Telefonanlage der Verwaltung und der Branddirektion der Feuerwehr Leverkusen 2026-0118, Update sowie ansschließende Wartungs- und Instandhaltungsleistungen inklusive Softwarepflegevertrag für die Telefonanlage der Verwaltung und der Branddirektion der Feuerwehr Leverkusen",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "5a20c06e-829d-45bd-945b-1224a8d34e97",
+      "publication_number": "660354-2026",
+      "title": "Arbeitssicherheit und Arbeitsmedizin",
+      "lot_title": "Arbeitssicherheit",
+      "buyer": "Stiftung Oper in Berlin",
+      "publication_date": "2026-09-25",
+      "deadline": "2026-10-19",
+      "cpv": "71317200",
+      "buyer_country": "DEU",
+      "place": "DE300",
+      "notice_type": "cn-desg",
+      "contract_nature": "services",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/5a20c06e-829d-45bd-945b-1224a8d34e97",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/5a20c06e-829d-45bd-945b-1224a8d34e97",
+      "description": "Arbeitssicherheit und Arbeitsmedizin Arbeitssicherheit Arbeitssicherheit und Arbeitsmedizin Arbeitsmedizin Die Betriebsärzte haben die Aufgabe, den Arbeitgeber beim Arbeitsschutz und bei der Unfallverhütung in allen Fragen des Gesundheitsschutzes zu unterstützen.",
+      "platform": "my.vergabeplattform.berlin.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "factory"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "command",
+      "matched_queries": [
+        "command"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/660354-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "622ac8eb-fe82-477c-a55c-32c2c1bdd405",
+      "publication_number": "645175-2026",
+      "title": "2026-0549 Rahmenvereinbarung über die Beschaffung von Rettungsdienststiefeln und Tagesdienstschuhen für die Feuerwehr Duisburg.",
+      "lot_title": "Rettungsdienststiefel - Form C - nach EN ISO 20345:2011 S3 HRO HI CI WR SRC",
+      "buyer": "Einkauf der Stadt Duisburg (10-31)",
+      "publication_date": "2026-09-18",
+      "deadline": "2026-10-20",
+      "cpv": "18800000",
+      "buyer_country": "DEU",
+      "place": "DEA12",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/622ac8eb-fe82-477c-a55c-32c2c1bdd405",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/622ac8eb-fe82-477c-a55c-32c2c1bdd405",
+      "description": "Rahmenvereinbarung über die Beschaffung von Rettungsdienststiefeln und Tagesdienstschuhen für die Feuerwehr Duisburg. Rettungsdienststiefel - Form C - nach EN ISO 20345:2011 S3 HRO HI CI WR SRC Die Stadt Duisburg schließt für die Feuerwehr eine Rahmenvereinbarung über die Beschaffung von Rettungsdienststiefeln (Form C) vom Zeitpunkt der Zuschlagserteilung, frühestens jedoch ab dem 01.01.2027, für 24 Monate zuzüglich einer Verlängerungsoption für 12 Monate ab. Rettungsdienststiefel - Form B - nach EN ISO 20345:2012 S3 ESD HRO HI SRC Die Stadt Duisburg schließt für die Feuerwehr eine Rahmenvereinbarung über die Beschaffung von Rettungsdienststiefeln (Form B) vom Zeitpunkt der Zuschlagserteilung, frühestens jedoch ab dem 01.01.2027, für 24 Monate zuzüglich einer Verlängerungsoption für 12 Monate ab. Tagesdienstschuhe nach CE EN 20347:2012 O2 HRO HI CI WR FO SRC Die Stadt Duisburg schließt für die Feuerwehr eine Rahmenvereinbarung über die Beschaffung von Tagesdienstschuhen vom Zeitpunkt der Zuschlagserteilung, frühestens jedoch ab dem 01.01.2027, für 24 Monate zuzüglich einer Verlängerungsoption für 12 Monate ab.",
+      "platform": "vergabe.metropoleruhr.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/645175-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bund.de",
+      "id": "https://www.service.bund.de/IMPORTE/Ausschreibungen/ai-dabl/2026/09/54321-Tender-1a0d374227f-14cba7f03bfa0327.html",
+      "publication_number": "",
+      "title": "Lieferung einer Drohne für den Fernmeldezug der Kreisfeuerwehr",
+      "lot_title": "",
+      "buyer": "Landkreis Stade",
+      "publication_date": "2026-09-25",
+      "deadline": "2026-10-20",
+      "cpv": "",
+      "buyer_country": "DEU",
+      "place": "Feuerwehrtechnische Zentrale des Landkreises Stade Ohle Kamp 3 21684 Stade -Wiepenkathen",
+      "notice_type": "",
+      "contract_nature": "",
+      "url": "https://www.service.bund.de/IMPORTE/Ausschreibungen/ai-dabl/2026/09/54321-Tender-1a0d374227f-14cba7f03bfa0327.html",
+      "url_de": "https://www.service.bund.de/IMPORTE/Ausschreibungen/ai-dabl/2026/09/54321-Tender-1a0d374227f-14cba7f03bfa0327.html",
+      "description": "Erfüllungsort: Feuerwehrtechnische Zentrale des Landkreises Stade Ohle Kamp 3 21684 Stade -Wiepenkathen | Vergabestelle: Landkreis Stade | | Angebotsfrist: 20.10.2026 23:59 | Veröffentlichungsende: 20.10.2026 23:59 | |",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "firefighter",
+        "twin"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "bund-rss",
+      "matched_queries": [
+        "bund-rss"
+      ],
+      "sources": [
+        "bund.de"
+      ]
+    },
+    {
+      "source": "ted",
+      "id": "645961-2026",
+      "publication_number": "645961-2026",
+      "title": "Deutschland – Feuerwehrfahrzeuge – Lieferung eines Feuerwehr Abrollbehälters AB Atemschutz-Strahlenschutz für den Markt Weidenberg",
+      "lot_title": "",
+      "buyer": "VGem. Weidenberg für c/o eine Mitgliedsgemeinde",
+      "publication_date": "2026-09-18",
+      "deadline": "2026-10-22",
+      "cpv": "34144210 34144210 34913700 44482100 35811100 44482100",
+      "buyer_country": "DEU",
+      "place": "DE246 DEU DE246 DE246 DE246 DE246 DEU DEU DEU DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies supplies supplies supplies supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/32d6a6ce-a79f-45e0-beac-52823b80eee0",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/32d6a6ce-a79f-45e0-beac-52823b80eee0",
+      "description": "Lieferung eines Feuerwehr Abrollbehälters AB Atemschutz-Strahlenschutz nach DIN 14505 und DIN 30722 inklusive der feuerwehrtechnischen Beladung für den Markt Weidenberg Los 1 - Abrollbehälter Lieferung eines Abrollbehälters AB Atemschutz-Strahlenschutz nach DIN 14505 und DIN 30722 Los 2 - Beladung Lieferung der feuerwehrtechnischen Beladung für einen in Los 1 beschriebenen Abrollcontainer AB AS Los 3 - Atemschutztechnik Lieferung der Atemschutztechnik für einen Abrollbehälter AB AS Los 4 - Strahlenmesstechnik Lieferung der Strahlenmesstechnik für einen Abrollbehälter AB AS",
+      "platform": "TED",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [
+        "feuerwehrfahrzeug"
+      ],
+      "query_id": "med-xr-de",
+      "matched_queries": [
+        "fire",
+        "med",
+        "med-xr-de"
+      ],
+      "sources": [
+        "bkms",
+        "ted"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "b14f3597-23fc-47ae-9d3a-9bce9e1082c4",
+      "publication_number": "656834-2026",
+      "title": "Planungsleistungen für Brandschutz der Leistungsphase 8 für das Bauvorhaben Neubau Herzzentrum und Informatics for Life am Universitätsklinikums Heidelberg VE 747.01",
+      "lot_title": "Planungsleistungen für Brandschutz der Leistungsphase 8 für das Bauvorhaben Neubau Herzzentrum und Informatics for Life am Universitätsklinikums Heidelberg VE 747.01",
+      "buyer": "Universitätsklinikum Heidelberg",
+      "publication_date": "2026-09-23",
+      "deadline": "2026-10-22",
+      "cpv": "71300000",
+      "buyer_country": "DEU",
+      "place": "DE125",
+      "notice_type": "cn-standard",
+      "contract_nature": "services",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/b14f3597-23fc-47ae-9d3a-9bce9e1082c4",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/b14f3597-23fc-47ae-9d3a-9bce9e1082c4",
+      "description": "Planungsleistungen für Brandschutz Leistungsphase 8 für das Bauvorhaben Neubau Herzzentrum und Informatics for Life am Universitätsklinikums Heidelberg. Planungsleistungen für Brandschutz der Leistungsphase 8 für das Bauvorhaben Neubau Herzzentrum und Informatics for Life am Universitätsklinikums Heidelberg VE 747.01 Am Universitätsklinikum Heidelberg wird ein universitäres Herzzentrum innerhalb des Klinikgeländes im Neuenheimer Feld im laufenden Klinikbetrieb des Universitätsklinikums Heidelberg, auf dem Gelände um die alte Kinderklinik neu errichtet. In dem neuen Herzzentrum werden die Kardiologie, die Angiologie, die Herzchirurgie, die pädiatrische Kardiologie, die Kinderherzchirurgie sowie die Kardio-Anästhesie des Universitäts-klinikums Heidelberg zusammengeführt. Durch interdisziplinäre Kooperationen und Innovationen werden Synergien und ein Mehrwert in der Versorgung und der Forschung generiert. Unmittelbar in den Neubau des Herzzentrums integriert und funktional eng damit verbunden wird der wissenschaftliche Arbeitsbereich Informatics for Life (IFL). Durch Fokussierung auf das wissenschaftliche Rechnen in der kardiovaskulären molekularen Forschung wird Fortschritt in der personalisierten Herzmedizin in Deutschland realisiert.",
+      "platform": "vergabeportal-bw.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/656834-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "e543a6b0-3c91-4b2a-8f55-ab2072cdcdea",
+      "publication_number": "656198-2026",
+      "title": "Neubau der Notleitstelle Bexbach - Elektroinstallationsarbeiten",
+      "lot_title": "Elektroinstallationsarbeiten",
+      "buyer": "Zweckverband für Rettungsdienst und Feuerwehralarmierung Saar (ZRF Saar)",
+      "publication_date": "2026-09-23",
+      "deadline": "2026-10-22",
+      "cpv": "45311200",
+      "buyer_country": "DEU",
+      "place": "DEC05",
+      "notice_type": "cn-standard",
+      "contract_nature": "works",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/e543a6b0-3c91-4b2a-8f55-ab2072cdcdea",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/e543a6b0-3c91-4b2a-8f55-ab2072cdcdea",
+      "description": "Der Zweckverband für Rettungsdienst und Feuerwehralarmierung ZRF beabsichtigt derzeit den Neubau der Notleitstelle Bexbach. Hierzu wird die nachfolgenden Bauleistung ausgeschrieben. Die im Wesentlichen auszuführenden Leistungen beinhalten folgende Bauleistungen:\nKabel- und Leitungen\nCa. 22.000,00 m- Energiekabel NYM, NYY, NYCWY, NYSLYÖ, Ölflex, Querschnitte von 3x1,5qmm bis 1x 240qmm. Verschiedene Befestigungsarten.\nCa. 1.000,00 m, NHXCH- Funktionserhaltkabel Querschnitte von 5x16 qmm bis 4x 240/ 120 FE180. Verschiedene Befestigungsarten.\nCa. 10.000,00 m, Schwachstromkabel, IY(ST)Y 2x2x0,6mmD bis 50x2x0,8mmD. Verschiedene Befestigungsarten.\n\nGeräte- und Zubehör\nCa. 680 St.- Schalter, Steckdosen, Thermostate, Stecksysteme 230V- 400V, Aufputz- und Unterputz.\nCa. 350 St.- Abzweigdosen Aufputz und Unterputz.\n57 Stk.- KNX Geräte, wie Präsenzmelder, Bewegungsmelder.\n\nLeerrohre, Kanäle- und Zubehör\nCa. 2.000,00 m.- Isolierstoffrohr flexibel- und starr, verschiedene Größen NG16- NG40.\nCa. 250,00 m- Kabelkanäle PVC und Stahlblech, 20x 20 bis 190x 72 (mm), inkl. Formteile und Kanaleinbaudosen.\nCa. 800,m.- Kabeltrassen, Steigetrassen, 100x 60 (mm) bis 400x 60, an Wand, Decke und Bodenmontage, kpl. mit Formteilen, Wand- und Deckenstielen sowie Ausleger. U- Profilschienen (200x 35x 18 (mm) – 1000x 35x 18 (mm) imkl. Bügelschellen mit Langwanne.\nCa. 1.000,00 St.-, Sammelhalter Stahl- und Kunststoff, verschiedene Größen.\n\nSchutzmaßnahmen\n16 St..- Potentialausgleichsschienen 40x 10.\n44 St.- Erdungsbandschellen, verschiedener Größen.\nCa. 1.000,00 m- Potenzialausgleichsleitungen von 1x 6qmm- 1x16 qmm\n56 St.- Überspannungsableiter für Antennenanlagen (HF) und Schwachstromsysteme.\n\n\n\nVerteilung- und Zubehör\n1 St..- Kompaktwandlermessanlage bis 100A mit Überspannungsableitungen.\n1 St..- Wandlermessschrank kpl. mit Zählerwechselplatte und Überspannungsableiter.\n1 St. Abgabgangsverteiler AV Netz bestehend aus 100A Leistungsschalter und weiteren ca. 85 Einbauten wie ÜS- Schutz, LS Automaten, Neozedelementen zusätzlich KNX Koppler, Schaltaktoren, Taterschnittstellen, KNX Dali Gateway, Spannungsversorgung, Notstromversorgung\n4 St. Abgabgangsverteiler SV Netz bestehend aus 100A Leistungsschalter, automatischer Netzumschalter 100A, Energiemessgerät, Stromwandler und weiteren ca. 54 Einbauten wie ÜS- Schutz, LS Automaten, Neozedelementen zusätzlich KNX Koppler, Schaltaktoren, Taterschnittstellen, KNX Dali Gateway, Spannungsversorgung, Notstromversorgung.\n5 St. Abgabgangsverteiler USV Netz bestehend aus ca. 75 Einbauten wie ÜS- Schutz, LS Automaten, Neozedelementen  Energieanalysator, Erweiterungsmodule für Strommesseingänge, Betriebsstrom- und RCM- Messgeräte, Wandlermessssysteme.\n5 St. Statischer Lastumschalter, 100A, 3. Pol. 400V\n1 St. Statischer Lastumschalter, 60A, 3. Pol. 400V\n2 St. Hauptverteiler SV1+ SV2 bestehend aus, Kompaktleistungsschalter 630A, Kombi- Ableiter, Energieanalysator, Stromwandler ( 50A, 75A, 100A, 300A, 400A, 600A), NH Lasttrennern NH00 (8), NH1 (2), NH2 (2), NH3 (1), sowie weiteren 12 Einbaugeräten.\n2 St. Abgangsverteiler USV SV1+ USV SV2 bestehend aus Kompaktleistungsschalter 400A, automatischer Netzumschaltung (400A, 400V, 3P), Überspannungsschutz, NH Lasttrennern NH00 (8), NH1 (1), NH2 (1), NH3 (1), sowie weiteren 4 Einbaugeräten.\n\nBohr- und Stemmarbeiten\n21 St. Wand- und Bodendurchbrüche von 10x 5 (cm) bis 30x 20 (cm)\n390 St. Bohrungen Wand-/ Boden von 16mm- 32mm, KS- und Beton.\n32 St. Kernbohrungen von D= 50mm bis D= 150mm\n\nAnschlussarbeiten\n100 St. Anschlussarbeiten, Kabel von 3x 1,5qmm- 5x 25qmm\n6 St. Anschlussarbeiten für, Rauchmelder RWA, DKM- RWA, RWA Zentrale\n60 St. Anschlussarbeiten Jalousien und Rollladen\n42 St Anschlussarbeiten Thermostat und Fussbodenverteiler\n\n\nBrandschutzmaßnahmen\n14 St. Brandschutz, S30 Durchbruch 0,02 qmm- 0,1 qmm\n60 St. Brandschutz, S30 Durchbruch 0,02 qmm- 0,1 qmm\n16 St. Brandschutz, Rauchdicht Durchbruch 0,02 qmm- 0,04 qmm\n70 St. Brandschutz, Schottung Einzelkabel, von 3x1,5qmm- 5x 35qmm\n20 S",
+      "platform": "subreport.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/656198-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "89d4908f-36c5-4eea-becf-2a8ae376a20e",
+      "publication_number": "654787-2026",
+      "title": "Erstellung und Integration einer Umweltapplikation zur Einspielung und Abarbeitung realitätsnahe Notfall und Lageszenarien in der vorhandenen Lehrleitstelle der Staatlichen Feuerwehrschule Geretsried",
+      "lot_title": "Erstellung und Integration einer Umweltapplikation zur Einspielung und Abarbeitung realitätsnahe Notfall und Lageszenarien in der vorhandenen Lehrleitstelle der Staatlichen Feuerwehrschule Geretsried",
+      "buyer": "Staatliche Feuerwehrschule Regensburg",
+      "publication_date": "2026-09-23",
+      "deadline": "2026-10-23",
+      "cpv": "72200000",
+      "buyer_country": "DEU",
+      "place": "DE238",
+      "notice_type": "cn-standard",
+      "contract_nature": "services",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/89d4908f-36c5-4eea-becf-2a8ae376a20e",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/89d4908f-36c5-4eea-becf-2a8ae376a20e",
+      "description": "Erstellung und Integration einer Umweltapplikation zur Einspielung und Abarbeitung realitätsnahe Notfall und Lageszenarien in der vorhandenen Lehrleitstelle der Staatlichen Feuerwehrschule Geretsried Erstellung und Integration einer Umweltapplikation zur Einspielung und Abarbeitung realitätsnahe Notfall und Lageszenarien in der vorhandenen Lehrleitstelle der Staatlichen Feuerwehrschule Geretsried Erstellung und Integration einer Umweltapplikation zur Einspielung und Abarbeitung realitätsnahe Notfall und Lageszenarien in der vorhandenen Lehrleitstelle der Staatlichen Feuerwehrschule Geretsried",
+      "platform": "deutsche-evergabe.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/654787-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "d1176746-a03e-465f-9c84-29c51b1cde31",
+      "publication_number": "659958-2026",
+      "title": "Rahmenvertrag über Headsets",
+      "lot_title": "Rahmenvertrag über Headsets",
+      "buyer": "Vergabe und Beschaffungszentrum Dortmund",
+      "publication_date": "2026-09-24",
+      "deadline": "2026-10-26",
+      "cpv": "30000000",
+      "buyer_country": "DEU",
+      "place": "DEA52",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/d1176746-a03e-465f-9c84-29c51b1cde31",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/d1176746-a03e-465f-9c84-29c51b1cde31",
+      "description": "Es wird ein Rahmenvertrag über die Beschaffung von Headsets mit einer Laufzeit von 12 Monaten und einer sechsmaligen Verlängerungsoption um jeweils sechs weitere Monate ab voraussichtlich dem 4. Quartal 2026 abgeschlossen. Rahmenvertrag über Headsets Es wird ein Rahmenvertrag über die Beschaffung von Headsets mit einer Laufzeit von 12 Monaten und einer sechsmaligen Verlängerungsoption um jeweils sechs weitere Monate ab voraussichtlich dem 4. Quartal 2026 abgeschlossen.",
+      "platform": "vergabe.metropoleruhr.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/659958-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "bd7b5e36-e373-45e3-bb1d-8020bad8cd84",
+      "publication_number": "658513-2026",
+      "title": "Beschaffung von drei Drehleitern mit kombinierten Bewegungen, Automatik, und Rettungskorb, DLAK 23-12, in Anlehnung an DIN EN 14043 und EN 1846",
+      "lot_title": "Drehleitern",
+      "buyer": "Landeshauptstadt Hannover - Fachbereich Feuerwehr",
+      "publication_date": "2026-09-24",
+      "deadline": "2026-10-28",
+      "cpv": "34144210",
+      "buyer_country": "DEU",
+      "place": "DE929",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/bd7b5e36-e373-45e3-bb1d-8020bad8cd84",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/bd7b5e36-e373-45e3-bb1d-8020bad8cd84",
+      "description": "Lieferung von drei Drehleitern DLA(K) 23/12 (Los 1) und deren Beladung (Los 2). Drehleitern 3x DLA(K) 23/12 Beladung 3x DLA(K) 23/12",
+      "platform": "evergabe.hannover-stadt.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/658513-2026",
+      "sources": [
+        "bkms"
+      ]
+    }
+  ],
+  "skip_count": 757,
+  "skip_sample": [
+    {
+      "title": "Rahmenvereinbarung über die Lieferung von medizinisch-technischer Ausstattung und Verbrauchsmaterialien für die Branddirektion Leipzig",
+      "buyer": "Stadt Leipzig",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur- und Ingenieurbüros sowie Vermessungsdienste – Bestandsdokumentation nach Umbau Dossenheimer Landstraße, Heidelberg",
+      "buyer": "Rhein-Neckar-Verkehr GmbH",
+      "score": 30,
+      "clusters": [
+        "twin"
+      ]
+    },
+    {
+      "title": "Begleitende Maßnahmen zu einer landschaftspflegerischen Entbuschung im NSG Wachtelberg-Mühlbachtal im Landkreis Leipzig",
+      "buyer": "Sächsische Landesstiftung Natur und Umwelt",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "TGA-Planungsleistungen Anlagegruppen 440, 450 LPH 3-8, § 55 HOAI zum Bau eines neurovaskulären Zentrums",
+      "buyer": "Knappschaftskrankenhaus Bottrop GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Neubau Feuerwehrgerätehaus Gronau",
+      "buyer": "Verbandsgemeindeverwaltung Dannstadt-Schauernheim",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "2026-0150, Beschaffung Server Hardware für die Leitstelle der Feuerwehr der Stadt Leverkusen, Edith-Weyde-Str. 12, 51373 Leverkusen (Neuausschreibung der Vergabe-Nr. 2025-0149)",
+      "buyer": "Stadt Leverkusen - Fachbereich Recht und Vergabestelle",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Neubau Zentralbau II, Innentüren Stahl",
+      "buyer": "Klinikum St. Georg gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Bestandsdokumentation nach Umbau Dossenheimer Landstraße, Heidelberg",
+      "buyer": "Rhein-Neckar-Verkehr GmbH",
+      "score": 30,
+      "clusters": [
+        "twin"
+      ]
+    },
+    {
+      "title": "Baumpflege, Baumfällung und Fräsmaßnahmen in der Gemeinde Barleben sowie in den Ortsteilen",
+      "buyer": "Zentrale Vergabestelle der Gemeinde Barleben",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Brandschutzplanung und Fachbauleitung Brandschutz",
+      "buyer": "Landeshauptstadt München, Baureferat",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Rahmenvereinbarung über die Lieferung von Dienst- und Schutzbekleidung für die Branddirektion Leipzig",
+      "buyer": "Stadt Leipzig",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Berichtswesen iPads",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "iPad Zubehoer",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Objektträgerscanner inkl. Zubehör für Polarisation",
+      "buyer": "Universitätsklinikum Halle (Saale (AöR) - Kaufmännische Direktion",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "RV Digital Signature Monitore",
+      "buyer": "Universitätsklinikum Schleswig-Holstein AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Rahmenvertrag Helme und Zubehör Feuerwehr",
+      "buyer": "Stadt Haan",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "IT Hardware",
+      "buyer": "Carl-von-Basedow-Klinikum Saalekreis gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Beschaffung von drei Hochleistungsserversystemen für KI, GPU-Computing und NVMe Speicherung",
+      "buyer": "Universitätsklinikum Aachen AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Cloud Foundation",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Rahmenvertrag Dienstkleidung Feuerwehr",
+      "buyer": "Stadt Haan",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Erneuerung der Atemschutzgerätewerkstatt der Feuerwehr Zeitz, Steinsgraben 27 in 06712 Zeitz, hier: Errichtung Pufferspeicher, Hochdruck- und Mitteldruckleitung",
+      "buyer": "Stadt Zeitz, Der Oberbürgermeister, Fachbereich Ordnungswesen",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Lieferung von Material und Ausrüstung für den Abrollbehälter Umwelt der Feuerwehr Rheine in Anlehnung an die DIN 14555-12",
+      "buyer": "Stadt Rheine",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Deutschland – Bauarbeiten – Rems-Murr-Kliniken gGmbH - Europaweite Vergabe des Baugewerks \"Trockenbauarbeiten\" für die Realisierung des Funktionsneubaus an der Rems-Murr-Klinik Schorndorf",
+      "buyer": "Rems-Murr-Kliniken gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Brandschutzplanung und Fachbauleitung Brandschutz",
+      "buyer": "Landeshauptstadt München, Baureferat",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Landkreis Ludwigslust-Parchim - Planungsleistungen zum Brandschutz gemäß Schriftenreihe AHO Nr. 17 für den Neubau der Zweifeld-Sporthalle am Elbe-Gymnasium in Boizenburg (Stufenvertrag)",
+      "buyer": "Landkreis Ludwigslust-Parchim - Der Landrat",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "source": "ted",
+      "id": "brandschutz-edu",
+      "error": "TED HTTP 429: <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.3</center>\r\n</body>\r\n</html>\r\n"
+    },
+    {
+      "source": "ted",
+      "id": "xr-be-lu",
+      "error": "TED HTTP 429: <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.3</center>\r\n</body>\r\n</html>\r\n"
+    }
+  ]
+}

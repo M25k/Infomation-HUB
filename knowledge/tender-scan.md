@@ -1,10 +1,10 @@
 # Wöchentlicher Ausschreibungs-Scan
 
-Stand: 2026-09-18.
+Stand: 2026-09-26.
 
 Ziel: öffentliche **Vergaben** finden, die zu FirefighterVR, Meditrain, Next Factory, GodView oder der Twin-/Photogrammetrie-Linie passen. Kein allgemeines VR-Monitoring, keine Fördercalls (die stehen in [grants.md](grants.md)).
 
-**Betrieb:** lokal in diesem Chat, manuell. Keine Cloud-Automation (Asana-OAuth im Automations-Editor bricht ohne `client_id`). Start: **„Starte den wöchentlichen Ausschreibungs-Scan“** — das Skill [tender-scan](../.cursor/skills/tender-scan/SKILL.md) läuft dann durch. Letzter Lauf: `knowledge/tender-runs/2026-09-18.md`.
+**Betrieb:** lokal in diesem Chat, manuell. Keine Cloud-Automation (Asana-OAuth im Automations-Editor bricht ohne `client_id`). Start: **„Starte den wöchentlichen Ausschreibungs-Scan“** — das Skill [tender-scan](../.cursor/skills/tender-scan/SKILL.md) läuft dann durch. Letzter Lauf: `knowledge/tender-runs/2026-09-26.md`.
 
 ## Was wir suchen (Kompetenzfilter)
 
@@ -75,6 +75,8 @@ Nicht: `Website`, `App` allein, `SAP`, `Headset` allein. UKSH stand unter „VR-
 Lektion 04.09.2026 (Uni Bielefeld, bund.de `vmp-nrw/2026/09/228037`): Titel „medizinische Virtual-Reality-Trainingsanwendung“. Das Script fand das Los in BKMS, wertete es aber als Skip, weil `virtual reality` keinen Bindestrich kannte. bund.de-RSS (500er-Kappe) hatte den Eintrag nicht. Die bund.de-Keyword-Suche „Virtual Reality“ fand ihn. TED nein (kein TED-Datensatz). Score-Muster akzeptiert jetzt `Virtual-Reality`. Keyword-Suche auf bund.de bleibt Pflicht, RSS allein reicht nicht.
 
 Zweite Lektion derselben Akte: Websuche traf [Bidfix](https://bidfix.ai/tender/entwicklung-einer-medizinischen-virtual-reality-0edb2185-9aeb-4422-a2b6-70b8d400e401) mit Block **„KI-Kriterien-Analyse“** (K.O. ISO 9001, Umsatz 500 k€, drei Refs >100 k€, Wertung Qualität 30 / Team 10). Nichts davon steht in Bekanntmachung oder Anlage 1. Tender Impulse nannte zudem eine falsche Frist (10.09. statt 29.09.). Ursache: kommerzielle Tender-KI mischt Standard-IT-Eignung in den Snippet. Verhindern: Eignung/Wertung erst nach amtlichem PDF; Aggregator nur für die URL.
+
+Filter ab dem nächsten Lauf (nach dem Lauf 26.09.): `headset` allein zählt nicht als XR (nur `VR-Headset` / `VR-Brille`). `Höhenrettung` zählt nicht als Rettung, `arbeitssicherheitskonform` nicht als Arbeitssicherheit. Fahrzeug, Bekleidung, Schutzschuhe, Büro-Headset und Biosensing sind Hard-Skip, aber nur im Titel, damit ein VR-Text sie im Fließtext nennen darf. TED sucht zusätzlich `Schulungsszenario`, `XR-Schulung`, `XR-Training` (auch BE/LU). Eine TED-Abfrage mit HTTP 429 wird bis zu viermal wiederholt, statt die Query für den Lauf zu streichen.
 
 ## Ablage
 

@@ -1,7 +1,7 @@
 # Information HUB — Northdocks Wissens- und Skill-Basis
 
 Interne Grundlage für **Förderanträge, Ausschreibungen und Verträge**.  
-Stand der ersten Recherche: 2026-08-26. Letzter Quellenabgleich: **2026-09-17**.
+Stand der ersten Recherche: 2026-08-26. Letzter Quellenabgleich: **2026-09-26**.
 
 Dieses Repository ist die kanonische Quelle für Formulierungen, Referenzen, Technik-Claims und Projektgeschichte. Öffentliche Websites, Asana, Google Drive, FreeAgent und die lokalen Git-Repos sind **Quellen**, nicht die Endfassung.
 

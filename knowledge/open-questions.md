@@ -61,7 +61,7 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 | Kosovo Hardware | Kognita 27.01.2025: **10 Quest** versendet, UPS **8** angekommen, **2** als Diebstahl angezeigt, **2 Ersatz** nachgeschickt. FA **18.160 €** = 20 × 800 € Lizenzen + 2 PT bleibt **Softwarezeile**, keine Headset-Zahl. |
 | IMS vs. mekontor `20260807-02` | **Ein Los.** IMS Services (Münnerstadt, Seitz) hat bestellt; Achim Schmitz (`mekontor.de`) hat gezahlt. FA-Kontakt **mekontor** gilt für den Beleg. Nicht zwei Kunden. |
 | Frontiers Station VR | DOI echt. **Delphi-Lernziele**, Hardware Paper **PCVR Pimax 8K Plus + Alienware**, 13 CeMIT-Plätze, ohne Haptik. Nicht als Pico-Koffer-Wirksamkeitsstudie. |
-| GodView AI-Inspect | Asana **Eingereicht**. Kommentar 16.07.2026 Abgabe an `digitaler.wandel@stk.landsh.de`; 31.08.2026 „noch keine Rückantwort“. Due 30.09.2026. Skizzen-Volumina intern (246 k / 281 k) **nicht** als bewilligt. Holcim-LoI weiter nur Entwurf. |
+| GodView AI-Inspect | Skizze 16.07.2026 **ausgewählt** (WTSH 24.09.). Reservierter Zuschuss **140.504 €**, Vollantrag bis **24.03.2027**. Asana Vorläufig Genehmigt. **Kein Bescheid.** Skizzen-Volumina 246 k / 281 k gelten nicht. Holcim-LoI abgelehnt (23.07. und 27.07.2026). DRZ-LoI unterzeichnet 14.07.2026. |
 | ECR 2024 | **Präsenz** belegt (BfS/MyESR-Badge Wien Feb. 2024; Besucheranfrage „at the ECR 2024 congress“). „Auszeichnung“ nur Deck — ohne Urkunde nicht als Award. |
 | storywalx-Brief 80 k€ | Tote Trier-Mappe. Trier nur FA **142.920 €**. |
 | Sony ??? | FA `20221219-01` **1.240 €**, nicht „kein Volumen“. |
@@ -95,7 +95,7 @@ Geklärt durch GF: **FA-Beträge sind richtig**, außer Förderung.
 - Kosovo-Betrag = **18.160 €** FA. Hardware: **10 Quest** (8 geliefert + 2 Diebstahl/Ersatz). 20 Lizenzzeilen auf der Rechnung sind Software, nicht 20 Headsets.
 - IMS vs. mekontor bei `20260807-02`: **ein Los** — IMS bestellt, mekontor zahlt; FA-Kontakt mekontor gilt.
 - Sony `20250304-01` (Mail) = FA `20250307-02`. Salztote weiter `20250806-01`, `20251022-01`. `20221219-01` ??? = **1.240 €**.
-- Holcim: Twin 47.162 € + Abo 3.200 € belegt (**50.362 €**). LoI AI-Inspect Holcim **nicht** unterschrieben. Restliche Abo-Jahre bis 07/2028 noch nicht alle berechnet.
+- Holcim: Twin 47.162 € + Abo 3.200 € belegt (**50.362 €**). LoI AI-Inspect Holcim **abgelehnt** (23.07. und 27.07.2026). Restliche Abo-Jahre bis 07/2028 noch nicht alle berechnet.
 - BfS 204 k€ intern (3621S42350). TikTok UK `20250217-02` 18.261,70 ≈ FA ~18 k€. NY `20250606-01` 14.801,36 ist **anderes Legal** — nicht zur 18-k€-Zeile addieren, bis FA-Kontakte nach Auth getrennt sind.
 - **PSG / SoftwareONE:** DEC-PO-442523 / 526042 und PSG 4503615550 sind **Henkel**. Kanal-Gesamtsumme weiter nicht addieren (andere Kunden möglich). Eignung **ca. 80.000 €**.
 - **Reschke Productions GmbH:** geklärt GF 30.08.2026 — interne Verrechnung, **keine** Kundenreferenz / Eignung.
@@ -124,16 +124,26 @@ Kanonisch: [koni.md](koni.md). Hub-Zeilen „eingereicht/Antragspfad“ waren ve
 | Thema | Stand | In Dokumenten |
 |---|---|---|
 | **Bielefeld Abgabe** | Eingereicht 17.09.2026. 160 k€ / Deckel 170 k€, 50/50, PICO Space Pro, Refs UKK+BfS. Bindefrist 29.10. | Status eingereicht. Nicht Zuschlag. |
-| **UKSH Los-2 nach LV-Änderung** | LV Version 2 (08.09.) ändert **Los 3**, nicht Los 2. Nur-Los-2 bleibt zulässig. Keine Pflicht zur kompletten Neuabgabe. Bieterinfo Q17 (360°-Video) und Portal-Status des 24.08-Angebots vor Frist **21.09.2026 23:59** prüfen. | Nicht „Angebot aktualisiert“ behaupten, solange im Portal nichts nachgezogen ist. |
-| **UniBw DPAR 48 Monate** | Dokumente 17.09. angekommen. 48-Monats-Kosten intern: dieselben 3,75 PJ / 497.372,42 €, verteilt auf vier Jahre. Versand der Variante an Inga offen. Netto/Brutto und IPR offen. | ~497 k€ nicht als bewilligt. Antragskontakt Patrick, damit LOI/Anlage I stehen bleiben. |
-| **KI4Energy PtJ** | Keller 17.09.: industrielle Forschung, TRL 1–3, eine Skizze, 1,5–3 Mio. ohne Widerspruch, AWT Haemisch dabei. Einrichtungsleitung DLR offen. | Pipeline. Keine Fördersumme ND. |
-| **Rosenbauer Bayern-Twin** | Unterangebot angefragt 14.09., 100 % Preis. | Nur Pipeline. |
+| **UKSH Los-2 nach LV-Änderung** | Bieterinfo **v3 (21.09.)** Frist **28.09.2026**. Los-2-Angebot **abgegeben** (24.08.). Q37 nur Los 3. Los-2-LV unverändert. Q17 (360°-Video) im Konzept nicht namentlich, aber über 40 PT / Baukasten abdeckbar — **keine Pflicht zur Neuabgabe**. | Nicht „Angebot aktualisiert“. Status bleibt abgegeben. |
+| **UniBw DPAR** | Antrag der Uni **eingereicht 18.09.2026** (Inga 21.09.). 48-Monats-Kosten 17.09. raus, Summe unverändert. | ~497 k€ nicht als bewilligt. IPR offen. |
+| **Rosenbauer / Empl** | MaBu-2026-0272. Zwei Estimates je **131.000 €** Open. Frist der Ausschreibung 02.10.2026. | Angebote, kein Auftrag. Nicht addieren. |
+| **Deconta / CBRN** | Calls 05.10.2026 mit Albert und Dehling. | Nur Pipeline. |
 | **Meißen Zusatzdokumente** | evergabe 08.09. und 11.09. weiter ungelesen. | Status eingereicht. |
 | **Holcim `20260907-01`** | FA-MCP ohne Token, Betrag nicht gelesen. | Nicht als drittes Abo-Jahr. |
 | **TEMA RP2 nach BULL** | Amendment angenommen 11.09. Ob die RP2-Rate fließt, nicht belegt. KAHY TAP2 zur Prüfung, nicht akzeptiert. | Nicht „RP2 ausgezahlt“ / nicht „TAP2 fertig“. |
 | **Hannover Pressetour 10.09.** | Ausgang nicht bestätigt. | Tour nicht als öffentlich gelaufen. |
-| **Deconta / CBRN** | Gespräch geplant 22.–23.09. WFVD. | Nur Pipeline. |
 | **HASAW / B-Safe** | Übergabe Mainz 18.09. geplant, nicht bezahlt. | Angebot, kein Auftrag. |
+| **KI4Energy PtJ** | Keller 17.09.: industrielle Forschung, TRL 1–3, eine Skizze. Einrichtungsleitung DLR offen. | Pipeline. Keine Fördersumme ND. |
+
+### Review 2026-09-26 — zweite Runde
+
+| Thema | Stand | In Dokumenten |
+|---|---|---|
+| **GodView AI-Inspect** | WTSH 24.09.: Skizze ausgewählt. Zuschussdeckel **140.504 €**, Vollantrag bis **24.03.2027**. | Vorläufig genehmigt, kein Bescheid. 246/281 k nicht verwenden. |
+| **KATKOMB** | Abgelehnt (VDI, 22.09.). Keine zweite Resilienz-Runde. | Nicht eingereicht/offen. |
+| **TEMA BRK-Pilot 2** | Haupttag 24.09. gelaufen. KAHY-Report 2 weiter in Prüfung. | Nicht „TAP2 akzeptiert“. RP2-Zahlung weiter unbelegt. |
+| **Fujiwara / BfS-Artikel** | VR-Herzkatheter-Studie zurückgezogen **22.07.2026**. BfS reicht den gemeinsamen Artikel nicht erneut ein (Stand 14.08., Call mit Hugo offen). | Nicht als gemeinsame Publikation oder Wirksamkeitsbeleg. |
+| **@fire** | Nachfassung 26.09., kein Angebot. | Pipeline. |
 
 ### Review 2026-09-12 — neu aus Asana / Gmail / Drive
 

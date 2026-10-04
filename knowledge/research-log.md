@@ -385,3 +385,27 @@ Neu intern belegt und in die KB: Bielefeld `702-2026-10` **eingereicht 17.09.202
 
 Nicht übernommen: Kundentelefone (Rosenbauer), Serien, Tracking, FlowAR-Passwörter, FA-Beträge ohne Token, MWC-2027-NRW-Stand (Newsletter), GodView-Formular-Leads, ASUB/Voss-Kit-Angebote.
 
+## Pass 67 — 2026-09-26 (Förderstatus)
+
+Quellen: Asana Board Anträge (geändert ab 17.09.), Gmail WTSH und DPAR, TEMA-Listenmail. FreeAgent-MCP nicht für diese Summen benutzt; die 140.504 € stehen im WTSH-Brief.
+
+Neu: GodView AI-Inspect **Skizze ausgewählt**, Vollantrag, Deckel **140.504 €**, Frist **24.03.2027**, kein Bescheid. UniBw DPAR **eingereicht 18.09.** (Bestätigung Inga 21.09.). KATKOMB **abgelehnt** (VDI 22.09.). TEMA BRK-Pilot 2 am **24.09. gelaufen**; KAHY-Report 2 weiter offen. UKSH-Frist 28.09. war schon in der KB, Asana-Kommentar 26.09. bestätigt sie.
+
+Nicht übernommen: WTSH-Telefon, Formularanhänge, persönliche Mobilnummern.
+
+## Pass 68 — 2026-09-26 (Fahrzeug-Zwillinge und Pipeline)
+
+Quellen: Asana Projektentwicklung (Rosenbauer, Empl, CBRN, @fire).
+
+Neu: Verfahren **MaBu-2026-0272**, Angebotsfrist **02.10.2026**. Rosenbauer-Estimate `20260925-04` und Empl-Estimate `20260925-03`, je **131.000 €** Open. Zwei Mitbieter, nicht addieren. CBRN-Calls **05.10.** mit deconta und vfdb Referat 10 / Currenta. @fire-Nachfassung 26.09., kein Angebot. Fujiwara-Retraction: gemeinsamen BfS-Artikel nicht erneut einreichen.
+
+Nicht übernommen: Kundentelefone, USt-Id, HubSpot-IDs, private Mailadressen.
+
+## Pass 69 — 2026-09-27 (Godview AI-Inspect Vollantrag)
+
+Quellen: Mail Kerstin Ulrich, Staatskanzlei, 17.09.2026; Mail Philipp Freese, WTSH, 24.09.2026 mit Richtlinie, Antragsformular und Kalkulation; LoI-Mails Dombauhütte 14.07., DRZ 14.07., Holcim 23.07. und 27.07.
+
+Neu: Vollantrag bis **24.03.2027**, Deckel **140.504 €**, kein Bescheid. Personalkosten über Stunden und Sätze 2026, nicht über die Skizzenbeträge. Reisekosten nicht förderfähig. LoI Dombauhütte und DRZ unterzeichnet. Holcim abgelehnt, kein Partner. Entwurf der Kalkulation liegt unter dem Deckel (Zuschuss 140.488 €).
+
+Nicht übernommen: WTSH-Telefon, Bankverbindung, Kundentelefone, Formular als Kopie ins Git.
+

@@ -23,7 +23,9 @@ Aus Asana-Spalte „Nicht eingereicht“ und Strategie:
 
 - Stadtmarketing, Erlebnis-App, Gartenausstellung, Museumspädagogik, Tourismus-AR (Storywalx nur wenn ausdrücklich gewollt)
 - Website-Relaunch, SAP, Office 365, generische IT
-- Reine Headset-/Brillenlieferung ohne Softwareentwicklung
+- Reine Headset-/Brillenlieferung ohne Softwareentwicklung (Büro-Headset, Bluetooth, faltbar, Kopfhörer)
+- Feuerwehrfahrzeug, Gerätewagen, Drehleiter, Hubrettung, Abrollbehälter, Bekleidung, Schutzschuhe
+- Biosensing- oder Labor-Headset als einzelnes Gerät
 - Kultur-Rekonstruktion ohne Twin/Inspektion (Yeha, Schamanin, Planetariumsshow)
 - Polizei-IT ohne taktisches XR-Training (historisch: „unpassend“)
 - Wärme-Netze / H2-Twin ohne 3D-Erfassung oder XR

@@ -26,7 +26,7 @@ NOTICE_TYPES = ["cn-standard", "cn-social", "cn-desg", "pin-cfc-standard", "pin-
 QUERIES = [
     {
         "id": "xr",
-        "text": "Virtual Reality VR-Training virtuelle Realität Augmented Reality immersive OpenXR Headset VR-Brille",
+        "text": "Virtual Reality VR-Training virtuelle Realität Augmented Reality immersive OpenXR VR-Brille Schulungsszenario XR-Schulung XR-Training",
     },
     {
         "id": "fire",

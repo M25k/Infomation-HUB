@@ -63,8 +63,11 @@ Immer ausschließen: `from:asana.com`, Vergabe-Newsletter, Promotions, WordPress
 | Offene Fragen 31.08.2026 (Drive/Gmail/Asana) | GmbH 2015, feir 273.630, FlowAR 583.569,83, UKK-40k ein Topf, Philips=TMA, Kosovo 10 Quest, IMS/mekontor ein Los, AI-Inspect 16.07., ECR Präsenz 2024 | 64 |
 | Oberfläche Sep 2026 (kein Tiefenpass) | TEMA BULL accepted; Meißen Zusatzdocs; KI4Energy-Call; Holcim `20260907-01`; OffTEC Besuchseinladung; Hannover Sprint-Liste; UKFFM Datta-KV; Bielefeld nur Drive | 65 |
 | Oberfläche 12.–17.09.2026 (kein Tiefenpass) | Bielefeld eingereicht; UniBw LOI/Anlage I; KI4Energy PtJ Keller; Rosenbauer Bayern-Twin; TEMA KAHY TAP2; UKSH Frist 21.09. | 66 |
+| Oberfläche 18.–26.09.2026 (kein Tiefenpass) | DPAR eingereicht; AI-Inspect Vollantrag 140.504 €; KATKOMB abgelehnt; TEMA-Pilot 24.09.; MaBu-2026-0272 zwei Estimates; CBRN-Calls 05.10. | 67–68 |
 
-Nächster Tick: Live-FA nach funktionierendem Token (Holcim `20260907-01`, APG 119 vs 86, Trier 3. Rechnung, TMA Rest ~100 k, Merck 15 vs 12, BfS Rest, VITA 9 vs 10, Berlin VG-199). FA-Rejected erst nach Auth. Meißen-Zusatzdokumente lesen. UKSH Los-2 nach LV-Änderung prüfen. UniBw-Empfang der PDFs.
+| AI-Inspect Vollantrag 27.09.2026 | Freese-Mail gelesen. LoI Dom und DRZ unterzeichnet, Holcim abgelehnt. Kalkulationsentwurf unter 140.504 €. | 69 |
+
+Nächster Tick: Live-FA nach funktionierendem Token (Holcim `20260907-01`, APG 119 vs 86, Trier 3. Rechnung, TMA Rest ~100 k, Merck 15 vs 12, BfS Rest, VITA 9 vs 10, Berlin VG-199). FA-Rejected erst nach Auth. Meißen-Zusatzdokumente lesen. AI-Inspect-Vollantrag nicht als Bescheid. De-minimis-Bescheinigungen SPOT-KI vor dem Ankreuzen von Feld 3.3. Rosenbauer/Empl-Rücklauf vor 02.10.
 
 ## Schreibregel
 

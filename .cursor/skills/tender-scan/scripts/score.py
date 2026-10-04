@@ -14,10 +14,11 @@ POSITIVE = {
         r"virtuelle[rn]?[ -]?realit",
         r"augmented reality",
         r"extended reality",
-        r"\bxr\b",
+        r"\bxr[- ]",
         r"immersiv",
-        r"headset",
+        r"vr[- ]?headset",
         r"openxr",
+        r"schulungsszenari",
         r"simulationstrain",
         r"trainingssimulation",
         r"vr-train",
@@ -31,7 +32,7 @@ POSITIVE = {
         r"klinik",
         r"krankenhaus",
         r"uniklinik",
-        r"rettung",
+        r"(?<!höhen)(?<!hohen)(?<!hoehen)rettung",
         r"notfall",
         r"schockraum",
         r"strahlenschutz",
@@ -55,7 +56,7 @@ POSITIVE = {
         r"einsatztrain",
     ),
     "factory": (
-        r"arbeitssicherheit",
+        r"\barbeitssicherheit\b",
         r"chempark",
         r"chemiepark",
         r"fabrik",
@@ -114,6 +115,28 @@ HARD_SKIP = (
     r"neubau .{0,40}ausbildungszentrum",
 )
 
+# Title only. A VR spec may mention boots or a vehicle in the body.
+TITLE_SKIP = (
+    r"gerätewagen",
+    r"geraetewagen",
+    r"drehleiter",
+    r"hubrettung",
+    r"abrollbeh",
+    r"bekleidungskammer",
+    r"bekleidungssystem",
+    r"bekleidung",
+    r"einsatzkleidung",
+    r"schutzschuh",
+    r"tagesdienstschuh",
+    r"biosensing",
+    r"kopfhörer",
+    r"kopfhoerer",
+    r"faltbar\w{0,12}headsets?",
+    r"bluetooth.{0,40}headsets?",
+    r"headsets?.{0,40}bluetooth",
+    r"fernmeldezug",
+)
+
 WANTED_TYPES = {
     "cn-standard",
     "cn-social",
@@ -145,18 +168,21 @@ def pick_text(value) -> str:
 
 
 def score_notice(notice: dict) -> dict:
+    title = " ".join(
+        [notice.get("title", ""), notice.get("lot_title", "")]
+    ).lower()
     blob = " ".join(
         [
-            notice.get("title", ""),
+            title,
             notice.get("buyer", ""),
             notice.get("cpv", ""),
             notice.get("notice_type", ""),
             notice.get("description", ""),
-            notice.get("lot_title", ""),
         ]
     ).lower()
     notice_type = (notice.get("notice_type") or "").strip()
     reasons_skip = [pat for pat in HARD_SKIP if re.search(pat, blob, re.I)]
+    reasons_skip += [pat for pat in TITLE_SKIP if re.search(pat, title, re.I)]
     if notice_type and notice_type not in WANTED_TYPES:
         reasons_skip.append(f"notice-type:{notice_type}")
     clusters = []

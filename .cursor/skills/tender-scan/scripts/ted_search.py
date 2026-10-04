@@ -160,20 +160,21 @@ def collect(days: int = 8, limit: int = 100, scope: str = "ACTIVE", query_id: st
                 time.sleep(1.0)
             else:
                 time.sleep(0.5)
-            try:
-                payload = ted_search(q, limit, scope, token)
-            except RuntimeError as exc:
-                err = str(exc)
-                if "429" in err and pages == 0:
-                    time.sleep(8.0)
-                    try:
-                        payload = ted_search(q, limit, scope, token)
-                    except RuntimeError as exc2:
-                        errors.append({"id": spec["id"], "error": str(exc2)})
-                        break
-                else:
-                    errors.append({"id": spec["id"], "error": err})
+            payload = None
+            last_error = ""
+            for attempt in range(4):
+                if attempt:
+                    time.sleep(12.0 * attempt)
+                try:
+                    payload = ted_search(q, limit, scope, token)
                     break
+                except RuntimeError as exc:
+                    last_error = str(exc)
+                    if "429" not in last_error:
+                        break
+            if payload is None:
+                errors.append({"id": spec["id"], "error": last_error})
+                break
             ingest(seen, extract_notices(payload), spec["id"])
             token = payload.get("iterationNextToken") or payload.get("nextToken")
             pages += 1

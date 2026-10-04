@@ -137,7 +137,7 @@ UKK acht Rechnungen **328.403 €** Paid (gilt). KI 40 k€ nicht in FA. Henkel-
 
 **Sony.** Mail `20250304-01` = FA `20250307-02` 7.560 €. Weiter `20250806-01` 7.560 €, `20251022-01` 13.440 € (Wolfsburg-4K). `20221219-01` 1.240 € = ???-Rendering, anderes Los.
 
-**Holcim.** Drive Twin+Abo **50.362 €** ≈ FA ~50 k€. Twin: `20240603-08` 10.800 + `20240627-01` 12.602 + `20240807-01` 23.760. Abo 1.600 €/Jahr: `20250120-01` + `20250829-02`. PO-Abo 4502769747; Twin-POs 4502571109 / 4502630049. LoI AI-Inspect nur Entwurf.
+**Holcim.** Drive Twin+Abo **50.362 €** ≈ FA ~50 k€. Twin: `20240603-08` 10.800 + `20240627-01` 12.602 + `20240807-01` 23.760. Abo 1.600 €/Jahr: `20250120-01` + `20250829-02`. PO-Abo 4502769747; Twin-POs 4502571109 / 4502630049. LoI AI-Inspect Holcim **abgelehnt** (23.07. und 27.07.2026).
 
 **BfS.** Ausschreibung **3621S42350**, Vertrag 08/2021 (Meister). Summe ca. 204 k€ intern, Produktlinie StrahlenschutzVR.
 
