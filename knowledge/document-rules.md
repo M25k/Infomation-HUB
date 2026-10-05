@@ -5,6 +5,7 @@
 - Deutsch für deutsche/EU-Vergaben, Englisch nur wenn die Unterlagen englisch sind.
 - Sachlich, nachvollziehbar, keine Marketing-Superative ohne Beleg.
 - Markennamen nicht übersetzen: FirefighterVR, MeditrainVR, Next Factory VR, SpearheadVR, Storywalx, Meta-dom, GodView.
+- **Typografie (verbindlich):** Nach Doppelpunkt **Großschreibung** des folgenden Worts (Ausnahme Eigennamen, URLs, Code). **Keine Gedankenstriche** (`—`, `–` als Einschub); stattdessen Komma, Punkt, Klammer oder neuer Satz. Details: [.cursor/rules/german-prose.mdc](../.cursor/rules/german-prose.mdc).
 
 ## Was immer gleich bleibt
 

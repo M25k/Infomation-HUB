@@ -1,10 +1,10 @@
 # Wöchentlicher Ausschreibungs-Scan
 
-Stand: 2026-09-26.
+Stand: 2026-10-05.
 
 Ziel: öffentliche **Vergaben** finden, die zu FirefighterVR, Meditrain, Next Factory, GodView oder der Twin-/Photogrammetrie-Linie passen. Kein allgemeines VR-Monitoring, keine Fördercalls (die stehen in [grants.md](grants.md)).
 
-**Betrieb:** lokal in diesem Chat, manuell. Keine Cloud-Automation (Asana-OAuth im Automations-Editor bricht ohne `client_id`). Start: **„Starte den wöchentlichen Ausschreibungs-Scan“** — das Skill [tender-scan](../.cursor/skills/tender-scan/SKILL.md) läuft dann durch. Letzter Lauf: `knowledge/tender-runs/2026-09-26.md`.
+**Betrieb:** lokal in diesem Chat, manuell. Keine Cloud-Automation (Asana-OAuth im Automations-Editor bricht ohne `client_id`). Start: **„Starte den wöchentlichen Ausschreibungs-Scan“** — das Skill [tender-scan](../.cursor/skills/tender-scan/SKILL.md) läuft dann durch. Letzter Lauf: `knowledge/tender-runs/2026-10-05.md`.
 
 ## Was wir suchen (Kompetenzfilter)
 

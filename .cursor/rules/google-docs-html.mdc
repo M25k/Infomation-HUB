@@ -22,10 +22,12 @@ zentrierter Drei-Spalten-Kopf, Rahmen-Tabellen, Footer absolut
 Templates → Downloads\{Name}.html + Logo → Browser → in Google Doc einfügen
 ```
 
-**Briefkopf (Default für von uns erzeugte Docs):** Helvetica; Wortmarke quer; Haarlinie `#C8C6BE`; Text `#3D3C39`; Überschriften `#1A1A1A`; A4, Seitenränder 20 mm. Tabellen ohne Rahmen, nur Haarlinien. Footer **im Fluss** (Flex, `margin-top: auto`), nie `position: absolute` — sonst läuft er in den Text. Vier Spalten: Anschrift, Kontakt **+49 2173 9996715** / `kontakt@northdocks.com`, Geschäftsführung, Register. Zentrierter Titelblock nur bei Memo/Kosten/LOI-Begleit. Anschreiben: Empfänger und Betreff unter dem Kopf, nicht zentriert.
+**Briefkopf (Default für von uns erzeugte Docs):** Helvetica; Wortmarke quer; Haarlinie `#C8C6BE`; Text `#3D3C39`; Überschriften `#1A1A1A`; A4, Seitenränder 20 mm. Tabellen ohne Rahmen, nur Haarlinien. Footer **im Fluss** (Flex, `margin-top: auto`), nie `position: absolute`, sonst läuft er in den Text. Fließtext in HTML: [.cursor/rules/german-prose.mdc](german-prose.mdc) (Doppelpunkt, keine Gedankenstriche). Vier Spalten: Anschrift, Kontakt **+49 2173 9996715** / `kontakt@northdocks.com`, Geschäftsführung, Register. Zentrierter Titelblock nur bei Memo/Kosten/LOI-Begleit. Anschreiben: Empfänger und Betreff unter dem Kopf, nicht zentriert.
 
 **Kein Briefkopf:** gewertetes Konzept, Portal-Formulare, interne Ausfüllhilfe. Siehe [offer-package.md](../skills/grants-and-contracts/offer-package.md).
 
 **Handout / Fachtagung:** Vorlage [northdocks-handout.html](../templates/northdocks-handout.html). Siehe [handout-layout.mdc](handout-layout.mdc).
 
-Kein HTML ins Git, wenn es Angebots-, Kunden- oder Ausschreibungsinhalte enthält. Eine HTML-Datei je Portal-Doc plus interne Ausfüllhilfe. Nach dem Einfügen gilt das Google Doc; HTML nicht zurückschreiben, wenn der Nutzer im Doc geändert hat.
+Kein HTML ins Git, wenn es Angebots-, Kunden- oder Ausschreibungsinhalte enthält. **Ausnahme HR:** Mutter-HTML Stellenanzeigen unter [`.cursor/out/recruiting-2026-10/`](../out/recruiting-2026-10/) im Information-HUB; Meta in [knowledge/recruiting-2026-10.md](../../knowledge/recruiting-2026-10.md). **PDF** daraus nur in `Downloads`, nicht ins Repo. Eine HTML-Datei je Portal-Doc plus interne Ausfüllhilfe. Nach Google-Doc-Redaktion: Änderungen ins **Mutter-HTML im Repo** zurück, nicht nur in Downloads.
+
+**Neue Briefkopf-HTML:** Vorlage aus Templates, Zieldatei zuerst unter `.cursor/out/{Thema}/` im Hub anlegen (Logo mitkopieren). `Downloads` nur für PDF-Export und Google-Doc-Zwischenschritt.

@@ -409,3 +409,15 @@ Neu: Vollantrag bis **24.03.2027**, Deckel **140.504 €**, kein Bescheid. Perso
 
 Nicht übernommen: WTSH-Telefon, Bankverbindung, Kundentelefone, Formular als Kopie ins Git.
 
+## Pass 70 — 2026-10-05 (Tender-Scan, Recruiting, Typografie)
+
+Quellen: Skill `tender-scan` Lauf 2026-10-05; Chat Stellenanzeigen (Fest, Kiel/Monheim, KI-Pflicht); PDF-Final `Downloads/Stellenanzeige-*.pdf`.
+
+Neu in KB: [knowledge/tender-runs/2026-10-05.md](tender-runs/2026-10-05.md) + JSON; [knowledge/tender-scan.md](tender-scan.md) Stand 2026-10-05; [knowledge/recruiting-2026-10.md](recruiting-2026-10.md); Rule [.cursor/rules/german-prose.mdc](../.cursor/rules/german-prose.mdc); [document-rules.md](document-rules.md) Typografie; **Mutter-HTML** Stellen [`.cursor/out/recruiting-2026-10/`](../.cursor/out/recruiting-2026-10/) (PDF nur Downloads).
+
+Tender-Lauf: 0 neue Asana-Tasks; Beobachtet Uni Siegen IN.SiTu VR-Hardware; verworfen u. a. Chemnitz Simulationstraining (VOL-Schulung, kein VR).
+
+Recruiting: drei Festanstellungen (Unreal/VR, Web/Twin, KI-Integration); gemeinsame Anforderung KI-Coding-Tools; Datenschutzhinweis 6 Monate.
+
+Nicht ins Git: Godview-AI-Inspect-Arbeit in `Downloads/Godview-AI-Inspect-Vollantrag/` (bleibt lokal/Drive); Angebots-HTML in Downloads.
+

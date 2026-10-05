@@ -1,7 +1,7 @@
 # Information HUB — Northdocks Wissens- und Skill-Basis
 
 Interne Grundlage für **Förderanträge, Ausschreibungen und Verträge**.  
-Stand der ersten Recherche: 2026-08-26. Letzter Quellenabgleich: **2026-09-26**.
+Stand der ersten Recherche: 2026-08-26. Letzter Quellenabgleich: **2026-10-05** ([research-log.md](knowledge/research-log.md) Pass 70).
 
 Dieses Repository ist die kanonische Quelle für Formulierungen, Referenzen, Technik-Claims und Projektgeschichte. Öffentliche Websites, Asana, Google Drive, FreeAgent und die lokalen Git-Repos sind **Quellen**, nicht die Endfassung.
 
@@ -41,7 +41,8 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 | [knowledge/repos.md](knowledge/repos.md) | Lokale Git-Repos und Cursor-Codebase-Pfade |
 | [knowledge/accounting.md](knowledge/accounting.md) | FreeAgent: GJ, Rechnungsindex — **FA-Zahlen gelten**, ohne Fördermittel |
 | [knowledge/accounting-pass.md](knowledge/accounting-pass.md) | Laufender FreeAgent-Tiefenpass (Coverage) |
-| [knowledge/document-rules.md](knowledge/document-rules.md) | Wie Dokumente geschrieben werden |
+| [knowledge/document-rules.md](knowledge/document-rules.md) | Wie Dokumente geschrieben werden (inkl. [german-prose.mdc](.cursor/rules/german-prose.mdc)) |
+| [knowledge/recruiting-2026-10.md](knowledge/recruiting-2026-10.md) | Stellenanzeigen Festanstellung Okt. 2026; HTML in [`.cursor/out/recruiting-2026-10/`](.cursor/out/recruiting-2026-10/) |
 | [knowledge/tender-scan.md](knowledge/tender-scan.md) | Wöchentlicher Scan öffentlicher Ausschreibungen (Kompetenzfilter) |
 | [knowledge/tender-runs/](knowledge/tender-runs/) | Ergebnisse der Wochenläufe |
 | [knowledge/open-questions.md](knowledge/open-questions.md) | Widersprüche und offene Punkte |

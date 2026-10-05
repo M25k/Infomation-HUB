@@ -8,7 +8,7 @@ description: Writes Northdocks grant applications, tenders, eligibility sections
 ## Pflichtreihenfolge
 
 1. Dieses Skill lesen.
-2. [knowledge/document-rules.md](../../knowledge/document-rules.md) lesen.
+2. [knowledge/document-rules.md](../../knowledge/document-rules.md) lesen; Typografie: [german-prose.mdc](../../rules/german-prose.mdc) (Doppelpunkt groß, keine Gedankenstriche).
 3. Nur Claims verwenden, die in [knowledge/claims.md](../../knowledge/claims.md) stehen.
 4. Vertikale aus [knowledge/verticals.md](../../knowledge/verticals.md). Produktpriorität: FirefighterVR (läuft) und Meditrain ([knowledge/strategy.md](../../knowledge/strategy.md), [knowledge/meditrain.md](../../knowledge/meditrain.md)).
 5. Offene Widersprüche in [knowledge/open-questions.md](../../knowledge/open-questions.md) **nicht** als Fakten formulieren.

@@ -1,0 +1,55 @@
+---
+description: Deutsche Firmensprache, Doppelpunkt groß, keine Gedankenstriche, für alle Texte
+alwaysApply: true
+---
+
+# Deutsche Texte (Northdocks)
+
+Gilt für **alle** von uns erzeugten Texte: Angebote, Anträge, Stellenanzeigen, HTML-Briefkopf, Asana-Beschreibungen, Website-Copy, E-Mails an Kunden, Skills und Knowledge-Base (wenn neu geschrieben oder überarbeitet).
+
+## Doppelpunkt
+
+Nach einem **Doppelpunkt** folgt **Großschreibung**, wenn danach ein Satzteil, eine Aufzählung oder eine Benennung kommt.
+
+```text
+# falsch
+Nicht passend: grundsätzliche KI-Ablehnung
+Teil der Stelle: nicht „kann man machen“
+Kurz: warum KI …
+
+# richtig
+Nicht passend: Grundsätzliche KI-Ablehnung
+Teil der Stelle: Nicht „kann man machen“
+Kurz: Warum KI …
+```
+
+Ausnahme: **Eigennamen, Marken, URLs, Dateinamen, Code** unverändert (`kontakt@northdocks.com`, `NDFramework`, `https://…`).
+
+## Gedankenstriche
+
+**Keine Gedankenstriche** (Unicode **Em Dash** `—`, **En Dash** `–` als Einschub oder Satzgliederung).
+
+Stattdessen: **Komma**, **Punkt**, **Klammer**, **Doppelpunkt** oder **„und“** / neuer Satz.
+
+```text
+# falsch
+… Team aus — vor Ort in Kiel …
+KI ist Standard — optional reicht nicht
+Betreff „Fest – Kiel/Monheim“
+5–8 Sätze
+
+# richtig
+… Team aus, vor Ort in Kiel …
+KI ist Standard. Optional reicht nicht.
+Betreff „Fest, Kiel/Monheim“
+5 bis 8 Sätze
+```
+
+**Bindestrich `-`** nur in **Zusammensetzungen** und **offiziellen Schreibweisen** (z. B. `OpenXR-Builds`, `KI-first`, `Unreal-/VR-Entwickler:in`).
+
+## Agent-Check vor Abgabe
+
+1. Suche im Text nach `—` und `–` (außer in Code/Zitaten fremder Quellen).
+2. Suche nach `: [a-zäöü]` und korrigiere Großschreibung (Regex-Hinweis, manuell prüfen bei E-Mail-Adressen).
+
+Querverweis: [knowledge/document-rules.md](../../knowledge/document-rules.md).

@@ -1,0 +1,459 @@
+{
+  "generated": "2026-10-05",
+  "days": 8,
+  "sources_run": [
+    "ted",
+    "bkms",
+    "bund"
+  ],
+  "coverage": {
+    "ted": 32,
+    "bkms": 378,
+    "bund": 500
+  },
+  "notice_count": 827,
+  "review": [
+    {
+      "source": "bkms",
+      "id": "25867376",
+      "publication_number": "",
+      "title": "Simulationstraining für Notfallsanitäter:innen 2027",
+      "lot_title": "Simulationstraining für Notfallsanitäter:innen 2027",
+      "buyer": "Rettungszweckverband Chemnitz-Erzgebirge",
+      "publication_date": "2026-09-29",
+      "deadline": "2026-10-20",
+      "cpv": "50",
+      "buyer_country": "DEU",
+      "place": "DED",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25867376",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25867376",
+      "description": "a) Zur Angebotsabgabe auffordernde Stelle: Name des Auftraggebers: Rettungszweckverband Chemnitz-Erzgebirge; Straße, Hausnummer: Schadestraße 17; Postleitzahl: 09112; Ort: Chemnitz; Land: Deutschland; E-Mail: info@rettzv.de; Telefonnummer: +49 493714007402; Den Zuschlag erteilende Stelle: s.o.; Stelle, bei der die Angebote oder Teilnahmeanträge einzureichen sind: s.o.\nb) Vergabeart: Öffentliche Ausschreibung\nc) Form, in der Teilnahmeanträge oder Angebote einzureichen sind: Angebote können nur elektronisch abgegeben werden; Anschrift, an die die Angebote elektronisch zu übermitteln sind: www.evergabe.de \nd) Art und Umfang der Leistung: Simulationstraining für Notfallsanitäter:innen im Jahr 2027:\n20 Trainingstage je 10 UE zwischen 08.01.2027 und 17.12.2027\n1 Trainingstag beträgt 10 UE für jeden Teilnehmer (maximal 10 Teilnehmer je Gruppe)\nDas Simulationstraining muss in Chemnitz oder dem Erzgebirgskreis durchgeführt werden.; Orte der Leistungserbringung: Postleitzahl: 09112; Ort: Chemnitz; Land: Deutschland\ne) Ggf. Anzahl, Größe und Art der einzelnen Lose: entfällt, da keine losweise Vergabe\nf) Nebenangebote sind nicht zugelassen \ng) Ausführungsfrist: Beginn: 08.01.2027; Ende: 17.12.2027\nh) Die Vergabeunterlagen werden auf der Vergabeplattform evergabe.de bereitgestellt.\ni) Angebotsfrist: 20.10.2026, 12:00 Uhr; Bindefrist: 26.11.2026\nj) Höhe etwa geforderter Sicherheitsleistungen: keine\nk) Wesentliche Zahlungsbedingungen oder Angabe der Unterlagen, in denen sie enthalten sind: Für das Legen der Teil- und Schlussrechnungen gilt die VOL/B gilt entsprechend\nl) Mit dem Angebot oder dem Teilnahmeantrag vorzulegenden Unterlagen, die die Auftraggeber für die Beurteilung der Eignung des Bewerbers oder Bieters verlangen: -\tbepreiste Leistungsverzeichnis\n-\tVorlage von mindestens drei geeigneten Referenzen innerhalb der letzten drei Jahre, die mit der zu vergebenden Leistung vergleichbar sind\n-\tNachweis, aus dem hervorgeht, dass eine entsprechende fachliche Eignung vorliegt\nm) Kosten für Vervielfältigungen der Vergabeunterlagen: entfällt\nn) Angabe der Zuschlagskriterien, sofern diese nicht in den Vergabeunterlagen genannt werden: entfällt, siehe Vergabeunterlagen\n\n\nLehrgänge/ Schulungen,Ausbildung,Fortbildung/ Personalschulung Simulationstraining für Notfallsanitäter:innen 2027 a) Zur Angebotsabgabe auffordernde Stelle: Name des Auftraggebers: Rettungszweckverband Chemnitz-Erzgebirge; Straße, Hausnummer: Schadestraße 17; Postleitzahl: 09112; Ort: Chemnitz; Land: Deutschland; E-Mail: info@rettzv.de; Telefonnummer: +49 493714007402; Den Zuschlag erteilende Stelle: s.o.; Stelle, bei der die Angebote oder Teilnahmeanträge einzureichen sind: s.o.\nb) Vergabeart: Öffentliche Ausschreibung\nc) Form, in der Teilnahmeanträge oder Angebote einzureichen sind: Angebote können nur elektronisch abgegeben werden; Anschrift, an die die Angebote elektronisch zu übermitteln sind: www.evergabe.de \nd) Art und Umfang der Leistung: Simulationstraining für Notfallsanitäter:innen im Jahr 2027:\n20 Trainingstage je 10 UE zwischen 08.01.2027 und 17.12.2027\n1 Trainingstag beträgt 10 UE für jeden Teilnehmer (maximal 10 Teilnehmer je Gruppe)\nDas Simulationstraining muss in Chemnitz oder dem Erzgebirgskreis durchgeführt werden.; Orte der Leistungserbringung: Postleitzahl: 09112; Ort: Chemnitz; Land: Deutschland\ne) Ggf. Anzahl, Größe und Art der einzelnen Lose: entfällt, da keine losweise Vergabe\nf) Nebenangebote sind nicht zugelassen \ng) Ausführungsfrist: Beginn: 08.01.2027; Ende: 17.12.2027\nh) Die Vergabeunterlagen werden auf der Vergabeplattform evergabe.de bereitgestellt.\ni) Angebotsfrist: 20.10.2026, 12:00 Uhr; Bindefrist: 26.11.2026\nj) Höhe etwa geforderter Sicherheitsleistungen: keine\nk) Wesentliche Zahlungsbedingungen oder Angabe der Unterlagen, in denen sie enthalten sind: Für das Legen der Teil- und Schlussrechnungen gilt die VOL/B gilt entsprechend\nl) Mit dem Angebot oder dem Teilnahmeantrag vorzulegenden Unterlagen, die die Auftraggeber für die Beurteilung der ",
+      "platform": "service.bund.de",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    }
+  ],
+  "maybe": [
+    {
+      "source": "bkms",
+      "id": "5f91388d-eb62-42f8-a5a3-ae217d025cf0",
+      "publication_number": "679258-2026",
+      "title": "Ärztliche Besetzung der Intensivtransportwagen (ITW) des Essener Rettungsdienstes",
+      "lot_title": "Arztgestellung ITW Feuerwehr Essen",
+      "buyer": "Stadt Essen, Zentrales Vergabemanagement",
+      "publication_date": "2026-10-02",
+      "deadline": "2026-10-16",
+      "cpv": "75252000",
+      "buyer_country": "DEU",
+      "place": "DEA13",
+      "notice_type": "cn-standard",
+      "contract_nature": "services",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/5f91388d-eb62-42f8-a5a3-ae217d025cf0",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/5f91388d-eb62-42f8-a5a3-ae217d025cf0",
+      "description": "Ärztliche Besetzung der Intensivtransportwagen (ITW) des Essener Rettungsdienstes Arztgestellung ITW Feuerwehr Essen Die Stadt Essen beabsichtigt die Durchführung der ärztlichen Besetzung zweier Intensivtransportwagen (ITW) im Wege eines Offenen Verfahrens nach den Richtlinien der Verordnung über die Vergabe öffentlicher Aufträge (VgV) und des Gesetzes gegen Wettbewerbsbeschränkungen (GWB) zu beauftragen.\nDie Stadt Essen ist Trägerin des Rettungsdienstes gemäß § 6 Abs. 1 RettG NRW. Die Durchführung von Intensivtransporten ist eine Aufgabe des Rettungsdienstes gem. § 2 Abs. 1 in Verbindung mit § 3 Abs. 4 RettG NRW. Ein Intensivtransport ist ein aus medizinischer Sicht notwendiger Transport eines Patienten von einer Behandlungseinrichtung in eine für die weitere Versorgung der Patienten geeignete Behandlungseinrichtung unter intensivmedizinischen Bedingungen.\nDer Auftragnehmer handelt für die Trägerin des Rettungsdienstes und erbringt keine eigene, im Außenverhältnis liquidierbare Leistung gegenüber Patienten oder Krankenkassen.\nDas Rettungsmittel (hier Intensivtransportwagen; kurz: ITW) samt nichtärztlichem Personal und die medizinische Ausstattung werden durch die Feuerwehr Essen, im Folgenden Aufgabenträgerin (AT), bereitgestellt und sind nicht Teil der vom AN geschuldeten Leistung. Arztgestellung ITW Leistungserbringer Die Stadt Essen beabsichtigt die Durchführung der ärztlichen Besetzung zweier Intensivtransportwagen (ITW) im Wege eines Offenen Verfahrens nach den Richtlinien der Verordnung über die Vergabe öffentlicher Aufträge (VgV) und des Gesetzes gegen Wettbewerbsbeschränkungen (GWB) zu beauftragen.\nDie Stadt Essen ist Trägerin des Rettungsdienstes gemäß § 6 Abs. 1 RettG NRW. Die Durchführung von Intensivtransporten ist eine Aufgabe des Rettungsdienstes gem. § 2 Abs. 1 in Verbindung mit § 3 Abs. 4 RettG NRW. Ein Intensivtransport ist ein aus medizinischer Sicht notwendiger Transport eines Patienten von einer Behandlungseinrichtung in eine für die weitere Versorgung der Patienten geeignete Behandlungseinrichtung unter intensivmedizinischen Bedingungen.\nDer Auftragnehmer handelt für die Trägerin des Rettungsdienstes und erbringt keine eigene, im Außenverhältnis liquidierbare Leistung gegenüber Patienten oder Krankenkassen.\nDas Rettungsmittel (hier Intensivtransportwagen; kurz: ITW) samt nichtärztlichem Personal und die medizinische Ausstattung werden durch die Feuerwehr Essen, im Folgenden Aufgabenträgerin (AT), bereitgestellt und sind nicht Teil der vom AN geschuldeten Leistung.",
+      "platform": "vergabe.metropoleruhr.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/679258-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25890762",
+      "publication_number": "",
+      "title": "Universitätsklinikum Münster - 3830 Lehrgebäude_3830_26_1231_E01 Brandschutz und Sanierung - G02 Erneuerung Sanitär- und Heizungsinstallation WC-Kern E01",
+      "lot_title": "Universitätsklinikum Münster - 3830 Lehrgebäude_3830_26_1231_E01 Brandschutz und Sanierung - G02 Erneuerung Sanitär- und Heizungsinstallation WC-Kern E01",
+      "buyer": "UKM Infrastruktur Management GmbH",
+      "publication_date": "2026-10-03",
+      "deadline": "2026-10-27",
+      "cpv": "45332400-7",
+      "buyer_country": "DEU",
+      "place": "DEA",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25890762",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25890762",
+      "description": "Universitätsklinikum Münster - 3830 Lehrgebäude_3830_26_1231_E01 Brandschutz und Sanierung - G02 Erneuerung Sanitär- und Heizungsinstallation WC-Kern E01 Universitätsklinikum Münster - 3830 Lehrgebäude_3830_26_1231_E01 Brandschutz und Sanierung - G02 Erneuerung Sanitär- und Heizungsinstallation WC-Kern E01 Universitätsklinikum Münster - 3830 Lehrgebäude_3830_26_1231_E01 Brandschutz und Sanierung - G02 Erneuerung Sanitär- und Heizungsinstallation WC-Kern E01",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "bund-rss",
+        "fire"
+      ],
+      "sources": [
+        "bkms",
+        "bund.de"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "c7c07b25-c45f-43c6-bc64-8c7573d745f7",
+      "publication_number": "664490-2026",
+      "title": "16328 - Neubau Feuerwehr- und Rettungsdienstzentrum - Technisches Inbetriebnahmemanagement (tIBM)",
+      "lot_title": "16328 - Neubau Feuerwehr- und Rettungsdienstzentrum - Technisches Inbetriebnahmemanagement (tIBM)",
+      "buyer": "Kreis Gütersloh",
+      "publication_date": "2026-09-27",
+      "deadline": "2026-10-27",
+      "cpv": "71300000",
+      "buyer_country": "DEU",
+      "place": "DEA42",
+      "notice_type": "cn-standard",
+      "contract_nature": "services",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/c7c07b25-c45f-43c6-bc64-8c7573d745f7",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/c7c07b25-c45f-43c6-bc64-8c7573d745f7",
+      "description": "Der Kreis Gütersloh errichtet im Verler Ortsteil Sürenheide unmittelbar an der Stadtgrenze zu Gütersloh den Neubau eines Feuerwehr- und Rettungsdienstzentrums (FRZ). Das Feuerwehr- und Rettungsdienstzentrum dient insbesondere als feuerwehrtechnische Zentrale, Kreisfeuerwehrschule und Kreisleitstelle. In dem Zentrum werden der Brand- und Katastrophenschutz, der Rettungsdienst sowie die Tierseuchenbekämpfung untergebracht.\n\nDie Bauausführung läuft bereits und soll nach derzeitiger Planung voraussichtlich bis Juni 2028 abgeschlossen werden.\n\nGegenstand dieses Vergabeverfahrens sind Leistungen des technischen Inbetriebnahmemanagements („tIBM“). Ziel des tIBM ist insbesondere eine strukturierte und gewerkeübergreifend koordinierte Inbetriebnahme, Funktionsprüfung, Abnahme und Übergabe der technischen Anlagen unter Berücksichtigung der funktionalen Schnittstellen zwischen den beteiligten Gewerken. 16328 - Neubau Feuerwehr- und Rettungsdienstzentrum - Technisches Inbetriebnahmemanagement (tIBM) Der Kreis Gütersloh errichtet im Verler Ortsteil Sürenheide unmittelbar an der Stadtgrenze zu Gütersloh den Neubau eines Feuerwehr- und Rettungsdienstzentrums (FRZ) am Projektstandort Rettungsgasse 2, 33415 Verl-Sürenheide. Das Feuerwehr- und Rettungsdienstzentrum dient insbesondere als feuerwehrtechnische Zentrale, Kreisfeuerwehrschule und Kreisleitstelle. In dem Zentrum werden der Brand- und Katastrophenschutz, der Rettungsdienst sowie die Tierseuchenbekämpfung untergebracht.\n\nDie Bauausführung läuft bereits und soll nach derzeitiger Planung voraussichtlich bis Juni 2028 abgeschlossen werden.\n\nGegenstand dieses Vergabeverfahrens sind Leistungen des technischen Inbetriebnahmemanagements („tIBM“). Ziel des tIBM ist insbesondere eine strukturierte und gewerkeübergreifend koordinierte Inbetriebnahme, Funktionsprüfung, Abnahme und Übergabe der technischen Anlagen unter Berücksichtigung der funktionalen Schnittstellen zwischen den beteiligten Gewerken.\n\nDie zu vergebenden Leistungen des technischen Inbetriebnahmemanagements orientieren sich an AHO-Heft Nr. 19, 2. Auflage 2018, Kapitel 9 „Technisches Inbetriebnahmemanagement in Anlehnung an VDI 6039“, und werden durch die projektspezifischen Vorgaben der Vergabestelle konkretisiert und ergänzt. Für die Grundleistungen sind Pauschalpreise anzubieten. \n\nNähere Einzelheiten zum Projekt und zu den zu vergebenden Leistungen ergeben sich aus den Vergabeunterlagen und den dort in Bezug genommenen Anlagen, insbesondere aus der Kurzbeschreibung der Leistungen, die für den Teilnahmewettbewerb beigefügt ist (Anlage 8). Die vollständige Leistungsbeschreibung mit weiteren Bestandsunterlagen wird den erfolgreichen Bewerbern nach Abschluss des Teilnahmewettbewerbs in der Angebots- und Verhandlungsphase zur Verfügung gestellt. Mit dem Teilnahmeantrag haben Bewerber/Bewerbergemeinschaftsmitglieder eine Verschwiegenheitserklärung abzugeben (Anlage 5 der Vergabeunterlagen).\n\nFür das Bauvorhaben wurde 2024 von der KFW eine Zuwendung in Form eines Zuschusses bewilligt. Die Bestimmungen des Merkblattes \"Klimafreundlicher Neubau Nichtwohngebäude Kommunen (499)\" in der Version 03/24 sind wesentlicher Bestandteil der Zuwendung. Für den Zuschuss gelten die Allgemeinen Bestimmungen für Zuschüsse - kommunale und soziale Infrastruktur - in der Version 09/21. Für das Gebäude ist ferner eine Zertifizierung nach DGNB mindestens in der Güteklasse Silber sowie nach QNG Plus angestrebt.",
+      "platform": "deutsche-evergabe.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/664490-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "b2ad0239-cfbc-4038-a3be-7733f8f4d9c4",
+      "publication_number": "665767-2026",
+      "title": "Beschaffung eines Tanklöschfahrzeuges (TLF 3000 Staffel)",
+      "lot_title": "Fahrgestell",
+      "buyer": "Stadt Hameln - Abt. 27 \"Feuerwehr/Rettungsdienst\" -",
+      "publication_date": "2026-09-27",
+      "deadline": "2026-10-27",
+      "cpv": "34139000",
+      "buyer_country": "DEU",
+      "place": "DE",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/b2ad0239-cfbc-4038-a3be-7733f8f4d9c4",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/b2ad0239-cfbc-4038-a3be-7733f8f4d9c4",
+      "description": "Lieferung eines geländefähigen Tanklöschfahrzeuges (TLF 3000 Staffel) auf einem Serien- Fahrgestell mit Allradantrieb nach DIN 14530-27 (in Anlehnung), DIN 1846 Teil 1 bis 3 und DIN 14502-2 und DIN 14502-3\nLos 1: Fahrgestell\nLos 2: Feuerwehrtechnisch Fahrgestell Bei der Beschaffung handelt es sich um ein handelsübliches Allrad- Fahrgestell mit \nZwillingsbereifung an der Hinterachse.\nEs soll ein handelsübliches Serien- Allrad- Fahrgestell, Vorderachse einzelbereift,  Hinterachse zwillingsbereift, geeignet zum Aufbau eines Tanklöschfahrzeuges (TLF 3000 Staffel) in Anlehnung an die DIN 14530-22 (mit einigen angegebenen Abweichungen), incl. der aktuellsten Änderungen und DIN EN 1846 Teil 1 bis 3 angeboten werden. \nEs gelten die vorgehenden besonderen Vertragsbedingungen zur Beschaffung von einem Tanklöschfahrzeug (TLF 3000 Staffel) für die Feuerwehr Hameln.\nDie Fahrzeuge soll in der Bundesrepublik Deutschland straßenverkehrsrechtlich \nzugelassen werden und  nach den national geltenden Vorschriften ausgerüstet sein. Zum Nachweis, dass die Anforderungen an das angebotene Fahrgestell erfüllt werden, ist dem Angebot eine Aufstellung mit dem Ausstattungsumfang des Fahrgestelles beizufügen.\n\nZul. Gesamtgewicht: 18.000 kg\n\nDas Fahrzeug muss zum Zeitpunkt der Bestellung den aktuellsten Versionen der\n- DIN 14530-22 (in Anlehnung)\n- DIN 14502-2 \n- DIN 14502-3,\n- DIN EN 1846 in allen Teilen\n- DIN EN 55025\n- DIN EN 1028-1\n- DIN EN 1028-2\n- VDE Vorschriften,\n- Unfallverhütungsvorschriften (insbesondere GUV-V C53-Feuerwehr und GUV-V D29-\nFahrzeuge)\n- ECE R 29-3\n- EG-Richtlinie \"elektromagnetischen Verträglichkeit\" (2004/108/EG)\n- \"Funkentstörung von Kraftfahrzeugen\" für das Fahrzeug (2004/104/EG)  und alle verbauten elektrischen Geräte / EMV-Gesetz\n- Straßenverkehrszulassungsordnung (StVZO) entsprechen. Feuerwehrtechnischer Aufbau Es soll ein Tanklöschfahrzeug (TLF 3000 Staffel), zur Aufnahme einer Besatzung (Stärke 1/5) auf einem geländefähigen Allrad- Fahrgestell aufgebaut werden.\n\nAngeboten werden soll ein feuerwehrtechnischer Aufbau für ein Tanklöschfahrzeug (TLF 3000 Staffel) mit größt möglichem Wassertank (im Zuge der Gewichts- und Platzreserve), zur Aufnahme einer Besatzung (Stärke 1/5) auf einem Allrad-Fahrgestell, EURO 6,Vorderachse einzelbereift, Hinterachse zwillingsbereift, nach DIN EN 1846 Teil 1 bis 3 und in Anlehnung an die DIN 14530-22 (mit einigen beschriebenen Abweichungen).\n\nEs gelten die vorgehenden besonderen Vertragsbedingungen zur Beschaffung von einem Tanklöschfahrzeug (TLF 3000 Staffel) für die Feuerwehr Hameln.\n\nZulässiges Gesamtgewicht: ca. 18.000 kg.\nDas Fahrzeug muss zum Zeitpunkt der Bestellung den aktuellsten Versionen der\n- DIN 14530-22 (in Anlehnung)\n- DIN 14502-2\n- DIN 14502-3\n- DIN EN 1846 in allen Teilen\n- DIN EN 55025\n- DIN EN 1028-1\n- DIN EN 1028-2\n- VDE Vorschriften,\n- Unfallverhütungsvorschriften (insbesondere GUV-V C53-Feuerwehr und GUV-V D29-Fahrzeuge)\n- EG-Richtlinie \"elektromagnetischen Verträglichkeit\" (2004/108/EG)\n- \"Funkentstörung von Kraftfahrzeugen\" für das Fahrzeug (2004/104/EG)  und alle verbauten elektrischen Geräte / EMV-Gesetz\n- Straßenverkehrszulassungsordnung (StVZO) entsprechen.\n\nGerippe und Verkleidungen des Aufbaus sind korrosionssicher aus Edelstahl oder Aluminium zu fertigen. Aluminium ist in eloxierter Ausführung zu verwenden. Die Art des Aufbaus ist auf einem Beiblatt zu beschreiben. Sollte ein Hilfsrahmen benötigt werden, so muss dieser aus hochfestem Stahl geschweißt und komplett feuerverzinkt ausgeführt sein.\n\nAn den Längsseiten sind je drei Geräteräume mit Aluminium- Rollläden (G1-G6) vorzusehen. Am Heck ist ein weiterer Geräteraum (GR) mit Klappe und integriertem Aluminium- Rollladen vorzusehen, in dem die Feuerlöschkreiselpumpe eingebaut ist und von dort aus bedient werden kann.\n\nDie Einbauten der Geräteräume müssen variabel und verstellbar ausgeführt sein (z.B. mit verstellbaren Aluminiumprofilen). Die Lagerung der feuerwehrtechnischen Beladung muss in Halterungen, Schublade",
+      "platform": "deutsches-ausschreibungsblatt.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/665767-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25876646",
+      "publication_number": "",
+      "title": "Neubau NSHV nach Brandschaden im OPZ - Los 440 Stahltüren/ Brandschutztor",
+      "lot_title": "Neubau NSHV nach Brandschaden im OPZ - Los 440 Stahltüren/ Brandschutztor",
+      "buyer": "Universitätsklinikum Leipzig AöR",
+      "publication_date": "2026-10-01",
+      "deadline": "2026-10-29",
+      "cpv": "45000000",
+      "buyer_country": "DEU",
+      "place": "DED",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25876646",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25876646",
+      "description": "a) Auftraggeber:  Offizielle Bezeichnung: Universitätsklinikum Leipzig AöR; Bereich/Abteilung: Bereich 5 - Bau und Gebäudetechnik; Straße, Hausnummer: Liebigstraße 18 (Haus B); Postleitzahl: 04103; Ort: Leipzig; Land: DE; Telefon: +49 3419711586; Internet-Adresse: http.//www.uniklinikum-leipzig.de; E-Mail: Vergabestelle-b5@uniklinik-leipzig.de\nb) Vergabeart: Öffentliche Ausschreibung\nc) Angebote können nur elektronisch abgegeben werden.\nd) Art des Auftrages: Bauauftrag\ne) Ort(e) der Ausführung: Offizielle Bezeichnung: Universitätsklinikum Leipzig AöR; Straße, Hausnummer: Liebigstraße 20; Postleitzahl: 04103; Ort: Leipzig; Land: DE\nf) Art und Umfang der Leistung: Das Universitätsklinikum Leipzig AöR plant die Durchführung eines Vergabeverfahrens zur Beauftragung der Lieferung und Montage von Stahltüren/ Brandschutztor .\nIm Wesentlichen sind die folgenden Leistungen zu erbringen:\n- 1/ St /Brandschutzschiebetor ausbauen, 6,68 m x 2,50 m\n- 23/ St /Stahlblechtüren T 90\n- 1 /St/Stahlblechtüren T 30\n- 1/ St /Teleskopschiebetor-Anlage, Stahl, T90,4350/2500mm,1-flg.,3-teilig\n- 122/ m /Schrankenzaun stellen, vorhalten, abbauen\ng) Es werden keine Planungsleistungen gefordert\nh) Aufteilung in mehrere Lose: nein\ni) Ausführungsfristen: Beginn: 22.01.2027, Ende: 01.04.2027, Es gelten ausschließlich die Ausführungs- und Vertragsfristen inkl. Einzelfristen gemäß Formblatt 214 (Besondere Vertragsbedingungen) inkl. Einzelfristen der Ausschreibungsunterlagen (gemäß Gesamtterminplan und Gewerketerminplan). \nj) Gegebenenfalls Angaben nach § 8 Absatz 2 Nummer 3 zur Nichtzulassung von Nebenangeboten: Nebenangebote sind nicht zugelassen. .\nk) Gegebenenfalls Angaben nach § 8 Absatz 2 Nummer 4 zur Nichtzulassung der Abgabe mehrerer Hauptangebote: Die Abgabe mehrerer Hauptangebote ist nicht zugelassen. .\n l) Stelle, bei der die Vergabeunterlagen angefordert werden können: Die Vergabeunterlagen werden auf der Vergabeplattform evergabe.de bereitgestellt. Ein unentgeltlicher Abruf ohne Registrierung ist möglich unter https://www.evergabe.de/unterlagen/3461811/zustellweg-auswaehlen.\nm) Kosten für Vervielfältigungen der Vergabeunterlagen: entfällt\nn) entfällt\no) Frist für den Eingang der Angebote: 29.10.2026, 11:00 Uhr; Bindefrist: 28.12.2026\np) Elektronische Angebote sind auf der Vergabeplattform evergabe.de abzugeben.\nq) Angebote sind abzufassen in: Deutsch\nr) Zuschlagskriterien, sofern diese nicht in den Vergabeunterlagen genannt werden und gegebenenfalls deren Gewichtung: Zuschlagskriterium: 100 % Preis\ns) Eröffnungstermin: Datum: 29.10.2026, 11:00 Uhr; Ort: Die Öffnung der Angebote erfolgt online durch die Mitarbeitenden der Vergabestelle.; Personen, die anwesend sein dürfen: Es sind keine Bieter zugelassen. Der AG hat ausschließlich die elektronische Angebotsübermittlung zugelassen. Nach Beendigung des Termins zur Öffnung der Angebote erhalten Sie das Protokoll über die Vergabeplattform.\nt) Sicherheiten: keine\nu) Finanzierungs- und Zahlungsbedingungen: nach VOB/B\nv) Rechtsform einer Bietergemeinschaft: selbstschuldnerisch haftend mit bevollmächtigtem Vertreter\nw) Verlangte Nachweise für die Beurteilung der Eignung: Gem. § 6a (1) VOB/A hat der Bieter mit seinem Angebot seine Fachkunde, Leistungsfähigkeit und Zuverlässigkeit nachzuweisen. \n\nGem. § 6a (2) VOB/A hat der Bieter folgende Nachweise zu erbringen:\nNr. 1 den Umsatz des Unternehmens jeweils bezogen auf die letzten drei abgeschlossenen Geschäftsjahre, soweit er Bauleistungen und andere Leistungen betrifft, die mit der zu vergebenen Leistung vergleichbar sind, unter Einschluss des Anteils bei gemeinsam mit anderen Unternehmen ausgeführten Aufträgen.\nNr. 2 den Nachweis der Ausführung von Leistungen in den letzten fünf abgeschlossenen Kalenderjahren, die mit der vergebenen Leistung (Art und Umfang) vergleichbar sind (mind. 3 Stück) mit den im Formblatt 124 genannten Mindestangaben \nNr. 3 die Zahl der in den letzten drei abgeschlossenen Kalenderjahren jahresdurchschnittlich beschäftigten Arbeitskräfte,",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "9832b0fb-0054-4346-ad71-79b2c30e8016",
+      "publication_number": "675277-2026",
+      "title": "IN.SiTu - Los 1,2 - VR-Systeme",
+      "lot_title": "VR-Hauptsystem",
+      "buyer": "Universität Siegen",
+      "publication_date": "2026-10-01",
+      "deadline": "2026-10-30",
+      "cpv": "32322000",
+      "buyer_country": "DEU",
+      "place": "DEA5A",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/9832b0fb-0054-4346-ad71-79b2c30e8016",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/9832b0fb-0054-4346-ad71-79b2c30e8016",
+      "description": "Der Lehrstuhl Menschzentrierte Informationssysteme der Fakultät III - Wirtschaftswissenschaften, Wirtschaftsinformatik und Wirtschaftsrecht der Universität Siegen beabsichtigt, im Rahmen des Forschungsprojekts IN.SiTu hochwertige VR-Head-Mounted-Displays (VR-HMD) einschließlich dazugehörigem Zubehör zu beschaffen, um einen reibungslosen Betrieb für bis zu 16 Personen sicherzustellen (Los 1 - VR-Hauptsystem). Darüber hinaus umfasst die Vergabe die Lieferung von zwei Ausstattungen eines hochauflösenden Spezialsystems (Los 2 - VR-Spezialsystem). VR-Hauptsystem Diese Ausschreibung ist Teil eines geförderten Bundesprojektes durch das Bundesministerium für Forschung, Technologie und Raumfahrt, dessen Gesamtumfang oberhalb der EU-Schwelle liegt. Es gelangt die 80:20-Regelung des § 3 Abs. 9 VgV zur Anwendung. Die einzelnen Lose werden als getrennte Ausschreibungen veröffentlicht. Aufgrund dessen erfolgt die Vergabe im Rahmen eines offenen Verfahrens nach §15 VgV unabhängig vom geschätzten Auftragswert des einzelnen Loses. Vorliegend werden zwei Lose in einem EU-Verfahren in Form von zwei Fachlosen zusammengefasst ausgeschrieben, da sich Adressatenkreise ggf. berühren bzw. überschneiden. Die Lose 1 und 2 \"VR-Hauptsystem\" und \"VR-Spezialsystem\" umfassen hochwertige VR-Head-Mounted-Displays (VR-HMD) einschließlich dazugehörigem Zubehör sowie zwei hochauflösende Spezialsysteme. VR-Spezialsystem Diese Ausschreibung ist Teil eines geförderten Bundesprojektes durch das Bundesministerium für Forschung, Technologie und Raumfahrt, dessen Gesamtumfang oberhalb der EU-Schwelle liegt. Es gelangt die 80:20-Regelung des § 3 Abs. 9 VgV zur Anwendung. Die einzelnen Lose werden als getrennte Ausschreibungen veröffentlicht. Aufgrund dessen erfolgt die Vergabe im Rahmen eines offenen Verfahrens nach §15 VgV unabhängig vom geschätzten Auftragswert des einzelnen Loses. Vorliegend werden zwei Lose in einem EU-Verfahren in Form von zwei Fachlosen zusammengefasst ausgeschrieben, da sich Adressatenkreise ggf. berühren bzw. überschneiden. Die Lose 1 und 2 \"VR-Hauptsystem\" und \"VR-Spezialsystem\" umfassen hochwertige VR-Head-Mounted-Displays (VR-HMD) einschließlich dazugehörigem Zubehör sowie zwei hochauflösende Spezialsysteme.",
+      "platform": "evergabe.nrw.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/675277-2026",
+      "sources": [
+        "bkms"
+      ]
+    }
+  ],
+  "skip_count": 820,
+  "skip_sample": [
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Neubau Rettungszentrum Waldsee | Generalplanung",
+      "buyer": "Verbandsgemeinde Rheinauen",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Neubau Rettungszentrum Waldsee | Generalplanung",
+      "buyer": "Verbandsgemeinde Rheinauen",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Kauf und Lieferung eines fabrikneuen Großenflächenmähers (27-2026-07)",
+      "buyer": "Landeshauptstadt Dresden",
+      "score": 30,
+      "clusters": [
+        "factory"
+      ]
+    },
+    {
+      "title": "Ausschreibung Uniformen für die Feuerwehren",
+      "buyer": "Samtgemeinde Nord-Elm",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Bewegungssensorik zur Sturzerkennung im klinischen Umfeld",
+      "buyer": "Universitätsklinikum Frankfurt",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Rahmenvereinbarung Beschaffungsberatung und Vergabedienstleistungen für Fahrzeuge und Ausstattungen für den Katastrophenschutz des Landes Baden-Württemberg",
+      "buyer": "Ministerium des Inneren, für Digitalisierung und Europa Baden-Württemberg",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Lieferung von Thermalorthofotos für das Gebiet der Region Hannover",
+      "buyer": "Region Hannover",
+      "score": 30,
+      "clusters": [
+        "twin"
+      ]
+    },
+    {
+      "title": "Lagerung und Distribution von persönlicher Schutzausrüstung (PSA)",
+      "buyer": "Land Baden-Württemberg vertreten durch das Logistikzentrum Baden-Württemberg",
+      "score": 30,
+      "clusters": [
+        "factory"
+      ]
+    },
+    {
+      "title": "MHH - Rahmenvereinbarung zum bedarfsorientierten Austausch von Endoskopie-Systemen inklusive Servicevereinbarung in der Gastroenterologie der Medizinischen Hochschule (MHH)",
+      "buyer": "Medizinische Hochschule Hannover",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Beschaffung von einem Mannschaftstransportwagenes (MTW) für die Freiwillige Feuerwehr Rheinmünster",
+      "buyer": "Rathaus Rheinmünster",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Bewachung - Rahmenvertrag Geflüchtete ",
+      "buyer": "Landeshauptstadt München, Direktorium, Vergabestelle 1, SG 2",
+      "score": 30,
+      "clusters": [
+        "command"
+      ]
+    },
+    {
+      "title": "Überlassung, Pflege und Wartung von Sage Lizenzen",
+      "buyer": "Deutsches Institut für Urbanistik gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Medizinische Geräte für die Ukraine",
+      "buyer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Kauf von vier fabrikneuen Aufsitzmähern inklusive Winterdienstausstattung und Kehrvorsatz für die Landeshauptstadt Dresden",
+      "buyer": "Landeshauptstadt Dresden",
+      "score": 30,
+      "clusters": [
+        "factory"
+      ]
+    },
+    {
+      "title": "Vollautomatisches Gewebefärbesystem für IHC/ISH inkl. Anbindung an LIS und Service- und Wartungsvertrag sowie einer Rahmenvereinbarung für Verbrauchsmaterialien",
+      "buyer": "Universitätsklinikum Halle (Saale (AöR) - Kaufmännische Direktion",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Grubenuebergaenge",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "GS Hohe Wacht Saarbrücken - Sicherstellung des Brandschutzes - Maler- und Lackierarbeiten",
+      "buyer": "Gebäudemanagementbetrieb der Landeshauptstadt Saarbrücken - GMS",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Wartung und Instandsetzung Türen auf dem Gelände des UKE Hamburg-Eppendorf",
+      "buyer": "KFE Klinik Facility-Management Eppendorf GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Sicherheitsdiensten – Sicherheitsdienst im Klinikverbund Gesundheit Nord",
+      "buyer": "Gesundheit Nord Dienstleistungen gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Neubau Rettungszentrum Waldsee | Generalplanung",
+      "buyer": "Verbandsgemeinde Rheinauen",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "3626S22321 - Stand von Wissenschaft und Technik von künstlicher Intelligenz und maschinellem Lernen bei medizinischen Strahlenanwendungen und aktuelle Regulierung",
+      "buyer": "Bundesamt für Strahlenschutz (BfS)",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Motorkettensaege",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "FLARM Transponder",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Wasserenthaertungsanlage",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Indoorcycling Raeder",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    }
+  ],
+  "errors": []
+}
