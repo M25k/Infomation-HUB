@@ -14,47 +14,48 @@
       background: #E8E6E0;
       color: #3D3C39;
       font-family: Helvetica, Arial, sans-serif;
-      font-size: 9.4pt;
-      line-height: 1.38;
+      font-size: 8.65pt;
+      line-height: 1.26;
     }
     .page {
       width: 210mm;
-      min-height: 297mm;
+      height: 297mm;
+      max-height: 297mm;
       margin: 10mm auto;
-      padding: 16mm 20mm 12mm;
+      padding: 11mm 18mm 6mm;
       background: #fff;
       display: flex;
       flex-direction: column;
       box-shadow: 0 1px 8px rgba(0,0,0,.12);
+      overflow: hidden;
     }
-    .page + .page { page-break-before: always; }
     .page-body { flex: 1 1 auto; }
     .page-body > h2:first-of-type { margin-top: 0; }
     header { padding-bottom: 0; }
-    .logo { display: block; height: 11.2mm; width: auto; margin: 0 0 5mm; }
+    .logo { display: block; height: 8.5mm; width: auto; margin: 0 0 3mm; }
     .rule {
       border: 0;
       border-top: 0.4pt solid #C8C6BE;
-      margin: 0 0 8mm;
+      margin: 0 0 4mm;
     }
-    .title { text-align: center; margin: 0 0 9mm; }
+    .title { text-align: center; margin: 0 0 3.5mm; }
     .title h1 {
-      font-size: 14.5pt;
+      font-size: 12.5pt;
       font-weight: 700;
       color: #1A1A1A;
       letter-spacing: 0.01em;
-      margin: 0 0 3.2mm;
+      margin: 0 0 1.5mm;
     }
-    .title .line { margin: 0 0 2.1mm; }
+    .title .line { margin: 0 0 0.8mm; font-size: 8.5pt; }
     h2 {
-      font-size: 11pt;
+      font-size: 9.5pt;
       font-weight: 700;
       color: #1A1A1A;
-      margin: 4.5mm 0 2mm;
+      margin: 2.2mm 0 0.8mm;
     }
-    p { margin: 0 0 3mm; }
-    ul { margin: 0 0 3mm; padding-left: 4.5mm; }
-    li { margin-bottom: 1.4mm; }
+    p { margin: 0 0 1.4mm; }
+    ul { margin: 0 0 1.4mm; padding-left: 3.5mm; }
+    li { margin-bottom: 0.45mm; }
     .highlight {
       border-left: 2pt solid #C8C6BE;
       padding-left: 3.5mm;
@@ -64,14 +65,14 @@
     footer {
       flex: 0 0 auto;
       margin-top: auto;
-      padding-top: 8mm;
+      padding-top: 2mm;
     }
     footer .rule { margin: 0 0 3.2mm; }
     .footgrid {
       display: grid;
       grid-template-columns: 1.15fr 1.15fr 1.1fr 1.25fr;
-      gap: 4mm;
-      font-size: 7.1pt;
+      gap: 2.5mm;
+      font-size: 6.6pt;
       line-height: 1.35;
       color: #6B6A65;
     }
@@ -83,7 +84,7 @@
       color: #9A9891;
       margin-bottom: 1.4mm;
     }
-    .pageno { text-align: right; margin-top: 2.4mm; font-size: 7.1pt; color: #6B6A65; }
+    .pageno { display: none; }
     .print-hint {
       max-width: 210mm;
       margin: 0 auto 6mm;
@@ -103,17 +104,17 @@
       .print-hint { display: none !important; }
       .page {
         width: 210mm;
-        min-height: 297mm;
-        height: auto;
+        height: 297mm;
+        max-height: 297mm;
         margin: 0;
-        padding: 15mm 20mm 10mm;
+        padding: 11mm 18mm 6mm;
         box-shadow: none;
         background: #fff;
         display: flex;
         flex-direction: column;
+        overflow: hidden;
         page-break-after: avoid;
-        orphans: 3;
-        widows: 3;
+        page-break-inside: avoid;
       }
       .page-body { flex: 1 0 auto; }
       footer {
@@ -131,32 +132,14 @@
         break-after: avoid;
         page-break-after: avoid;
       }
-      li {
-        break-inside: avoid;
-        page-break-inside: avoid;
-      }
-      body {
-        font-size: 9pt;
-        line-height: 1.32;
-      }
-      .title { margin: 0 0 5.5mm; }
-      .title h1 { font-size: 13.5pt; }
-      h2 { margin: 3mm 0 1.5mm; font-size: 10.5pt; }
-      p { margin: 0 0 2.2mm; }
-      ul { margin: 0 0 2.2mm; }
-      li { margin-bottom: 0.9mm; }
-      .highlight { margin: 0 0 2.5mm; }
-      .highlight p:last-child { margin-bottom: 0; }
-      header .rule, .page-body > .rule { margin: 0 0 5.5mm; }
-      .logo { height: 10mm; margin: 0 0 4mm; }
+      li { break-inside: auto; page-break-inside: auto; }
     }
     .datenschutz {
-      font-size: 8pt;
-      line-height: 1.4;
+      font-size: 6.75pt;
+      line-height: 1.28;
       color: #6B6A65;
-      margin: 0 0 8mm;
+      margin: 1.5mm 0 0;
     }
-    .page-legal { min-height: 297mm; }
   </style>
 </head>
 <body>
@@ -172,15 +155,14 @@
     <div class="page-body">
       <div class="title">
         <h1>Unreal-/VR-Entwickler:In (m/w/d)</h1>
-        <p class="line">Festanstellung · Vollzeit · Büro Kiel oder Monheim am Rhein</p>
-        <p class="line">Northdocks GmbH · Oktober 2026</p>
+        <p class="line">Festanstellung · Vollzeit · Büro Kiel oder Monheim · Northdocks GmbH · Oktober 2026</p>
       </div>
 
       <h2>Über Northdocks</h2>
-      <p>Northdocks entwickelt native VR-Trainings für Feuerwehr, Medizin und Industrie: Standalone-Headsets, OpenXR, Multiplayer und Offline-Betrieb. Produktionsengine: Unreal Engine 5.7 mit eigenem NDFramework (NDVRCore, NDFire, NDGeo, CesiumForUnreal). Wir stellen fest ein und bauen das Entwicklungsteam aus, vor Ort in Kiel oder Monheim, im Büro mit Projektleitung, Senior VR sowie 3D und QA.</p>
+      <p>Native VR-Trainings für Feuerwehr, Medizin und Industrie: Standalone, OpenXR, Multiplayer, Offline. Unreal Engine 5.7, NDFramework. Wir stellen fest ein, vor Ort in Kiel oder Monheim im Büro mit Projektleitung und Senior VR.</p>
 
       <h2>KI ist bei uns Standard, keine Option</h2>
-      <p>Du arbeitest täglich mit KI-Coding-Tools (Cursor, Agenten, MCP, LLM-gestützte Refactors und Tests) und treibst das aktiv voran. Die Stelle setzt voraus, dass du diese Werkzeuge sicher und produktiv einsetzt, mit klarem Review durch dich und das Team. Wer das nicht will oder kann, passt nicht auf diese Rolle.</p>
+      <p>Täglich KI-Coding-Tools (Cursor, Agenten, MCP, LLM-Refactors/Tests), sicher und produktiv, mit Review durch dich und das Team. Wer das nicht will oder kann, passt nicht auf diese Rolle.</p>
 
       <h2>Aufgaben</h2>
       <ul>
@@ -195,26 +177,18 @@
       <ul>
         <li>Mehrjährige Unreal-Erfahrung (5.x ideal), C++ und Blueprints, VR/OpenXR</li>
         <li>Git, Code-Reviews, Echtzeit-Performance</li>
-        <li>Nachweisbare Praxis mit KI-gestützter Entwicklung, in der Bewerbung konkret beschreiben (Tools, Workflow, Beschleunigung)</li>
-        <li>Deutsch oder Englisch fließend</li>
-        <li>Tägliche Büroarbeit in Kiel (Schauenburgerstr. 116) oder Monheim (Niederstr. 18); kein Remote-first</li>
+        <li>Nachweisbare Praxis mit KI-gestützter Entwicklung (in der Bewerbung konkret: Tools, Workflow)</li>
+        <li>Deutsch oder Englisch fließend; Büro Kiel oder Monheim, kein Remote-first</li>
+        <li>Plus: PICO/Standalone, Multiplayer, Trainingsdomäne</li>
       </ul>
-      <p>Plus: PICO/Standalone, Multiplayer, Trainings- und Simulationsdomäne.</p>
 
       <h2>Wir bieten</h2>
-      <p>Unbefristete Festanstellung (Vollzeit), spezialisiertes XR-Haus mit Einsatz- und Klinikprojekten, Team das KI in der Entwicklung professionalisiert. Homeoffice nur nach Teamregel, nicht als Einstellungsmodell.</p>
+      <p>Unbefristete Festanstellung, XR-Haus mit Einsatz- und Klinikprojekten, KI in der Entwicklung professionalisiert. Homeoffice nur nach Teamregel.</p>
 
       <h2>Bewerbung</h2>
-      <p>E-Mail an kontakt@northdocks.com · Betreff „Unreal/VR Fest, Kiel/Monheim“</p>
-      <p>Lebenslauf · Pflicht: Absatz „Mein KI-Entwicklungs-Setup“ (Tools, Regeln, Beispiele) · Demos/Git/Video · gewünschter Standort · frühester Start</p>
-      <p>Anforderung (alle Rollen): Sichere, produktive Nutzung von KI-Coding-Tools ist fester Bestandteil der Stelle und wird in der Bewerbung anhand konkreter Beispiele belegt.</p>
-    </div>
-    <div class="pageno">Seite 1</div>
-  </section>
-
-  <section class="page page-legal">
-    <div class="page-body">
-      <p class="datenschutz"><strong>Datenschutz:</strong> Ihre Bewerbungsunterlagen verarbeiten wir ausschließlich zur Durchführung des Bewerbungsverfahrens und speichern sie in der Regel sechs Monate nach Abschluss des Verfahrens, sofern keine gesetzliche Aufbewahrungspflicht entgegensteht. Weitere Angaben: northdocks.com (Datenschutzerklärung).</p>
+      <p>kontakt@northdocks.com · Betreff „Unreal/VR Fest, Kiel/Monheim“ · Lebenslauf · Pflicht: „Mein KI-Entwicklungs-Setup“ · Demos/Git/Video · Standort · Start</p>
+      <p>Anforderung (alle Rollen): Sichere, produktive Nutzung von KI-Coding-Tools.</p>
+      <p class="datenschutz"><strong>Datenschutz:</strong> Bewerbungsunterlagen nur für das Verfahren; Speicherung in der Regel 6 Monate danach, sofern keine gesetzliche Pflicht. Details: northdocks.com (Datenschutzerklärung).</p>
     </div>
     <footer>
       <hr class="rule">
@@ -228,7 +202,6 @@
         </div>
         <div>
           <span class="lbl">Kontakt</span>
-          Telefon +49 2173 9996715<br>
           kontakt@northdocks.com<br>
           northdocks.com
         </div>
@@ -244,7 +217,6 @@
           USt-IdNr. DE298519758
         </div>
       </div>
-      <div class="pageno">Seite 2</div>
     </footer>
   </section>
 

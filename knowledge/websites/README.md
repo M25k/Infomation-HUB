@@ -15,6 +15,7 @@ Nur Stufe **öffentlich** aus claims.md auf die Site. Intern Belegtes (Eignung, 
 |---|---|---|
 | [northdocks.md](northdocks.md) | northdocks.com | `www-northdocks` |
 | [firefightervr.md](firefightervr.md) | firefightervr.de | `www-firefightervr` |
+| [feuerwehrvr.md](feuerwehrvr.md) | feuerwehrvr.de | `C:\Githup\www-feuerwehrvr.de` (Shopify) |
 | [meditrainvr.md](meditrainvr.md) | meditrainvr.com | `WWW-meditrain-vr` |
 | [nextfactoryvr.md](nextfactoryvr.md) | nextfactoryvr.com | `WWW-next-factory-vr` |
 | [spearheadvr.md](spearheadvr.md) | spearheadvr.de | `WWW-spearhead-vr` |

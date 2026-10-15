@@ -421,3 +421,13 @@ Recruiting: drei Festanstellungen (Unreal/VR, Web/Twin, KI-Integration); gemeins
 
 Nicht ins Git: Godview-AI-Inspect-Arbeit in `Downloads/Godview-AI-Inspect-Vollantrag/` (bleibt lokal/Drive); Angebots-HTML in Downloads.
 
+## Pass 71 — 2026-10-14 (Chats, Mail, Asana gegen die Knowledge Base)
+
+Quellen: Hub-Chats 05.10. bis 14.10., Gmail (UBU, TEMA D6.3, UKSH-Kontext), Asana (Anträge, Projektentwicklung, Marketing, Websites), Google Doc UKSH-Aufklärung, `www-feuerwehrvr.de/docs/`.
+
+Nachgezogen in [grants.md](grants.md): Horizon-Europe-Konsortium Universidad de Burgos (GodView, BRK als Partner, Call-ID offen); UKSH-Aufklärung Los 2, Antwortfrist 19.10.2026 12:00; TEMA D6.3-Text am 09.10. raus, KAMK-Bestätigung 12.10.; RINAS-Fremdleistung zum GodView-AI-Inspect-Vollantrag.
+
+Schon am richtigen Ort, nicht verschoben: Stellenanzeigen in [recruiting-2026-10.md](recruiting-2026-10.md) und `.cursor/out/recruiting-2026-10/`; feuerwehrvr.de als Verweis in [websites/feuerwehrvr.md](websites/feuerwehrvr.md), Inhalt in `www-feuerwehrvr.de/docs/`; Typografie und Abgrenzungssätze in [document-rules.md](document-rules.md), [proposal-playbook.md](proposal-playbook.md) und den Cursor-Rules.
+
+Nicht ins Git: UKSH-Antworttext (Google Doc ist die Fassung), Admin-Formular UBU, Partner-Mailadressen.
+

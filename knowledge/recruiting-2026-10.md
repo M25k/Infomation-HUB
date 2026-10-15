@@ -2,11 +2,11 @@
 
 Stand: 2026-10-05. **Festanstellung, Vollzeit**, Büro **Kiel** (Schauenburgerstr. 116) oder **Monheim** (Niederstr. 18). Kein Remote-first.
 
-Kontakt: kontakt@northdocks.com · +49 2173 9996715 · Betreff je Rolle siehe unten.
+Kontakt: kontakt@northdocks.com · Betreff je Rolle siehe unten.
 
 ## Mutter-HTML (Information-HUB)
 
-**Kanonische Quelldateien** (Briefkopf, 2 Seiten inkl. Datenschutz). Logo im selben Ordner: `northdocks_Logo_quer.png`.
+**Kanonische Quelldateien** (Briefkopf, **eine DIN-A4-Seite** inkl. Datenschutz und Footer). Logo im selben Ordner: `northdocks_Logo_quer.png`. Druck: Ränder keine, Hintergrundgrafiken an.
 
 | Rolle | Datei |
 |---|---|
@@ -28,7 +28,7 @@ PDF aus dem Mutter-HTML erzeugen (Strg+P → Als PDF speichern) und in Downloads
 
 ## Gemeinsame Anforderung
 
-**Anforderung (alle Rollen):** Sichere, produktive Nutzung von KI-Coding-Tools ist fester Bestandteil der Stelle und wird in der Bewerbung anhand konkreter Beispiele belegt.
+**Anforderung (alle Rollen):** Sichere, produktive Nutzung von KI-Coding-Tools ist fester Bestandteil der Stelle.
 
 **Datenschutz (Bewerbung):** Unterlagen nur für das Bewerbungsverfahren; Speicherung in der Regel **6 Monate** nach Abschluss, sofern keine gesetzliche Aufbewahrungspflicht. Details: northdocks.com (Datenschutzerklärung).
 

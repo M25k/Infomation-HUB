@@ -19,7 +19,11 @@ Rolle: **Leitprodukt** — Koffer, Pakete, 23 Module, Kauf/Miete. Cash- und Refe
 | `/news.html` | News |
 | `/partner/anfrage/` | Reseller |
 
-Öffentliche Paketpreise (netto, 2026): Strahlrohr 3.299 €, Feuerlöscher 3.199 €, CPR 3.199 €. Softwarekatalog in jedem Paket.
+Shopify-Shop (Kauf/Miete): **https://feuerwehrvr.de/** (Admin: Store `1sctdn-nt`). Preise dort müssen mit `#pakete` auf dieser Site übereinstimmen.
+
+Öffentliches Preismodell (netto, ab **1.10.2026**, modular): **Basis-Set 3.399 €** (Headset, Koffer, alle Trainings, Onboarding, 12 Monate Updates). Optional: Strahlrohr **599 €**, Feuerlöscher **149 €**, CPR-Puppe **199 €**. Eigene Geräte: **Trackinghalterung je Modell 19 €** (Preisliste §3: AWG 2235, AWG 235 EVO, Kindswater KW-235, Jockel T 6 JH, HLW-Puppe am Handgelenk). Miete Basis **400 €/Woche** bzw. **800 €/Monat**; Set mit einem Übungsgerät **499 €/999 €**; Kaution **1.500 €** je Set. Updates ab Monat 13 optional **699 €/Headset/Jahr**. Newsletter und `#pakete` sind Referenz.
+
+Legacy (Paketpreise bis 30.09.2026, nicht mehr auf der Live-Site): Strahlrohr 3.299 €, Feuerlöscher 3.199 €, CPR 3.199 €, Zusatzmodule je **449 €**.
 
 23 Module laut `trainingslist.html` (öffentlich): Firesaber, Löschangriff, Innenbrand, Feuerlöscher, Flashover, Flughafen, Waldbrand, Gastankbrand, Kreiselpumpe, Sprinklerwartung, CPR, Erste Hilfe, Notfallpneumatik, Sprungkissen, Unfallsicherung, Erkundung, Bürobrand, Elektronikbrand, Ladeflächenbrand, Ölflächenbrand, Planspiel, Übungsstrecken, Drehleiter.
 
@@ -41,7 +45,7 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 
 ## Öffentlich sagbar
 
-- 23 Module, drei Pakete mit Preisen, Offline, Pico, OpenXR
+- 23 Module, Basis-Set plus optionale Übungsgeräte, Offline, Pico, OpenXR
 - Mitgliedschaften WFVD/vfdb/DRZ/DIBT
 - Haptik (Strahlrohr, Löscher, CPR-Puppe)
 

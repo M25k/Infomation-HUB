@@ -97,8 +97,9 @@ Schreibregeln dagegen:
 4. Zahlen nur aus claims.md.
 5. Partner korrekt (Spot-KI = Transfer-Hub SH).
 6. Arbeitspakete und Budget zusammen von einer Person gegengelesen.
-7. **Nicht verwirren.** Im Zuschlagstext keine anderen Lose, Produkte oder Schulen als Analogie (UKSH Los 2, Hand aufs Herz als Schulreferenz, Quest neben festem Pico-Angebot). Einmal Leistungsgrenze reicht; nicht in jedem Abschnitt wiederholen.
-8. **Storyboard muss die Minuten tragen.** Beatliste allein reicht nicht für 8–12 Minuten Szenario (FAQ: Einführung extra, Gesamtdurchlauf ≤ 15). Zeitgerüst, Beispielsätze (7–10 / 11–14), Interaktionsbeispiele und Varianten in derselben Welt — kein zweites Gebäude.
+7. **Nicht verwirren.** Im Zuschlagstext keine anderen Lose, Produkte oder Schulen als Analogie (UKSH Los 2, Hand aufs Herz als Schulreferenz, Quest neben festem Pico-Angebot). Einmal Leistungsgrenze reicht; nicht in jedem Abschnitt wiederholen. Gleiches für **EU-Deliverables (Dxx):** andere WPs/Partner/Produkte nicht nur zum Ausschließen nennen; kein Text „nur wo Schnittstelle zu WP5“. Siehe [reader-facing-prose.mdc](../.cursor/rules/reader-facing-prose.mdc).
+8. **Kein Entwurfs-Meta** in einreichungsfähigen Deliverables (kein „compared to previous version“, kein Änderungsprotokoll für Gutachter, die die alte Fassung nicht kennen).
+9. **Storyboard muss die Minuten tragen.** Beatliste allein reicht nicht für 8–12 Minuten Szenario (FAQ: Einführung extra, Gesamtdurchlauf ≤ 15). Zeitgerüst, Beispielsätze (7–10 / 11–14), Interaktionsbeispiele und Varianten in derselben Welt — kein zweites Gebäude.
 
 ## 8. Meditrain / Medizin (nach FFVR-Produkt)
 

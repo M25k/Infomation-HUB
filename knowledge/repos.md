@@ -45,6 +45,7 @@ Nicht lokal, aber auf GitHub / in Asana-Repo-Karten (nicht „Lücke weil nicht 
 |---|---|---|
 | `www-northdocks` | Northdocks-GmbH/www-northdocks | northdocks.com |
 | `www-firefightervr` | Northdocks-GmbH/www-firefightervr | **https://firefightervr.de/** (Canonical). Alias firefightervrmobile.de |
+| `www-feuerwehrvr.de` | Northdocks-GmbH/www-feuerwehrvr.de (prüfen Remote-Name) | **https://feuerwehrvr.de/** Shopify Checkout / Funnel |
 | `WWW-meditrain-vr` | Northdocks-GmbH/WWW-meditrain-vr | meditrainvr.com |
 | `WWW-next-factory-vr` | Northdocks-GmbH/WWW-next-factory-vr | nextfactoryvr.com |
 | `WWW-spearhead-vr` | Northdocks-GmbH/WWW-spearhead-vr | spearheadvr.de |

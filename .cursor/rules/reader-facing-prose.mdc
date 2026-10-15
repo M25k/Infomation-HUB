@@ -1,0 +1,47 @@
+---
+description: Leserbezogene Texte ohne Abgrenzungs-Floskeln und Revisions-Meta (Anträge, Deliverables, Angebote)
+alwaysApply: true
+---
+
+# Leserbezogener Text (Northdocks)
+
+Gilt für **alle einreichungs- und empfängerbezogenen** Texte, die wir erzeugen (DE oder EN): Horizon-Deliverables, Part B, Eignung, Zuschlag, Anschreiben, Briefkopf-HTML. **Nicht** für reine Ausfüllhilfe, interne Kommentare oder Chat.
+
+Interne Unterscheidungen aus [knowledge/document-rules.md](../../knowledge/document-rules.md) (Produkt vs. Auftrag, Forschung vs. Produkt, GodView vs. Headset) dienen der **Faktenchecks**, nicht als wiederholte Negationssätze im Fließtext.
+
+## Keine Abgrenzungs-Sätze
+
+**Nicht schreiben**, wenn der Hauptzweck des Satzes ist zu sagen, was der Abschnitt **nicht** enthält, **nicht** meint oder **nur am Rand** erwähnt.
+
+Typische Muster (vermeiden):
+
+- „… are referenced here **only where** they interface with …“
+- „The focus of D6.x is … **—not** the commercial … product line.“
+- Partner, WPs, Produkte oder Tools **nur nennen**, um sie auszuschließen (Latitudo40, KAMK, FirefighterVR-Katalog, andere Lose).
+- In **jedem** Unterkapitel erneut: „this section does not cover …“ / „hier geht es nicht um …“
+
+**Stattdessen:** Die gestellte Frage oder die Deliverable-Vorgabe **positiv** beantworten: Was ist drin, wer liefert was, welche Schnittstelle, welcher Nachweis. Erwähne andere Work Packages oder Partner **nur**, wenn sie für **diese** Antwort fachlich nötig sind (Datenfluss, Verantwortung, Deliverable-Referenz im Template).
+
+**Ausnahme:** Das **amtliche Formular** oder die Call-Vorlage verlangt ausdrücklich einen Scope-/Abgrenzungsblock (z. B. „Out of scope“). Dann **einmal** im vorgesehenen Feld, sachlich, ohne Marketing-Produkte als Kontrastfigur.
+
+Leistungsgrenzen in **öffentlicher Vergabe:** einmal im Inhaltsangebot, nicht als Schlusskatalog und nicht in jedem Abschnitt ([proposal-playbook.md](../../knowledge/proposal-playbook.md) §6).
+
+## Kein Revisions- und Versions-Meta
+
+Empfänger kennen **keine** frühere Fassung, es sei denn, der Nutzer sagt das ausdrücklich (internes Review, explizites „Update an Partner X“).
+
+**Nicht schreiben:**
+
+- Vergleich zur vorherigen Version („compared to draft v2“, „in this revision we …“, „geändert gegenüber …“).
+- Erklärungen, **warum** Text gestrichen oder umformuliert wurde.
+- Hinweise für den Autor im Fließtext („Note for evaluators: …“ ohne Template-Pflicht).
+
+Redaktion in Google Docs: solche Sätze vor Rücksync ins Mutter-HTML **entfernen**, nicht mit committen.
+
+## Agent-Check vor Abgabe
+
+1. Suche im Fließtext nach: `only where`, `not the focus`, `not the commercial`, `referenced here`, `out of scope`, `this deliverable does not`, `compared to`, `previous version`, `in this revision`, `updated to`, `we have removed`, `we clarified`.
+2. Jede Trefferzeile: **streichen** oder in positive Leistungsbeschreibung umformulieren, außer Template-Pflichtfeld.
+3. Prüfen: Jeder Absatz beantwortet eine **externe** Frage (Call, Deliverable, Los), nicht eine interne KB-Angst (Verwechslung verhindern).
+
+Querverweis Typografie: [german-prose.mdc](german-prose.mdc). Inhaltliche Verbote: [document-rules.md](../../knowledge/document-rules.md).

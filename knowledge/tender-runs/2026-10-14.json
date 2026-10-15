@@ -1,0 +1,558 @@
+{
+  "generated": "2026-10-14",
+  "days": 10,
+  "sources_run": [
+    "ted",
+    "bkms",
+    "bund"
+  ],
+  "coverage": {
+    "ted": 54,
+    "bkms": 364,
+    "bund": 500
+  },
+  "notice_count": 831,
+  "review": [],
+  "maybe": [
+    {
+      "source": "bkms",
+      "id": "e502b211-a745-486d-97dd-7de790b8ae04",
+      "publication_number": "",
+      "title": "Studie: Immersive, dreidimensionale Szenariovisualisierung/-generierung für das Future Operating Environment (VA964)",
+      "lot_title": "Studie: Immersive, dreidimensionale Szenariovisualisierung/-generierung für das Future Operating Environment (VA964)",
+      "buyer": "Planungsamt der Bundeswehr Referat I 1 (4)",
+      "publication_date": "2026-10-06",
+      "deadline": "2026-10-22",
+      "cpv": "73000000",
+      "buyer_country": "DEU",
+      "place": "",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/e502b211-a745-486d-97dd-7de790b8ae04",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/e502b211-a745-486d-97dd-7de790b8ae04",
+      "description": "Ziel der Studie ist die Untersuchung, ob mittels 3D-Visualisierung Inhalte der Future Force Study im Kontext des Future Operating Environment sowohl für die Arbeitsebene der Planer und Weiterentwickler der Bundeswehr, als auch für die darüber befindliche Leitungsebene \"visualisierbar\" und damit eindrücklicher (besser) begreifbar gemacht werden kann.\nMit der Studie soll die bislang nicht in Gänze bestehende ableitungslogische Durchgängigkeit von der Ebene zukunftsanalytischer Dokumente hin zur Nationalen Ambition der Bundeswehr verbessert werden. Es soll ein Ausgangs- und Anknüpfungspunkt zu weiteren dimensionsspezifischen Rahmenszenaren (z. B. Rahmenszenar See 2040) und anwendungsspezifischen Rahmenszenaren (z.B. Gesamtstaatliche Sicherheit 2035) geschaffen werden.\nDie mit der Studie entstehende Analyse liefert wertvolle Beiträge zur Fortschreibung der mit dem Fähigkeitsprofil der Bundeswehr beschriebenen Nationalen Ambition einschließlich der nachfolgenden Fähigkeitsentwicklung und bietet ebenfalls Ansatzpunkte für die Weiterentwicklung von Militärstrategie und Kräfteplanung.\nDie vollständige Leistungsbeschreibung wird bei der Angebotsaufforderung zur Verfügung gestellt. Studie: Immersive, dreidimensionale Szenariovisualisierung/-generierung für das Future Operating Environment (VA964) Ziel der Studie ist die Untersuchung, ob mittels 3D-Visualisierung Inhalte der Future Force Study im Kontext des Future Operating Environment sowohl für die Arbeitsebene der Planer und Weiterentwickler der Bundeswehr, als auch für die darüber befindliche Leitungsebene \"visualisierbar\" und damit eindrücklicher (besser) begreifbar gemacht werden kann.\nMit der Studie soll die bislang nicht in Gänze bestehende ableitungslogische Durchgängigkeit von der Ebene zukunftsanalytischer Dokumente hin zur Nationalen Ambition der Bundeswehr verbessert werden. Es soll ein Ausgangs- und Anknüpfungspunkt zu weiteren dimensionsspezifischen Rahmenszenaren (z. B. Rahmenszenar See 2040) und anwendungsspezifischen Rahmenszenaren (z.B. Gesamtstaatliche Sicherheit 2035) geschaffen werden.\nDie mit der Studie entstehende Analyse liefert wertvolle Beiträge zur Fortschreibung der mit dem Fähigkeitsprofil der Bundeswehr beschriebenen Nationalen Ambition einschließlich der nachfolgenden Fähigkeitsentwicklung und bietet ebenfalls Ansatzpunkte für die Weiterentwicklung von Militärstrategie und Kräfteplanung.\nDie vollständige Leistungsbeschreibung wird bei der Angebotsaufforderung zur Verfügung gestellt.",
+      "platform": "evergabe-online.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25920178",
+      "publication_number": "",
+      "title": "VR Plattform",
+      "lot_title": "VR Plattform",
+      "buyer": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+      "publication_date": "2026-10-13",
+      "deadline": "2026-10-26",
+      "cpv": "48000000-8",
+      "buyer_country": "DEU",
+      "place": "DE4",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25920178",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25920178",
+      "description": "VR Plattform VR Plattform VR Plattform",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bund.de",
+      "id": "https://www.service.bund.de/IMPORTE/Ausschreibungen/dtvp2/2026/10/131.html",
+      "publication_number": "",
+      "title": "Mobiler Virtual-Reality-Spritzverfahren-Simulator",
+      "lot_title": "",
+      "buyer": "Maler- und Lackiererinnung Berlin",
+      "publication_date": "2026-10-13",
+      "deadline": "2026-10-30",
+      "cpv": "",
+      "buyer_country": "DEU",
+      "place": "10997 Berlin",
+      "notice_type": "",
+      "contract_nature": "",
+      "url": "https://www.service.bund.de/IMPORTE/Ausschreibungen/dtvp2/2026/10/131.html",
+      "url_de": "https://www.service.bund.de/IMPORTE/Ausschreibungen/dtvp2/2026/10/131.html",
+      "description": "Erfüllungsort: 10997 Berlin | Vergabestelle: Maler- und Lackiererinnung Berlin | | Angebotsfrist: 30.10.2026 10:00 | Veröffentlichungsende: 30.10.2026 10:00 | |",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "bund-rss",
+      "matched_queries": [
+        "bund-rss"
+      ],
+      "sources": [
+        "bund.de"
+      ]
+    },
+    {
+      "source": "ted",
+      "id": "705681-2026",
+      "publication_number": "705681-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Umnutzung des ehemaligen Alten- und Pflegeheims Josefistift an der Bahnhofstraße 3, 83646 Bad Tölz, Tragwerksplanung, gem. §§ 49 ff HOAI 2021, LPH 1-6, stufenweise Beauftragung, sowie Leistungen aus dem Bereich Brandschutzplanung",
+      "lot_title": "",
+      "buyer": "Josefispitalstiftung mit Darlapp´scher Zustiftung verwaltet durch die Stadt Bad Tölz",
+      "publication_date": "2026-10-13",
+      "deadline": "2026-11-04",
+      "cpv": "71000000 71300000 71310000 71320000 71327000 71240000 71317100 71000000 71300000 71310000 71320000 71327000 71240000 71317100",
+      "buyer_country": "DEU",
+      "place": "DE216 DEU DE216 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/5b529030-ca87-4cf1-9406-e7c984098899",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/5b529030-ca87-4cf1-9406-e7c984098899",
+      "description": "Das bisher als Alten- und Pflegeheim genutzte Josefistift soll zu einem überwiegend dem Wohnen dienenden Gebäude umgenutzt werden. In den Obergeschossen sollen ausschließlich Wohnungen bzw. Apartments entstehen. Im Erdgeschoss sind neben weiteren Wohnungen Flächen für soziale Nutzungen, Büro- bzw. Gemeinschaftsbereiche sowie eine Gewerbe- oder anderweitig vermietbare Einheit vorgesehen. Auf Grundlage des vorliegenden \nUntersuchungsberichts wird derzeit von ca. 51 Wohneinheiten unterschiedlicher Größe und Zuschnitte ausgegangen. Umnutzung des ehemaligen Alten- und Pflegeheims Josefistift an der Bahnhofstraße 3, 83646 Bad Tölz, Tragwerksplanung, gem. §§ 49 ff HOAI 2021, LPH 1-6, stufenweise Beauftragung, sowie Leistungen aus dem Bereich Brandschutzplanung Gegenstand des Auftrags sind Leistungen der Tragwerksplanung, gem. §§ 49 ff HOAI 2021, LPH 1-6, stufenweise Beauftragung, sowie Leistungen aus dem Bereich Brandschutzplanung. Ggf. werden auch verschiedene Besondere Leistungen beauftragt. - - -\nDas bisher als Alten- und Pflegeheim genutzte Josefistift an der Bahnhofstraße 3, 83646 Bad Tölz wird durch den Neubau eines Pflegeheims in Bad Tölz im Sommer 2027 frei. Der Ost- und Westbau des Josefistifts (jeweils EG bis 3. OG) wurde mit einem eingeschossigen Verbindungsbau in den Jahren 1964 bis 1968 errichtet. In den Jahren 2003 und 2004 wurde der Verbindungsbau so aufgestockt, dass er sich über alle Geschosse erstreckt. Das Gebäude soll nach dem Umzug des Pflegeheimbetriebs einer neuen Nutzung zugeführt werden. \nDer Stadtrat der Stadt Bad Tölz hat entschieden, dass in dem Gebäude in den Obergeschossen ausschließl. Wohnungen/Apartments entstehen sollen. Im Erdgeschoss sollen neben Wohnungen auch Flächen für „soziale“ Nutzungen sowie eine Gewerbeeinheit entstehen.\nEntsprechend einer bereits erstellten Studie sind im Wesentlichen folgende baulichen Maßnahmen geplant:\n•\tRückbau des Innenbereichs im Ost- und Westflügel des Gebäudes in den Rohbauzustand, Innenwände werden neu verputzt und gestrichen\n•\tneuer Bodenaufbau und neue Türen in den Apartments\n•\tEinbau von Bädern sowie Küchenzeilen in den Apartments\n•\tvollständige Erneuerung der Haustechnik (Elektro, Sanitär, Heizungsverteilung)\n•\tAußenfassaden werden neu gestrichen\nEigentümerin des Josefistifts ist die von der Stadt Bad Tölz verwaltete öffentlich-rechtliche Josefispitalstiftung mit Darlapp´scher Zustiftung. Zum aktuellen Zeitpunkt steht noch nicht fest, ob die Josefispitalstiftung mit Darlapp´scher Zustiftung oder die Stadt Bad Tölz Bauherr für den Umbau des Josefistifts sein wird. Das VgV-Verfahren zur Planer-Auswahl ist in jedem Fall notwendig, da die Stiftung durch die erwarteten Fördermittel als öffentl. Auftraggeber gilt. Es wird zunächst durch die Stiftung durchgeführt. Parallel zum VgV-Verfahren wird derzeit geprüft, ob die Stiftung das Grundstück mit aufstehendem Gebäude im Erbbaurecht an die Stadt Bad Tölz überlassen kann. Sofern dies möglich ist und der Stadtrat der Stadt Bad Tölz sich dafür entscheidet, wird nicht die Stiftung, sondern die Stadt Bad Tölz die Bauherrin für den Umbau des Gebäudes sein. Je nachdem, zu welchem Zeitpunkt die Überlassung im Erbbaurecht wirksam wird, ändert sich ggf. auch der Auftraggeber für das Projekt. - - - \nZiel ist die wirtschaftliche, funktionale und gestalterisch angemessene Umnutzung des ehemaligen Pflegeheims zu einem überwiegend dem Wohnen dienenden Gebäude. In den Obergeschossen sollen Wohnungen bzw. Apartments entstehen. Im Erdgeschoss sind neben weiteren Wohnungen Flächen für soziale Nutzungen, Büro- bzw. Gemeinschaftsbereiche sowie eine Gewerbe- oder anderweitig vermietbare Einheit vorgesehen. Auf Grundlage des Untersuchungsberichts wird derzeit von ca. 51 Wohneinheiten ausgegangen.\n-----\nDie technische Gebäudeausrüstung soll in den Umbaubereichen nahezu vollständig erneuert werden. Vorgesehen sind die Erneuerung der Trinkwasser-, Abwasser- und Sanitärinstallationen, der Wärmeverteilung, der elektrischen Anlagen sowie der Kommu",
+      "platform": "TED",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire",
+        "fire-de"
+      ],
+      "sources": [
+        "bkms",
+        "ted"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "9e9a912d-17aa-4cb4-b933-3a87305ac8cb",
+      "publication_number": "700419-2026",
+      "title": "15871 Dacharbeiten für den Neubau eines Feuerwehr- und Rettungsdienstzentrums Kreis GT",
+      "lot_title": "15871 Dacharbeiten für den Neubau eines Feuerwehr- und Rettungsdienstzentrums Kreis GT",
+      "buyer": "Kreis Gütersloh",
+      "publication_date": "2026-10-10",
+      "deadline": "2026-11-09",
+      "cpv": "45210000",
+      "buyer_country": "DEU",
+      "place": "DEA42",
+      "notice_type": "cn-standard",
+      "contract_nature": "works",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/9e9a912d-17aa-4cb4-b933-3a87305ac8cb",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/9e9a912d-17aa-4cb4-b933-3a87305ac8cb",
+      "description": "- ca. 2.780 m² Trapezprofil Stahl verz. besch. 165/250, D 1,5mm\n- ca. 6.570 m² Dampfsperre Bitumenbahn\n- ca. 3.770 m² Dachabdichtung 2-lagig, Polymerbitumenbahn, EPS-Gefälledämmung\n- ca. 2.800 m² Dachabdichtung 2-lagig, Polymerbitumenbahn, MW-Dämmung\n- ca. 960 m Attikaabdeckung Alu D 2mm beschichtet\n- ca. 12 St RWA-Lichtkuppeln\n- ca. 3.510 m² extensive Dachbegrünung\n- ca. 37 St Einbau Dachabläufe bauseits beigestellt\n- ca. 65 St Attika-Notdachabläufe\n- Inspektion, Wartung, Instandhaltung:\n- ca. 12 St RWA-Lichtkuppeln\n- ca. 3.510 m² extensive Dachbegrünung\n- ca. 37 St Einbau Dachabläufe bauseits beigestellt\n- ca. 65 St Attika-Notdachabläufe 15871 Dacharbeiten für den Neubau eines Feuerwehr- und Rettungsdienstzentrums Kreis GT - ca. 2.780 m² Trapezprofil Stahl verz. besch. 165/250, D 1,5mm\n- ca. 6.570 m² Dampfsperre Bitumenbahn\n- ca. 3.770 m² Dachabdichtung 2-lagig, Polymerbitumenbahn, EPS-Gefälledämmung\n- ca. 2.800 m² Dachabdichtung 2-lagig, Polymerbitumenbahn, MW-Dämmung\n- ca. 960 m Attikaabdeckung Alu D 2mm beschichtet\n- ca. 12 St RWA-Lichtkuppeln\n- ca. 3.510 m² extensive Dachbegrünung\n- ca. 37 St Einbau Dachabläufe bauseits beigestellt\n- ca. 65 St Attika-Notdachabläufe\n- Inspektion, Wartung, Instandhaltung:\n- ca. 12 St RWA-Lichtkuppeln\n- ca. 3.510 m² extensive Dachbegrünung\n- ca. 37 St Einbau Dachabläufe bauseits beigestellt\n- ca. 65 St Attika-Notdachabläufe",
+      "platform": "deutsche-evergabe.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/700419-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "ca4ebd90-70c9-41ad-97b4-467d5e41ee45",
+      "publication_number": "702249-2026",
+      "title": "Lieferung und Montage von einer  Schlauchpflegewerkstatt nach DIN 14092-7:2024-06 für das Feuerwehrtechnische Zentrum des Landkreises Sömmerda",
+      "lot_title": "Lieferung und Montage von einer  Schlauchpflegewerkstatt nach DIN 14092-7:2024-06 für das Feuerwehrtechnische Zentrum des Landkreises Sömmerda",
+      "buyer": "Landkreis Sömmerda",
+      "publication_date": "2026-10-11",
+      "deadline": "2026-11-10",
+      "cpv": "42995000",
+      "buyer_country": "DEU",
+      "place": "DEG0D",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/ca4ebd90-70c9-41ad-97b4-467d5e41ee45",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/ca4ebd90-70c9-41ad-97b4-467d5e41ee45",
+      "description": "Der Landkreis Sömmerda beabsichtigt, für das Feuerwehrtechnische Zentrum in Sömmerda eine Schlauchpflegevollhalbstraße mit einer integrierten Innen- und Außentrocknungseinrichtung für Feuerwehr-Druckschläuche nach DIN 14811 bis zu einer Länge von 35 m zu beschaffen. Dabei sollen die 15 und 20m-Schläuche gestreckt, die 30 und 35m-Schläuche jedoch im Bogen liegend geprüft werden.\t\n\nNähere Erläuterungen finden Sie in den Vorbemerkungen im Leistungsverzeichnis. Lieferung und Montage von einer  Schlauchpflegewerkstatt nach DIN 14092-7:2024-06 für das Feuerwehrtechnische Zentrum des Landkreises Sömmerda Der Landkreis Sömmerda beabsichtigt, für das Feuerwehrtechnische Zentrum in Sömmerda eine Schlauchpflegevollhalbstraße mit einer integrierten Innen- und Außentrocknungseinrichtung für Feuerwehr-Druckschläuche nach DIN 14811 bis zu einer Länge von 35 m zu beschaffen. Dabei sollen die 15 und 20m-Schläuche gestreckt, die 30 und 35m-Schläuche jedoch im Bogen liegend geprüft werden.\t\n\nNähere Erläuterungen finden Sie in den Vorbemerkungen im Leistungsverzeichnis.",
+      "platform": "subreport.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/702249-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bund.de",
+      "id": "https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-westfalen/2026/10/56927238.html",
+      "publication_number": "",
+      "title": "Gerüstbauarbeiten für den Neubau des Feuerwehrgerätehauses und der Rettungswache in Ennigerloh",
+      "lot_title": "",
+      "buyer": "Kreis Warendorf - Der Landrat",
+      "publication_date": "2026-10-13",
+      "deadline": "2026-11-10",
+      "cpv": "",
+      "buyer_country": "DEU",
+      "place": "59320 Ennigerloh",
+      "notice_type": "",
+      "contract_nature": "",
+      "url": "https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-westfalen/2026/10/56927238.html",
+      "url_de": "https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-westfalen/2026/10/56927238.html",
+      "description": "Erfüllungsort: 59320 Ennigerloh | Vergabestelle: Kreis Warendorf - Der Landrat | | Angebotsfrist: 10.11.2026 11:00 | Veröffentlichungsende: 10.11.2026 11:00 | |",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "bund-rss",
+      "matched_queries": [
+        "bund-rss"
+      ],
+      "sources": [
+        "bund.de"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "8c5a9d0e-04ea-459a-95e0-acbc373d9dae",
+      "publication_number": "706777-2026",
+      "title": "Vorbereitende Tiefbauarbeiten für den Neubau des Feuerwehrgerätehauses und der Rettungswache in Ennigerloh",
+      "lot_title": "Vorbereitende Tiefbauarbeiten für den Neubau des Feuerwehrgerätehauses und der Rettungswache in Ennigerloh",
+      "buyer": "Kreis Warendorf - Der Landrat",
+      "publication_date": "2026-10-13",
+      "deadline": "2026-11-12",
+      "cpv": "45200000",
+      "buyer_country": "DEU",
+      "place": "DEA38",
+      "notice_type": "cn-standard",
+      "contract_nature": "works",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/8c5a9d0e-04ea-459a-95e0-acbc373d9dae",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/8c5a9d0e-04ea-459a-95e0-acbc373d9dae",
+      "description": "Vorbereitende Tiefbauarbeiten für den Neubau des Feuerwehrgerätehauses und der Rettungswache in Ennigerloh in  59320 Ennigerloh - Westring / Zum Buddenbaum Vorbereitende Tiefbauarbeiten für den Neubau des Feuerwehrgerätehauses und der Rettungswache in Ennigerloh Vorbereitende Tiefbauarbeiten für den Neubau des Feuerwehrgerätehauses und der Rettungswache in Ennigerloh in  59320 Ennigerloh - Westring / Zum Buddenbaum",
+      "platform": "vergabe-westfalen.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "bund-rss",
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/706777-2026",
+      "sources": [
+        "bkms",
+        "bund.de"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "c72d9e2f-bcd8-4f54-b05d-fd5607fa3ec4",
+      "publication_number": "696980-2026",
+      "title": "FW2 Neubau Feuerwehr- u. Rettungswache Bottrop-Kirchhellen",
+      "lot_title": "FW2 Neubau Feuerwehr- u. Rettungswache Bottrop-Kirchhellen",
+      "buyer": "Stadt Bottrop",
+      "publication_date": "2026-10-09",
+      "deadline": "2026-11-12",
+      "cpv": "45421000",
+      "buyer_country": "DEU",
+      "place": "DEA31",
+      "notice_type": "cn-standard",
+      "contract_nature": "works",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/c72d9e2f-bcd8-4f54-b05d-fd5607fa3ec4",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/c72d9e2f-bcd8-4f54-b05d-fd5607fa3ec4",
+      "description": "Tischlerarbeiten Innentüren FW2 Neubau Feuerwehr- u. Rettungswache Bottrop-Kirchhellen 61 Innentürelemente mit unterschiedlichen Anforderungen wie Feuchtraumtüren und Nassraumtüren sowie mit Schallschutz- und Brandschutzanforderungen.",
+      "platform": "deutsches-ausschreibungsblatt.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/696980-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "511de65d-49ea-4e3a-a53a-8e714d802958",
+      "publication_number": "703171-2026",
+      "title": "Lieferung von zwei Rettungswagen nach DIN EN 1789",
+      "lot_title": "Basisfahrgestell",
+      "buyer": "Stadt Düren - Amt für Feuerwehr und Rettungsdienst",
+      "publication_date": "2026-10-11",
+      "deadline": "2026-12-16",
+      "cpv": "34114110",
+      "buyer_country": "DEU",
+      "place": "DEA26",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/511de65d-49ea-4e3a-a53a-8e714d802958",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/511de65d-49ea-4e3a-a53a-8e714d802958",
+      "description": "Anzubieten sind Rettungswagen nach DIN EN 1789 in aktueller Fassung. Die in der technischen Leistungsbeschreibung geforderten Einzel- und Detailleistungen sind zu erfüllen. Genaue Beschreibungen sind dem Angebot beizufügen. Ein Angebot für einzelne Lose kann erfolgen. Aus den vorgegebenen Angebotsunterlagen muss eindeutig erkennbar sein, dass die in der Leistungsbeschreibung dargestellten Anforderungen erfüllt werden. Für die Angebotsabgabe ist die hier vorliegende Vorlage zu nutzen (nach § 29 VgV). Die Teilnehmer des Wettbewerbs haben die Vollständigkeit der Ausschreibungsunterlagen zu überprüfen und ggf. fehlende, zur Angebotsabgabe notwendige Seiten nachzufordern. Basisfahrgestell Dieses Rettungsdienstfahrzeug bildet mit seiner Besatzung eine taktische Einheit zur Aufgabenerfüllung im Bereich der Notfallrettung. Als Rettungswagen nach DIN EN 1789, Typ C wird das Fahrzeug in den bestehenden Fahrzeugpark des Rettungsdienstes der Stadt Düren integriert. Die Beschaffung des Fahrzeuges mit weitgehend notfallmedizinischem Aus- und Aufbau zur RTW muss nach der Norm DIN EN 1789 erfolgen. Der Aufbau zur Aufnahme der Besatzung (0/1/2), die Unterbringung der medizinischen Ausrüstung, sowie der Betrieb aller Einrichtungen muss so erfolgen, dass auch unter schwierigen Einsatz- und extremen Wetterbedingungen ein schnellstmöglicher Einsatz gewährleistet wird. Das Fahrzeug muss als Zweiachs-Straßen-Frontlenkergestell ausgeführt sein. Die vom Auftragnehmer geschuldete Dokumentation ist vollständig, eindeutig gegliedert und den jeweiligen Fahrzeug-, Aufbau- und Ausrüstungskomponenten zuzuordnen. Die Verlastung der Ausrüstung muss in taktisch sinnvoller Anordnung erfolgen. Zusammen benötigte Geräte und Materialien sind in räumlicher Nähe zu verlasten. Die Geräteverlastung muss der in dieser Leistungsbeschreibung vorgegebenen Konzeption des Rettungsdienstes Stadt Düren entsprechen. Auf- und Ausbau zum Rettungswagen Typ C Dieses Rettungsdienstfahrzeug bildet mit seiner Besatzung eine taktische Einheit zur Aufgabenerfüllung im Bereich der Notfallrettung. Als Rettungswagen nach DIN EN 1789, Typ C wird das Fahrzeug in den bestehenden Fahrzeugpark des Rettungsdienstes der Stadt Düren integriert. Die Beschaffung des Fahrzeuges mit weitgehend notfallmedizinischem Aus- und Aufbau zur RTW muss nach der Norm DIN EN 1789 erfolgen. Der Aufbau zur Aufnahme der Besatzung (0/1/2), die Unterbringung der medizinischen Ausrüstung, sowie der Betrieb aller Einrichtungen muss so erfolgen, dass auch unter schwierigen Einsatz- und extremen Wetterbedingungen ein schnellstmöglicher Einsatz gewährleistet wird. Das Fahrzeug muss als Zweiachs-Straßen-Frontlenkergestell ausgeführt sein. Die vom Auftragnehmer geschuldete Dokumentation ist vollständig, eindeutig gegliedert und den jeweiligen Fahrzeug-, Aufbau- und Ausrüstungskomponenten zuzuordnen. Die Verlastung der Ausrüstung muss in taktisch sinnvoller Anordnung erfolgen. Zusammen benötigte Geräte und Materialien sind in räumlicher Nähe zu verlasten. Die Geräteverlastung muss der in dieser Leistungsbeschreibung vorgegebenen Konzeption des Rettungsdienstes Stadt Düren entsprechen. Medizinisch-technische Beladung/ Einsatztaktische Beladung Dieses Rettungsdienstfahrzeug bildet mit seiner Besatzung eine taktische Einheit zur Aufgabenerfüllung im Bereich der Notfallrettung. Als Rettungswagen nach DIN EN 1789, Typ C wird das Fahrzeug in den bestehenden Fahrzeugpark des Rettungsdienstes der Stadt Düren integriert. Die Beschaffung des Fahrzeuges mit weitgehend notfallmedizinischem Aus- und Aufbau zur RTW muss nach der Norm DIN EN 1789 erfolgen. Der Aufbau zur Aufnahme der Besatzung (0/1/2), die Unterbringung der medizinischen Ausrüstung, sowie der Betrieb aller Einrichtungen muss so erfolgen, dass auch unter schwierigen Einsatz- und extremen Wetterbedingungen ein schnellstmöglicher Einsatz gewährleistet wird. Das Fahrzeug muss als Zweiachs-Straßen-Frontlenkergestell ausgeführt sein. Die vom Auftragnehmer geschuldete Dokumentatio",
+      "platform": "vergaben-wirtschaftsregion-aachen.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/703171-2026",
+      "sources": [
+        "bkms"
+      ]
+    }
+  ],
+  "skip_count": 821,
+  "skip_sample": [
+    {
+      "title": "Unterhalts- und Grundreinigung Haus IV und Feuerwehr 2027-2028",
+      "buyer": "Stadtverwaltung Zittau",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Neubau Rettungszentrum Waldsee | Generalplanung",
+      "buyer": "Verbandsgemeinde Rheinauen",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Vergebener Auftrag: Aufschaltung Meldungsübertragung zur Feuerwehr",
+      "buyer": "Land Berlin (Sondervermögen Immobilien des Landes Berlin)",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Augenklinikinformationssystem",
+      "buyer": "TUM Klinikum",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Lieferung von Schutzhelmen für die Berufsfeuerwehr Halle (Saale)",
+      "buyer": "Stadt Halle (Saale), FB Recht, Team Submission",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Vollautomatisches Gewebefärbesystem für IHC/ISH inkl. Anbindung an LIS und Service- und Wartungsvertrag sowie einer Rahmenvereinbarung für Verbrauchsmaterialien",
+      "buyer": "Universitätsklinikum Halle (Saale (AöR) - Kaufmännische Direktion",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Bewegungssensorik zur Sturzerkennung im klinischen Umfeld",
+      "buyer": "Universitätsklinikum Frankfurt",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Fachklinik Osterhofen - Erweiterung Westflügel u. Anpassung Bestand - Objektplanung Gebäude LPH 3-9",
+      "buyer": "Fachklinik Osterhofen GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "TNWB: S/4HANA-Beschaffung",
+      "buyer": "Klinikum Esslingen GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Lieferung von mobilen Notstromaggregaten für die Freiwillige Feuerwehr Hamburg",
+      "buyer": "Behörde für Inneres und Sport Landesbereich der Freiwilligen Feuerwehr vertr. d. Sprinkenhof GmbH",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "3626S62540-Ermittlung des Verbesserungspotentials für das RODOS-Modul \"Dosisrekonstruktion\" mit Hilfe von KI-Verfahren in Bezug auf die zeitll.-räuml. Interpolation von radiol. Umwelt-Messdaten (...)",
+      "buyer": "Bundesamt für Strahlenschutz (BfS)",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Atemschutzgeblaese Vollschutzanzug",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "4. BA – Energetische und Brandschutztechnische Optimierung der Obergeschosse des Rathauses Schwarzenberg Los 5.2 – Trockenbau- und Dämmarbeiten",
+      "buyer": "Große Kreisstadt Schwarzenberg",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Trinkwasser",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Waermebildkamera TXS",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Asklepios Südpfalzklinik Kandel - Neubau OP, ZNA, ITS",
+      "buyer": "Asklepios Südpfalzkliniken GmbH - Asklepios Südpfalzklinik Kandel",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Planungsleistungen im Bauwesen – Einrichtung eines Technologie-, Ausbildungs- und Logistikzentrums für die Feuerwehr",
+      "buyer": "Infrastruktur- und Projektgesellschaft Bergisch Gladbach mbH (IPGL)",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Deutschland – Planungsleistungen im Bauwesen – Sanierung der Werkshalle Feuerwehr - Britanniahütte in Bergisch Gladbach",
+      "buyer": "Infrastruktur- und Projektgesellschaft Bergisch Gladbach mbH (IPGL)",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Anbau Feuerwehr Sehlde - Stahlbaufertigteile",
+      "buyer": "Landkreis Hildesheim",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Lieferung von zwei mobilen Beatmungsgeräten für die Helios Klinikum Emil von Behring GmbH",
+      "buyer": "HELIOS Klinikum Emil von Behring GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Beschaffung von 10 batterieelektrischen Low-Entry-Linienbussen 14,495-15,0 m",
+      "buyer": "Brodschelm Verkehrsbetrieb GmbH & Co. KG",
+      "score": 30,
+      "clusters": [
+        "factory"
+      ]
+    },
+    {
+      "title": "Beschaffung von Dienstkleidung für die Freiwillige Feuerwehr der  Stadt Norden",
+      "buyer": "Stadt Norden",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Lieferung von Therapieliegen für die Helios Klinikum Emil von Behring GmbH",
+      "buyer": "HELIOS Klinikum Emil von Behring GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Neubau Zentralklinikum 2.BA Strahlenschutzplanung",
+      "buyer": "Universitätsklinikum Bonn AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Neubau Zentralklinikum 2.BA Strahlenschutzplanung",
+      "buyer": "Universitätsklinikum Bonn AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    }
+  ],
+  "errors": []
+}

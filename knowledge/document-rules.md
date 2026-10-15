@@ -69,6 +69,15 @@ Default für von uns erzeugte HTML-Docs: [.cursor/templates/northdocks-briefkopf
 
 Öffentliche Vergabe: Inhaltsangebot (Brief + Preis), Konzept (nur Wertung), Referenzen und Pflicht-Erklärungen getrennt. **Ausfüllhilfe und PT-Kalkulation nie ins Portal.** Konzept ohne Firmenkopf und ohne Summe. Schnitt: [.cursor/skills/grants-and-contracts/offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md).
 
+## Leserbezogener Text (Abgrenzung und Revision)
+
+Einreichungs- und empfängerbezogene Texte beschreiben **Leistung und Beitrag**, nicht wiederholt, was **nicht** gemeint ist. Interne Trennungen (Produkt vs. Auftrag, Forschung vs. Produkt) gelten beim Schreiben als Prüfregeln, nicht als Negationssätze im Dokument.
+
+- **Keine Abgrenzungs-Floskeln:** Keine Sätze, die Partner, WPs, Tools oder Produktlinien nur nennen, um sie auszuschließen („only where they interface …“, „focus is X, not the commercial Y“). Scope nur dort, wo das Template es verlangt, und dort kompakt.
+- **Kein Versions-Meta:** Keine Hinweise auf frühere Entwürfe, Änderungen gegenüber Vorgängerversionen oder Redaktionsgründe, es sei denn, der Empfänger ist ausdrücklich im internen Review (vom Nutzer so benannt).
+
+Details und Agent-Checkliste: [.cursor/rules/reader-facing-prose.mdc](../.cursor/rules/reader-facing-prose.mdc).
+
 ## Verbote
 
 - Keine AVPQ-Zugangscodes, Passwörter, Mailbox-Zugänge, FreeAgent-Tokens.
