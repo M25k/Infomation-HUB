@@ -61,12 +61,19 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 | Kosovo Hardware | Kognita 27.01.2025: **10 Quest** versendet, UPS **8** angekommen, **2** als Diebstahl angezeigt, **2 Ersatz** nachgeschickt. FA **18.160 €** = 20 × 800 € Lizenzen + 2 PT bleibt **Softwarezeile**, keine Headset-Zahl. |
 | IMS vs. mekontor `20260807-02` | **Ein Los.** IMS Services (Münnerstadt, Seitz) hat bestellt; Achim Schmitz (`mekontor.de`) hat gezahlt. FA-Kontakt **mekontor** gilt für den Beleg. Nicht zwei Kunden. |
 | Frontiers Station VR | DOI echt. **Delphi-Lernziele**, Hardware Paper **PCVR Pimax 8K Plus + Alienware**, 13 CeMIT-Plätze, ohne Haptik. Nicht als Pico-Koffer-Wirksamkeitsstudie. |
-| GodView AI-Inspect | Skizze 16.07.2026 **ausgewählt** (WTSH 24.09.). Reservierter Zuschuss **140.504 €**, Vollantrag bis **24.03.2027**. Asana Vorläufig Genehmigt. **Kein Bescheid.** Skizzen-Volumina 246 k / 281 k gelten nicht. Holcim-LoI abgelehnt (23.07. und 27.07.2026). DRZ-LoI unterzeichnet 14.07.2026. |
+| GodView AI-Inspect | Skizze 16.07.2026 **ausgewählt** (WTSH 24.09.). Reservierter Zuschuss **140.504 €**, Vollantrag bis **24.03.2027**. Asana Vorläufig Genehmigt. **Kein Bescheid.** Skizzen-Volumina 246 k / 281 k gelten nicht. Holcim-LoI abgelehnt (23.07. und 27.07.2026). DRZ-LoI unterzeichnet 14.07.2026. DRZ läuft indirekt über Patrick, kein eigenes DRZ-Förderprojekt; Beauftragung „Innovation Hub“ (100 k€ netto) wahrscheinlich, noch nicht erfolgt (16.10.2026). Hardware-Angebote: Cyberport 5005807327, Jacob, Proshop (günstigstes, 26.038,65 € netto) plus Vergabevermerk. |
 | ECR 2024 | **Präsenz** belegt (BfS/MyESR-Badge Wien Feb. 2024; Besucheranfrage „at the ECR 2024 congress“). „Auszeichnung“ nur Deck — ohne Urkunde nicht als Award. |
 | storywalx-Brief 80 k€ | Tote Trier-Mappe. Trier nur FA **142.920 €**. |
 | Sony ??? | FA `20221219-01` **1.240 €**, nicht „kein Volumen“. |
 
 ## Noch offen
+
+### Abstimmungsrunde 2026-10-16
+
+| Thema | Stand | In Dokumenten |
+|---|---|---|
+| **UBU-Antrag LoIs** | Patrick klärt per Asana, ob LoIs der Feuerwehr Werl und von Currenta möglich sind. | Keine LoI Werl/Currenta behaupten, bis bestätigt. |
+| **DRZ Innovation Hub** | Angebot 100 k€ netto, Beauftragung wahrscheinlich, noch nicht erfolgt. Verbindung indirekt über Patrick. | Nicht als Auftrag. Kein DRZ-Förderprojekt. |
 
 ### Website-Link firefightervrmobile.de
 

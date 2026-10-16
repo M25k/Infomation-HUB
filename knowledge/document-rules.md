@@ -85,3 +85,5 @@ Details und Agent-Checkliste: [.cursor/rules/reader-facing-prose.mdc](../.cursor
 - Keine Bietergemeinschaft unterstellen.
 - Keine „100 %“-Sätze aus Landingpages (z. B. Meditrain-Statistiken, die im HTML als 0 gerendert wurden), solange sie nicht in `claims.md` stehen.
 - **Reschke Productions GmbH:** interne Verrechnung, keine Kundenreferenz, nicht in Eignung.
+- **KPI „Immersion“ (TEMA):** Nie als „validiert“ bezeichnen. Es gibt keine abgeschlossene Studie (Joachim, 16.10.2026).
+- **Bürrig (Currenta):** Namentlich nennen ist erlaubt. Nie Bildmaterial, Einsatzpläne, Einsatzbereitschaftsdaten o. Ä. teilen (Joachim, 16.10.2026).
