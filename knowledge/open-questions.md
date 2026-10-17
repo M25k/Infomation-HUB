@@ -61,7 +61,7 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 | Kosovo Hardware | Kognita 27.01.2025: **10 Quest** versendet, UPS **8** angekommen, **2** als Diebstahl angezeigt, **2 Ersatz** nachgeschickt. FA **18.160 €** = 20 × 800 € Lizenzen + 2 PT bleibt **Softwarezeile**, keine Headset-Zahl. |
 | IMS vs. mekontor `20260807-02` | **Ein Los.** IMS Services (Münnerstadt, Seitz) hat bestellt; Achim Schmitz (`mekontor.de`) hat gezahlt. FA-Kontakt **mekontor** gilt für den Beleg. Nicht zwei Kunden. |
 | Frontiers Station VR | DOI echt. **Delphi-Lernziele**, Hardware Paper **PCVR Pimax 8K Plus + Alienware**, 13 CeMIT-Plätze, ohne Haptik. Nicht als Pico-Koffer-Wirksamkeitsstudie. |
-| GodView AI-Inspect | Skizze 16.07.2026 **ausgewählt** (WTSH 24.09.). Reservierter Zuschuss **140.504 €**, Vollantrag bis **24.03.2027**. Asana Vorläufig Genehmigt. **Kein Bescheid.** Skizzen-Volumina 246 k / 281 k gelten nicht. Holcim-LoI abgelehnt (23.07. und 27.07.2026). DRZ-LoI unterzeichnet 14.07.2026. DRZ läuft indirekt über Patrick, kein eigenes DRZ-Förderprojekt; Beauftragung „Innovation Hub“ (100 k€ netto) wahrscheinlich, noch nicht erfolgt (16.10.2026). Hardware-Angebote: Cyberport 5005807327, Jacob, Proshop (günstigstes, 26.038,65 € netto) plus Vergabevermerk. |
+| GodView AI-Inspect | Skizze 16.07.2026 **ausgewählt** (WTSH 24.09.). Reservierter Zuschuss **140.504 €**, Vollantrag bis **24.03.2027**. Asana Vorläufig Genehmigt. **Kein Bescheid.** Skizzen-Volumina 246 k / 281 k gelten nicht. Holcim-LoI abgelehnt (23.07. und 27.07.2026). DRZ-LoI unterzeichnet 14.07.2026. DRZ läuft indirekt über Patrick, kein eigenes DRZ-Förderprojekt; Beauftragung „Innovation Hub“ (100 k€ netto) wahrscheinlich, noch nicht erfolgt (16.10.2026). Hardware: Freese (WTSH) GPU-Vergleich **16.10.2026 09:29** akzeptiert; Cyberport 5005807327; Jacob **ANG875960** 2x RTX PRO 6000 Blackwell Max-Q **28.250,10 €** netto (2–4 Werktage, Endverbleibserklärung); **Proshop abgesagt** (früher 26.038,65 € als günstigstes korrigiert). Bestellung erst nach Bescheid bzw. Genehmigung vorzeitiger Maßnahmebeginn (Abstimmungsrunde 16.10.2026 15:00). |
 | ECR 2024 | **Präsenz** belegt (BfS/MyESR-Badge Wien Feb. 2024; Besucheranfrage „at the ECR 2024 congress“). „Auszeichnung“ nur Deck — ohne Urkunde nicht als Award. |
 | storywalx-Brief 80 k€ | Tote Trier-Mappe. Trier nur FA **142.920 €**. |
 | Sony ??? | FA `20221219-01` **1.240 €**, nicht „kein Volumen“. |
@@ -72,8 +72,25 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 
 | Thema | Stand | In Dokumenten |
 |---|---|---|
-| **UBU-Antrag LoIs** | Patrick klärt per Asana, ob LoIs der Feuerwehr Werl und von Currenta möglich sind. | Keine LoI Werl/Currenta behaupten, bis bestätigt. |
+| **UBU-Antrag LoIs** | Patrick klärt per Asana, ob LoIs der Feuerwehr Werl und von Currenta möglich sind. RAS (Protezione Civile Sardinien) am **16.10.2026** als nichtdeutscher Endnutzer vorgeschlagen; Zusage offen. | Keine LoI Werl/Currenta behaupten, bis bestätigt. RAS-Zusage nicht behaupten. |
+| **UBU Technical Note** | Joachim schickt die GodView Technical Note selbst an Enrique (Sierra García), geplant **16.10.2026**. Inhalt: gemeinsamer Digital Twin für Simulationspartner (z. B. Feuersimulation) und Einsatzkräfte, offene API mit Standards/Leitfäden, AI-Inspect als paralleles integrierbares Projekt (Abstimmungsrunde 16.10.2026 15:00). | Versand nicht als erfolgt behaupten, bis bestätigt. |
+| **AI-Inspect Hardware-Bestellung** | Freese (WTSH) GPU-Vergleich am **16.10.2026 09:29** akzeptiert. Jacob **ANG875960** **28.250,10 €** netto (2x RTX PRO 6000 Blackwell Max-Q); Cyberport 5005807327; Proshop abgesagt. Bestellung erst nach Bescheid bzw. Genehmigung vorzeitiger Maßnahmebeginn. | Nicht bestellen vor Bescheid/vMB. Proshop 26.038,65 € nicht mehr als günstigstes nennen. |
 | **DRZ Innovation Hub** | Angebot 100 k€ netto, Beauftragung wahrscheinlich, noch nicht erfolgt. Verbindung indirekt über Patrick. | Nicht als Auftrag. Kein DRZ-Förderprojekt. |
+
+### Mailakte Silas (Asana-Import Patrick, 16.10.2026)
+
+| Thema | Stand | In Dokumenten |
+|---|---|---|
+| **Koppenhagen Abo 2026** | Verlängerung am 18.05.2026 bestellt (499 € netto je Headset), keine Antwort von Silas, kein Angebot und keine Rechnung in FreeAgent ([Asana](https://app.asana.com/0/0/1208864434296029)). | Nicht als verlängert führen. Rechnung klären. |
+| **Forschungszulage vs. koni.md** | koni.md sagt „kein Antrag hier“. Laut PFIF-Mails sind drei Vorhaben 2021 bis 2024 bescheinigt ([Asana](https://app.asana.com/0/0/1209233061901597)). Höhe der Zulage, Finanzamt-Festsetzung und Bezahlung der vier PFIF-Rechnungen (06.07.2026) offen. | Bescheinigung ja, keine Euro-Summe. |
+| **„Zertifiziert in Norwegen“** | Nur Silas' Mails (10.02. und 10.03.2026) sagen zertifiziert, Zertifikat liegt nicht vor. In DE laut Silas keine DGUV-Anerkennung als Ersatz der Erstausbildung (07.08.2026, [Asana](https://app.asana.com/0/0/1215088879147134)). | Erst nach Beleg extern nennen. |
+| **Latitudo 40 NDA** | NDA-Vorlage 23.06.2026, nicht unterschrieben, Nachfrage 28.09.2026 ([Asana](https://app.asana.com/0/0/1209698566366804)). | Offen. |
+| **Paderborn Kaufpreis** | Gemini-Notiz 03.09.2025 nennt 35.000 € brutto / 25.000 € netto, passt nicht zu Angebot 20250904-01 ([Asana](https://app.asana.com/0/0/1208706141824000)). | Notiz nicht zitieren. |
+| **Framatome Bestellung 05/2026** | Bestellung 1026029238 vom 13.05.2026 ging an accounts@ und blieb unbemerkt, erneut am 21.05.2026 ([Asana](https://app.asana.com/0/0/1208330552056204)). | Asana-Task für Joachim angelegt, fällig 23.10.2026. |
+| **Offene Folgeaufträge nach Silas' Weggang** | Gusow-Platkow (1210961536743606) und EUROPTEN (1214172722989270): Asana-Tasks für Joachim angelegt, fällig 23.10.2026. VR Synergy (1212684661023509) und Atos Medical (1208092513374619): **Geschlossen, kein Follow-up, Entscheidung Joachim 16.10.2026.** | Nicht als Auftrag führen. |
+| **Abo 500 € brutto vs. 499 € netto** | **Geschlossen 16.10.2026 (Joachim):** Es gilt immer der Website-Preis, aktuell 699 € netto je Headset und Jahr ab 01.10.2026. 500 €/499 € ungültig, nur Sonderfälle. Regel in [document-rules.md](document-rules.md). | Nur Website-Preis nennen. |
+| **Uniklinik Freiburg Tagessatz** | Kundin zitiert 500 €/Tag, Schätzung rechnet 540 €/Tag (9.670 €) ([Asana](https://app.asana.com/0/0/1208952762561446)). | Offen. |
+| **RADPAD-Exklusivität USA** | Angebot 09.01.2025: 1.500 €/Lizenz, Exklusivität ab 30 Lizenzen/Jahr, 12 Monate. Abschluss nicht belegt ([Asana](https://app.asana.com/0/0/1208311853727787)). | Nicht als Vertriebsvertrag führen. |
 
 ### Website-Link firefightervrmobile.de
 
@@ -146,7 +163,7 @@ Kanonisch: [koni.md](koni.md). Hub-Zeilen „eingereicht/Antragspfad“ waren ve
 
 | Thema | Stand | In Dokumenten |
 |---|---|---|
-| **GodView AI-Inspect** | WTSH 24.09.: Skizze ausgewählt. Zuschussdeckel **140.504 €**, Vollantrag bis **24.03.2027**. | Vorläufig genehmigt, kein Bescheid. 246/281 k nicht verwenden. |
+| **GodView AI-Inspect** | WTSH 24.09.: Skizze ausgewählt. Zuschussdeckel **140.504 €**, Vollantrag bis **24.03.2027**. GPU-Vergleich Freese 16.10. akzeptiert; Jacob ANG875960 28.250,10 €; Proshop abgesagt; Bestellung nach Bescheid/vMB. | Vorläufig genehmigt, kein Bescheid. 246/281 k nicht verwenden. Proshop nicht als günstigstes. |
 | **KATKOMB** | Abgelehnt (VDI, 22.09.). Keine zweite Resilienz-Runde. | Nicht eingereicht/offen. |
 | **TEMA BRK-Pilot 2** | Haupttag 24.09. gelaufen. KAHY-Report 2 weiter in Prüfung. | Nicht „TAP2 akzeptiert“. RP2-Zahlung weiter unbelegt. |
 | **Fujiwara / BfS-Artikel** | VR-Herzkatheter-Studie zurückgezogen **22.07.2026**. BfS reicht den gemeinsamen Artikel nicht erneut ein (Stand 14.08., Call mit Hugo offen). | Nicht als gemeinsame Publikation oder Wirksamkeitsbeleg. |

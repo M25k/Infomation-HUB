@@ -45,6 +45,7 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 | [knowledge/recruiting-2026-10.md](knowledge/recruiting-2026-10.md) | Stellenanzeigen Festanstellung Okt. 2026; HTML in [`.cursor/out/recruiting-2026-10/`](.cursor/out/recruiting-2026-10/) |
 | [knowledge/tender-scan.md](knowledge/tender-scan.md) | Wöchentlicher Scan öffentlicher Ausschreibungen (Kompetenzfilter) |
 | [knowledge/tender-runs/](knowledge/tender-runs/) | Ergebnisse der Wochenläufe |
+| [knowledge/contacts/](knowledge/contacts/README.md) | Kontaktlisten Organisationen und Personen, Pflege über Bot „Northdocks Wissen“ |
 | [knowledge/open-questions.md](knowledge/open-questions.md) | Widersprüche und offene Punkte |
 | [knowledge/gmail-pass.md](knowledge/gmail-pass.md) | Laufender Gmail-Tiefenpass: Coverage, Filter, nächste Slices |
 | [knowledge/websites/](knowledge/websites/README.md) | Struktur und Copy-Regeln je Domain |
