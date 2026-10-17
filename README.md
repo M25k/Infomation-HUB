@@ -35,6 +35,7 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 | [knowledge/expertise.md](knowledge/expertise.md) | Technische Fähigkeiten, die wir belastbar behaupten dürfen |
 | [knowledge/projects.md](knowledge/projects.md) | Projekte, Referenzen, Produkte — mit Quellen |
 | [knowledge/history.md](knowledge/history.md) | Historisches Kompendium: 105 archivierte Asana-Boards + Mail-Belege |
+| [knowledge/mailakte-silas.md](knowledge/mailakte-silas.md) | Fakten aus Silas' Postfach (Asana-Mailakten, intern) |
 | [knowledge/grants.md](knowledge/grants.md) | Förderhistorie, laufende Anträge, Pipeline |
 | [knowledge/claims.md](knowledge/claims.md) | Zahlen und Sätze mit Evidenzstufe |
 | [knowledge/proposal-playbook.md](knowledge/proposal-playbook.md) | Horizon/EIC/KMU/VgV: Formulierungen, die Zuschläge wahrscheinlicher machen |

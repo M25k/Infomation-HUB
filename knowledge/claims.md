@@ -50,7 +50,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | StrahlenschutzVR Miete ab 499 €/Woche, Kauf ab 3.499 € | öffentlich | strahlenschutzvr.de |
 | Strahlenschutz: 97 / 94 / 91 % Presence / Verständnis / Glaubwürdigkeit | intern + Deck | Evaluation; in Anträgen mit Studie/Deck, nicht als Website-0 %-HTML |
 | „0 % … credible“ auf meditrainvr.com ohne JS | nicht verwenden | Fetch 2026-08-26 |
-| Präsenz ECR 2024 (Wien) mit StrahlenschutzVR | intern | Gmail: BfS/MyESR-Badge, Besucheranfrage. „Auszeichnung“ nur Deck — ohne Urkunde nicht als Award |
+| Präsenz ECR 2024 (Wien) mit StrahlenschutzVR | intern | Gmail: BfS/MyESR-Badge, Besucheranfrage. „Auszeichnung“ nur Deck — ohne Urkunde nicht als Award. Präsenz im ECR-„Cube“ zusätzlich belegt durch Dankesmail Charité (PD Dr. Maximilian de Bucourt, 07.03.2024) und Prof. Peter Reimer (Klinikum Karlsruhe, 11.02.2024); BfS an DRG: Vorstellung „hatte bei den Radiologen und MTR sehr großen Erfolg“ (06.03.2024). Weiter kein Award (Certificate of Merit für ein Poster siehe [open-questions.md](open-questions.md)). [Asana](https://app.asana.com/0/0/1219577427257268), [Asana](https://app.asana.com/0/0/1219577380282090), [Asana](https://app.asana.com/0/0/1219577380283260) |
 | Meditrain = Produktlinie der Northdocks GmbH; Ziel Koffer + Hardware/Software-Komplettpaket analog FirefighterVR | intern, **kanonisch** (2026-08-26) | GF. Pitch 2024 Ausgründung nicht mehr verwenden |
 | Koni Trainer als ausgeliefertes OP-/Katalogmodul oder „klinisch validiert Würzburg“ | **nicht verwenden** | Konisation-Trainer, nicht Koniotomie. KMU-innovativ VR-Koni-Edge **abgelehnt 10.07.2026**. RC1 11/2025 ohne Mesh Cutting. Fresenius/Helios-Decks mit Würzburg-Validierung sind falsch. [koni.md](koni.md) |
 
@@ -121,6 +121,6 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 - „Northdocks entwickelt seit 2009 Software und immersive Medien (CAU Kiel). Die **GmbH** besteht seit **2015** (HRB 76844 Düsseldorf, zuvor Kiel HRB 16574). Die VR-Linie begann mit Fulldome- und Planetariumsproduktionen und ist heute der Kern (XR-Training und Digital Twins). FirefighterVR als Produktlinie: mehr als sechs Jahre.“
 - „FirefighterVR ist Referenzprodukt und bei mehr als 100 Kunden im Einsatz (Stand Eignungsmappe 2026).“
 - „Nachgewiesener Multiplayer-Peak im Planspiel: 16 gleichzeitige Nutzer.“
-- „Eye-Tracking und Blicksteuerung seit 2021/22 (Wilhelmshaven), fortgeführt in Trier, Hannover und ARiNeP.“
+- „Eye-Tracking und Blicksteuerung seit 2021/22 (Wilhelmshaven), fortgeführt in Trier, Hannover und ARiNeP.“ Hinweis zu ARiNeP: Eye-Tracking-Daten laut Klinik kaum verwertbar, nur als technische Umsetzung nennen ([Asana](https://app.asana.com/0/0/1216337250485610)).
 - „Produktionsengine der Trainingsanwendungen: Unreal Engine 5 mit OpenXR. GodView ist die browserbasierte Twin-Plattform mit zwei Kundentypen: Bauinspektion (z. B. Kölner Dom) und Einsatzleitung (z. B. Feuerwehr, analog Planspiel/Playground). GodView ist nicht die Headset-Trainingsanwendung.“
 - „Der Digital Twin des Kölner Doms basiert auf mehr als 100.000 Fotos und 1.000 Laserscans.“
