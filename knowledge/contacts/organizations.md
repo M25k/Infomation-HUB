@@ -5,9 +5,9 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 ## ACQUANDAS GmbH
 
 - **Ort/Land:** Kiel, DE
-- **Typ:** Unternehmen (Nitinol-Mikrostrukturen)
+- **Typ:** Unternehmen (Thin-Film-Nitinol, Mikrostrukturen für Medtech); Gesellschafter u. a. Prof. Eckhard Quandt (CAU)
 - **Ansprechpartner:** [Dr.-Ing. Rodrigo Lima de Miranda](people.md#dr-ing-rodrigo-lima-de-miranda)
-- **Themen:** Digitale Zwillinge kleiner Strukturen, VR für Labor und Reinraum
+- **Themen:** Digitale Zwillinge kleiner Strukturen, VR für Labor, Reinraum und GMP-Personal; neuer Reinraum und neues Werk in Kiel (Spatenstich 14.09.2026, Fertigstellung bis April 2027 geplant)
 - **Bezug:** Offen
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -38,11 +38,12 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 
 - **Ort/Land:** Kiel, DE
 - **Typ:** Unternehmen (DSGVO-konforme KI)
-- **Ansprechpartner:** [Raitschin Raitschew](people.md#raitschin-raitschew), [Nikolai Raitschew](people.md#nikolai-raitschew)
+- **Ansprechpartner:** [Raitschin Raitschew](people.md#raitschin-raitschew), [Nikolai Raitschew](people.md#nikolai-raitschew), Tim Eisenreich
 - **Themen:** DSGVO-konforme KI
-- **Bezug:** Offen
+- **Bezug:** Hintergrundrecherche, noch kein Kontakt; Gelegenheit Marketing Club SH am 28.10.2026
 - **Freigabe:** Freigabe fehlt
-- **Historie:** Offen
+- **Historie:**
+  - 16.10.2026 · Recherche · Northdocks Social & Monitoring, noch kein Kontakt aufgenommen
 
 ## AUTH Thessaloniki und TEMA-Konsortium
 

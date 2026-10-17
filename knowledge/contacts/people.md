@@ -32,7 +32,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 
 - **Organisation:** [ACQUANDAS GmbH](organizations.md#acquandas-gmbh), Kiel
 - **Rolle:** CEO
-- **Kontaktweg:** LinkedIn
+- **Kontaktweg:** LinkedIn (2. Grades, gemeinsame Kontakte Dennis Nissen und Christina Wittke)
 - **Themen:** Digitale Zwillinge kleiner Strukturen, VR für Labor und Reinraum
 - **Bezug:** Offen
 - **Freigabe:** Freigabe fehlt
