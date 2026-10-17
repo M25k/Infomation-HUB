@@ -500,6 +500,16 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Historie:**
   - 12.06.2026 · Call · Pilot vereinbart, Bestellung nach Resellerkonditionen, Übersetzungstabelle geplant
 
+## Rumpold
+
+- **Ort/Land:** AT
+- **Typ:** Reseller / Vertriebspartner
+- **Themen:** FirefighterVR-Vertrieb für ganz Österreich (nicht nur Kärnten)
+- **Bezug:** [claims.md](../claims.md) (FirefighterVR, Stufe intern); Vollständiger Firmenname und Ansprechpartner noch offen ([open-questions.md](../open-questions.md))
+- **Freigabe:** Freigabe fehlt
+- **Historie:**
+  - 15.10.2026 · Discord (intern) · Patrick: Rumpold übernimmt den FirefighterVR-Vertrieb für ganz Österreich
+
 ## CIRSE (Cardiovascular and Interventional Radiological Society of Europe)
 
 - **Ort/Land:** Wien, AT (Central Office)

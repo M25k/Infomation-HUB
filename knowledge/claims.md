@@ -35,6 +35,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Planspiel-Peak 16 gleichzeitige Nutzer | intern | UKSH-Mappe. Addon: UKK CeMIT 13 Plätze nur Nachreichbeleg, nicht Peak-Claim |
 | Mitglied WFVD, vfdb, DRZ, DIBT | öffentlich | firefightervr.de (DE+EN). **Kein** Deutscher Feuerwehrverband (DFV) auf der Site |
 | Entwickelt mit Deutschem Feuerwehrverband / „German Fire Brigade Association“ | **nicht verwenden** | Business Deck; öffentliche Mitgliedschaft ist WFVD, nicht DFV |
+| Vertrieb FirefighterVR in Österreich über Rumpold (ganz Österreich, nicht nur Kärnten); damit Abdeckung Deutschland, Italien und Österreich | intern | Patrick, Team-Discord #firefightervr, 15.10.2026. Nicht öffentlich, solange nicht freigegeben |
 
 ## Meditrain / Strahlenschutz
 
