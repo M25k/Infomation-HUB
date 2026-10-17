@@ -19,7 +19,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Organisation:** [amatik](organizations.md#amatik)
 - **Rolle:** Offen
 - **Kontaktweg:** E-Mail (Silas, Mailakte Asana)
-- **Themen:** Gemeinsame Ausschreibungen, Landtag-Stelen, Forschungsideen Medizin
+- **Themen:** Gemeinsame Ausschreibungen, Landtag-Stelen, Forschungsideen Medizin; gegenseitige Referenzpreis-Angebote vereinbart (nur intern)
 - **Bezug:** Flyer EG Westholstein ([projects.md](../projects.md))
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -357,6 +357,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Bezug:** [Asana](https://app.asana.com/0/0/1203393673703225)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
+  - 06.11.2026 · Seminar · Schwerin, 15:00 bis 17:00, von Joachim übernommen
   - 18.08.2026 · Vor Ort · Ausbildertermin Brügge
   - 14.04.2026 · E-Mail · Seminar Schwerin November 2026 fest eingeplant
   - 17.03.2026 · Online · Erstgespräch

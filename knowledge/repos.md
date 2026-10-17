@@ -39,6 +39,10 @@ Nicht lokal, aber auf GitHub / in Asana-Repo-Karten (nicht „Lücke weil nicht 
 | `ND-Website` | Northdocks-GmbH/ND-Website | master | ältere Website? README leer |
 | `www-ar` | Northdocks-GmbH/www-ar | main | AR-Web, kein README |
 
+### NDFramework Build-Setup (nur intern)
+
+Unreal Engine **5.7**, C++-Projekt. Ziel Android **Arm64**, **Vulkan**, Target API **34**, Plugin **PICOOpenXR**. Fab-Plugins: CesiumForUnreal, EOSCore, SmoothSyncPlugin, JsonXmlHelper, NodeGraphAssistant, VaRest. Offen: Bezugsweg der Fab-Plugins (Lizenzkonto), Package-Name, Rotation des Android-Keystores. Keine Keystore-Dateien oder Passwörter ins Git.
+
 ## Vertical-Websites
 
 | Ordner | Remote | Live-URL |

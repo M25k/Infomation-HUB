@@ -68,6 +68,13 @@ Satelliten (keine der sieben Hub-Kacheln):
 
 Sachlich, produktbezogen. Keine Superlative ohne Beleg („Pioniere“, „radikal“, „nie dagewesen“, „100 %“). Keine erfundenen Kundenzahlen. Deutsch und Englisch getrennt pflegen, wo die Site zweisprachig ist — Inhalte spiegeln, nicht maschinell halb übersetzen.
 
+## Video und Clips
+
+- Voiceover: „Firefighter VR“ mit englisch gesprochenem „VR“.
+- Reel „23 Module“ ist Stilreferenz für neue Clips.
+- Clips liegen in Marketing Sales / Social Clips.
+- Keine Aufnahme von Bundespräsident Steinmeier mit VR-Brille verwenden.
+
 ## Technik öffentlich sagbar
 
 - Unreal Engine 5, OpenXR, Standalone (Pico/Quest) für Trainingsprodukte

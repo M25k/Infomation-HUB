@@ -28,7 +28,7 @@ Referenzierbar = in Eignung/Angeboten nutzbar. Freigabe = Namensnennung Person v
 | Schockraum VR | Uniklinik Köln, Orthopädie/Unfallchirurgie | laufend + KI-Erweiterung | FA **328.403 €** netto Paid + KI 40 k€ noch nicht in FA | Multiplayer Schockraum, Teamtraining. Außen **ERVR** / Emergency Room VR; intern Schockraum. Zielhardware **PICO Space Pro** (vormals Project Swan), Mobile-Ports laufen. **Zuschlag 28.12.2021** (Datta/Rechtsabt.). Drei Ursprungsszenarien: Schockraum, Instabiler Patient/Normalstation, Fahrstuhl. Pulse Physiology Engine (Unreal-Port, OSS nur Engine). FA-Positionen: MS I Pulse/Planung `20220307-01` 30 k€; MS II Schockraum 120 k€ in `20220822-02`+`20230622-01`; MS III Instabiler Patient `20230731-01` 90 k€; MS IV Fahrstuhl `20230802-01` 60 k€. Dazu 2024 Überarbeitung Schockraum/Fahrstuhl je 10 k€ (`20240603-06`/`-05`) und Updates `20241203-01` 8.403 €. FA-Summe dieser acht **328.403 €** netto Paid (gilt). KI 40 k€ nicht in FA. Mappe 380 k€ und 357 k€ brutto nicht verwenden | ergänzend, nicht Pflichtslot UKSH | PD Dr. Rabi Raj Datta |
 | Radiation Protection VR | UKSH/BfS u. a. | Asana archiviert UKSH/BfS | FA BfS-Kontakt ca. **204 k€** (intern, nicht neues Eignungsvolumen). AP2 `20221114-01` 123.550 €; AP3 `20230913-01` 34.454 €. Zuschlag Ausschreibung **3621S42350** (Vertrag 08/2021, BfS Meister) | Katheterlabor, Echtzeit-Dosimetrie | ja als Meditrain-Modul | — |
 | UAD Training | FVR – UAD | archiviert | — | Feuerwehr-VR | intern | — |
-| RescueArena Kopenhagen | Auftrag 2024/25 | archiviert | — | VR-Veranschaulichung Übungsanlage; FA (Koppenhagen GmbH): KV `20250109-01`, Rechnung `20250702-01` 8.640 € netto Paid. Abo-Verlängerung 2026 nur als Entwurf `20261016-01` (499 €, Draft) (FreeAgent, Abruf 17.10.2026) | intern | — |
+| RescueArena Koppenhagen (Aerzen) | Auftrag 2024/25 | archiviert | — | VR-Veranschaulichung Übungsanlage der Koppenhagen112 in Aerzen (Dibbetweg 31, 31855 Aerzen), nicht Kopenhagen; FA (Koppenhagen GmbH): KV `20250109-01`, Rechnung `20250702-01` 8.640 € netto Paid. Abo-Verlängerung 2026 nur als Entwurf `20261016-01` (499 €, Draft) (FreeAgent, Abruf 17.10.2026) | intern | — |
 
 Öffentliche FirefighterVR-Kundenleiste (Deck, nicht alle mit Volumen): Dräger Safety AG, BASF Werkfeuerwehr, Henkel, Currenta „and many more“. Claim **>100 Kunden** intern belegt in UKSH-Mappe, nicht öffentlich nachgezählt.
 
@@ -141,7 +141,7 @@ ARiNeP-Kontakt (intern): Dr. med. Johannes Gehrig — nur in Eignung, nicht öff
 
 ND Launcher, ND White Label Platform, ND VRFramework, ND XR Viewer, ND Asset Showcase, FFVR Playground/Planspiel, FFVR Koffer/Kits, VR Tutorial, Godview VR, WEB-Sites, Kundenanfragen/Bestellungen, Resellerverwaltung.
 
-FirefighterVR-Inhaltsprojekte (Auswahl, Asana): Firefighting, Waldbrand, Feuerlöscher, Unfallsicherung, Erkundung, Löschangriff, Flashover 2025, First Aid 2025, CPR 2024 / CPR 2022, Drehleiter, Notfallpneumatik, Ladungssicherung, Turbolöscher, Firesaber, Brandbekämpfung Schlafzimmer, PKW-Rettung, AED, Sprungkissen, Pump, Interior Attack, Vegetationsbrand Kopenhagen, CalifWildfire, HNE, UAD Training, Legacy Scenarios. **Playground/Planspiel:** Meta-Store-Einreichung `FirefighterVR Playground` (von Planspiel) genehmigt **28.07.2025**.
+FirefighterVR-Inhaltsprojekte (Auswahl, Asana): Firefighting, Waldbrand, Feuerlöscher, Unfallsicherung, Erkundung, Löschangriff, Flashover 2025, First Aid 2025, CPR 2024 / CPR 2022, Drehleiter, Notfallpneumatik, Ladungssicherung, Turbolöscher, Firesaber, Brandbekämpfung Schlafzimmer, PKW-Rettung, AED, Sprungkissen, Pump, Interior Attack, Vegetationsbrand Koppenhagen, CalifWildfire, HNE, UAD Training, Legacy Scenarios. **Playground/Planspiel:** Meta-Store-Einreichung `FirefighterVR Playground` (von Planspiel) genehmigt **28.07.2025**.
 
 ## I. Hochschulen / laufend
 
@@ -161,7 +161,7 @@ Kurz zur Navigation (Details und Task-Zahlen dort):
 
 - **Currenta:** 11 Lose ab 2018, andere Ansprechpartner; FA-Gesamt ca. 685 k€ erlaubt. UKSH-Mappe 20 k€ / Custom 5.760 € bleiben Einzelnennungen.
 - **Factory:** Merck Darmstadt ≠ BIT Gendorf/Infraserv; Actemium-Familie; BASF ohne eigenes Board; Bayer Hi-Fog/Monheim/Handtracking.
-- **FFVR-Custom:** UAD, HNE, Pump, Feuerlöscher, Kopenhagen-Vegetation, Interior Attack, CalifWildfire, Waldbrand, RescueArena; Playground Meta-Store **28.07.2025**.
+- **FFVR-Custom:** UAD, HNE, Pump, Feuerlöscher, Koppenhagen-Vegetation, Interior Attack, CalifWildfire, Waldbrand, RescueArena; Playground Meta-Store **28.07.2025**.
 - **TMA/SOE:** sechs Szenarien + General-Board. Kosovo: Kognita/Interadria-Mail 01/2025, Endkunde GF Streitkräfte.
 - **amatik/Kultur:** Landtag, Wilhelmshaven, Trier (310 Tasks), LVermGeo/LKN/LaZuF, Fulldome inkl. XM Cyber intern.
 - **Medizin:** UKSH/BfS 194 Tasks, ARiNeP, Meditrain-Plattform archiviert.

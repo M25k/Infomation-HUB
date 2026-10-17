@@ -87,3 +87,4 @@ Details und Agent-Checkliste: [.cursor/rules/reader-facing-prose.mdc](../.cursor
 - **Reschke Productions GmbH:** interne Verrechnung, keine Kundenreferenz, nicht in Eignung.
 - **KPI „Immersion“ (TEMA):** Nie als „validiert“ bezeichnen. Es gibt keine abgeschlossene Studie (Joachim, 16.10.2026).
 - **Bürrig (Currenta):** Namentlich nennen ist erlaubt. Nie Bildmaterial, Einsatzpläne, Einsatzbereitschaftsdaten o. Ä. teilen (Joachim, 16.10.2026).
+- **Support- und Update-Preise FirefighterVR:** Immer wie auf der FirefighterVR-Website angegeben, aktuell **699 € netto je Headset und Jahr** ab dem 13. Monat, gültig ab 01.10.2026 (Quelle [websites/firefightervr.md](websites/firefightervr.md), Zeile 24). Alte Preise 500 € bzw. 499 € netto sind ungültig und nur in Sonderfällen zu nennen (Joachim, 16.10.2026). Preishistorie in firefightervr.md gilt als historisch, ungültig.

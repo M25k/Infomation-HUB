@@ -18,7 +18,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** Kiel, DE (amatik Designagentur)
 - **Typ:** Unternehmen, Partner
 - **Ansprechpartner:** [Florian Riedel](people.md#florian-riedel); Johann Rathjen, Nicolas Apenburg, Teresa Döge (Mailakte Silas)
-- **Themen:** Stadt-VR, Spieleförderung
+- **Themen:** Stadt-VR, Spieleförderung; gegenseitige Referenzpreis-Angebote vereinbart (nur intern, siehe [open-questions.md](../open-questions.md))
 - **Bezug:** feir-Verbundpartner ([grants.md](../grants.md)); Hannover VR, Flyer EG Westholstein ([projects.md](../projects.md)); Spieleförderung BMW Games (Pipeline, [grants.md](../grants.md))
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -406,6 +406,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Bezug:** Lead, kein Auftrag; [Asana](https://app.asana.com/0/0/1203393673703225)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
+  - 06.11.2026 · Seminar · Schwerin, 15:00 bis 17:00, von Joachim übernommen
   - 18.08.2026 · Vor Ort · Ausbildertermin Brügge, Silas und Joachim mit zwei Setups (Feuerlöscher, Strahlrohr)
   - 17.06.2026 · E-Mail · Thema auf Amtsebene besprochen
   - 14.04.2026 · E-Mail · Northdocks fest eingeplant für das Seminar in Schwerin im November 2026
