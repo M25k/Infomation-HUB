@@ -75,6 +75,14 @@ Sachlich, produktbezogen. Keine Superlative ohne Beleg („Pioniere“, „radik
 - Clips liegen in Marketing Sales / Social Clips.
 - Keine Aufnahme von Bundespräsident Steinmeier mit VR-Brille verwenden.
 
+### Reel-Bibliothek (fester Ablauf seit 19.10.2026)
+
+- Der Bot „Northdocks Video“ produziert ab Montag, 19.10.2026, jeden Werktag zwei Reels für eine Reel-Bibliothek (Vorgabe Joachim, 17.10.2026).
+- Inhalte: Nur belegte Aussagen zu den Produkten (FirefighterVR, MeditrainVR, Next Factory VR, SpearheadVR, StrahlenschutzVR u. a.); auf Social und Websites nur Claims mit Stufe „öffentlich“ aus [claims.md](../claims.md).
+- Ablauf: Northdocks Video fragt morgens beim Bot „Northdocks Wissen“ nach Themen, belegten Inhalten und neuen Freigaben oder Tabus für Bildmaterial. Northdocks Wissen schickt auch von sich aus Themen mit gutem, freigegebenem Material.
+- Bildmaterial-Tabus gelten immer, unter anderem: kein Bildmaterial, keine Einsatzpläne oder Einsatzbereitschaftsdaten aus Bürrig (Currenta), keine Steinmeier-Aufnahme, Reschke Productions nie als Referenz.
+- Technik: Gerendert wird auf der CPU, die GPU nur für kurze Whisper-Gegenproben, wenn sie frei ist.
+
 ## Technik öffentlich sagbar
 
 - Unreal Engine 5, OpenXR, Standalone (Pico/Quest) für Trainingsprodukte
