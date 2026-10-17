@@ -103,6 +103,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Kumuliert rund 1,5 Mio. € öffentliche Fördermittel | **nicht verwenden** intern/Eignung ohne Belegliste | EIC-Pitch-Mail 17.07.2026. C-Level-Außenkommunikation kann abweichen; KB nur Einzelzuschläge in grants.md |
 | EIC: Ausgründung FirefighterVR als eigene GmbH Kiel | **nicht verwenden** | Pitch-Mail 17.07.; GF/KB: Spin-Off nicht übernehmen |
 | BMBF feir-Teilvorhaben, FKZ **13N16415**, Höchstbetrag **273.630 €** (70 %), 01.09.2022–31.08.2025 | intern | Bescheid 30.08.2022. Teilvorhaben Northdocks, nicht Verbundsumme |
+| feir: Fraunhofer IAO ist Verbundpartner | öffentlich | Freigabe Joachim 17.10.2026; Verbund laut grants.md. Ohne Fördersumme/FKZ |
 | Spot-KI mit KI-Transfer-Hub Schleswig-Holstein, EU + Land SH | öffentlich + intern | funding.html, News, GF 2026-08-26; WTSH **220 23 012**, Laufzeit 01.07.2022–30.06.2024 |
 | Spot-KI Northdocks-Erstattung 42.065,85 € + Schluss 54.671,00 € | intern | WTSH-Mails 2024/25. Nur Teilvorhaben, **nicht** kumulierte 1,5 Mio. €, nicht Verbundsumme |
 | Spot-KI mit Vodafone oder Uniklinik Köln | **nicht verwenden** | Deck falsch; GF: keine Verbindung |
