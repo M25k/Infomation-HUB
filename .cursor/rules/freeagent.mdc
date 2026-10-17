@@ -23,3 +23,9 @@ eine Zeile: Ref, Organisation, netto, Status
 FreeAgent = Kundenrechnungen / Verkauf. **Keine abgerufenen Fördermittel** (TEMA, feir, Spot-KI, FlowAR) — die stehen in [knowledge/grants.md](knowledge/grants.md). Nicht mit FA-Umsatz addieren.
 
 Nie ins Git: Client-Secret, Tokens, IBANs, Lohn, private Spesen, Kundentelefone. Keine GJ-Zahl erfinden — Eignung >200 k€; intern vage ca. 1 Mio. € p.a.; FA-Jahre in [knowledge/accounting.md](knowledge/accounting.md).
+
+## API-Helper (Box, read-only)
+
+Neben dem MCP gibt es für Agents auf der Box den Helper `/workspace/freeagent/fa.py` (nicht im Repo): `get_token()` (Refresh-Token-Flow, Token nur im Speicher) und `get(path, params)` mit Pagination (Link-Header, `per_page=100`). Credentials nur aus der Umgebung (`FREEAGENT_CLIENT_ID`, `FREEAGENT_CLIENT_SECRET`, `FREEAGENT_REFRESH_TOKEN`), nie ausgeben oder committen. Nur GET; einziger POST ist der Token-Endpoint. Liefert der Token-Endpoint einen neuen Refresh-Token, meldet der Helper das (ohne Wert).
+
+Im FA-Konto (Stand 17.10.2026) keine Bills; Bankfeed nur Zahlungseingänge. Eingangsrechnungen, Finanzamt und Forschungszulage nicht über FreeAgent prüfen.

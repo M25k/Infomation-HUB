@@ -152,15 +152,18 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Typ:** Übungsanlage / Trainingszentrum von Koppenhagen112
 - **Ansprechpartner:** [Jan-Hendrik Koppenhagen](people.md#jan-hendrik-koppenhagen), [Dennis Heumann](people.md#dennis-heumann) (Vertrieb VR seit 04/2026), Frank Koppenhagen, Daniel Viebrock
 - **Themen:** Realbrand- und Taktiktraining, Indoor-Arena; Koppenhagen112 ist Firefighter-VR-Händler (Händlerpreise, Abo)
-- **Bezug:** Auftrag 2024/25, archiviert ([projects.md](../projects.md), [history.md](../history.md)); Asana-Projekt „RescueArena Koppenhagen“; Quelle [rescue-arena.de](https://rescue-arena.de/); Mailakte Silas [Asana](https://app.asana.com/0/0/1208864434296029), [Asana](https://app.asana.com/0/0/1208964653680311), [Asana](https://app.asana.com/0/0/1203393673702944)
+- **Bezug:** Auftrag 2024/25, archiviert ([projects.md](../projects.md), [history.md](../history.md)); FreeAgent-Kontakt Koppenhagen GmbH; Asana-Projekt „RescueArena Koppenhagen“; Quelle [rescue-arena.de](https://rescue-arena.de/); Mailakte Silas [Asana](https://app.asana.com/0/0/1208864434296029), [Asana](https://app.asana.com/0/0/1208964653680311), [Asana](https://app.asana.com/0/0/1203393673702944)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
-  - 18.05.2026 · E-Mail · Dennis Heumann bestellt Abo-Verlängerung zu 499 € netto je Headset, Angebot/Rechnung in FreeAgent fehlen
+  - 16.10.2026 · FreeAgent · Rechnungsentwurf 20261016-01, 499 € netto für ein Headset, 16.10.2026 bis 15.10.2027, Status Draft, kein Angebot (FreeAgent, Abruf 17.10.2026)
+  - 18.05.2026 · E-Mail · Dennis Heumann bestellt Abo-Verlängerung zu 499 € netto je Headset
   - 24.04.2026 · E-Mail · Silas: Abo läuft am 01.05.2026 aus
   - 02.07.2025 · Rechnung · 20250702-01, 8.640 € netto (RescueArena-Modell), bezahlt
   - 17.03.2025 · Rechnung · 20250317-01, 2.906,43 € netto (Pico 4 Ultra Upgrade zu Händlerpreisen), bezahlt
   - 09.01.2025 · E-Mail · Kostenvoranschlag 20250109-01 RescueArena 8.640 € netto
+  - 29.11.2024 · Rechnung · 20241129-02, 3.313,58 € netto (Firefighter VR Mobile Kit), bezahlt (FreeAgent, Abruf 17.10.2026)
   - 29.10.2024 · Besuch · Termin vor Ort in Aerzen
+  - 06.11.2020 · Rechnung · 20200100-11, 6.785 € netto (50 % VR-Trainingsanwendung Flächenbrände, Angebot 20200618-01), bezahlt (FreeAgent, Abruf 17.10.2026)
 
 ## Universität der Bundeswehr München
 
@@ -208,6 +211,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Bezug:** Forschungszulage 2021 bis 2024 ([grants.md](../grants.md)); [Asana](https://app.asana.com/0/0/1209233061901597)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
+  - 17.10.2026 · FreeAgent · Kein PFIF-Kontakt, keine Bills; Zahlung der vier Rechnungen und Forschungszulage- bzw. Finanzamt-Gutschrift dort nicht sichtbar (FreeAgent, Abruf 17.10.2026)
   - 06.07.2026 · E-Mail · Vier Honorarrechnungen, Zahlungsplan angeboten
   - 21.05.2026 · E-Mail · Widerspruch Vorhaben 01 erfolgreich, alle drei Vorhaben bescheinigt
   - 06.02.2026 · E-Mail · BSFZ-Bescheid 02 und 03 positiv, 01 abgelehnt
@@ -383,12 +387,13 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Typ:** Universität, Kunde
 - **Ansprechpartner:** [Hannes Nevermann](people.md#hannes-nevermann) (Sensordaten), Erik Manke (Campus Lab Circular Economy)
 - **Themen:** VR/AR-Sensorvisualisierung, Campus Lab VR/AR, China-Folge (Feishu)
-- **Bezug:** [projects.md](../projects.md), [accounting.md](../accounting.md); Zuordnung Rechnung 20250813-01 siehe [open-questions.md](../open-questions.md); [Asana](https://app.asana.com/0/0/1209567624473668), [Asana](https://app.asana.com/0/0/1211703657769012), [Asana](https://app.asana.com/0/0/1211452151930928)
+- **Bezug:** [projects.md](../projects.md), [accounting.md](../accounting.md); Rechnung 20250813-01 gehört zur Sensorvisualisierung, nicht zum Campus Lab (FreeAgent, Abruf 17.10.2026); [Asana](https://app.asana.com/0/0/1209567624473668), [Asana](https://app.asana.com/0/0/1211703657769012), [Asana](https://app.asana.com/0/0/1211452151930928)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
+  - 27.05.2026 · Rechnung · 20260527-02 Campus Lab, 37.620 € netto, bezahlt 29.06.2026; 20260428-01 (49.500 €) per Gutschrift 20260527-03 aufgehoben (FreeAgent, Abruf 17.10.2026)
   - 15.12.2025 · Bestellung · Campus Lab, Auftrag 4600065350
   - 03.11.2025 · E-Mail · Angebot 20251103-01 Campus Lab
-  - 13.08.2025 · Rechnung · 20250813-01 Sensorvisualisierung
+  - 13.08.2025 · Rechnung · 20250813-01 Sensorvisualisierung, 32.678 € netto, bezahlt 15.09.2025 (Auftrag 4600057946 vom 08.04.2025; FreeAgent, Abruf 17.10.2026)
   - 05.06.2025 · Event · Vorstellung der App auf dem Gelände
   - 13.03.2025 · E-Mail · Zusage „30k € Option“ (QUOTE 20250313-01)
 
@@ -785,7 +790,7 @@ Nur Organisationen mit belegtem Auftrag, Angebot mit Betrag, Abo oder Miete. Kon
 | Karl Schmidt Spedition | DE | Bestellung 31.03.2026 Feuerlöscher + CPR; zweites Mietset 08. bis 14.06.2026 (Angebot 20260420-01, Rechnung 20260504-03), eine Woche zusätzlich kostenfrei | [Asana](https://app.asana.com/0/0/1213435286877765), [Asana](https://app.asana.com/0/0/1214130716036000) |
 | Brandschutzdienstleistungen Stormanns | DE | Rechnung 20260302-02 | [Asana](https://app.asana.com/0/0/1213491796432300) |
 | Starbond Switzerland | CH | Bestellung 16.09.2024, Auslieferung 23.01.2025 | [Asana](https://app.asana.com/0/0/1208309312592626) |
-| Framatome | DE | Bestellung 1024047482 (2024), Upgrades 11/2025, Bestellung 1026029238 13.05.2026 (zunächst unbemerkt) | [Asana](https://app.asana.com/0/0/1208330552056204) |
+| Framatome (FA-Kontakt AdvancedNuclearFuels GmbH, Lingen) | DE | Bestellung 1024047482 (2024): Rechnung 20241120-02, 3.410,51 € netto, bezahlt; Upgrades 11/2025 abgelehnt; Bestellung 1026029238 13.05.2026 (zunächst unbemerkt): Rechnung 20260623-02, 3.818 € netto, bezahlt 07.07.2026 (FreeAgent, Abruf 17.10.2026) | [Asana](https://app.asana.com/0/0/1208330552056204) |
 | SEVERICH & PARTNER (Vodafone-Lieferant, Endkunde Vodafone, Kai Börner) | DE | Angebot 20260311-01, ersetzt durch 20260326-02, Rechnung 20260504-01 bezahlt; Inbetriebnahme Feuerlöscher und Strahlrohr 19.05.2026 | [Asana](https://app.asana.com/0/0/1213619932922784), [Asana](https://app.asana.com/0/0/1213796890540485) |
 | FF Kirchhorsten (Samtgemeinde Nienstädt) | DE | Miete, Rechnung 20260511-01 | [Asana](https://app.asana.com/0/0/1213875031711555) |
 | FF Wittdün (Zweckverband Sicherheit und Soziales) | Amrum | Paket Strahlrohr, Freigabe Zweckverband 16.03.2026, Angebot 20260319-01, Rechnung 20260317-02; Ausbau auf alle vier Inselwehren angedacht | [Asana](https://app.asana.com/0/0/1209534645330612) |
@@ -797,14 +802,15 @@ Nur Organisationen mit belegtem Auftrag, Angebot mit Betrag, Abo oder Miete. Kon
 | Förderverein Feuerwehr (Marcel Müller) | DE | Rechnung 20251219-01 bezahlt | [Asana](https://app.asana.com/0/0/1210287746175917) |
 | Security@Work GmbH | AT | Rechnung 20251118-01, Kunde, Höhenarbeit-Szenarien besprochen | [Asana](https://app.asana.com/0/0/1211860908632242) |
 | Vodafone / Extreme E | UK | Rechnung 20231122-01, 5.000 €; Abrede: Extreme E rechnet an Vodafone Business weiter; bezahlt 07.02.2024 | [Asana](https://app.asana.com/0/0/1205767101922798) |
-| TUHH Campus Lab | Hamburg | Teilrechnung 20260527-02 37.620 €, Puffer 11.880 € offen; Angebot 20251103-01, Auftrag 4600065350 vom 15.12.2025 | [Asana](https://app.asana.com/0/0/1217112705430831), [Asana](https://app.asana.com/0/0/1211703657769012) |
-| Dräger, Lübeck (Nico Gäding, Anna Kastens, Kevin Sündermann) | Lübeck | Angebot 20240429 FFVR Mobile mit Strahlrohr, abgerechnet als Rechnung 20240612-01 (bezahlt); Abo bis Mai/Juni 2025, Verlängerung und Pico-4-Ultra-Upgrade am 27.10.2025 abgelehnt; KV 20241128-01 Video MFC 7000 abgelehnt (23.01.2025); Angebot 20250827-01 Firefighter VR Demo-/Händler-Set abgelehnt; 360°-Applikation aus Dräger-Videos, Upgrade Marketing-Set auf PICO 4 Ultra unter 1.500 € netto angeboten (23.01.2026, ohne Angebot) | [Asana](https://app.asana.com/0/0/1207378693419930), [Asana](https://app.asana.com/0/0/1209796518336344) |
+| TUHH Campus Lab | Hamburg | Teilrechnung 20260527-02 37.620 € netto, bezahlt 29.06.2026 (20260428-01 per Gutschrift 20260527-03 aufgehoben), Puffer 11.880 € offen; Angebot 20251103-01, Auftrag 4600065350 vom 15.12.2025 | [Asana](https://app.asana.com/0/0/1217112705430831), [Asana](https://app.asana.com/0/0/1211703657769012) |
+| Dräger, Lübeck (Nico Gäding, Anna Kastens, Kevin Sündermann) | Lübeck | Angebot 20240429 FFVR Mobile mit Strahlrohr, abgerechnet als Rechnung 20240612-01 (2.965,34 € netto, bezahlt 12.07.2024, FreeAgent, Abruf 17.10.2026); Abo bis Mai/Juni 2025, Verlängerung und Pico-4-Ultra-Upgrade am 27.10.2025 abgelehnt; KV 20241128-01 Video MFC 7000 abgelehnt (23.01.2025); Angebot 20250827-01 Firefighter VR Demo-/Händler-Set abgelehnt; 360°-Applikation aus Dräger-Videos, Upgrade Marketing-Set auf PICO 4 Ultra unter 1.500 € netto angeboten (23.01.2026, ohne Angebot) | [Asana](https://app.asana.com/0/0/1207378693419930), [Asana](https://app.asana.com/0/0/1209796518336344) |
 | KCOR, National Centre for Radiation Protection in Health Care (Szczepan Stefanowicz, Lucjan Pfajfer) | Łódź, PL | RPVR Mobile (PICO 4 Ultra Enterprise), Angebot 20250721-01, Rechnung 20251211-01 über 11.310 PLN (Zahlungsziel 21.12.2025, Finanzierung über das polnische Gesundheitsministerium) | [Asana](https://app.asana.com/0/0/1209442155213969) |
 | ma-co maritimes competenzcentrum GmbH (Sven Stohn, Thomas Lührs) | Hamburg | Kofferset seit 2024 bei den Trainern im Einsatz, Abo laut Silas aktiv bis Ende Januar 2026, Verlängerung am 25.11.2025 abgelehnt; Rechnungsnummer nicht in der Mailakte (Angebot 20240523 in FreeAgent Rejected) | [Asana](https://app.asana.com/0/0/1208261648360533) |
 | CP Kelco (Jan Koblitz, Björn Henning) | DE (Ort offen) | Miete ab 05.05.2025 für 4 Wochen: Mietangebot 20250326-01, Rechnungen 20250410-01 (Miete) und 20250410-02 (Kaution), beide bezahlt | [Asana](https://app.asana.com/0/0/1208062151768328) |
 | Universitätsklinikum Frankfurt, Neurologie (Johannes Gehrig) | Frankfurt am Main | ARiNeP: Angebot 20240528-04 über 9.720 € netto, Rechnung 20241028-01 (11.566,80 € brutto, Paid, Skontodifferenz 347 € nachgezahlt); PICO 4 aus eigenem Lager, korrigierte Bestellung 4501841401, Versand 04.02.2025 | [Asana](https://app.asana.com/0/0/1216337250485610) |
-| TUHH, VR Visualization of Sensor Data (Hannes Nevermann) | Hamburg | QUOTE 20250313-01 („30k € Option“, inkl. Android-Tabletversion), Rechnung 20250813-01 bezahlt | [Asana](https://app.asana.com/0/0/1209567624473668) |
-| Feuerwehr Gusow-Platkow (Tino Krebs) | Brandenburg | Angebot 20251017-04 (Vorläufer 20250804-01 Rejected); positiver Zuwendungsbescheid 27.07.2026, Bestellung angekündigt, nicht belegt | [Asana](https://app.asana.com/0/0/1210961536743606) |
+| TUHH, VR Visualization of Sensor Data (Hannes Nevermann) | Hamburg | QUOTE 20250313-01 („30k € Option“, inkl. Android-Tabletversion), Rechnung 20250813-01 (32.678 € netto, bezahlt 15.09.2025, FreeAgent, Abruf 17.10.2026) | [Asana](https://app.asana.com/0/0/1209567624473668) |
+| Feuerwehr Gusow-Platkow (Tino Krebs; Rechnung an Feuerwehrverein Gusow-Platkow e.V.) | Brandenburg | Angebot 20251017-04 (Vorläufer 20250804-01 Rejected); positiver Zuwendungsbescheid 27.07.2026; Angebot 20260730-07, Bestellung 02.08.2026, Rechnung 20260805-01 über 7.561 € netto (2 Kits), bezahlt 13.08.2026 (FreeAgent, Abruf 17.10.2026) | [Asana](https://app.asana.com/0/0/1210961536743606) |
+| EUROPTEN Transmission Germany GmbH | DE | Angebote 20260422-02 (Kauf, 2.789,15 € netto) und 20260910-02 (Miete, 6.207 € netto), beide offen, keine Rechnung (FreeAgent, Abruf 17.10.2026) | [Asana](https://app.asana.com/0/0/1214172722989270) |
 | Feuerwehr-Erlebnis-Museum Hermeskeil (Dennis Weber) | Hermeskeil | Angebot 20251202-02, Zusage 07.12.2025; 5 Brillen im Betrieb (Call 20.03.2026), Waldbrand im Kioskbetrieb; Rechnungsnummer nicht in der Mailakte | [Asana](https://app.asana.com/0/0/1212238887661795) |
 | CJD Berlin-Brandenburg (Mario Hemmer) | Berlin | Kaufangebot 20260129-02, keine Bestellung; Anfrage Einsatz beim Gesundheitstag 25.09.2026 | [Asana](https://app.asana.com/0/0/1213018566637346) |
 | VR Synergy (Iuliana Moje) | RO | Angebote 20260123-05 und 20260123-06 sowie Mailangebot 13.05.2026 zur Ausschreibung ROHU00097; kein Auftrag; geschlossen, kein Follow-up (Joachim 16.10.2026) | [Asana](https://app.asana.com/0/0/1212684661023509) |

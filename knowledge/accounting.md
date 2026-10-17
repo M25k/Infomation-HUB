@@ -8,6 +8,8 @@ MCP: `freeagent-mcp-server` in `C:\Users\joach\.cursor\mcp.json` (nicht in diese
 
 Stand 30.08.2026: API lesbar (OAuth). Tax-Timeline-Endpunkt 403, ignoriert. Nur list/get/report.
 
+Stand 17.10.2026: Zusätzlich read-only Zugriff für Agents über den Python-Helper `/workspace/freeagent/fa.py` auf der Box (Regel [.cursor/rules/freeagent.mdc](../.cursor/rules/freeagent.mdc)). Im FA-Konto sind **keine Bills** (Eingangsrechnungen) erfasst; der Bankfeed zeigt nur Zahlungseingänge zu Ausgangsrechnungen. Lieferantenrechnungen, Finanzamt und Forschungszulage sind dort nicht prüfbar.
+
 ## Schreibregel
 
 Widerspruch zu [claims.md](claims.md) → [open-questions.md](open-questions.md), nicht still überschreiben. Website bleibt ohne Umsatz ([websites/_shared.md](websites/_shared.md)).
@@ -116,7 +118,7 @@ UKK acht Rechnungen **328.403 €** Paid (gilt). KI 40 k€ nicht in FA. Henkel-
 | Stadtverwaltung Trier | 3 | 142.920 € Paid | gilt; Mappe 80 k€ verworfen |
 | Austrian Power Grid | 8 | ca. 119 k€ | POs 4500320239 / 4500320883 bestätigt |
 | InfraServ Gendorf | 1 Paid | 80.000 € `20221215-01` | Angebotszahl 47.880 € und Rejected-Estimate 142.190 € sind **andere** Papiere |
-| Technische Universität Hamburg | 4 | ca. 70 k€ netto nach Gutschrift | Campus Lab 2025–26 fakturiert |
+| Technische Universität Hamburg | 4 | ca. 70 k€ netto nach Gutschrift | Zwei Lose: Sensorvisualisierung `20250813-01` **32.678 €** (Paid 15.09.2025) und Campus Lab `20260527-02` **37.620 €** (Paid 29.06.2026; `20260428-01` 49.500 € per Gutschrift `20260527-03` storniert). FreeAgent, Abruf 17.10.2026 |
 | VITA-GUARD Tomczak | 4 | ca. 34 k€ + Approved-Angebot 30.490 € | 10 Setups bestätigt |
 
 ### Positionen vs. KB
@@ -163,7 +165,7 @@ Nur merken, nicht als Referenz: Currenta CP Arena 2.0 106.920 € Open; HELIOS F
 
 FA-Liste der **398** Rejected-Estimates 31.08.2026 weiter **nicht** live lesbar (MCP-Tokens speichern nicht). Kein Dump erfinden.
 
-Bereits kanonisch: InfraServ `20210223-BIT-Technikum-02` **142.190 €** Rejected ≠ Paid 80.000 €. BASF EMPL-Custom Asana **Rejected**. Kepler/XFEL anderer Anbieter. Dräger Mobile `20240429` ~2.965 € = Angebot, kein Zuschlag. John Deere 9.000 € bleibt **Open**, nicht Rejected.
+Bereits kanonisch: InfraServ `20210223-BIT-Technikum-02` **142.190 €** Rejected ≠ Paid 80.000 €. BASF EMPL-Custom Asana **Rejected**. Kepler/XFEL anderer Anbieter. Dräger Mobile `20240429` wurde abgerechnet: Rechnung `20240612-01` (12.06.2024) **2.965,34 €** netto, Paid 12.07.2024 (FreeAgent, Abruf 17.10.2026). Kleines Los, kein Eignungsvolumen. John Deere 9.000 € bleibt **Open**, nicht Rejected.
 
 Mail-Absagen 2024 (Hardware-Vergabe, nicht Eignung, keine FA-Nummer hier): Landkreis **Wunsiedel** `24-L-0077-LRA` VR-Brillen (09.04.2024); Landratsamt **Eichstätt** `LRA-2024-MZ-1` VR-Equipment (15.03.2024).
 
@@ -177,7 +179,7 @@ Ohne Fördermittel. Paid/Refund, Drafts raus.
 
 **Merck** 12 Paid 2019–25 = **401.150 €**.
 
-**Dräger Safety Rechnungsstelle** Custom 2020–22 (Gaming-Welt/Brandcontainer/Katalog) plus kleine 2024/25-Zeilen — intern ca. 200 k€ Kontakt, nicht Website.
+**Dräger Safety Rechnungsstelle** Custom 2020–22 (Gaming-Welt/Brandcontainer/Katalog) plus kleine 2024/25-Zeilen (2024: `20240612-01` 2.965,34 € Mobile Kit, Paid) — intern ca. 200 k€ Kontakt, nicht Website.
 
 **sonnen** durchgehend 2015–23 (nicht nur ein Video 2023).
 
@@ -232,3 +234,18 @@ Ohne Fördermittel. Paid/Refund, Drafts raus.
 **Weitere FA-Blöcke intern:** Rhein-Kreis Neuss **61.416 €** netto; BASF 58 k€ (14 Rechnungen) — keine neuen Eignungsslots.
 
 **Reschke Productions GmbH:** FA-Kontakt intern ca. 137 k€. **Interne Verrechnung**, kein Kunde. Nicht in `projects.md`, nicht in Eignung, nicht als Referenz.
+
+## Abgleich 17.10.2026 (FreeAgent, Abruf 17.10.2026)
+
+Nur Belege zu offenen Punkten aus der Mailakte Silas. Netto = `net_value`.
+
+| Ref | Organisation (FA-Kontakt) | Datum | Netto | Status | Zuordnung |
+|---|---|---|---|---|---|
+| `20240612-01` | Dräger Safety AG & Co. KGaA | 12.06.2024 | 2.965,34 € | Paid 12.07.2024 | FFVR Mobile Kit (Angebot `20240429`) |
+| `20250813-01` | Technische Universität Hamburg | 13.08.2025 | 32.678 € | Paid 15.09.2025 | Sensorvisualisierung (Auftrag 4600057946, Geo-Hydroinformatik), **nicht** Campus Lab |
+| `20260527-02` | Technische Universität Hamburg | 27.05.2026 | 37.620 € | Paid 29.06.2026 | Campus Lab (Auftrag 4600065350); `20260428-01` 49.500 € durch Gutschrift `20260527-03` aufgehoben |
+| `20261016-01` | Koppenhagen GmbH | 16.10.2026 | 499 € | **Draft** | Abo-Verlängerung 1 Headset, 16.10.2026 bis 15.10.2027 (Bestellung 18.05.2026); kein Estimate |
+| `20260623-02` | AdvancedNuclearFuels GmbH (Framatome) | 23.06.2026 | 3.818 € | Paid 07.07.2026 | Bestellung 1026029238 vom 13.05.2026 (Angebot `20260327-02`) |
+| `20260805-01` | Feuerwehrverein Gusow-Platkow e.V. | 05.08.2026 | 7.561 € | Paid 13.08.2026 | 2 Kits, Bestellung 02.08.2026 (Angebot `20260730-07`) |
+
+Ältere Koppenhagen-Rechnungen (alle Paid): `20200100-11` 6.785 € (2020, 50 % VR Flächenbrände), `20241129-02` 3.313,58 €, `20250317-01` 2.906,43 € (Kits), `20250702-01` 8.640 € (RescueArena-Level). Framatome 2024: `20241120-02` 3.410,51 € (PO 1024047482, Paid 19.12.2024). EUROPTEN Transmission Germany GmbH: nur Angebote `20260422-02` 2.789,15 € (Kauf) und `20260910-02` 6.207 € (Miete), beide Open, keine Rechnung. PFIF: kein Kontakt, keine Bills; Forschungszulage oder Finanzamt-Gutschrift im FA-Bankfeed nicht sichtbar.

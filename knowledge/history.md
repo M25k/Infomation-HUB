@@ -69,7 +69,7 @@ Framatome: **kein** Asana-Board. Lieferantenanlage 09/2024 (Thomas Kersten) für
 
 **DLR Campus Dieburg (2021):** kein Asana-Board hier. AG DLR e.V. Köln; Nutzung h-da. PO **X/369/67300871** 08.07.2021, Angebot `20200915-1` V2. Twin **24.040 €** (`20210922-02` + `20211118-01`). PDF-Rechnungen zuerst für xRechnung zurück. TEMA-Partnerschaft und Lampoldshausen 2026 nicht dieser Job.
 
-Dräger 2024 zusätzlich: Angebot FirefighterVR Mobile Set (Gaeding/Kastens) — bestätigt Site-Namen, kein neues Volumen.
+Dräger 2024 zusätzlich: FirefighterVR Mobile Set (Gaeding/Kastens), Angebot `20240429`, Rechnung `20240612-01` 2.965,34 € netto, Paid (FreeAgent, Abruf 17.10.2026). Kleines Los, kein Eignungsvolumen.
 
 ## FirefighterVR Custom / Module (archivierte Inhaltsboards)
 
