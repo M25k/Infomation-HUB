@@ -77,3 +77,5 @@ Stand 18.10.2026 (Joachim über One):
 4. Wissen prüft gegen die Freigaberegeln, vergibt IDs, trägt ein und setzt den Ordner in [_progress.md](_progress.md) auf „fertig“.
 5. Unklare Freigaben und Aufräumvorschläge gehen nach [open-questions.md](open-questions.md). Wissen legt sie Joachim gebündelt vor.
 6. Danach überwacht Assets werktäglich neue und geänderte Dateien und liefert sie im selben Ablauf.
+
+**Vorgabe Joachim, 18.10.2026 (an Video):** „Gehe davon aus, dass du alles nehmen darfst. Wir sehen die Reviews im Discord und sagen Bescheid, wenn etwas dabei ist, was nicht geht.“ Video darf damit Drive-Material für Reels und Renderings verwenden, auch 3D-Modelle ohne schriftlichen Lizenzbeleg (z. B. Strahlrohr-Scan KW-235, PICO-4-Adapter, CO2-Löscher Gloria). Kontrolliert wird über das Discord-Feedback. Die festen Regeln gelten weiter: Tabu-Ordner, Bürrig-Bilder, TMA/Militär nur intern, Reschke Productions, Textregeln und claims.md, Epic-Mannequin nicht als eigenes Modell. Im Katalog steht bei solchen Assets „Lizenz nicht schriftlich belegt“.
