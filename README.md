@@ -50,6 +50,7 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 | [knowledge/open-questions.md](knowledge/open-questions.md) | Widersprüche und offene Punkte |
 | [knowledge/gmail-pass.md](knowledge/gmail-pass.md) | Laufender Gmail-Tiefenpass: Coverage, Filter, nächste Slices |
 | [knowledge/websites/](knowledge/websites/README.md) | Struktur und Copy-Regeln je Domain |
+| [knowledge/assets/](knowledge/assets/README.md) | Asset-Katalog des Drive: Landkarte, Freigaberegeln, Tabu-Liste, Sichtungsstand |
 
 ## Recherchequellen dieser Version
 
