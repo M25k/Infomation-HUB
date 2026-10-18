@@ -36,7 +36,8 @@ Nächstes Gebiet (Runde 2): _ND_Best Of (geteilt) / Projects (`1wu-j12vbatAtiQCs
 
 | Status | Pfad | Ordner-ID | Einträge | Bemerkung |
 |---|---|---|---|---|
-| fertig | Shared Drive Kundenprojekte / Hannover_VR (Assets, Process, Making-Off) | `1FEHljXN7eCgo3S16RXGvuAK6X5ZUTWFn` | 271 (HVR-0001 bis HVR-0271) | Gesichtet von Northdocks Assets (nur Metadaten), geprüft und eingetragen von Northdocks Wissen. Texturen, .blend1-Backups und AE-Autosaves bewusst ohne Eintrag. Unterordner `old Meetings / 2026-07-15 / Hannover` (`1w6bP3lv8nb8IR6cv4zHEq-8n1zo6jx0r`) liegt im Tabu-Ordner „old Meetings“ und ist nicht katalogisiert |
+| fertig | Shared Drive Kundenprojekte / Hannover_VR (Assets, Process, Making-Off) | `1FEHljXN7eCgo3S16RXGvuAK6X5ZUTWFn` | 271 (HVR-0001 bis HVR-0271) | Gesichtet von Northdocks Assets (nur Metadaten), geprüft und eingetragen von Northdocks Wissen. Texturen, .blend1-Backups und AE-Autosaves bewusst ohne Eintrag. Unterordner `old Meetings / 2026-07-15 / Hannover` (`1w6bP3lv8nb8IR6cv4zHEq-8n1zo6jx0r`) liegt im Tabu-Ordner „old Meetings“, darf als Ausnahme gesichtet werden (Joachim 18.10.2026), siehe nächste Zeile |
+| offen | Shared Drive Projekte/Meetings / old Meetings / 2026-07-15 / Hannover | `1w6bP3lv8nb8IR6cv4zHEq-8n1zo6jx0r` | 0 | Ausnahme vom Tabu (Joachim 18.10.2026), Sichtung durch Assets steht aus; Rest von old Meetings bleibt tabu |
 
 ## Ebene 0 und 1
 
