@@ -21,3 +21,7 @@ Offene Freigabefragen zum Drive. An Joachim, sofern nicht anders vermerkt. Stand
 | 15 | Ordner `_ND_Best Of / Projects / _Wasserwerk` (`12OKrJv3nvlWLzkJh-T-dXHQlByAIdF-x`): Currenta-Standort? | Currenta-Verdacht wegen der Currenta-Wasserwerk-Tabus. Bis zur Klärung tabu (siehe [tabu.md](tabu.md)), Northdocks Assets öffnet ihn nicht | offen. **Restpunkt:** Standort klären, bis dahin tabu |
 | 16 | Herkunft unklarer Dateien in den Clippings: Eigenmaterial oder Download? | `Virtual_Reality_Teaser.mp4` (ND-0135), `c0af50ce-…_X.mp4` (ND-0013/ND-0136), `Post-Feed-LinkedIn.png` (ND-0134), `djwx.pdf` (ND-0137), Social-Media-JPGs (ND-0009/0010, ND-0130/0131), BTL-Snapsave-Video (FFVR-0054, vermutlich Fremdvideo). Bis zur Klärung nur intern | offen |
 | 17 | ND-0141 „FUSIONCAMPUS_Reschke und MP“: Reschke Productions? | Joachim 18.10.2026: gemeint ist Patrick D. Reschke, nicht Reschke Productions | erledigt |
+
+**Nachtrag 18.10.2026 zu Frage 11:** Northdocks Assets hat Clip 03 Frame für Frame geprüft: Steinmeier trägt keine VR-Brille. Im Video steht bei 12–17 s aber die Einblendung „Mit dem Deutschen Feuerwehrverband“. Laut claims.md steht „Entwickelt mit DFV“ auf „nicht verwenden“. Clip 03 bleibt nur intern, bis die Einblendung geändert ist (neu: Frage 18).
+
+| 18 | Clip 03: Einblendung „Mit dem Deutschen Feuerwehrverband“ (12–17 s) ändern oder entfernen, danach social-video | FFVR-0030, FFVR-0039 | offen (Entscheidung Joachim, Umsetzung Northdocks Video) |
