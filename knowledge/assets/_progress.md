@@ -1,6 +1,6 @@
 # Fortschritt Sichtung Drive
 
-Status je Ordner: offen / in Arbeit / fertig / tabu. Vorschläge aus Runde 0 stehen als „tabu vorgeschlagen“, bis Joachim entscheidet.
+Status je Ordner: offen / in Arbeit / fertig / tabu. Vorschläge aus Runde 0 stehen als „tabu“, bis Joachim entscheidet.
 
 ## Letzter Lauf
 
@@ -15,12 +15,12 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | Status | Prio | Pfad | Ordner-ID | Ordner | Dateien | GB | letzte Änderung |
 |---|---|---|---|---|---|---|---|
 | offen | 9 | My Drive Joachim (Sammelablage) | `0AI0froRFN251Uk9PVA` | 83 | 1236 | 28,1 | 2026-10-14 |
-| tabu vorgeschlagen | 9 | My Drive Joachim (Sammelablage) / Uni-Bielefeld-VR-Kinderchirurgie-2026 | `1AyNzivyHylle_yzdmEkoieJbvDsoz2If` | 6 | 2 | 0,0 | 2026-09-04 |
+| tabu | 9 | My Drive Joachim (Sammelablage) / Uni-Bielefeld-VR-Kinderchirurgie-2026 | `1AyNzivyHylle_yzdmEkoieJbvDsoz2If` | 6 | 2 | 0,0 | 2026-09-04 |
 | offen | 9 | My Drive Joachim (Sammelablage) / PNG | `1taV4q0IA82pcdhks1J2Uf-wfAnf1dTGO` | 0 | 0 | 0 | 2019-05-16 |
 | offen | 9 | My Drive Joachim (Sammelablage) / AR-Anwendung Schiffshebewerk Henrichenburg | `12ci-yZcbhfxFpQAm0RBpQFj-6A5PV-Mk` | 9 | 0 | 0 | 2021-11-04 |
 | offen | 6 | My Drive Joachim (Sammelablage) / Fotos | `1oQDeAgohE3OhuvESo-EV3_z0x6LRTa37` | 0 | 142 | 3,5 | 2026-06-10 |
 | offen | 7 | My Drive Joachim (Sammelablage) / _NDAssets | `1_0_UCCsmjFdgsY5Ot_32NzoAnPMyL87H` | 1 | 0 | 0 | 2021-09-23 |
-| tabu vorgeschlagen | 9 | My Drive Joachim (Sammelablage) / [Mailadresse geschwärzt] | `1HrGpKTCCVlC_1iBxWXLrA5KZkdH2NIub` | 3 | 0 | 0 | 2025-05-02 |
+| tabu | 9 | My Drive Joachim (Sammelablage) / [Mailadresse geschwärzt] | `1HrGpKTCCVlC_1iBxWXLrA5KZkdH2NIub` | 3 | 0 | 0 | 2025-05-02 |
 | offen | 9 | My Drive Joachim (Sammelablage) / Additional Files | `15QzfyDAUGQxG1EoIenOfE5tRnVxiI75d` | 0 | 0 | 0 | 2020-03-02 |
 | offen | 9 | My Drive Joachim (Sammelablage) / util | `1YpCW3q1WEKHhp0THL_gB9dCOlH9f514d` | 0 | 3 | 0,0 | 2023-07-21 |
 | offen | 9 | My Drive Joachim (Sammelablage) / phone | `17ew-3e1g_fRv0bJ1t4dwUtCpbGKSzw52` | 1 | 1 | 0,0 | 2023-07-24 |
@@ -31,7 +31,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 9 | My Drive Joachim (Sammelablage) / Renderings | `10oAZXKV8983bw0GI2sZulrCULn5it0nT` | 0 | 0 | 0 | 2022-04-11 |
 | offen | 7 | My Drive Joachim (Sammelablage) / Unreal | `10TDFLzlPd49XXnISebY_4XA42Pb-ecr7` | 0 | 0 | 0 | 2020-10-19 |
 | offen | 7 | My Drive Joachim (Sammelablage) / 3ds Max | `1srFLi_89E6_6qVff9r9lBEwI24eYFWUf` | 1 | 0 | 0 | 2020-11-26 |
-| tabu vorgeschlagen | 9 | My Drive Joachim (Sammelablage) / 2021_Steuerliche Themen | `1Vp3JsqkAho_TkYmV3nNwhaProhr2SPrt` | 0 | 0 | 0 | 2021-11-24 |
+| tabu | 9 | My Drive Joachim (Sammelablage) / 2021_Steuerliche Themen | `1Vp3JsqkAho_TkYmV3nNwhaProhr2SPrt` | 0 | 0 | 0 | 2021-11-24 |
 | offen | 7 | My Drive Joachim (Sammelablage) / 3d-Druck | `1mrVYhNnqKxWZHW6vtdc1K5s-wlXSrxkf` | 0 | 0 | 0 | 2021-11-02 |
 | offen | 8 | My Drive Joachim (Sammelablage) / Dokumente | `19FGtlknLV7GIr_SEbNIwdIoMzkwT0ONd` | 1 | 297 | 0,1 | 2023-09-20 |
 | offen | 9 | My Drive Joachim (Sammelablage) / _ND_Intern | `1ZYMD0abceXU4CLwCAbrF1lNlI7RzQBA0` | 1 | 3 | 0 | 2022-08-24 |
@@ -59,7 +59,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 9 | My Drive Joachim (Sammelablage) / _CLEANUP_DreiFragezeichen_AE | `1MdqXAO-WP9Deakghj_kRVfXDWaNEl2HC` | 5 | 239 | 0,7 | 2026-08-28 |
 | offen | 9 | My Drive Joachim (Sammelablage) / _CLEANUP_Docs_Inbox | `1H8boR304eU5pRUtMDBLS0WDa2_aPSIxv` | 1 | 160 | 0,0 | 2026-09-27 |
 | offen | 9 | My Drive Joachim (Sammelablage) / Audio overviews | `1Y9UDRPSN2mUvUQo7SvMUbaPcO41z1Fz1` | 0 | 1 | 0,0 | 2026-08-10 |
-| tabu vorgeschlagen | 9 | My Drive Joachim (Sammelablage) / Google Meet | `1QC-E-uOwfD5H6R6KgqGZOvnnpKm4CCkc` | 6 | 0 | 0 | 2026-10-02 |
+| tabu | 9 | My Drive Joachim (Sammelablage) / Google Meet | `1QC-E-uOwfD5H6R6KgqGZOvnnpKm4CCkc` | 6 | 0 | 0 | 2026-10-02 |
 | offen | 9 | My Drive Joachim (Sammelablage) / Gemini Artifacts | `1tl9R3bWq6myVbt4OdHKa_rIOnCEECeGZ` | 0 | 2 | 0,0 | 2026-08-21 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) | `0AB4rH3Glo6VnUk9PVA` | 400 | 453 | 40,7 | 2026-10-09 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / _Anleitungen | `1-2lvdaqIFvsbgPXb2zFSC0HbdMtJFsyh` | 4 | 15 | 0 | 2026-08-21 |
@@ -104,10 +104,10 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 8 | Shared Drive FirefighterVR (Name vermutet) / Chemlab Vortrag | `1w7xLPi_yOK2BhkJSKlwoZK-RCXAHz4N5` | 0 | 17 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Bizdev | `1S15FtDRh0Ew0JJH-1jUbb5ZlvgU374IA` | 0 | 0 | 0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / [Name] | `1VxS9CIHKdXXsnbO0R07IW1CldNBukdtz` | 0 | 4 | 0,2 | 2026-04-12 |
-| tabu vorgeschlagen | 2 | Shared Drive FirefighterVR (Name vermutet) / Lizenzvetrag | `13OYNJK2z5pdZwtgKawOanuwuhW28kSa2` | 0 | 2 | 0,0 | 2026-04-12 |
+| tabu | 2 | Shared Drive FirefighterVR (Name vermutet) / Lizenzvetrag | `13OYNJK2z5pdZwtgKawOanuwuhW28kSa2` | 0 | 2 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Simulation MVP | `1tSJK8gpIVIx_3KNdvS6Ro3Qq9_wVFZr8` | 1 | 6 | 0,6 | 2026-04-12 |
-| tabu vorgeschlagen | 2 | Shared Drive FirefighterVR (Name vermutet) / Digital Hub Cologne Förderung | `1YDSEvif3l052Pf-upMclvW05oiEPniWr` | 0 | 5 | 0,0 | 2026-04-12 |
-| tabu vorgeschlagen | 2 | Shared Drive FirefighterVR (Name vermutet) / ffoe ausenandersetzung | `18hi180xpGFl_NKpRYiYHeJCpXcmFfxAu` | 0 | 3 | 0,0 | 2026-04-12 |
+| tabu | 2 | Shared Drive FirefighterVR (Name vermutet) / Digital Hub Cologne Förderung | `1YDSEvif3l052Pf-upMclvW05oiEPniWr` | 0 | 5 | 0,0 | 2026-04-12 |
+| tabu | 2 | Shared Drive FirefighterVR (Name vermutet) / ffoe ausenandersetzung | `18hi180xpGFl_NKpRYiYHeJCpXcmFfxAu` | 0 | 3 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / magirius | `1pSypde7tpY6Ri-NfljU793QWbAV-KVuW` | 1 | 1 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / WFV Info II 20 Artikel | `1avqqeId_V72gFfLW6HUIxZSt5G_kPYJ9` | 0 | 2 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Flughafen Leipzig | `1I6LFz4H2ayR46t7UYok38_HAt8XHzS2E` | 0 | 1 | 0,0 | 2026-04-12 |
@@ -123,11 +123,11 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Neuer Ordner | `1Q1uncZJutbKS4ISHi0jJux5OLsbxzWjv` | 0 | 0 | 0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Fotos | `1HsuCZhmUq3jhKyaADytltCRJqYaXCBDY` | 2 | 1 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Innenangriff | `1vI-M6Z3nIIKuaLYxGzFMZbtqF15xbQht` | 2 | 6 | 0,0 | 2026-04-12 |
-| tabu vorgeschlagen | 2 | Shared Drive FirefighterVR (Name vermutet) / Mailing | `1iQx9FA7QluV46-4KVR1zzn_mXp9HdL04` | 0 | 9 | 0,0 | 2026-04-12 |
-| tabu vorgeschlagen | 2 | Shared Drive FirefighterVR (Name vermutet) / Strategy | `1xXfu8v6q3Kla60eRnn32oX4FuAn66YSu` | 0 | 3 | 0,0 | 2026-04-12 |
-| tabu vorgeschlagen | 2 | Shared Drive FirefighterVR (Name vermutet) / Investors | `18LvYq1Kdl0wbIvdb2QPiWR2lkSMg-tQI` | 1 | 1 | 0,0 | 2026-04-12 |
+| tabu | 2 | Shared Drive FirefighterVR (Name vermutet) / Mailing | `1iQx9FA7QluV46-4KVR1zzn_mXp9HdL04` | 0 | 9 | 0,0 | 2026-04-12 |
+| tabu | 2 | Shared Drive FirefighterVR (Name vermutet) / Strategy | `1xXfu8v6q3Kla60eRnn32oX4FuAn66YSu` | 0 | 3 | 0,0 | 2026-04-12 |
+| tabu | 2 | Shared Drive FirefighterVR (Name vermutet) / Investors | `18LvYq1Kdl0wbIvdb2QPiWR2lkSMg-tQI` | 1 | 1 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / TechX | `1IBktK3h3nx2p_2v2SH0YFnb5d917u4xG` | 0 | 4 | 0,0 | 2026-04-12 |
-| tabu vorgeschlagen | 2 | Shared Drive FirefighterVR (Name vermutet) / Team | `1Dubcx543sixQdtqC6QuXzx__4SWT_0co` | 0 | 8 | 0,0 | 2026-04-12 |
+| tabu | 2 | Shared Drive FirefighterVR (Name vermutet) / Team | `1Dubcx543sixQdtqC6QuXzx__4SWT_0co` | 0 | 8 | 0,0 | 2026-04-12 |
 | offen | 8 | Shared Drive FirefighterVR (Name vermutet) / Präsentation Einzelframes | `1eytuBJRgToeWyG4WWa3EZzK9b1CQMr76` | 1 | 0 | 0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / VETTER | `1QPLfQ8lmbEudh9gqbPbmgkcyR3FqOcup` | 1 | 1 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Kindsvater | `1QUXOT_r_k8aq5TZKL3o2Yor56DDTIcRV` | 3 | 0 | 0 | 2026-04-12 |
@@ -138,17 +138,17 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 8 | Shared Drive FirefighterVR (Name vermutet) / Präsentationen extern | `1ATe7WRTpxUi8SetrgKctrZOU-dPQua_o` | 0 | 2 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Builds | `1UCUrsYXUd4qxPXXTbWqnNYxloQKXqE0l` | 0 | 0 | 0 | 2026-04-12 |
 | offen | 4 | Shared Drive FirefighterVR (Name vermutet) / HENKEL - Sprinkler Training | `1xHNR1OGZp9iwBg7Es4sIW86T4WNlYfsp` | 5 | 1 | 0,0 | 2026-04-12 |
-| tabu vorgeschlagen | 2 | Shared Drive FirefighterVR (Name vermutet) / Mails | `1i_Z-HFj0MdY8zUXc-W-ZU7kXW-FgvpAU` | 0 | 3 | 0,0 | 2026-04-12 |
+| tabu | 2 | Shared Drive FirefighterVR (Name vermutet) / Mails | `1i_Z-HFj0MdY8zUXc-W-ZU7kXW-FgvpAU` | 0 | 3 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Vomatec | `1kT-5C7H8cyj3U7qfKK5hepai0y7JGF-B` | 1 | 0 | 0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Simulation MVP 2 | `1ic0JOy6SEL1QmKU3BUHui5rSzif64H9J` | 2 | 6 | 1,8 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / 180905_Northdocks_FirefighterVR_v01 | `1lXNzFeendX2XjhXJITMK4nS0HcHrY_K1` | 0 | 17 | 0,0 | 2026-04-12 |
-| tabu vorgeschlagen | 2 | Shared Drive FirefighterVR (Name vermutet) / Angebote | `1s2gsoLdQAY0pBuK3MRGQ31nSpMAN3rxf` | 0 | 4 | 0,0 | 2026-04-12 |
+| tabu | 2 | Shared Drive FirefighterVR (Name vermutet) / Angebote | `1s2gsoLdQAY0pBuK3MRGQ31nSpMAN3rxf` | 0 | 4 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / BASF Pumpe | `1vQ2h8gGt8cAsIbnewgofk9A4Bo0lZSIz` | 1 | 0 | 0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / WFVD Online Symposium 2020 | `11F7DTpaQzwHpXhMnpxaDaDWO8-pA03U7` | 0 | 3 | 4,9 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / WFVD Workshop | `1wfUu5jeGQOCX5wX_Q-932J-Qgn3mBbIR` | 0 | 7 | 13,9 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Konzepte Partner, Händler und Hersteller | `1s7sQqQ3bAP6IRr4-YTi1dH0c-iDSe0Qr` | 1 | 0 | 0 | 2026-03-16 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Claude | `1_-OMxYzJuWzikd3YOPcc0Cmk1dgiRicH` | 8 | 2 | 0,1 | 2026-05-01 |
-| tabu vorgeschlagen | 2 | Shared Drive FirefighterVR (Name vermutet) / Angebotsanfragen | `1c0_sHjliBx94Fc_vW-6hGqsgW6gzXG_b` | 0 | 6 | 0,0 | 2026-03-28 |
+| tabu | 2 | Shared Drive FirefighterVR (Name vermutet) / Angebotsanfragen | `1c0_sHjliBx94Fc_vW-6hGqsgW6gzXG_b` | 0 | 6 | 0,0 | 2026-03-28 |
 | offen | 8 | Shared Drive FirefighterVR (Name vermutet) / Referenzen (Beispielvideos, Dokumente etc.) | `1_ZJhi9q5ycTsh5iiZCkX3KOUEmb491Hr` | 1 | 1 | 0,0 | 2026-03-09 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Schlafzimmer | `1cTr0VxOe1wuDi7paXc94MongfZ8KuHOE` | 1 | 0 | 0 | 2026-03-06 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Löschangriff | `1Z9txkd_Xhibv_vfdjco2A1Et4DwaRTi_` | 1 | 0 | 0 | 2026-02-24 |
@@ -158,7 +158,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / FirstAid | `1e1Ae-Pyz-iXP6Zeblba0qAhMJMIrn8T9` | 1 | 0 | 0 | 2025-10-01 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Landstrasse | `13t8aAtSB5JGglgY2PMmqV5kbCzGe0QbH` | 2 | 0 | 0 | 2025-10-02 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Scouting | `1cYa-jZq7L9NRyvYRL6m0NvjlzaZouz9c` | 2 | 0 | 0 | 2026-02-10 |
-| tabu vorgeschlagen | 2 | Shared Drive FirefighterVR (Name vermutet) / Abrechungen BTL | `1MUBZwgD5MntYqa_rDzsdoxSj6wXDldVr` | 0 | 1 | 0 | 2025-09-25 |
+| tabu | 2 | Shared Drive FirefighterVR (Name vermutet) / Abrechungen BTL | `1MUBZwgD5MntYqa_rDzsdoxSj6wXDldVr` | 0 | 1 | 0 | 2025-09-25 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Support | `1kOsdDBBp9kY5G24AR42k5hsyFmB8ZazU` | 0 | 1 | 0 | 2025-08-25 |
 | offen | 8 | Shared Drive FirefighterVR (Name vermutet) / Tutorial | `1DpivD6ny21ZQoOJ77NR_sLAswgBdqzEJ` | 0 | 1 | 0,1 | 2025-08-15 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / [Name] | `1UMbfQEnO0euoZFX8DlL6V-4P2DSy9KEK` | 11 | 0 | 0 | 2025-05-13 |
@@ -190,17 +190,17 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 2 | Shared Drive Marketing Sales / Firefighter VR | `1lQZZyZG4dhDxc6FBu2KX7qqugG027MoI` | 13 | 1 | 0 | 2026-03-19 |
 | offen | 9 | Shared Drive Marketing Sales / OLD | `1iwiOgSWO9FdV8AH6ateEAccGQtBna7TZ` | 0 | 0 | 0 | 2025-08-22 |
 | offen | 9 | Shared Drive Marketing Sales / .dtrash | `1FYdgMqswPPHrjMhjJ2gBzGAyCEsqu_tL` | 0 | 1 | 0,0 | 2026-05-25 |
-| tabu vorgeschlagen | 9 | Shared Drive Marketing Sales / Projektentwicklung | `1b7GQRhudQCX-pMtt0mw2KzE582KDDS94` | 24 | 2 | 0 | 2026-05-11 |
+| offen | 9 | Shared Drive Marketing Sales / Projektentwicklung | `1b7GQRhudQCX-pMtt0mw2KzE582KDDS94` | 24 | 2 | 0 | 2026-05-11 |
 | offen | 9 | Shared Drive Marketing Sales / Verbände | `1rAwXg80ReUlAWaIYaZBeo-Kc4ZZUxF9s` | 2 | 0 | 0 | 2026-04-17 |
 | offen | 8 | Shared Drive Marketing Sales / ND Website & CI Progress | `1qTjA1yMp-J8_PFjtDzUArHrIy53h3Aqn` | 6 | 0 | 0 | 2026-04-12 |
-| tabu vorgeschlagen | 9 | Shared Drive Marketing Sales / Kunden | `1tCzX4ismiH5XY_y_kCH3sLodFkAjXySa` | 20 | 0 | 0 | 2026-03-25 |
+| offen | 9 | Shared Drive Marketing Sales / Kunden | `1tCzX4ismiH5XY_y_kCH3sLodFkAjXySa` | 20 | 0 | 0 | 2026-03-25 |
 | offen | 2 | Shared Drive Marketing Sales / FVR_Plattform | `1s5XuzQ8zJwnyqwl7KITId38v-llW_E_7` | 4 | 9 | 0 | 2026-03-19 |
 | offen | 5 | Shared Drive Marketing Sales / Godview | `1s3nMx0sUKe8u4OGnozfo4IHOXmJjUorI` | 1 | 1 | 0,0 | 2026-03-19 |
-| tabu vorgeschlagen | 9 | Shared Drive Marketing Sales / Händlerliste Feuerwehr | `1vyFbh_TZon1vEvxedB2bLg-sZDsJR_1d` | 0 | 1 | 0,0 | 2026-03-11 |
+| tabu | 9 | Shared Drive Marketing Sales / Händlerliste Feuerwehr | `1vyFbh_TZon1vEvxedB2bLg-sZDsJR_1d` | 0 | 1 | 0,0 | 2026-03-11 |
 | offen | 9 | Shared Drive Marketing Sales / AG-XR | `1eqkZ5LazEo1D08JU7DCZQVePUgry9OvP` | 0 | 4 | 0,0 | 2026-03-24 |
 | offen | 1 | Shared Drive Marketing Sales / Videoschnipsel für LinkedIn | `1-peidqb2EaTKMLBVAgeDQ5Ph0bDIVyQx` | 0 | 1 | 0 | 2025-08-14 |
 | offen | 8 | Shared Drive Marketing Sales / Sales Pitches | `1fUu5hbF7yF4ODpWyZsmnP5Nf8y46nPJ_` | 0 | 1 | 0 | 2021-02-23 |
-| tabu vorgeschlagen | 9 | Shared Drive Marketing Sales / Leadgenerierung | `1fsI64L3XszChsurW85MKk8pAINGGQeiT` | 0 | 1 | 0 | 2021-01-11 |
+| tabu | 9 | Shared Drive Marketing Sales / Leadgenerierung | `1fsI64L3XszChsurW85MKk8pAINGGQeiT` | 0 | 1 | 0 | 2021-01-11 |
 | offen | 8 | Shared Drive Marketing Sales / Präsentationen & co | `1pvYfZ9MxzqDcjp8dIl4rK4QJCK_0_ILD` | 4 | 23 | 0 | 2026-03-19 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) | `0ABWs0NP9ZJO0Uk9PVA` | 175 | 34 | 0,2 | 2022-09-30 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2019_SonnenbatterieV10 | `1I6cAxMJ7jCbe44F0fGWmYR5D6wBHeYck` | 5 | 0 | 0 | 2021-11-27 |
@@ -250,65 +250,65 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 7 | Shared Drive Industrie-VR-Trainings (Next Factory VR, vermutet) / Assets Kleine | `1bDYjWqVgoqfFBunQ-bBU11JOt1MmC86Q` | 5 | 0 | 0 | 2021-07-28 |
 | offen | 4 | Shared Drive Industrie-VR-Trainings (Next Factory VR, vermutet) / Förderbänder - Actemium Mechatronic | `11PrwMdQRAR-IqBl392_Y7HXM0pO69HPz` | 5 | 3 | 0,3 | 2023-05-04 |
 | offen | 4 | Shared Drive Industrie-VR-Trainings (Next Factory VR, vermutet) / Decoking Simulator - Actemium Cegelec West | `1HmL2KNpIK0tAhdNSl_kgARlo48BxIXCJ` | 2 | 13 | 0,4 | 2023-09-13 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen | `0ADgxcEqat_S7Uk9PVA` | 186 | 348 | 63,4 | 2024-03-06 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Deadline 10 | `1v4GtIOB1vZ43lUsGtT9Jnte4eIY9DDb2` | 0 | 4 | 2,5 | 2022-11-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Proprietary Software | `1FtUKPLChSVVMxj6bvFUk51lEHIr-RBU1` | 7 | 2 | 0,0 | 2021-11-23 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Windows | `1jpbixpt7Akxqz-TOxuYy5uM4t70rmTTS` | 1 | 6 | 20,5 | 2023-08-21 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2024 | `1-3ipr6V-WJSAq1aUQ9IC7VJEBqxKV5eV` | 6 | 1 | 0,0 | 2023-01-20 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2022 | `1ud-sgn_CRkrB3uGmq2pnev7H8ice4WQx` | 10 | 1 | 0,0 | 2020-07-23 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / _Armstrong | `1jZXwAEsgAaHu1C1vxDVP2CVfB7sZS_4I` | 14 | 4 | 0,4 | 2021-11-19 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2023 | `1ucbOtDcTj_zU3lZuXn9UQMsZYyYJSSQT` | 0 | 15 | 15,1 | 2022-04-25 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Renderfarm 2016 | `1FadsB6SuE-aj10qira6xJ_ypwdUvWfyC` | 13 | 0 | 0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Renderfarm 2019 | `1kOOmidk-9_tmBy6HUkR8NTGmKSrYiZP0` | 2 | 0 | 0 | 2019-11-26 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2025 | `1coINnL78VjgifucuNkLx5q5r-JIvKcoD` | 0 | 8 | 5,5 | 2023-04-17 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / blender | `1v7FDjtCvj0Anj3qoFf8SxBKvHxr839Q3` | 1 | 2 | 0,4 | 2022-04-25 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Renderfarm 2021 | `1k7865zh231PSVasMWmTKtfmEoilbRO6I` | 0 | 2 | 0,4 | 2020-06-04 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Drivers | `1uxK1An_T7qwk0v4mv_rCrGTevH0lVsXH` | 11 | 3 | 0,2 | 2020-04-16 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2021 | `1ug4bOuoMRmY3-1nqA35GbGbEJSiEevH6` | 4 | 1 | 0,0 | 2020-06-02 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / chitubox | `1v6LS2a5ifQUlclf46DakDM7HTx2M97iI` | 0 | 1 | 0,1 | 2020-02-19 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Maxon | `1quLYd8VKFS_A7M8MKk1NOw_3DEinYcE_` | 1 | 2 | 0,3 | 2020-02-18 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Houdini | `1uvrtsN-O3jx2xDJP7r-M2CM-cb505YYa` | 2 | 4 | 4,6 | 2020-02-18 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Renderfarm 2020 | `1kD2i7jcuGvkxWXhbRwILniwb5IV4gFnL` | 3 | 0 | 0 | 2020-01-03 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Instant Meshes | `1r7Hem-AGLLYCehDa-TD4FhqPc_S3yDpK` | 0 | 1 | 0,0 | 2019-10-12 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Foundry | `1uwzeUdr7OGBfVov76WM-HgJNQODPBeu8` | 5 | 1 | 0,0 | 2019-08-14 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2020 | `1uiS3H73kMKMck-oiaQFuzmZW5X4r_C9c` | 1 | 2 | 0,0 | 2019-08-16 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / autocad 2020 | `1uMsB3weOmt5UpUB0bw3piRxOOxZEa197` | 1 | 5 | 1,6 | 2022-07-06 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / OculusGo_Kiosk_Mode | `1qihc6yRZpxcMuyO8OrLQ422We9tOWiPa` | 0 | 2 | 0,1 | 2019-07-23 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max Plugins | `1u_MZm9-Jkkv6SB7KnAnO-gcuQghH_REu` | 0 | 6 | 0,0 | 2022-04-13 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / After_Effects_Plugins | `1uXOY__jQsM2BvC7KpDosgD4D0Y5ZLeDJ` | 18 | 5 | 1,4 | 2019-06-26 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / World Creator | `1jj4WOYta5DltDNyck_5VhEvzB3hXPE2b` | 0 | 2 | 0,5 | 2019-06-22 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / unreal | `1k1ZZ1gcjyjebeJq9gd3jV0NC2WGTrIKu` | 2 | 3 | 0,9 | 2024-03-06 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / ubiquiti | `1k1eeHDsm-itr-euzLzWu5gtH8mOhem2i` | 0 | 1 | 0,1 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Syntheyes | `1k38T_2uIyRM3Xto_NVWpunVg4bSVB7C1` | 0 | 3 | 0,1 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / sculptis | `1k61T96UPCZj4eb7AUVEYw1xKBqs9nZnz` | 0 | 1 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / rc | `1Fj_b1aUJ8FKkSVk6r6i4z9tO4wGz4zqk` | 2 | 2 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Python | `1FkpfVnxqHmIMhscbvvbsoyMvC2ciGBd0` | 0 | 1 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Ptgui | `1FksH2TzCuxbgAFYVZvLLCeU_kbG_Zf19` | 0 | 3 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / ProSequencer | `1FlKmNOfPFF5pOshnuRJzN9mkzua9XEwR` | 0 | 2 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Premiere Plugins | `1FvK5GPgS-oTkFT-30AZ1r58YE1FytjII` | 1 | 1 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Pose Saver | `1G6kmEp_M3sH8NXrQSUC0sehdLI7vBJKf` | 0 | 2 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / PolySpline | `1G8jcUK1R5KwdbjQDIQ9SGUtIY-pG7ChA` | 1 | 3 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 6 | Shared Drive Software/Installer/Lizenzen / photoscann | `1qYWXpojtAFA5fqYExYIgbZxbUxWQFItm` | 2 | 0 | 0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / openCv | `1qYiUl1KxmUvxAT_Vf2bQuNtwgA02xVuR` | 3 | 5 | 0,4 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Nuke Plugins | `1qkWtQ66FoqxseGN3SjlXtEKM0bBUMl6M` | 1 | 7 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Nokia OZO | `1ql4AGvnsytCsv_Edlyx3jITDNsNezLeS` | 0 | 7 | 1,1 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Neat Video Pro OFX v411 | `1qlNPxy-gs3eIw5pbtfw5b8xM3OUjUOW1` | 0 | 2 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Milkeyway_converter | `1qt_pHVKg1G2x-3oaLVi0l6sI2lVfjPlV` | 0 | 9 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / Materialize_1.78 | `1qxvYHMhxldp4AAiJlx5XiIjZ8y90lOIZ` | 1 | 3 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Kolor | `1qzJ74Fu8VwT0XsybdsXSmQOZADTXEiQ4` | 0 | 3 | 0,3 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / KandaoStudio-v2.7.0.3 | `1r0kXVNLFx66eHYHgSueIDIGsOJYPz8Wu` | 1 | 178 | 2,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Global Mapper v13.2 Build 062212 | `1uwVOOORGvAPH1v5nIdNC7lp4Xq5L7t0-` | 2 | 0 | 0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Clarisse | `1v65cKrTpkIRxg0w-lwC0O3EMx7kMAmu6` | 0 | 1 | 0,3 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / batches | `1v81dIxsOaRWhEEnjGk90gizJJ6GB7cXH` | 1 | 1 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Autodesk_CFDtrial | `1uM5aTCrSbsYPXg8RhVJruWkJgnYJHSOJ` | 0 | 1 | 1,2 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Atom | `1uPUVzuydsLSHM1ir-kVGCs6S8LxeDLn5` | 0 | 3 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / ATK | `1uVjPYCkN5SNqH80MHGDV4GKStTrR5Vot` | 0 | 1 | 0,0 | 2019-06-22 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / allegorithmic | `1uWSLXoFg0dB7qhHJ8ffPUkaim2Z0Z6nA` | 0 | 7 | 2,9 | 2019-06-22 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2019 | `1UpieN2ZJjqVBWS9D5k32Ba0_PoqzCMyA` | 1 | 0 | 0 | 2019-06-22 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2016 | `1lm442UG_meGbjLwKHH7V0cVZO9BH1vw9` | 1 | 0 | 0 | 2019-06-22 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / 3dCoat | `1l2B-DQv7YKYLWdtUBRWbMTQrwwzDslVT` | 1 | 0 | 0 | 2019-06-22 |
-| tabu vorgeschlagen | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max von _ND_Wiki | `1adaaOce8cqPJpXqEbrKFReAjcxlEyrxy` | 8 | 0 | 0 | 2024-02-28 |
-| tabu vorgeschlagen | 9 | Shared Drive Software/Installer/Lizenzen / Globalsign | `1uOSz9UlxPdhIeBdWe1HYvKT9BeqqiZSQ` | 0 | 4 | 0,0 | 2022-08-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen | `0ADgxcEqat_S7Uk9PVA` | 186 | 348 | 63,4 | 2024-03-06 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Deadline 10 | `1v4GtIOB1vZ43lUsGtT9Jnte4eIY9DDb2` | 0 | 4 | 2,5 | 2022-11-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Proprietary Software | `1FtUKPLChSVVMxj6bvFUk51lEHIr-RBU1` | 7 | 2 | 0,0 | 2021-11-23 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Windows | `1jpbixpt7Akxqz-TOxuYy5uM4t70rmTTS` | 1 | 6 | 20,5 | 2023-08-21 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2024 | `1-3ipr6V-WJSAq1aUQ9IC7VJEBqxKV5eV` | 6 | 1 | 0,0 | 2023-01-20 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2022 | `1ud-sgn_CRkrB3uGmq2pnev7H8ice4WQx` | 10 | 1 | 0,0 | 2020-07-23 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / _Armstrong | `1jZXwAEsgAaHu1C1vxDVP2CVfB7sZS_4I` | 14 | 4 | 0,4 | 2021-11-19 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2023 | `1ucbOtDcTj_zU3lZuXn9UQMsZYyYJSSQT` | 0 | 15 | 15,1 | 2022-04-25 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Renderfarm 2016 | `1FadsB6SuE-aj10qira6xJ_ypwdUvWfyC` | 13 | 0 | 0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Renderfarm 2019 | `1kOOmidk-9_tmBy6HUkR8NTGmKSrYiZP0` | 2 | 0 | 0 | 2019-11-26 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2025 | `1coINnL78VjgifucuNkLx5q5r-JIvKcoD` | 0 | 8 | 5,5 | 2023-04-17 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / blender | `1v7FDjtCvj0Anj3qoFf8SxBKvHxr839Q3` | 1 | 2 | 0,4 | 2022-04-25 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Renderfarm 2021 | `1k7865zh231PSVasMWmTKtfmEoilbRO6I` | 0 | 2 | 0,4 | 2020-06-04 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Drivers | `1uxK1An_T7qwk0v4mv_rCrGTevH0lVsXH` | 11 | 3 | 0,2 | 2020-04-16 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2021 | `1ug4bOuoMRmY3-1nqA35GbGbEJSiEevH6` | 4 | 1 | 0,0 | 2020-06-02 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / chitubox | `1v6LS2a5ifQUlclf46DakDM7HTx2M97iI` | 0 | 1 | 0,1 | 2020-02-19 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Maxon | `1quLYd8VKFS_A7M8MKk1NOw_3DEinYcE_` | 1 | 2 | 0,3 | 2020-02-18 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Houdini | `1uvrtsN-O3jx2xDJP7r-M2CM-cb505YYa` | 2 | 4 | 4,6 | 2020-02-18 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Renderfarm 2020 | `1kD2i7jcuGvkxWXhbRwILniwb5IV4gFnL` | 3 | 0 | 0 | 2020-01-03 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Instant Meshes | `1r7Hem-AGLLYCehDa-TD4FhqPc_S3yDpK` | 0 | 1 | 0,0 | 2019-10-12 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Foundry | `1uwzeUdr7OGBfVov76WM-HgJNQODPBeu8` | 5 | 1 | 0,0 | 2019-08-14 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2020 | `1uiS3H73kMKMck-oiaQFuzmZW5X4r_C9c` | 1 | 2 | 0,0 | 2019-08-16 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / autocad 2020 | `1uMsB3weOmt5UpUB0bw3piRxOOxZEa197` | 1 | 5 | 1,6 | 2022-07-06 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / OculusGo_Kiosk_Mode | `1qihc6yRZpxcMuyO8OrLQ422We9tOWiPa` | 0 | 2 | 0,1 | 2019-07-23 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max Plugins | `1u_MZm9-Jkkv6SB7KnAnO-gcuQghH_REu` | 0 | 6 | 0,0 | 2022-04-13 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / After_Effects_Plugins | `1uXOY__jQsM2BvC7KpDosgD4D0Y5ZLeDJ` | 18 | 5 | 1,4 | 2019-06-26 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / World Creator | `1jj4WOYta5DltDNyck_5VhEvzB3hXPE2b` | 0 | 2 | 0,5 | 2019-06-22 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / unreal | `1k1ZZ1gcjyjebeJq9gd3jV0NC2WGTrIKu` | 2 | 3 | 0,9 | 2024-03-06 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / ubiquiti | `1k1eeHDsm-itr-euzLzWu5gtH8mOhem2i` | 0 | 1 | 0,1 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Syntheyes | `1k38T_2uIyRM3Xto_NVWpunVg4bSVB7C1` | 0 | 3 | 0,1 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / sculptis | `1k61T96UPCZj4eb7AUVEYw1xKBqs9nZnz` | 0 | 1 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / rc | `1Fj_b1aUJ8FKkSVk6r6i4z9tO4wGz4zqk` | 2 | 2 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Python | `1FkpfVnxqHmIMhscbvvbsoyMvC2ciGBd0` | 0 | 1 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Ptgui | `1FksH2TzCuxbgAFYVZvLLCeU_kbG_Zf19` | 0 | 3 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / ProSequencer | `1FlKmNOfPFF5pOshnuRJzN9mkzua9XEwR` | 0 | 2 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Premiere Plugins | `1FvK5GPgS-oTkFT-30AZ1r58YE1FytjII` | 1 | 1 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Pose Saver | `1G6kmEp_M3sH8NXrQSUC0sehdLI7vBJKf` | 0 | 2 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / PolySpline | `1G8jcUK1R5KwdbjQDIQ9SGUtIY-pG7ChA` | 1 | 3 | 0,0 | 2019-06-22 |
+| tabu | 6 | Shared Drive Software/Installer/Lizenzen / photoscann | `1qYWXpojtAFA5fqYExYIgbZxbUxWQFItm` | 2 | 0 | 0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / openCv | `1qYiUl1KxmUvxAT_Vf2bQuNtwgA02xVuR` | 3 | 5 | 0,4 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Nuke Plugins | `1qkWtQ66FoqxseGN3SjlXtEKM0bBUMl6M` | 1 | 7 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Nokia OZO | `1ql4AGvnsytCsv_Edlyx3jITDNsNezLeS` | 0 | 7 | 1,1 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Neat Video Pro OFX v411 | `1qlNPxy-gs3eIw5pbtfw5b8xM3OUjUOW1` | 0 | 2 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Milkeyway_converter | `1qt_pHVKg1G2x-3oaLVi0l6sI2lVfjPlV` | 0 | 9 | 0,0 | 2019-06-22 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / Materialize_1.78 | `1qxvYHMhxldp4AAiJlx5XiIjZ8y90lOIZ` | 1 | 3 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Kolor | `1qzJ74Fu8VwT0XsybdsXSmQOZADTXEiQ4` | 0 | 3 | 0,3 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / KandaoStudio-v2.7.0.3 | `1r0kXVNLFx66eHYHgSueIDIGsOJYPz8Wu` | 1 | 178 | 2,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Global Mapper v13.2 Build 062212 | `1uwVOOORGvAPH1v5nIdNC7lp4Xq5L7t0-` | 2 | 0 | 0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Clarisse | `1v65cKrTpkIRxg0w-lwC0O3EMx7kMAmu6` | 0 | 1 | 0,3 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / batches | `1v81dIxsOaRWhEEnjGk90gizJJ6GB7cXH` | 1 | 1 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Autodesk_CFDtrial | `1uM5aTCrSbsYPXg8RhVJruWkJgnYJHSOJ` | 0 | 1 | 1,2 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Atom | `1uPUVzuydsLSHM1ir-kVGCs6S8LxeDLn5` | 0 | 3 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / ATK | `1uVjPYCkN5SNqH80MHGDV4GKStTrR5Vot` | 0 | 1 | 0,0 | 2019-06-22 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / allegorithmic | `1uWSLXoFg0dB7qhHJ8ffPUkaim2Z0Z6nA` | 0 | 7 | 2,9 | 2019-06-22 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2019 | `1UpieN2ZJjqVBWS9D5k32Ba0_PoqzCMyA` | 1 | 0 | 0 | 2019-06-22 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max 2016 | `1lm442UG_meGbjLwKHH7V0cVZO9BH1vw9` | 1 | 0 | 0 | 2019-06-22 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / 3dCoat | `1l2B-DQv7YKYLWdtUBRWbMTQrwwzDslVT` | 1 | 0 | 0 | 2019-06-22 |
+| tabu | 7 | Shared Drive Software/Installer/Lizenzen / 3ds Max von _ND_Wiki | `1adaaOce8cqPJpXqEbrKFReAjcxlEyrxy` | 8 | 0 | 0 | 2024-02-28 |
+| tabu | 9 | Shared Drive Software/Installer/Lizenzen / Globalsign | `1uOSz9UlxPdhIeBdWe1HYvKT9BeqqiZSQ` | 0 | 4 | 0,0 | 2022-08-22 |
 | offen | 9 | Shared Drive Drei Fragezeichen (Fulldome, Fremd-IP) | `0ADrrJIjILI00Uk9PVA` | 11 | 0 | 0 | 2025-07-11 |
 | offen | 9 | Shared Drive Drei Fragezeichen (Fulldome, Fremd-IP) / Drei_Fragezeichen_Dorf_der_Teufel | `1niN5jz6SlhefiRb0jZuSSM338Qh5Qw3Z` | 5 | 0 | 0 | 2025-07-11 |
 | offen | 9 | Shared Drive Drei Fragezeichen (Fulldome, Fremd-IP) / Totenkopf | `1AhM1_9pVM5EURDhL0wAZOJmO9Gzbsqy5` | 4 | 0 | 0 | 2025-07-11 |
@@ -422,7 +422,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 4 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Merck | `1cYDLQ4r4cYBt0oFqnRuf-zuCjcMuF1CP` | 11 | 0 | 0 | 2024-08-30 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Saalburg | `10wTozZ0wiBqQNoMTtU1UIBd7svoi2bw2` | 2 | 1 | 18,7 | 2022-04-14 |
 | offen | 4 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Henkel | `1CLf_zsz9T7ezqMKZeJeFLcwU-b5cJfU1` | 1 | 0 | 0 | 2021-07-09 |
-| tabu vorgeschlagen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Standortbewerbung für eine Forschungsfabrik für Batteriezellen | `1DJueclViiFZBo72JEXodYljz8eS0Hi9r` | 5 | 1 | 0 | 2021-06-26 |
+| tabu | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Standortbewerbung für eine Forschungsfabrik für Batteriezellen | `1DJueclViiFZBo72JEXodYljz8eS0Hi9r` | 5 | 1 | 0 | 2021-06-26 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / RinasxNorthdocks | `1V5-_4fVFmWganGdhN-8idKpoPThlWcqR` | 2 | 0 | 0 | 2026-04-14 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / VRLandtag | `176GuUWlsm82LovlYpuB5U2roh2kN7Gny` | 19 | 6 | 0,2 | 2026-04-12 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Vodafone | `1O8yLoDiWh7jRyhZFA3-MQm1lKjyxci1-` | 3 | 0 | 0 | 2026-04-12 |
@@ -473,9 +473,9 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 9 | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) | `0AEoIiL4dhHw4Uk9PVA` | 243 | 22 | 6,8 | 2026-10-14 |
 | offen | 9 | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / Projekte | `1cstMwN8GHBphmmaNJhSW_XVVnwHQAsO3` | 210 | 7 | 0,0 | 2026-08-28 |
 | offen | 9 | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / 21.10.2026 | `1AQpL6gzgyxlXU9vk2EVkMY63TqTbLe6G` | 1 | 0 | 0 | 2026-10-14 |
-| tabu vorgeschlagen | 9 | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / old Meetings | `1RXI8eF6l9CEqe8tGzfu6DmkBDHgdfn5i` | 23 | 0 | 0 | 2026-10-14 |
+| tabu | 9 | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / old Meetings | `1RXI8eF6l9CEqe8tGzfu6DmkBDHgdfn5i` | 23 | 0 | 0 | 2026-10-14 |
 | offen | 6 | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / Events | `1-l3QJwckw_g9PD8_415vw0w8prFOjDS-` | 3 | 0 | 0 | 2024-06-27 |
-| tabu vorgeschlagen | 9 | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / Mitschnitte | `1E-DbLK_V2kKGMh54USucnfKNToA4fRhe` | 1 | 15 | 6,8 | 2026-10-14 |
+| tabu | 9 | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / Mitschnitte | `1E-DbLK_V2kKGMh54USucnfKNToA4fRhe` | 1 | 15 | 6,8 | 2026-10-14 |
 | offen | 9 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) | `0ALbTYzHwYxVnUk9PVA` | 44 | 25 | 4,3 | 2026-02-07 |
 | offen | 9 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / Repos_Alt | `1OnU8sDqDMPVyViekb7LbBw_3RrNSCfeW` | 17 | 0 | 0 | 2025-04-09 |
 | offen | 1 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / NDImagefilm | `1dv5MkBAlIDHsdX3fCazt7bIXLLgRQWqh` | 2 | 0 | 0 | 2023-01-30 |
@@ -488,17 +488,17 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 9 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / NDFire | `11V26HTAZpRzl0x487gvIev1M2P6OL7rn` | 0 | 1 | 0 | 2023-02-23 |
 | offen | 2 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / FFVRLauncher | `1Yld_Sju3Jx8ORophhm7vAD-cIcvZVblU` | 0 | 9 | 0,0 | 2023-01-31 |
 | offen | 9 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / NDPIPulseEngine | `16t-N_x5iBuepLD4ETY3IJBH9C5dzuvT2` | 3 | 6 | 0,0 | 2023-03-17 |
-| tabu vorgeschlagen | 9 | Currenta | `1GRMBYtsm7pBq_4kSnZJ6QK9zYEmWt5oW` | 0 | 1 | 0,0 | 2019-09-04 |
-| tabu vorgeschlagen | 9 | CURRENTA Arena Krefeld | `1-CP1XngF2t0PpYU144P5QEWKEmSs013o` | 0 | 0 | 0 | 2020-08-12 |
-| tabu vorgeschlagen | 9 | Currenta | `1-lDfxhIZy7qlCDt1RBlxImJA4_i4qvkf` | 0 | 0 | 0 | 2021-01-13 |
-| tabu vorgeschlagen | 9 | Currenta Wasserwerk | `1-ZYCtvR3gAqkyElBwJFA5Oe-_HAAoHDY` | 0 | 0 | 0 | 2020-10-14 |
-| tabu vorgeschlagen | 9 | Currenta Krefeld | `1ngNrOnF5L8xwcSqfwzy4CJpRiZopWGYW` | 0 | 0 | 0 | 2020-07-08 |
-| tabu vorgeschlagen | 9 | Currenta Krefld | `18x4RYwiINcYyPVlF3ki0obniKo9M0Ja2` | 0 | 0 | 0 | 2020-07-01 |
-| tabu vorgeschlagen | 9 | Currenta OPS | `1-5kPt6fZiYdUTWy3JXkWzl_2-DQZYJn-` | 0 | 0 | 0 | 2020-05-13 |
-| tabu vorgeschlagen | 9 | Currenta | `1DrSjrQyqd_L5Esy492AegxNdoQ3JTCZT` | 0 | 0 | 0 | 2020-02-19 |
+| tabu | 9 | Currenta | `1GRMBYtsm7pBq_4kSnZJ6QK9zYEmWt5oW` | 0 | 1 | 0,0 | 2019-09-04 |
+| offen | 9 | CURRENTA Arena Krefeld | `1-CP1XngF2t0PpYU144P5QEWKEmSs013o` | 0 | 0 | 0 | 2020-08-12 |
+| tabu | 9 | Currenta | `1-lDfxhIZy7qlCDt1RBlxImJA4_i4qvkf` | 0 | 0 | 0 | 2021-01-13 |
+| tabu | 9 | Currenta Wasserwerk | `1-ZYCtvR3gAqkyElBwJFA5Oe-_HAAoHDY` | 0 | 0 | 0 | 2020-10-14 |
+| offen | 9 | Currenta Krefeld | `1ngNrOnF5L8xwcSqfwzy4CJpRiZopWGYW` | 0 | 0 | 0 | 2020-07-08 |
+| offen | 9 | Currenta Krefld | `18x4RYwiINcYyPVlF3ki0obniKo9M0Ja2` | 0 | 0 | 0 | 2020-07-01 |
+| tabu | 9 | Currenta OPS | `1-5kPt6fZiYdUTWy3JXkWzl_2-DQZYJn-` | 0 | 0 | 0 | 2020-05-13 |
+| tabu | 9 | Currenta | `1DrSjrQyqd_L5Esy492AegxNdoQ3JTCZT` | 0 | 0 | 0 | 2020-02-19 |
 | offen | 9 | _ND_Projects (geteilt) | `1FhYNXK1Z5ZjRr1MRTthPyyiRgZaWIMCd` | 122 | 77 | 4,0 | 2026-09-26 |
 | offen | 2 | _ND_Projects (geteilt) / FirefighterVR | `1V1cxKy19xY8zKI-h-zjFKmz4TS-T3wxy` | 11 | 0 | 0 | 2024-09-23 |
-| tabu vorgeschlagen | 9 | _ND_Projects (geteilt) / Currenta | `1EgQGF7_bRsgDjbLsZ1Eosjc614stD-J_` | 12 | 0 | 0 | 2022-02-17 |
+| tabu | 9 | _ND_Projects (geteilt) / Currenta | `1EgQGF7_bRsgDjbLsZ1Eosjc614stD-J_` | 12 | 0 | 0 | 2022-02-17 |
 | offen | 9 | _ND_Projects (geteilt) / Armstrong | `1V3c6grQpv4xvbswmRCDfrznIduX6pSzy` | 7 | 0 | 0 | 2021-11-23 |
 | offen | 9 | _ND_Projects (geteilt) / Das Dorf der Teufel | `13gsfhmBJzpgzWJtF7dySHyRRAOkfkojW` | 9 | 1 | 0 | 2020-10-22 |
 | offen | 5 | _ND_Projects (geteilt) / Koelner Dom | `1EoQuYW2Wj6d0cJI2nYv2SRNKTOh6JJUb` | 35 | 30 | 2,8 | 2024-09-11 |
@@ -522,7 +522,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 6 | _ND_Best Of (geteilt) / KI Bilder | `1ov82aN0esz5xcZME-m0KiQOmGvPrBIiV` | 1 | 0 | 0 | 2026-03-17 |
 | offen | 1 | _ND_Best Of (geteilt) / Projects | `1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN` | 56 | 0 | 0 | 2026-05-06 |
 | offen | 1 | _ND_Best Of (geteilt) / Clippings | `1rL7hWpk1gqiE5fPHzL02NiSYGpZ1xkU2` | 20 | 19 | 1,0 | 2026-04-21 |
-| tabu vorgeschlagen | - | 01 Administration (geteilt) | `1-4L9eK91dNq0HsyT1wDUFQ2c1OmbwRDn` | 67 | 0 | 0 | 2026-09-14 |
+| tabu | - | 01 Administration (geteilt) | `1-4L9eK91dNq0HsyT1wDUFQ2c1OmbwRDn` | 67 | 0 | 0 | 2026-09-14 |
 | offen | 8 | _ND_Resources (geteilt) | `1r5_V1Aq9Wc0kVg5hOTdOcMXOga10Iq1N` | 15 | 6 | 0,0 | 2026-09-26 |
 | offen | 8 | _ND_Resources (geteilt) / Flyeralarm_Printable | `1BrBwEYEJdRAOlDN2j8yQ2HbFCZyQ9Vop` | 4 | 6 | 0,0 | 2022-08-22 |
 | offen | 8 | _ND_Resources (geteilt) / CI | `1R31FjssxN7leeUAqQXIvOtX6U6kKgOnq` | 3 | 0 | 0 | 2020-11-25 |
@@ -553,7 +553,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 8 | Der Digitale Zwilling des Kölner Domes (geteilt) / Pressedokumente | `1lekNc-LCto9X3RMRqeRcf0lq2R8V_gyi` | 0 | 7 | 0,0 | 2021-12-14 |
 | offen | 7 | 00 Manidus Modell - Architektur (geteilt) | `1CjXO_RMW9rg3jrz9GTKtaAj36YrrFyzP` | 1 | 15 | 0,6 | 2025-12-19 |
 | offen | 7 | 00 Manidus Modell - Architektur (geteilt) / Sicherung | `1hNEqsmjQOqezVpDFk9YfQl7FTILeiZYd` | 0 | 13 | 0,5 | 2025-04-08 |
-| tabu vorgeschlagen | 9 | 0099-G-20 b) Bilder zu Schäden (geteilt) | `1VK9O0O2LOWUkGRCzS2B6WnFiXZWOsuLN` | 0 | 458 | 2,2 | 2024-06-11 |
+| tabu | 9 | 0099-G-20 b) Bilder zu Schäden (geteilt) | `1VK9O0O2LOWUkGRCzS2B6WnFiXZWOsuLN` | 0 | 458 | 2,2 | 2024-06-11 |
 | offen | 6 | 0624 Bilster Berg (geteilt) | `1-hv69Nitp_K8nDEYyoj5gRh2WKMJIIy3` | 0 | 35 | 5,7 | 2024-06-01 |
 | offen | 7 | 3D Modelle (geteilt) | `1DJj41WWhS2rmAS6N2kDKbNzmFILf7B5y` | 0 | 2 | 0,1 | 2024-04-29 |
 | offen | 8 | Pitchdecks (geteilt) | `1iG9ZyYkxD4TQG807VA9AYzKbJP7eWV7m` | 3 | 6 | 0,1 | 2024-02-15 |
@@ -584,33 +584,33 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 
 | Status | Pfad | Ordner-ID |
 |---|---|---|
-| tabu vorgeschlagen | 01 ND | `1rA_9Cm5bAxwJzsqPhMPkeUPm047gugrK` |
-| tabu vorgeschlagen | Shared Drive FirefighterVR (Name vermutet) / Simulation MVP 3 / Abrechnung FF | `10C-3ioUS2P_DWb4LDclkC4z44a2FJYwb` |
-| tabu vorgeschlagen | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / Projekte / Anträge & Ausschreibungen | `1a8PSu7vc1uViEhZyzCuH--gU6khQlcnX` |
-| tabu vorgeschlagen | _ND_Best Of (geteilt) / Projects / Bürrig | `1K75HW00Na64B_grXnEFmxOvo4Wa_j3ey` |
-| tabu vorgeschlagen | _ND_Best Of (geteilt) / Projects / Currenta | `1CT1fTt2DfFME9fr8tckryZZJM_yWonDw` |
-| tabu vorgeschlagen | Shared Drive Marketing Sales / Kunden / Currenta | `16SE2IFK26WY47Ymou57h_QZA52oNyAy2` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Messe_Demo / Apps / CurrentaTechExplorerV03 | `1T9S2Jcxb4GwuI67nlvXHt-pRaNj8jddi` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Messe_Demo / Apps / CurrentaSicherheitstagBuild | `1T9rB6JW9G0-bKQ_TzzZugxRjH3oPmKci` |
-| tabu vorgeschlagen | _ND_Best Of (geteilt) / Staff / 20210926 Befliegung Chempark Henkel | `1JleO3uaxCx4VDZgET7xSpd_vwmkYlzF0` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Buerrig_2021-07-3_Combined+Laser_v005 | `1jxa1EsWz6xesLz-6pj6HuzyOSZDLj93E` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Leverkusen_2020-06-26_combined_02_v001 | `1TcatftY7KV8S4IQNVOfW19gAKRw_13tl` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Dormagen_2021-10-01_combined_v004 | `1KOcyB1hk5sM5P6UR0s0wzsMy8MLqBh8D` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Krefeld_2020-06-26_combined_wasserwerk_v012 | `1JIDaijxOS0bOOwJNeZmtVhFcr69IBHTp` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Krefeld_2020-06-26_wasserwerk_v012 | `1JKtziV6NxdYo8pUH1EwwASZy0y71_gxU` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_LEV_Technikum_2020_v001 | `1JS6pt9PbYwjv1ZI7T8uECJYUi3bgnerO` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / currenta_wasserwerk_complete_03_innen_v003 | `1JXGkLfISJbPMY2UO7lvsLEhTfJM0eGGS` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / currenta_wasserwerk_klaerwerk_v003 | `1q_74R_mJQus_sPwnZWXssq08JrezNa6H` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Krefeld_2020-06-26_v018 | `1yXoTN5tXD45oJulxjElOxBXQlteuYlfw` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Northdocks_Demos / VR_Apps / Currenta_Sicherheitstag | `1PuNfuC0WvE3QctiRQ2vx0_huT3ZK3UW_` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Northdocks_Demos / VR_Apps / CurrentaKesselvisualisierung_19-11-21 | `1Pvpy0ZFM62527_hsAC2frxuIB3IosZQT` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Northdocks_Demos / VR_Apps / CurrentaKesselvisualisierung_19-11-20 | `1Q3l2vwoqh35L4hlFGnYM_EwtF4Io1_FR` |
-| tabu vorgeschlagen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Northdocks_Demos / VR_Apps / currentaFireDep_18-06-27 | `1Q45Vlf11jQuXWhuk5_hElTBevO_K8Zk1` |
-| tabu vorgeschlagen | _ND_Best Of (geteilt) / Staff / 20210630 Bürrig | `1vaH2Y1uTEtM6EGxsqizNLc0rCptdBf5n` |
-| tabu vorgeschlagen | _ND_Best Of (geteilt) / Staff / 20180718 CURRENTA VR Experience Dreh | `1DGimeni1Sm2xMFILrYxXS9zzOj5m0AZx` |
-| tabu vorgeschlagen | _ND_Best Of (geteilt) / Staff / 20180412 CURRENTA CPS Kundenevent | `1uzF5ON9fmSLDW2ToWn7N38eNq8Pd-b4R` |
-| tabu vorgeschlagen | _ND_Best Of (geteilt) / Staff / 20180611 CURRENTA Werkfeuerwehr | `168bgAajMKoT41Jfh6KVgp8m9neA4FfvE` |
-| tabu vorgeschlagen | _ND_Best Of (geteilt) / Staff / 20180722 Currenta Dormagen | `1--T1yMngRXk3EztYqHZQhR3kKkB_LJbc` |
-| tabu vorgeschlagen | _ND_Best Of (geteilt) / Staff / 20180611 Currenta Feuerwehr | `10H8Y2ZxdHjRqTPxC_t2JATDsdaGwayu9` |
-| tabu vorgeschlagen | _ND_Best Of (geteilt) / Staff / 20180718 Currenta MPC | `17YwNOUDTLBCddzilmpJI0whzvVUbIRjc` |
-| tabu vorgeschlagen | _ND_Best Of (geteilt) / Staff / 20180719 Currenta Kläranlage Wasserwerk | `13W6zbI_njHIhYG9wDNnrlwWxOYOQk4oY` |
+| tabu | 01 ND | `1rA_9Cm5bAxwJzsqPhMPkeUPm047gugrK` |
+| tabu | Shared Drive FirefighterVR (Name vermutet) / Simulation MVP 3 / Abrechnung FF | `10C-3ioUS2P_DWb4LDclkC4z44a2FJYwb` |
+| tabu | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / Projekte / Anträge & Ausschreibungen | `1a8PSu7vc1uViEhZyzCuH--gU6khQlcnX` |
+| tabu | _ND_Best Of (geteilt) / Projects / Bürrig | `1K75HW00Na64B_grXnEFmxOvo4Wa_j3ey` |
+| tabu | _ND_Best Of (geteilt) / Projects / Currenta | `1CT1fTt2DfFME9fr8tckryZZJM_yWonDw` |
+| tabu | Shared Drive Marketing Sales / Kunden / Currenta | `16SE2IFK26WY47Ymou57h_QZA52oNyAy2` |
+| tabu | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Messe_Demo / Apps / CurrentaTechExplorerV03 | `1T9S2Jcxb4GwuI67nlvXHt-pRaNj8jddi` |
+| tabu | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Messe_Demo / Apps / CurrentaSicherheitstagBuild | `1T9rB6JW9G0-bKQ_TzzZugxRjH3oPmKci` |
+| tabu | _ND_Best Of (geteilt) / Staff / 20210926 Befliegung Chempark Henkel | `1JleO3uaxCx4VDZgET7xSpd_vwmkYlzF0` |
+| tabu | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Buerrig_2021-07-3_Combined+Laser_v005 | `1jxa1EsWz6xesLz-6pj6HuzyOSZDLj93E` |
+| offen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Leverkusen_2020-06-26_combined_02_v001 | `1TcatftY7KV8S4IQNVOfW19gAKRw_13tl` |
+| offen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Dormagen_2021-10-01_combined_v004 | `1KOcyB1hk5sM5P6UR0s0wzsMy8MLqBh8D` |
+| offen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Krefeld_2020-06-26_combined_wasserwerk_v012 | `1JIDaijxOS0bOOwJNeZmtVhFcr69IBHTp` |
+| offen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Krefeld_2020-06-26_wasserwerk_v012 | `1JKtziV6NxdYo8pUH1EwwASZy0y71_gxU` |
+| offen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_LEV_Technikum_2020_v001 | `1JS6pt9PbYwjv1ZI7T8uECJYUi3bgnerO` |
+| tabu | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / currenta_wasserwerk_complete_03_innen_v003 | `1JXGkLfISJbPMY2UO7lvsLEhTfJM0eGGS` |
+| tabu | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / currenta_wasserwerk_klaerwerk_v003 | `1q_74R_mJQus_sPwnZWXssq08JrezNa6H` |
+| offen | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Cesium-Tiles / CUR_Krefeld_2020-06-26_v018 | `1yXoTN5tXD45oJulxjElOxBXQlteuYlfw` |
+| tabu | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Northdocks_Demos / VR_Apps / Currenta_Sicherheitstag | `1PuNfuC0WvE3QctiRQ2vx0_huT3ZK3UW_` |
+| tabu | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Northdocks_Demos / VR_Apps / CurrentaKesselvisualisierung_19-11-21 | `1Pvpy0ZFM62527_hsAC2frxuIB3IosZQT` |
+| tabu | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Northdocks_Demos / VR_Apps / CurrentaKesselvisualisierung_19-11-20 | `1Q3l2vwoqh35L4hlFGnYM_EwtF4Io1_FR` |
+| tabu | Shared Drive Studio-Archiv (Demos, Texturen, Cesium-Tiles) / Northdocks_Demos / VR_Apps / currentaFireDep_18-06-27 | `1Q45Vlf11jQuXWhuk5_hElTBevO_K8Zk1` |
+| tabu | _ND_Best Of (geteilt) / Staff / 20210630 Bürrig | `1vaH2Y1uTEtM6EGxsqizNLc0rCptdBf5n` |
+| tabu | _ND_Best Of (geteilt) / Staff / 20180718 CURRENTA VR Experience Dreh | `1DGimeni1Sm2xMFILrYxXS9zzOj5m0AZx` |
+| tabu | _ND_Best Of (geteilt) / Staff / 20180412 CURRENTA CPS Kundenevent | `1uzF5ON9fmSLDW2ToWn7N38eNq8Pd-b4R` |
+| tabu | _ND_Best Of (geteilt) / Staff / 20180611 CURRENTA Werkfeuerwehr | `168bgAajMKoT41Jfh6KVgp8m9neA4FfvE` |
+| offen | _ND_Best Of (geteilt) / Staff / 20180722 Currenta Dormagen | `1--T1yMngRXk3EztYqHZQhR3kKkB_LJbc` |
+| tabu | _ND_Best Of (geteilt) / Staff / 20180611 Currenta Feuerwehr | `10H8Y2ZxdHjRqTPxC_t2JATDsdaGwayu9` |
+| tabu | _ND_Best Of (geteilt) / Staff / 20180718 Currenta MPC | `17YwNOUDTLBCddzilmpJI0whzvVUbIRjc` |
+| tabu | _ND_Best Of (geteilt) / Staff / 20180719 Currenta Kläranlage Wasserwerk | `13W6zbI_njHIhYG9wDNnrlwWxOYOQk4oY` |

@@ -46,7 +46,7 @@ Grundsätze:
 
 Die Regeln gelten zusätzlich zu [document-rules.md](../document-rules.md) und [claims.md](../claims.md). Bei Widerspruch gilt die strengere Regel.
 
-1. **Bürrig/Currenta:** Der Name Currenta darf genannt werden. Bilder, Einsatzpläne und Einsatzbereitschaftsdaten aus Bürrig (Currenta) sind immer tabu.
+1. **Bürrig (Currenta):** Der Name darf genannt werden. Bilder, Einsatzpläne und Einsatzbereitschaftsdaten aus Bürrig sind immer tabu. Die Regel gilt nur für Bürrig, nicht für andere Currenta-Standorte (Joachim, 18.10.2026); deren sicherheitsrelevantes Material bleibt nur intern. Bei unklarem Standort tabu, bis geklärt.
 2. **Reschke Productions:** Nie als Kunde oder Referenz. Material daraus nur intern.
 3. **Koni Trainer:** Nie als ausgeliefert oder klinisch validiert zeigen.
 4. **Steinmeier:** Keine Aufnahme von Bundespräsident Steinmeier mit VR-Brille verwenden.
