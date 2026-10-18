@@ -57,22 +57,23 @@ Die Regeln gelten zusätzlich zu [document-rules.md](../document-rules.md) und [
 8. **Website-Freigabe** nur, wenn der gezeigte Inhalt als Claim mit Stufe „öffentlich“ in [claims.md](../claims.md) steht.
 9. **Personen und Kundenlogos** auf Fotos und Videos sind in Ordnung. Der frühere Default „nur intern bis Einwilligung“ entfällt (Joachim über One, 18.10.2026). Die Regeln 1 bis 8 bleiben davon unberührt.
 10. **Tabu-Ordner** (Finanzen, Personal und Vergleichbares, Liste in [tabu.md](tabu.md)): Zugriff ist erlaubt, um eine konkrete Frage zu klären. Informationen daraus werden nie ohne Abstimmung mit Joachim freigegeben oder weitergegeben (Joachim über One, 18.10.2026).
-11. **Kunden- und Partnermaterial als Referenz:** Kundenmaterial ist grundsätzlich als Referenz freigegeben (Freigabe `angebot`), ausdrücklich auch DJI, Vodafone, sonnen und Merck (Joachim, 18.10.2026). `social-video` nur, wenn Musik und Rechte belegt sind (Regel 6); `website` nur bei Claim-Stufe „öffentlich“ (Regel 8). Die festen Regeln bleiben: Bürrig-Bildmaterial nie, Reschke Productions nie als Referenz, Militär/TMA/Army VR nur intern, Koni Trainer nie als ausgeliefert. Produktionsdateien, Standort-/Kundendaten und Stock-Referenzen aus Kundenprojekten sind keine Referenz-Assets und bleiben nur intern.
+11. **Kunden- und Partnermaterial als Referenz:** Kundenmaterial ist grundsätzlich als Referenz freigegeben (Freigabe `angebot`), ausdrücklich auch DJI, Vodafone, sonnen und Merck (Joachim, 18.10.2026). `social-video` nur, wenn Musik und Rechte belegt sind (Regel 6); `website` nur bei Claim-Stufe „öffentlich“ (Regel 8). Die festen Regeln bleiben: Bürrig-Bildmaterial nie, Reschke Productions nie als Referenz, Militär/TMA/Army VR nur intern, Koni Trainer nie als ausgeliefert. Produktionsdateien, Standort-/Kundendaten und Stock-Referenzen aus Kundenprojekten sind keine Referenz-Assets und bleiben nur intern. Kunden-Clips mit nicht lizenzierter oder ungeklärter Musik kommen erst ins Angebot, wenn die Musik durch lizenzierte (z. B. CC0) ersetzt ist; ohne Ton gilt nicht als Ersatz (Joachim, 18.10.2026).
 
 ## Rollen
 
-- **Northdocks Wissen** pflegt Katalog, Regeln und Freigaben und committet ins Repo. Nur Northdocks Wissen trägt Einträge in [assets.csv](assets.csv) und die Produktdateien ein.
-- **Northdocks Assets** (Bot) sichtet den Drive nur lesend und liefert Einträge als Vorschlag an Northdocks Wissen. Er rendert 3D-Assets zu Renderings, Turntables und Clips in seinen Ausgabeordner. Er schreibt nicht ins Repo und beginnt erst, wenn die Tabu-Liste in [tabu.md](tabu.md) von Joachim bestätigt ist.
-  - Ausgabeordner: „Assets Output“ im Shared Drive „Marketing Sales“, neben „Social Clips“ (Ordner-ID `1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm`, https://drive.google.com/drive/folders/1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm). Angelegt von Northdocks Assets, Stand 18.10.2026, siehe [landkarte.md](landkarte.md).
-  - Rendern: Der GPU-Rechner darf für Renderings genutzt werden, in Absprache mit Northdocks Video (Joachim über One, 18.10.2026).
-- **Video, Web, Social und Förderung** lesen [assets.csv](assets.csv) oder fragen Northdocks Wissen. Sie verwenden nur Assets mit passender Freigabe.
+Stand 18.10.2026 (Joachim über One):
+
+- **Wissen** pflegt Katalog, Regeln und Freigaben und committet ins Repo. Nur Wissen trägt Einträge in [assets.csv](assets.csv) und die Produktdateien ein. Wissen bündelt die Freigabefragen und die Aufräumvorschläge von Assets für Joachim.
+- **Assets** ist der Drive-Bot. Er sichtet den Bestand nur lesend nach Priorität aus [landkarte.md](landkarte.md), überwacht werktäglich neue und geänderte Dateien und liefert Einträge als Vorschlag an Wissen. Außerdem sammelt er Aufräumvorschläge für das Drive (Duplikate, Altstände, Ablage). Umgesetzt wird eine Änderung im Drive nur mit Joachims OK. Assets schreibt nicht ins Repo.
+  - Ausgabeordner: „Assets Output“ im Shared Drive „Marketing Sales“, neben „Social Clips“ (Ordner-ID `1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm`, https://drive.google.com/drive/folders/1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm). Er ist die einzige Schreibstelle von Assets im Drive.
+- **Video** übernimmt 3D-Rendering, Turntables und die GPU-Nutzung, über die gemeinsame Sperre in [../repos.md](../repos.md). Der Output landet in einem Unterordner in „Marketing Sales“. Kandidaten stehen in [3d-kandidaten.md](3d-kandidaten.md).
+- **Web, Social und Förderung** lesen [assets.csv](assets.csv) oder fragen Wissen. Sie verwenden nur Assets mit passender Freigabe.
 
 ## Ablauf
 
 1. Runde 0: Inventur nur über Metadaten (erledigt 18.10.2026, Ergebnis [landkarte.md](landkarte.md)).
 2. Joachim bestätigt oder ändert [tabu.md](tabu.md).
-3. Northdocks Assets sichtet Ordner nach Priorität aus [landkarte.md](landkarte.md) und meldet Vorschläge.
-4. Northdocks Wissen prüft gegen die Freigaberegeln, vergibt IDs, trägt ein und setzt den Ordner in [_progress.md](_progress.md) auf „fertig“.
-5. Unklare Freigaben gehen nach [open-questions.md](open-questions.md).
-
-**Ergänzung zu Regel 11 (Joachim, 18.10.2026):** Kunden-Clips, deren Musik nicht lizenziert oder ungeklärt ist, kommen erst ins Angebot, wenn die Musik durch lizenzierte (z. B. CC0) ersetzt ist. Ohne Ton laufen lassen gilt nicht als Ersatz.
+3. Assets sichtet Ordner nach Priorität aus [landkarte.md](landkarte.md) und meldet Vorschläge.
+4. Wissen prüft gegen die Freigaberegeln, vergibt IDs, trägt ein und setzt den Ordner in [_progress.md](_progress.md) auf „fertig“.
+5. Unklare Freigaben und Aufräumvorschläge gehen nach [open-questions.md](open-questions.md). Wissen legt sie Joachim gebündelt vor.
+6. Danach überwacht Assets werktäglich neue und geänderte Dateien und liefert sie im selben Ablauf.

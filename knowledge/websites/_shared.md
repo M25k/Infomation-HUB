@@ -81,7 +81,7 @@ Sachlich, produktbezogen. Keine Superlative ohne Beleg („Pioniere“, „radik
 - Inhalte: Nur belegte Aussagen zu den Produkten (FirefighterVR, MeditrainVR, Next Factory VR, SpearheadVR, StrahlenschutzVR u. a.); auf Social und Websites nur Claims mit Stufe „öffentlich“ aus [claims.md](../claims.md).
 - Ablauf: Northdocks Video fragt morgens beim Bot „Northdocks Wissen“ nach Themen, belegten Inhalten und neuen Freigaben oder Tabus für Bildmaterial. Northdocks Wissen schickt auch von sich aus Themen mit gutem, freigegebenem Material.
 - Bildmaterial-Tabus gelten immer, unter anderem: kein Bildmaterial, keine Einsatzpläne oder Einsatzbereitschaftsdaten aus Bürrig (Currenta), keine Steinmeier-Aufnahme, Reschke Productions nie als Referenz.
-- Technik: Northdocks Video rendert auf der CPU. Den GPU-Rechner nutzen Northdocks Video (Whisper-Gegenproben), Northdocks Wissen (Whisper-Transkription) und Northdocks Assets (Renderings, freigegeben von Joachim am 18.10.2026), immer über die gemeinsame GPU-Sperre ([repos.md](../repos.md), Abschnitt „GPU-Rechner: gemeinsame Sperre“).
+- Technik: Northdocks Video rendert auf der CPU. Den GPU-Rechner nutzen Northdocks Video (Whisper-Gegenproben), Northdocks Wissen (Whisper-Transkription) und für 3D-Renderings/Turntables Video (seit 18.10.2026, vorher Assets), immer über die gemeinsame GPU-Sperre ([repos.md](../repos.md), Abschnitt „GPU-Rechner: gemeinsame Sperre“).
 
 ## Technik öffentlich sagbar
 

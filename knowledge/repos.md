@@ -92,7 +92,7 @@ Information-HUB bleibt die Textquelle. Technik belegen: lokaler Ordner **oder** 
 
 ## GPU-Rechner: gemeinsame Sperre (seit 18.10.2026)
 
-Der GPU-Rechner (MSI, Ubuntu, RTX 4070 Laptop 8 GB) wird von mehreren Bots genutzt: Northdocks Video, Northdocks Wissen und Northdocks Assets. Damit sich Jobs nicht gegenseitig den Grafikspeicher wegnehmen, gilt für jeden GPU-Job:
+Der GPU-Rechner (MSI, Ubuntu, RTX 4070 Laptop 8 GB) wird von mehreren Bots genutzt: Video (auch 3D-Renderings und Turntables, seit 18.10.2026) und Wissen. Damit sich Jobs nicht gegenseitig den Grafikspeicher wegnehmen, gilt für jeden GPU-Job:
 
 1. Vorher mit `nvidia-smi` prüfen, ob die GPU frei ist, und in `~/gpu-jobs/lock` schauen.
 2. Ist die GPU frei und gibt es keine gültige Sperre, eine Zeile nach `~/gpu-jobs/lock` schreiben: Bot, Start, erwartetes Ende, Job.

@@ -272,9 +272,9 @@ Reihenfolge für Northdocks Assets: 1 fertige Clips/Reels, 2 FFVR-Gameplay/Scree
 | [Shared Drive Projekte 2022 bis 2024 (Army VR, DLR, Draeger, LWL u. a.) / Army VR](https://drive.google.com/drive/folders/1HWpOEhzMQoLdNdSaR67jyMHGp-ASnTHa) | `1HWpOEhzMQoLdNdSaR67jyMHGp-ASnTHa` | 9 | 0,0 | Tabelle 6, Doku 2, Präsentation 1 | 2023-08-30 |
 | weitere 42 Ordner, siehe [_progress.md](_progress.md) | | | | | |
 
-## Ausgabeordner Northdocks Assets
+## Ausgabeordner Assets
 
-Northdocks Assets legt Renderings, Turntables und Clips in **„Assets Output“** ab: Shared Drive „Marketing Sales“ (`0ABOEzlrOY6DqUk9PVA`), neben „Social Clips“, in dem Northdocks Video arbeitet. Ordner-ID `1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm` (https://drive.google.com/drive/folders/1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm). Angelegt von Northdocks Assets (Stand 18.10.2026). Northdocks Wissen legt dort nichts an. Was dort liegt, ist erst nach Eintrag in [assets.csv](assets.csv) freigegeben.
+Renderings und Turntables macht seit 18.10.2026 Video, in einem eigenen Unterordner in „Marketing Sales“. Assets (Drive-Bot) nutzt **„Assets Output“** für seine Ausgaben: Shared Drive „Marketing Sales“ (`0ABOEzlrOY6DqUk9PVA`), neben „Social Clips“, in dem Northdocks Video arbeitet. Ordner-ID `1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm` (https://drive.google.com/drive/folders/1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm). Angelegt von Northdocks Assets (Stand 18.10.2026). Northdocks Wissen legt dort nichts an. Was dort liegt, ist erst nach Eintrag in [assets.csv](assets.csv) freigegeben.
 
 ## 3D-Kandidaten
 
