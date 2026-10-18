@@ -74,3 +74,5 @@ Die Regeln gelten zusätzlich zu [document-rules.md](../document-rules.md) und [
 3. Northdocks Assets sichtet Ordner nach Priorität aus [landkarte.md](landkarte.md) und meldet Vorschläge.
 4. Northdocks Wissen prüft gegen die Freigaberegeln, vergibt IDs, trägt ein und setzt den Ordner in [_progress.md](_progress.md) auf „fertig“.
 5. Unklare Freigaben gehen nach [open-questions.md](open-questions.md).
+
+**Ergänzung zu Regel 11 (Joachim, 18.10.2026):** Kunden-Clips, deren Musik nicht lizenziert oder ungeklärt ist, kommen erst ins Angebot, wenn die Musik durch lizenzierte (z. B. CC0) ersetzt ist. Ohne Ton laufen lassen gilt nicht als Ersatz.
