@@ -89,3 +89,16 @@ Information-HUB bleibt die Textquelle. Technik belegen: lokaler Ordner **oder** 
 - `TEMA-Server` Checkout lokal fast leer — Remote auf GitHub nachziehen.
 - `gh` CLI fehlt auf diesem Rechner; Org-Liste über Cursor-GitHub oder die Website. Private Repos sieht die öffentliche API nicht.
 - Xing-Tippfehler `firefighervr.de` nicht zitieren.
+
+## GPU-Rechner: gemeinsame Sperre (seit 18.10.2026)
+
+Der GPU-Rechner (MSI, Ubuntu, RTX 4070 Laptop 8 GB) wird von mehreren Bots genutzt: Northdocks Video, Northdocks Wissen und Northdocks Assets. Damit sich Jobs nicht gegenseitig den Grafikspeicher wegnehmen, gilt für jeden GPU-Job:
+
+1. Vorher mit `nvidia-smi` prüfen, ob die GPU frei ist, und in `~/gpu-jobs/lock` schauen.
+2. Ist die GPU frei und gibt es keine gültige Sperre, eine Zeile nach `~/gpu-jobs/lock` schreiben: Bot, Start, erwartetes Ende, Job.
+3. Nach dem Job `~/gpu-jobs/lock` löschen und eine Zeile an `~/gpu-jobs/log.txt` anhängen.
+4. Eine Sperre, deren erwartetes Ende mehr als 30 Minuten zurückliegt, gilt als verwaist und darf übernommen werden (Eintrag im Log).
+5. Lange Warteschlangen (z. B. Whisper-Transkription) setzen die Sperre pro Datei, damit andere Bots zwischendurch drankommen.
+
+Vorschlag Northdocks Video, übernommen 18.10.2026.
+
