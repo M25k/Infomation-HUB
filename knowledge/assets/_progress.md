@@ -36,7 +36,7 @@ Nächstes Gebiet (Runde 2): _ND_Best Of (geteilt) / Projects (`1wu-j12vbatAtiQCs
 
 | Status | Pfad | Ordner-ID | Einträge | Bemerkung |
 |---|---|---|---|---|
-| in Arbeit | Shared Drive Kundenprojekte / Hannover_VR (Assets, Process, Making-of) | `1FEHljXN7eCgo3S16RXGvuAK6X5ZUTWFn` | 271 (HVR-0001 bis HVR-0271) | Erstlistung war unvollständig (Assets, 18.10.2026): noch nicht katalogisiert sind u. a. Aegidentor/work/blender, Substance-Ordner, Flusswasswrkunst/work/blender, _Blockout/*/work/blender, DunkelGasse/work/Blender/Anzuender, Kroepcke/work/Buildings/Building2 (Meshy-AI). Nachsichtung offen (open-questions). Aufräumen umgesetzt, siehe [aufraeumen.md](aufraeumen.md) |
+| fertig | Shared Drive Kundenprojekte / Hannover_VR (Assets, Process, Making-of) | `1FEHljXN7eCgo3S16RXGvuAK6X5ZUTWFn` | 523 (HVR-0001 bis HVR-0271, HVR-0286 bis HVR-0537) | Fertig mit Nachsichtung 18.10.2026 (252 Einträge). Lücken laut Assets: 21 Render-Sequenzen (HVR-0515 bis HVR-0535) nur über den ersten Frame erfasst, Frames nicht einzeln gelistet; Inhalt von Aegidientor_Anim (render/ae, HVR-0515) unklar; Blender-Fluid-Caches nur teilweise gelistet. Texturen als Gruppeneinträge. Aufräumen siehe [aufraeumen.md](aufraeumen.md) |
 | fertig | Shared Drive Projekte/Meetings / old Meetings / 2026-07-15 / Hannover | `1w6bP3lv8nb8IR6cv4zHEq-8n1zo6jx0r` | 14 (HVR-0272 bis HVR-0285) | Ausnahme vom Tabu (Joachim 18.10.2026), 14 Dateien, keine Unterordner; 11 Duplikate aus Process. Rest von old Meetings bleibt tabu |
 
 ## Ebene 0 und 1
@@ -458,7 +458,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / VRLandtag | `176GuUWlsm82LovlYpuB5U2roh2kN7Gny` | 19 | 6 | 0,2 | 2026-04-12 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Vodafone | `1O8yLoDiWh7jRyhZFA3-MQm1lKjyxci1-` | 3 | 0 | 0 | 2026-04-12 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / AR-Anwendung Schiffshebewerk Henrichenburg | `1MDdfJ8HDj77-9byJlzU5do-JG_UvG0jI` | 9 | 0 | 0 | 2026-04-12 |
-| in Arbeit | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Hannover_VR | `1FEHljXN7eCgo3S16RXGvuAK6X5ZUTWFn` | 18 | 0 | 0 | 2026-08-31 |
+| fertig | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Hannover_VR | `1FEHljXN7eCgo3S16RXGvuAK6X5ZUTWFn` | 18 | 0 | 0 | 2026-08-31 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / VRStudio | `15C8wM0DKzvHUY_qGVnKTlN8uPvCqGAuZ` | 0 | 1 | 0,1 | 2025-01-15 |
 | offen | 4 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Spearhead | `1-OWjMZv5bKgIRYSiL-S5I7paQAKpa1iq` | 4 | 3 | 0,0 | 2025-02-19 |
 | offen | 3 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / UKSH - Strahlenschutz | `1fryiF7kULdTeV190-0B-HoRpAlkQstrG` | 6 | 11 | 0,6 | 2024-10-11 |
