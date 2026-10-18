@@ -278,7 +278,7 @@ Renderings und Turntables macht seit 18.10.2026 Video, in einem eigenen Unterord
 
 ## 3D-Kandidaten
 
-Runde 1 (Prio 1, Clips/Reels) brachte keine echten Turntable-Kandidaten (kein Strahlrohr-, Pico- oder Fahrzeugmodell). Einzige mögliche Render-Quelle: UE4-Projekt ND_ASSETS 2018 (Halberstadt-Dom-Asset), nach Lizenzprüfung. Liste und nächste Fundorte in [3d-kandidaten.md](3d-kandidaten.md).
+Runde 1 (Prio 1, Clips/Reels) brachte keine echten Turntable-Kandidaten (kein Strahlrohr-, Pico- oder Fahrzeugmodell). Einzige Render-Quelle: UE4-Projekt ND_ASSETS 2018 (Halberstadt-Dom-Asset), Modelle von Northdocks, Renderings für Social und Web erlaubt (Joachim 18.10.2026). Liste und nächste Fundorte in [3d-kandidaten.md](3d-kandidaten.md).
 
 ## Grenzen der Inventur
 
