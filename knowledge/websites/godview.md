@@ -41,3 +41,12 @@ Hosting-Aussage auf der Site: Deutschland, DSGVO. Intern Linode / DLR-On-Prem **
 - Linode, On-Prem als Standard
 - TED/TEMA als GodView-App-Store
 - Headset-Multiplayer-Peak 16 als GodView-Claim
+
+## Standnotiz Monitoring (GodView Monitor, 18.10.2026)
+
+- Repos in der Org Northdocks-GmbH: Landingpage `www-godview-landingpage` (Live-Stand inkl. `feuerwehr.html` noch nicht gepusht, letzter Commit 07.07.2026), App `ND-GodViewWeb` (letzter Commit 15.10.2026, live Version `2ef827e`). Ältere Repos: `ND-GodView` (2024) und `ND-CesiumTilesetViewer`.
+- Login-Links der Landingpage zeigen auf `godview.nd-apps.de/auth`, die Feuerwehr-Edition mit `?edition=firefighter`.
+- `app.godview.solutions` hat nur einen AAAA-Eintrag (nur IPv6), also für reine IPv4-Nutzer nicht erreichbar.
+- App-Hilfe `/help`: 21 Themen; als Export ist nur PDF aus der Orthogonal-Ansicht dokumentiert. VR-Export daher nicht als dokumentierte Funktion nennen, bis die Hilfe ihn beschreibt.
+- Roadmap auf der Landingpage: 5 Module (Smarte Inspektion, Baulogistik und Kranplanung, Mobiles Fototagging, 2D-Abwicklung zylindrischer Bauwerke, Photogrammetrie). Roadmap ist kein Lieferumfang.
+- Preise live: 119 €/Monat, Module Inspect und Bautagebuch je +49 €, Feuerwehr auf Anfrage.
