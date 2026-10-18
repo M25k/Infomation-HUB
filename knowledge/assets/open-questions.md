@@ -24,4 +24,4 @@ Offene Freigabefragen zum Drive. An Joachim, sofern nicht anders vermerkt. Stand
 
 **Nachtrag 18.10.2026 zu Frage 11:** Northdocks Assets hat Clip 03 Frame für Frame geprüft: Steinmeier trägt keine VR-Brille. Im Video steht bei 12–17 s aber die Einblendung „Mit dem Deutschen Feuerwehrverband“. Laut claims.md steht „Entwickelt mit DFV“ auf „nicht verwenden“. Clip 03 bleibt nur intern, bis die Einblendung geändert ist (neu: Frage 18).
 
-| 18 | Clip 03: Einblendung „Mit dem Deutschen Feuerwehrverband“ (12–17 s) entfernen, danach social-video | FFVR-0030, FFVR-0039 | entschieden (Joachim 18.10.2026: Video entfernt die Einblendung); Umsetzung offen, neue Version danach katalogisieren |
+| 18 | Clip 03: Einblendung „Mit dem Deutschen Feuerwehrverband“ (12–17 s) entfernen, danach social-video | FFVR-0030, FFVR-0039 | erledigt: v3 ohne DFV katalogisiert (FFVR-0055 bis 0057, social-video); alte Stände als nicht verwenden markiert |
