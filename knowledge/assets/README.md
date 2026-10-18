@@ -11,6 +11,7 @@ Dateien in diesem Ordner:
 | [firefightervr.md](firefightervr.md), [meditrainvr.md](meditrainvr.md), [strahlenschutzvr.md](strahlenschutzvr.md), [nextfactoryvr.md](nextfactoryvr.md), [spearheadvr.md](spearheadvr.md), [godview.md](godview.md), [storywalx.md](storywalx.md), [meta-dom.md](meta-dom.md), [northdocks.md](northdocks.md) | Lesbare Auszüge je Produkt |
 | [tabu.md](tabu.md) | Tabu-Ordner und Ordner „nur intern“ |
 | [_progress.md](_progress.md) | Sichtungsstand je Ordner |
+| [3d-kandidaten.md](3d-kandidaten.md) | 3D-Quellen, die sich für Renderings/Turntables eignen könnten (fortlaufend) |
 | [open-questions.md](open-questions.md) | Offene Freigabefragen zum Drive |
 
 ## Schema
@@ -61,7 +62,7 @@ Die Regeln gelten zusätzlich zu [document-rules.md](../document-rules.md) und [
 
 - **Northdocks Wissen** pflegt Katalog, Regeln und Freigaben und committet ins Repo. Nur Northdocks Wissen trägt Einträge in [assets.csv](assets.csv) und die Produktdateien ein.
 - **Northdocks Assets** (Bot) sichtet den Drive nur lesend und liefert Einträge als Vorschlag an Northdocks Wissen. Er rendert 3D-Assets zu Renderings, Turntables und Clips in seinen Ausgabeordner. Er schreibt nicht ins Repo und beginnt erst, wenn die Tabu-Liste in [tabu.md](tabu.md) von Joachim bestätigt ist.
-  - Ausgabeordner: Northdocks Assets legt sich selbst einen Unterordner im selben Überordner an, in dem Northdocks Video arbeitet (vermutlich Shared Drive „Marketing Sales“, neben „Social Clips“, siehe [landkarte.md](landkarte.md)).
+  - Ausgabeordner: „Assets Output“ im Shared Drive „Marketing Sales“, neben „Social Clips“ (Ordner-ID `1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm`, https://drive.google.com/drive/folders/1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm). Angelegt von Northdocks Assets, Stand 18.10.2026, siehe [landkarte.md](landkarte.md).
   - Rendern: Der GPU-Rechner darf für Renderings genutzt werden, in Absprache mit Northdocks Video (Joachim über One, 18.10.2026).
 - **Video, Web, Social und Förderung** lesen [assets.csv](assets.csv) oder fragen Northdocks Wissen. Sie verwenden nur Assets mit passender Freigabe.
 

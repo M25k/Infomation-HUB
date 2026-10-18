@@ -274,7 +274,11 @@ Reihenfolge für Northdocks Assets: 1 fertige Clips/Reels, 2 FFVR-Gameplay/Scree
 
 ## Ausgabeordner Northdocks Assets
 
-Northdocks Video arbeitet laut [websites/_shared.md](../websites/_shared.md) in „Marketing Sales / Social Clips“. Überordner ist damit vermutlich die Wurzel des Shared Drive „Marketing Sales“ (`0ABOEzlrOY6DqUk9PVA`, https://drive.google.com/drive/folders/0ABOEzlrOY6DqUk9PVA). Northdocks Assets legt dort seinen eigenen Unterordner neben „Social Clips“ an. Northdocks Wissen legt nichts an. Bestätigung offen, siehe [open-questions.md](open-questions.md).
+Northdocks Assets legt Renderings, Turntables und Clips in **„Assets Output“** ab: Shared Drive „Marketing Sales“ (`0ABOEzlrOY6DqUk9PVA`), neben „Social Clips“, in dem Northdocks Video arbeitet. Ordner-ID `1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm` (https://drive.google.com/drive/folders/1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm). Angelegt von Northdocks Assets (Stand 18.10.2026). Northdocks Wissen legt dort nichts an. Was dort liegt, ist erst nach Eintrag in [assets.csv](assets.csv) freigegeben.
+
+## 3D-Kandidaten
+
+Runde 1 (Prio 1, Clips/Reels) brachte keine echten Turntable-Kandidaten (kein Strahlrohr-, Pico- oder Fahrzeugmodell). Einzige mögliche Render-Quelle: UE4-Projekt ND_ASSETS 2018 (Halberstadt-Dom-Asset), nach Lizenzprüfung. Liste und nächste Fundorte in [3d-kandidaten.md](3d-kandidaten.md).
 
 ## Grenzen der Inventur
 

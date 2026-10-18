@@ -7,6 +7,30 @@ Status je Ordner: offen / in Arbeit / fertig / tabu. Vorschläge aus Runde 0 ste
 | Lauf | Datum | Wer | Umfang |
 |---|---|---|---|
 | Runde 0 (Inventur, nur Metadaten) | 18.10.2026 | Northdocks Wissen | Ebenen 0 bis 2 vollständig, tiefer nur Ordnernamen teilweise. Keine Datei geöffnet |
+| Runde 1 (Prio 1: fertige Clips und Reels) | 18.10.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 14 Ordner, 603 Dateien per Metadaten, 233 Einträge in [assets.csv](assets.csv). 10 Ordner fertig, 4 in Arbeit (siehe unten) |
+
+## Runde 1: Stand je Ordner (18.10.2026)
+
+Geprüft und eingetragen von Northdocks Wissen. „fertig“ = vollständig gesichtet und eingetragen, „in Arbeit“ = teilweise gesichtet.
+
+| Status | Pfad | Ordner-ID | Dateien | Einträge | Offen |
+|---|---|---|---|---|---|
+| fertig | Shared Drive Marketing Sales / Social Clips | `1WbwQPU-TSNBOqP0clkaptRf7PYx5FNYy` | 31 | 31 | Aktiver Ordner von Northdocks Video: in späteren Runden auf neue Dateien seit 18.10.2026 prüfen |
+| fertig | _ND_Best Of (geteilt) / Clippings | `1rL7hWpk1gqiE5fPHzL02NiSYGpZ1xkU2` | 51 | 51 | – |
+| fertig | Shared Drive FirefighterVR (Name vermutet) / Clippings | `1R3lYaVRjGQdvms9qtUN13RNb06W8Rlg1` | 16 | 16 | Duplikat von _ND_Best Of / Clippings, in assets.csv als DUPLIKAT markiert |
+| fertig | Shared Drive FirefighterVR (Name vermutet) / PromoVideos | `1Mzr7mX64377jQVqXUE7YPw1rJxRTjHVh` | 12 | 12 | – |
+| fertig | ND_WEB_VIDEO_INTRO (geteilt) | `1L9wrMRWmNP_XphWo435n9vHxIRaYvv0f` | 8 | 8 | – |
+| fertig | clip (geteilt) | `14uattAKsZyRx_cGJzQbjJbJkmEGais1O` | 1 | 1 | – |
+| fertig | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / Introschnitt | `1ckkZ_FJB3ZF1DgT_dcrL3irakzKbtwx1` | 1 | 1 | – |
+| fertig | Shared Drive Marketing Sales / Videoschnipsel für LinkedIn | `1-peidqb2EaTKMLBVAgeDQ5Ph0bDIVyQx` | 1 | 1 | – |
+| fertig | Shared Drive Unreal-Projekt (Playthroughs, Videomaterial) / _playthroughs | `1A5xbQFmrkSNDiJ4HDJoHUglsK_KfFLDA` | 32 | 32 | – |
+| fertig | My Drive Joachim (Sammelablage) / Fulldome_Reel_2014_Stills | `1-VfquR15eK_ZP7TxTAzeE9veCCtdMeR5` | 0 | 0 | leer |
+| in Arbeit | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / ND_REELS | `1edYl4Xu6usaC6wvLxfRJuFKiBOW1j0LU` | 15 | 5 | 21 Engine-Unterordner von ND_ASSETS (für 3D-Sichtung Prio 7) und Premiere-Autosave nicht geöffnet. Kein fertiges Reel-Video gefunden |
+| in Arbeit | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / NDImagefilm | `1dv5MkBAlIDHsdX3fCazt7bIXLLgRQWqh` | 308 | 8 | Bildsequenzen merck/V1 `12QqJqI7oAPjBuplxr6lKc_W752iwjaJ4`, merck/V2 `12W44VGEifdwq38gCNkQOGjwayKKRtDlx`, rendering/3ds `1vbfSvgtINhP8QtffQzmMgXjYTeBO38mn` nur erste Seite; 2 Stock-Frame-Ordner und AE-Autosave nicht geöffnet. Kein fertiger Imagefilm gefunden |
+| in Arbeit | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2018_intro_remake | `16PAYYfSwUKbgV90F2v6HKMBpixBhOYMt` | 36 | 16 | 24 Unterordner (Render-Pässe, Houdini-Caches, Erd-Texturen, Autosave) nicht geöffnet; finales Intro evtl. nur als TGA-Sequenz |
+| in Arbeit | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2018_gridStability_Teaser | `16ZTjmbZ_Q3pQdj4J5oWGiE8DgJqRuOu4` | 91 | 51 | 7 Unterordner (Houdini render/maps/export/backup, AE-Autosave, Nuke Earth_ZOOM, icons/batterie) nicht geöffnet |
+
+Nächstes Gebiet (Runde 2): _ND_Best Of (geteilt) / Projects (`1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN`) ohne die tabu-Unterordner Bürrig und Currenta sowie ohne `_Wasserwerk` (tabu bis geklärt, siehe [tabu.md](tabu.md)).
 
 ## Ebene 0 und 1
 
@@ -42,7 +66,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 8 | My Drive Joachim (Sammelablage) / Doku | `1_wkpWmXJAAEE6B2CvAHVZmU6M2l1CrNc` | 0 | 0 | 0 | 2020-09-07 |
 | offen | 9 | My Drive Joachim (Sammelablage) / PANORAMA | `1OJD9G9iEfd2et9repbueGBiP6pK0_su5` | 0 | 0 | 0 | 2020-09-07 |
 | offen | 9 | My Drive Joachim (Sammelablage) / Old_Renderings | `1FY_aDQpAkGdERzYeaaUAsHSlZADdQTCU` | 0 | 0 | 0 | 2020-05-06 |
-| offen | 1 | My Drive Joachim (Sammelablage) / Fulldome_Reel_2014_Stills | `1-VfquR15eK_ZP7TxTAzeE9veCCtdMeR5` | 0 | 0 | 0 | 2019-06-04 |
+| fertig | 1 | My Drive Joachim (Sammelablage) / Fulldome_Reel_2014_Stills | `1-VfquR15eK_ZP7TxTAzeE9veCCtdMeR5` | 0 | 0 | 0 | 2019-06-04 |
 | offen | 9 | My Drive Joachim (Sammelablage) / Stills | `1-O3eh6okkbEg81lpZItegCsRl6zmEpJu` | 0 | 0 | 0 | 2019-06-03 |
 | offen | 6 | My Drive Joachim (Sammelablage) / Photos | `102Mz8HWA4pJ3tC0Z3W02cv6Ial7yyp0J` | 0 | 0 | 0 | 2019-06-03 |
 | offen | 9 | My Drive Joachim (Sammelablage) / Anderswelt | `1-kcLCNiUwGigJ6xzB9STbqsvTEjz_9Xm` | 0 | 0 | 0 | 2019-06-03 |
@@ -79,8 +103,8 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / APKs | `1aSto-mB_9lFkaySvFg_FaqRJo72sRnbr` | 0 | 2 | 0,9 | 2026-06-22 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Simulation MVP 3 | `1Zoo4LL2X3XrN2TjZ6d0FJ69swP5Bz2cF` | 2 | 6 | 0,3 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Simulation MVP 4 | `1MxTw9E6B1E0DiAyBF4cRVB9XKTTExa5L` | 1 | 4 | 0,0 | 2026-04-12 |
-| offen | 1 | Shared Drive FirefighterVR (Name vermutet) / PromoVideos | `1Mzr7mX64377jQVqXUE7YPw1rJxRTjHVh` | 0 | 12 | 0,3 | 2026-04-12 |
-| offen | 1 | Shared Drive FirefighterVR (Name vermutet) / Clippings | `1R3lYaVRjGQdvms9qtUN13RNb06W8Rlg1` | 0 | 16 | 0,9 | 2026-04-12 |
+| fertig | 1 | Shared Drive FirefighterVR (Name vermutet) / PromoVideos | `1Mzr7mX64377jQVqXUE7YPw1rJxRTjHVh` | 0 | 12 | 0,3 | 2026-04-12 |
+| fertig | 1 | Shared Drive FirefighterVR (Name vermutet) / Clippings | `1R3lYaVRjGQdvms9qtUN13RNb06W8Rlg1` | 0 | 16 | 0,9 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Manus VR Issue | `1d2XFUxsIyPAFG7LW948FPjbwPOjjQRc0` | 0 | 3 | 0,0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Vorträge | `1eG30zA6Y1VO76SYmx1_twrqbuFIbL2E1` | 4 | 0 | 0 | 2026-04-12 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Events | `19qPluiM1RD_Zb-SQJyEg2cMhSn5Vcud_` | 16 | 24 | 0,1 | 2026-04-12 |
@@ -184,7 +208,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Plugins | `1qefaxkpUGqKfTeOF5tXZ_7jgQT3HMEc4` | 1 | 0 | 0 | 2022-12-15 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / videos | `1QF1eFmz56mVGAdcBZd0DNhNkQFuxYEIf` | 0 | 4 | 0,7 | 2022-12-22 |
 | offen | 9 | Shared Drive Marketing Sales | `0ABOEzlrOY6DqUk9PVA` | 101 | 88 | 0,6 | 2026-10-17 |
-| offen | 1 | Shared Drive Marketing Sales / Social Clips | `1WbwQPU-TSNBOqP0clkaptRf7PYx5FNYy` | 1 | 21 | 0,3 | 2026-10-17 |
+| fertig | 1 | Shared Drive Marketing Sales / Social Clips | `1WbwQPU-TSNBOqP0clkaptRf7PYx5FNYy` | 1 | 21 | 0,3 | 2026-10-17 |
 | offen | 8 | Shared Drive Marketing Sales / 00 Brands | `1mihSQ1LR_sfT0pFSxdfKQ6JJuw7VsW5z` | 8 | 1 | 0,3 | 2026-03-19 |
 | offen | 8 | Shared Drive Marketing Sales / 00 Präsentationen   Pitchdecks | `1elrHvRkaY1eKtZHns2YNw7KT1IsrBCNJ` | 0 | 4 | 0,0 | 2026-03-19 |
 | offen | 2 | Shared Drive Marketing Sales / Firefighter VR | `1lQZZyZG4dhDxc6FBu2KX7qqugG027MoI` | 13 | 1 | 0 | 2026-03-19 |
@@ -198,16 +222,16 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 5 | Shared Drive Marketing Sales / Godview | `1s3nMx0sUKe8u4OGnozfo4IHOXmJjUorI` | 1 | 1 | 0,0 | 2026-03-19 |
 | tabu | 9 | Shared Drive Marketing Sales / Händlerliste Feuerwehr | `1vyFbh_TZon1vEvxedB2bLg-sZDsJR_1d` | 0 | 1 | 0,0 | 2026-03-11 |
 | offen | 9 | Shared Drive Marketing Sales / AG-XR | `1eqkZ5LazEo1D08JU7DCZQVePUgry9OvP` | 0 | 4 | 0,0 | 2026-03-24 |
-| offen | 1 | Shared Drive Marketing Sales / Videoschnipsel für LinkedIn | `1-peidqb2EaTKMLBVAgeDQ5Ph0bDIVyQx` | 0 | 1 | 0 | 2025-08-14 |
+| fertig | 1 | Shared Drive Marketing Sales / Videoschnipsel für LinkedIn | `1-peidqb2EaTKMLBVAgeDQ5Ph0bDIVyQx` | 0 | 1 | 0 | 2025-08-14 |
 | offen | 8 | Shared Drive Marketing Sales / Sales Pitches | `1fUu5hbF7yF4ODpWyZsmnP5Nf8y46nPJ_` | 0 | 1 | 0 | 2021-02-23 |
 | tabu | 9 | Shared Drive Marketing Sales / Leadgenerierung | `1fsI64L3XszChsurW85MKk8pAINGGQeiT` | 0 | 1 | 0 | 2021-01-11 |
 | offen | 8 | Shared Drive Marketing Sales / Präsentationen & co | `1pvYfZ9MxzqDcjp8dIl4rK4QJCK_0_ILD` | 4 | 23 | 0 | 2026-03-19 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) | `0ABWs0NP9ZJO0Uk9PVA` | 175 | 34 | 0,2 | 2022-09-30 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2019_SonnenbatterieV10 | `1I6cAxMJ7jCbe44F0fGWmYR5D6wBHeYck` | 5 | 0 | 0 | 2021-11-27 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2019_KeyVIZ | `1I6nHM75-OAZo1ERCZn2gvdeM5-kWXGEm` | 35 | 0 | 0 | 2021-11-28 |
-| offen | 1 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2018_intro_remake | `16PAYYfSwUKbgV90F2v6HKMBpixBhOYMt` | 32 | 0 | 0 | 2021-11-27 |
+| in Arbeit | 1 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2018_intro_remake | `16PAYYfSwUKbgV90F2v6HKMBpixBhOYMt` | 32 | 0 | 0 | 2021-11-27 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2019_intersolar | `16HnC1FD2Yb-yUMe7G7DVyclYlnU5obkS` | 4 | 0 | 0 | 2021-11-23 |
-| offen | 1 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2018_gridStability_Teaser | `16ZTjmbZ_Q3pQdj4J5oWGiE8DgJqRuOu4` | 3 | 0 | 0 | 2021-11-23 |
+| in Arbeit | 1 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2018_gridStability_Teaser | `16ZTjmbZ_Q3pQdj4J5oWGiE8DgJqRuOu4` | 3 | 0 | 0 | 2021-11-23 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / Eyecatcher_2018 | `1wKHzKbDXs2R5qp4BVj0CfTr1IYewwLQA` | 3 | 0 | 0 | 2021-11-27 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2017 | `1a6RQp_ZtKi4IwBvpnid4zBYisGweXL0w` | 12 | 0 | 0 | 2021-11-28 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2018_gridStability | `1iJgOOvZWCrEuckN9_8W8iQYlWJBCFwxb` | 4 | 0 | 0 | 2021-11-27 |
@@ -223,7 +247,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2019_SonnenNow | `1dOXfKdzMqaqhHM0fGUbpNJWkxHx2zETo` | 3 | 0 | 0 | 2019-12-20 |
 | offen | 6 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2019_Event_Videos | `1BTDoXOLB40q89JYiwvD8VZrBjR4pzyGT` | 1 | 0 | 0 | 2019-10-18 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / ToDos | `1bDh_2XIBYlTcZffp_V5yK-Wb6rSTjHR3` | 2 | 15 | 0,0 | 2022-07-04 |
-| offen | 1 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / Introschnitt | `1ckkZ_FJB3ZF1DgT_dcrL3irakzKbtwx1` | 0 | 1 | 0,0 | 2022-07-04 |
+| fertig | 1 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / Introschnitt | `1ckkZ_FJB3ZF1DgT_dcrL3irakzKbtwx1` | 0 | 1 | 0,0 | 2022-07-04 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / Musikschnitt | `1cqmkWRKKVIQZQa4Iw_-TMwaYhxTeCt7t` | 0 | 1 | 0,0 | 2022-07-04 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2019_SonnenFlatX | `17-hKjSGqxXrSY2w8876F1rPq35uL7uEB` | 4 | 0 | 0 | 2019-10-18 |
 | offen | 9 | Shared Drive Kundenprojekte Video/Animation 2016 bis 2022 (sonnen u. a.) / 2018_onboarding | `1kupT_nx-msDtLpG_NbI9NxFO5flB3noH` | 3 | 1 | 0,1 | 2022-07-04 |
@@ -412,7 +436,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 9 | Shared Drive Fulldome (Planetenreise, Supernova 2024) / Planetenreise | `1ro8x8A5Xcf3kiaNqGjSWN827Boe7Tdfc` | 4 | 0 | 0 | 2023-08-02 |
 | offen | 9 | Shared Drive Fulldome (Planetenreise, Supernova 2024) / Supernova 2024 | `161vrLcY4IxRsgK3YfD4EdMK1BC3BY4hl` | 1 | 0 | 0 | 2024-01-16 |
 | offen | 7 | Shared Drive Unreal-Projekt (Playthroughs, Videomaterial) | `0ANo6WALLQXiMUk9PVA` | 147 | 6 | 0,5 | 2025-11-12 |
-| offen | 2 | Shared Drive Unreal-Projekt (Playthroughs, Videomaterial) / _playthroughs | `1A5xbQFmrkSNDiJ4HDJoHUglsK_KfFLDA` | 1 | 1 | 0,3 | 2025-11-12 |
+| fertig | 2 | Shared Drive Unreal-Projekt (Playthroughs, Videomaterial) / _playthroughs | `1A5xbQFmrkSNDiJ4HDJoHUglsK_KfFLDA` | 1 | 1 | 0,3 | 2025-11-12 |
 | offen | 7 | Shared Drive Unreal-Projekt (Playthroughs, Videomaterial) / assets | `1tyjMhZrkiAblmrX3Va6DrfYExas-TcjJ` | 31 | 0 | 0 | 2025-02-27 |
 | offen | 7 | Shared Drive Unreal-Projekt (Playthroughs, Videomaterial) / _import | `1vP-wAznc_QtUi3IRTD_U6fmKMUnK3wcc` | 102 | 2 | 0,1 | 2025-01-07 |
 | offen | 7 | Shared Drive Unreal-Projekt (Playthroughs, Videomaterial) / Project | `15SGV6uUaZQM2bqAhqFZR7ZZ0j_bAiSMk` | 0 | 0 | 0 | 2025-02-07 |
@@ -478,8 +502,8 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | tabu | 9 | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / Mitschnitte | `1E-DbLK_V2kKGMh54USucnfKNToA4fRhe` | 1 | 15 | 6,8 | 2026-10-14 |
 | offen | 9 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) | `0ALbTYzHwYxVnUk9PVA` | 44 | 25 | 4,3 | 2026-02-07 |
 | offen | 9 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / Repos_Alt | `1OnU8sDqDMPVyViekb7LbBw_3RrNSCfeW` | 17 | 0 | 0 | 2025-04-09 |
-| offen | 1 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / NDImagefilm | `1dv5MkBAlIDHsdX3fCazt7bIXLLgRQWqh` | 2 | 0 | 0 | 2023-01-30 |
-| offen | 1 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / ND_REELS | `1edYl4Xu6usaC6wvLxfRJuFKiBOW1j0LU` | 1 | 0 | 0 | 2021-12-12 |
+| in Arbeit | 1 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / NDImagefilm | `1dv5MkBAlIDHsdX3fCazt7bIXLLgRQWqh` | 2 | 0 | 0 | 2023-01-30 |
+| in Arbeit | 1 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / ND_REELS | `1edYl4Xu6usaC6wvLxfRJuFKiBOW1j0LU` | 1 | 0 | 0 | 2021-12-12 |
 | offen | 9 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / NDVRTemplate | `1XCDpS9jXk1WF_VM-0dbMUHz-kGYZJ5ad` | 6 | 3 | 0,9 | 2025-01-13 |
 | offen | 9 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / ND_Technikum | `1gxUpgshXBZwxKKB6q-54-_2gL-xsquP9` | 0 | 1 | 1,4 | 2025-04-09 |
 | offen | 8 | Shared Drive Repos/Builds (FFVRLauncher, Godview, ND_REELS) / PCVR_Tutorial_2025 | `15Fo55IknZ9oiN9ASVIL9Yz65BtYzG-E7` | 0 | 2 | 2,0 | 2025-06-12 |
@@ -521,7 +545,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 6 | _ND_Best Of (geteilt) / Staff | `1sH6C_tfyCbgDm3BmvgLbHD299sWEElbG` | 140 | 0 | 0 | 2026-06-22 |
 | offen | 6 | _ND_Best Of (geteilt) / KI Bilder | `1ov82aN0esz5xcZME-m0KiQOmGvPrBIiV` | 1 | 0 | 0 | 2026-03-17 |
 | offen | 1 | _ND_Best Of (geteilt) / Projects | `1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN` | 56 | 0 | 0 | 2026-05-06 |
-| offen | 1 | _ND_Best Of (geteilt) / Clippings | `1rL7hWpk1gqiE5fPHzL02NiSYGpZ1xkU2` | 20 | 19 | 1,0 | 2026-04-21 |
+| fertig | 1 | _ND_Best Of (geteilt) / Clippings | `1rL7hWpk1gqiE5fPHzL02NiSYGpZ1xkU2` | 20 | 19 | 1,0 | 2026-04-21 |
 | tabu | - | 01 Administration (geteilt) | `1-4L9eK91dNq0HsyT1wDUFQ2c1OmbwRDn` | 67 | 0 | 0 | 2026-09-14 |
 | offen | 8 | _ND_Resources (geteilt) | `1r5_V1Aq9Wc0kVg5hOTdOcMXOga10Iq1N` | 15 | 6 | 0,0 | 2026-09-26 |
 | offen | 8 | _ND_Resources (geteilt) / Flyeralarm_Printable | `1BrBwEYEJdRAOlDN2j8yQ2HbFCZyQ9Vop` | 4 | 6 | 0,0 | 2022-08-22 |
@@ -529,8 +553,8 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 7 | _ND_Resources (geteilt) / Info-Materialien | `1CSudvNbPOu4NyCYmXBD6hyukjxysxAjW` | 1 | 0 | 0 | 2020-08-03 |
 | offen | 8 | _ND_Resources (geteilt) / Streaming & Video Editing | `14KfgZIVCLA0Y2ba01f_TXrGPAdph8NBS` | 3 | 0 | 0 | 2020-12-23 |
 | offen | 9 | Haus Lutterbek (geteilt) | `12d2f5oR8E4AAEU1nsDXNdwHcOc87ZpKU` | 0 | 23 | 0,0 | 2026-09-13 |
-| offen | 1 | clip (geteilt) | `14uattAKsZyRx_cGJzQbjJbJkmEGais1O` | 0 | 1 | 0,4 | 2026-05-25 |
-| offen | 1 | ND_WEB_VIDEO_INTRO (geteilt) | `1L9wrMRWmNP_XphWo435n9vHxIRaYvv0f` | 2 | 8 | 0,1 | 2026-05-25 |
+| fertig | 1 | clip (geteilt) | `14uattAKsZyRx_cGJzQbjJbJkmEGais1O` | 0 | 1 | 0,4 | 2026-05-25 |
+| fertig | 1 | ND_WEB_VIDEO_INTRO (geteilt) | `1L9wrMRWmNP_XphWo435n9vHxIRaYvv0f` | 2 | 8 | 0,1 | 2026-05-25 |
 | offen | 1 | ND_WEB_VIDEO_INTRO (geteilt) / V001 | `1587IdpLCp1trrDIeMBDxUflcRcbh-3os` | 0 | 2 | 0,0 | 2020-03-31 |
 | offen | 1 | ND_WEB_VIDEO_INTRO (geteilt) / V002 | `1lmgwpRdMiQGpOTWOCp8W8AQuf037rmNR` | 0 | 6 | 0,0 | 2020-04-02 |
 | offen | 9 | WFVD Digital Future - Shared Folder (extern geteilt) | `1XHw_PHfIJoonFPsHXBBEGfTCz2SOQqtQ` | 17 | 13 | 0,1 | 2026-05-25 |

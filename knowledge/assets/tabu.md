@@ -68,6 +68,7 @@ Generelle Namensregel für spätere Runden: Ordner namens „Personal“, „Geh
 | Currenta Wasserwerk | `1-ZYCtvR3gAqkyElBwJFA5Oe-_HAAoHDY` | Bürrig/Currenta: Bilder, Einsatzpläne, Einsatzbereitschaftsdaten immer tabu | Currenta-Ordner ohne Elternordner (leer) | bestätigt |
 | Currenta OPS | `1-5kPt6fZiYdUTWy3JXkWzl_2-DQZYJn-` | Bürrig/Currenta: Bilder, Einsatzpläne, Einsatzbereitschaftsdaten immer tabu | Currenta-Ordner ohne Elternordner (leer) | bestätigt |
 | Currenta | `1DrSjrQyqd_L5Esy492AegxNdoQ3JTCZT` | Bürrig/Currenta: Bilder, Einsatzpläne, Einsatzbereitschaftsdaten immer tabu | Currenta-Ordner ohne Elternordner (leer) | bestätigt |
+| _ND_Best Of (geteilt) / Projects / _Wasserwerk | `12OKrJv3nvlWLzkJh-T-dXHQlByAIdF-x` | Currenta-Verdacht (Standort unklar) | Name passt zu den Currenta-Wasserwerk-Tabus; Standort/Kunde ungeklärt (Runde 1, 18.10.2026), siehe [open-questions.md](open-questions.md) #15 | tabu bis geklärt |
 
 ## Nur intern (Regel, kein Tabu)
 
