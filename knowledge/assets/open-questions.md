@@ -27,3 +27,18 @@ Offene Freigabefragen zum Drive. An Joachim, sofern nicht anders vermerkt. Stand
 | 18 | Clip 03: Einblendung „Mit dem Deutschen Feuerwehrverband“ (12–17 s) entfernen, danach social-video | FFVR-0030, FFVR-0039 | erledigt: v3 ohne DFV katalogisiert (FFVR-0055 bis 0057, social-video); alte Stände als nicht verwenden markiert |
 
 | 19 | 3D-Suche FirefighterVR (Assets, 18.10.2026, Liste /workspace/asset-katalog/3d-suche-video-2026-10-18.md auf der Box): 355 Funde, keine Lizenz-/Readme-Datei. Offen: eigene Fotoscans (Kindsvater KW-235, Gloria KS 5 SE, Rosenbauer Selectflow)? Eigene Trackinghalterungen/Pico-Adapter? Hersteller-CAD AWG/Vetter? Fremdmaterial (Quixel-Megascans-Pflanzen, Epic City Sample, Scania „Low Poly Truck 3“, Carport, Oculus-Controller) | Joachims Generalvorgabe vom 18.10.2026 (README) erlaubt Video die Nutzung mit Discord-Kontrolle; schriftliche Belege fehlen weiter | offen, bei Gelegenheit klären |
+
+## VR-Stadttour Hannover (HVR, Lieferung Assets 18.10.2026)
+
+Erledigt durch Joachims Vorgaben vom 18.10.2026: ID-Präfix (`HVR-`), Kunde/Referenz (nur „VR-Stadttour Hannover“ mit amatik, Stadt nicht als Auftraggeber), Dunkle Gasse (dauerhaft nur intern laut projects.md), Musik (Videos mit ungeklärtem Ton nicht ins Angebot), Postkarten (nur mit Vermerk „gemeinfrei“ als social-video). Aufräumvorschläge stehen in [aufraeumen.md](aufraeumen.md).
+
+| # | Frage | Kontext | Status |
+|---|---|---|---|
+| 20 | Ist „Altstadt“ eine eigene Szene? | Keine Datei und kein Ordner heißt „Altstadt“. projects.md nennt Altstadt als Szene. Ist sie identisch mit Dunkle Gasse oder Aegidienkirche (LatLongs 04/05, HVR-0105/0106)? | offen (Joachim) |
+| 21 | Wo liegen Unreal-Projekt und Headset-Captures? | Im Drive kein UE-Projekt, keine Ingame-/Headset-Captures, keine Insta360-/Theta-Rohdaten. GitHub, Perforce oder lokal? | offen (Joachim) |
+| 22 | Soll `old Meetings / 2026-07-15 / Hannover` (`1w6bP3lv8nb8IR6cv4zHEq-8n1zo6jx0r`) gesichtet werden? | Liegt im Tabu-Ordner „old Meetings“. Wurde von Assets einmal gelistet, bevor die Tabu-Zugehörigkeit erkannt war; enthält laut Liste mindestens Duplikate aus Process. Nicht katalogisiert | offen (Joachim) |
+| 23 | Charaktere Kröpcke (Poor_*/Noble_*, HVR-0016 bis 0049): Eigenbau oder Marketplace? | Texturen heißen „Victorian man/woman“. Nach Generalvorgabe social-video mit „Lizenz nicht schriftlich belegt“, nicht im Angebot | offen |
+| 24 | Historische Postkarten Flusswasserkunst (HVR-0248 bis 0253) und HGM-Saal (HVR-0245): gemeinfrei? | Für Vorher-Nachher in Reels gewünscht. Social-video erst, wenn Gemeinfreiheit mit Quelle vermerkt ist | offen |
+| 25 | Soll Video Wireframe-Captures aus den .blend-Dateien selbst rendern? | Keine Datei mit „Wireframe“; Blockout-LatLongs und BlockoutLeibnitz.blend (HVR-0073) sind die beste Vorher-Stufe | offen (Video) |
+| 26 | Ton der Videos HVR-0113 (vrhannover-leibniz-szene2.mp4) und HVR-0114 (Recording 2026-08-27) | Ton/Musik ungeklärt, deshalb vorerst nur intern; nach Prüfung oder Musikersatz social-video, Angebot erst mit lizenzierter Musik | offen (Sichtprüfung) |
+| 27 | Referenzbilder fahne-loewen.jpg / fahne-pferd.jpg (HVR-0244, HVR-0254) und Screenshot HVR-0112 (Ordner Anzuender) | Herkunft bzw. Inhalt ungeklärt, deshalb nur intern | offen (Sichtprüfung) |

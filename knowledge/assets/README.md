@@ -12,6 +12,7 @@ Dateien in diesem Ordner:
 | [tabu.md](tabu.md) | Tabu-Ordner und Ordner „nur intern“ |
 | [_progress.md](_progress.md) | Sichtungsstand je Ordner |
 | [3d-kandidaten.md](3d-kandidaten.md) | 3D-Quellen, die sich für Renderings/Turntables eignen könnten (fortlaufend) |
+| [aufraeumen.md](aufraeumen.md) | Aufräumvorschläge für das Drive (Duplikate, Altstände, Tippfehler), nur mit Joachims OK umsetzen |
 | [open-questions.md](open-questions.md) | Offene Freigabefragen zum Drive |
 
 ## Schema
@@ -20,7 +21,7 @@ Gilt für [assets.csv](assets.csv) und die Tabellen der Produktdateien.
 
 | Feld (CSV) | Bedeutung | Werte |
 |---|---|---|
-| `id` | Stabile Katalog-ID, wird nie neu vergeben | Präfix je Produkt plus vierstellige Nummer: `FFVR-0001` (FirefighterVR), `MED-` (MeditrainVR), `STR-` (StrahlenschutzVR), `NFVR-` (Next Factory VR), `SPVR-` (SpearheadVR), `GV-` (GodView), `SW-` (Storywalx), `MD-` (Meta-dom), `ND-` (Northdocks allgemein) |
+| `id` | Stabile Katalog-ID, wird nie neu vergeben | Präfix je Produkt plus vierstellige Nummer: `FFVR-0001` (FirefighterVR), `MED-` (MeditrainVR), `STR-` (StrahlenschutzVR), `NFVR-` (Next Factory VR), `SPVR-` (SpearheadVR), `GV-` (GodView), `SW-` (Storywalx), `MD-` (Meta-dom), `ND-` (Northdocks allgemein). Für große Kundenprojekte sind eigene Projekt-Präfixe erlaubt (Joachim, 18.10.2026): `HVR-` = VR-Stadttour Hannover (Produkt Storywalx). Ein Präfix wird nur einmal vergeben und darf mit keinem bestehenden kollidieren |
 | `titel` | Kurzer sprechender Titel | Freitext |
 | `drive_link` | Drive-Link mit Datei-ID | `https://drive.google.com/file/d/<ID>` |
 | `pfad` | Pfad im Drive zum Zeitpunkt der Sichtung | Text, kann veralten; maßgeblich ist die Datei-ID |
@@ -57,7 +58,8 @@ Die Regeln gelten zusätzlich zu [document-rules.md](../document-rules.md) und [
 8. **Website-Freigabe** nur, wenn der gezeigte Inhalt als Claim mit Stufe „öffentlich“ in [claims.md](../claims.md) steht.
 9. **Personen und Kundenlogos** auf Fotos und Videos sind in Ordnung. Der frühere Default „nur intern bis Einwilligung“ entfällt (Joachim über One, 18.10.2026). Die Regeln 1 bis 8 bleiben davon unberührt.
 10. **Tabu-Ordner** (Finanzen, Personal und Vergleichbares, Liste in [tabu.md](tabu.md)): Zugriff ist erlaubt, um eine konkrete Frage zu klären. Informationen daraus werden nie ohne Abstimmung mit Joachim freigegeben oder weitergegeben (Joachim über One, 18.10.2026).
-11. **Kunden- und Partnermaterial als Referenz:** Kundenmaterial ist grundsätzlich als Referenz freigegeben (Freigabe `angebot`), ausdrücklich auch DJI, Vodafone, sonnen und Merck (Joachim, 18.10.2026). `social-video` nur, wenn Musik und Rechte belegt sind (Regel 6); `website` nur bei Claim-Stufe „öffentlich“ (Regel 8). Die festen Regeln bleiben: Bürrig-Bildmaterial nie, Reschke Productions nie als Referenz, Militär/TMA/Army VR nur intern, Koni Trainer nie als ausgeliefert. Produktionsdateien, Standort-/Kundendaten und Stock-Referenzen aus Kundenprojekten sind keine Referenz-Assets und bleiben nur intern. Kunden-Clips mit nicht lizenzierter oder ungeklärter Musik kommen erst ins Angebot, wenn die Musik durch lizenzierte (z. B. CC0) ersetzt ist; ohne Ton gilt nicht als Ersatz (Joachim, 18.10.2026).
+11. **Kunden- und Partnermaterial als Referenz:** Kundenmaterial ist grundsätzlich als Referenz freigegeben (Freigabe `angebot`), ausdrücklich auch DJI, Vodafone, sonnen und Merck (Joachim, 18.10.2026). `social-video` nur, wenn Musik und Rechte belegt sind (Regel 6); `website` nur bei Claim-Stufe „öffentlich“ (Regel 8). Die festen Regeln bleiben: Bürrig-Bildmaterial nie, Reschke Productions nie als Referenz, Militär/TMA/Army VR nur intern, Koni Trainer nie als ausgeliefert. Produktionsdateien, Standort-/Kundendaten und Stock-Referenzen aus Kundenprojekten sind keine Referenz-Assets und bleiben nur intern. Kunden-Clips mit nicht lizenzierter oder ungeklärter Musik kommen erst ins Angebot, wenn die Musik durch lizenzierte (z. B. CC0) ersetzt ist; ohne Ton gilt nicht als Ersatz (Joachim, 18.10.2026). Das gilt auch für Videos aus Kundenprojekten mit ungeklärtem Ton: nicht ins Angebot.
+12. **VR-Stadttour Hannover (HVR):** Öffentlich nur als „VR-Stadttour Hannover“ mit amatik nennen, die Stadt Hannover nicht als Auftraggeber; keine Beträge, keine Blicksteuerung, Pressetour 10.09. nicht als gelaufen ([claims.md](../claims.md), Joachim 18.10.2026). Extern freigegebene HVR-Einträge tragen den Vermerk „Nennung nur VR-Stadttour Hannover mit amatik, Stadt nicht als Auftraggeber“. Dunkle Gasse, KI-Material, Fremdpakete ohne Lizenz und AE-Produktionsdateien bleiben nur intern. Historische Postkarten nur mit Vermerk „gemeinfrei“ und Quelle als social-video, sonst nur intern.
 
 ## Rollen
 

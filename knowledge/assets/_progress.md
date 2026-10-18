@@ -32,6 +32,12 @@ Geprüft und eingetragen von Northdocks Wissen. „fertig“ = vollständig gesi
 
 Nächstes Gebiet (Runde 2): _ND_Best Of (geteilt) / Projects (`1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN`) ohne die tabu-Unterordner Bürrig und Currenta sowie ohne `_Wasserwerk` (tabu bis geklärt, siehe [tabu.md](tabu.md)).
 
+## VR-Stadttour Hannover (18.10.2026)
+
+| Status | Pfad | Ordner-ID | Einträge | Bemerkung |
+|---|---|---|---|---|
+| fertig | Shared Drive Kundenprojekte / Hannover_VR (Assets, Process, Making-Off) | `1FEHljXN7eCgo3S16RXGvuAK6X5ZUTWFn` | 271 (HVR-0001 bis HVR-0271) | Gesichtet von Northdocks Assets (nur Metadaten), geprüft und eingetragen von Northdocks Wissen. Texturen, .blend1-Backups und AE-Autosaves bewusst ohne Eintrag. Unterordner `old Meetings / 2026-07-15 / Hannover` (`1w6bP3lv8nb8IR6cv4zHEq-8n1zo6jx0r`) liegt im Tabu-Ordner „old Meetings“ und ist nicht katalogisiert |
+
 ## Ebene 0 und 1
 
 Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkarte.md](landkarte.md).
@@ -451,7 +457,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / VRLandtag | `176GuUWlsm82LovlYpuB5U2roh2kN7Gny` | 19 | 6 | 0,2 | 2026-04-12 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Vodafone | `1O8yLoDiWh7jRyhZFA3-MQm1lKjyxci1-` | 3 | 0 | 0 | 2026-04-12 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / AR-Anwendung Schiffshebewerk Henrichenburg | `1MDdfJ8HDj77-9byJlzU5do-JG_UvG0jI` | 9 | 0 | 0 | 2026-04-12 |
-| offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Hannover_VR | `1FEHljXN7eCgo3S16RXGvuAK6X5ZUTWFn` | 18 | 0 | 0 | 2026-08-31 |
+| fertig | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Hannover_VR | `1FEHljXN7eCgo3S16RXGvuAK6X5ZUTWFn` | 18 | 0 | 0 | 2026-08-31 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / VRStudio | `15C8wM0DKzvHUY_qGVnKTlN8uPvCqGAuZ` | 0 | 1 | 0,1 | 2025-01-15 |
 | offen | 4 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Spearhead | `1-OWjMZv5bKgIRYSiL-S5I7paQAKpa1iq` | 4 | 3 | 0,0 | 2025-02-19 |
 | offen | 3 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / UKSH - Strahlenschutz | `1fryiF7kULdTeV190-0B-HoRpAlkQstrG` | 6 | 11 | 0,6 | 2024-10-11 |
