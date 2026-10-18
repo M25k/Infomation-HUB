@@ -17,7 +17,7 @@ Site-Claims öffentlich: 5+ Touren, 50.000+ Besucher. Deck (3+ Städte, 100+ Hea
 ## Soll bei Anpassungen
 
 1. Blicksteuerung/Eye-Tracking: Wilhelmshaven 2021/22 ist der öffentliche/Eignungsanker — auf der Site nur, wenn der Text schon so steht oder GF es für Marketing freigibt. Nicht als NDFramework-Plugin behaupten.
-2. Hannover (2026, gleiche Architektur) nur nennen, wenn öffentlich gewollt; Volumen 55 k€ nicht auf die Site.
+2. Hannover (2026, gleiche Architektur) öffentlich nur als „VR-Stadttour Hannover“ mit amatik, die Stadt Hannover nicht als Auftraggeber (Joachim 18.10.2026); Volumen 55 k€ nicht auf die Site.
 3. Partner amatik namentlich, wo die Live-Site das schon tut.
 4. Keine Tourismus-Erlebnis-App-Sprache, die Northdocks in Vergaben als „unpassend“ geführt hat — Storywalx bleibt Kultur/Stadt-XR, nicht IGA-Garten-App.
 5. Kontakt: kontakt@northdocks.com, Telefon Hub **+49 (0) 2173 9996715** für GmbH; vorhandene Storywalx-Mails nicht als Firmenstandard ausrollen.

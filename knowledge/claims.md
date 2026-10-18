@@ -77,6 +77,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | 5+ Touren, 50.000+ Besucher | öffentlich | storywalx.com |
 | 3+ Städte, 100+ Headsets | intern | Deck |
 | Partnerschaft amatik | öffentlich | storywalx.com |
+| „VR-Stadttour Hannover“ mit amatik (Making-of, Szenen ohne Dunkle Gasse) | öffentlich | Joachim 18.10.2026: Projekt als „VR-Stadttour Hannover“ mit amatik nennen, die Stadt Hannover **nicht** als Auftraggeber. Keine Beträge, keine Blicksteuerung, Pressetour 10.09. nicht als gelaufen |
 
 ## Factory / Spearhead
 
