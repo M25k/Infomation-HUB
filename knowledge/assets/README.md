@@ -57,6 +57,7 @@ Die Regeln gelten zusätzlich zu [document-rules.md](../document-rules.md) und [
 8. **Website-Freigabe** nur, wenn der gezeigte Inhalt als Claim mit Stufe „öffentlich“ in [claims.md](../claims.md) steht.
 9. **Personen und Kundenlogos** auf Fotos und Videos sind in Ordnung. Der frühere Default „nur intern bis Einwilligung“ entfällt (Joachim über One, 18.10.2026). Die Regeln 1 bis 8 bleiben davon unberührt.
 10. **Tabu-Ordner** (Finanzen, Personal und Vergleichbares, Liste in [tabu.md](tabu.md)): Zugriff ist erlaubt, um eine konkrete Frage zu klären. Informationen daraus werden nie ohne Abstimmung mit Joachim freigegeben oder weitergegeben (Joachim über One, 18.10.2026).
+11. **Kunden- und Partnermaterial als Referenz:** Kundenmaterial ist grundsätzlich als Referenz freigegeben (Freigabe `angebot`), ausdrücklich auch DJI, Vodafone, sonnen und Merck (Joachim, 18.10.2026). `social-video` nur, wenn Musik und Rechte belegt sind (Regel 6); `website` nur bei Claim-Stufe „öffentlich“ (Regel 8). Die festen Regeln bleiben: Bürrig-Bildmaterial nie, Reschke Productions nie als Referenz, Militär/TMA/Army VR nur intern, Koni Trainer nie als ausgeliefert. Produktionsdateien, Standort-/Kundendaten und Stock-Referenzen aus Kundenprojekten sind keine Referenz-Assets und bleiben nur intern.
 
 ## Rollen
 
