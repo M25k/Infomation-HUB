@@ -9,7 +9,7 @@
 | # | Marke | Öffentliche Aussage | Canonical URL | northdocks.com-Link |
 |---|---|---|---|---|
 | 1 | Meditrain VR | Hochrealistisches medizinisches Training für kritische Situationen | https://meditrainvr.com/ | meditrainvr.com |
-| 2 | Firefighter VR | Einsatztraining unter Extrembedingungen für Feuerwehren | **https://firefightervr.de/** (Canonical). EN: https://www.firefightervr.de/en/. Alias: firefightervrmobile.de | northdocks.com verlinkt noch die Mobile-Domain |
+| 2 | FirefighterVR | Einsatztraining unter Extrembedingungen für Feuerwehren | **https://firefightervr.de/** (Canonical). EN: https://www.firefightervr.de/en/. Alias: firefightervrmobile.de | northdocks.com verlinkt noch die Mobile-Domain |
 | 3 | Next Factory VR | Interaktives Fabriktraining, Arbeitssicherheit | https://nextfactoryvr.com/ | nextfactoryvr.com |
 | 4 | SpearheadVR | Taktisches Training Polizei/Militär | https://spearheadvr.de/ | spearheadvr.de |
 | 5 | Storywalx | XR-Stadtrundgänge Geschichte/Kultur | https://storywalx.com/ | storywalx.com |
@@ -30,7 +30,7 @@ Marke der Northdocks GmbH (kein Spin-out). Medizinisches VR-Training: Schockraum
 
 Kunden/Partner: Uniklinik Köln (CeMIT, AMBOSS 2026, Frontiers-Studie Station), Björn Steiger Stiftung, Bundesamt für Strahlenschutz, UKSH.
 
-## 2. Firefighter VR
+## 2. FirefighterVR
 
 Produktplattform für Feuerwehr, Werkfeuerwehr, Brandschutz, Jugendfeuerwehr, Recruiting. All-in-one Koffer, Kauf/Miete, kein laufendes Software-Abo im öffentlichen Preismodell.
 

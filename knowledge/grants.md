@@ -16,8 +16,8 @@ Quelle vor allem Asana-Projekt [Anträge & Ausschreibungen](https://app.asana.co
 | Jahr | Award | Bezug |
 |---|---|---|
 | 2026 | AMBOSS-Award Excellence in Nursing | Meditrain VR / Uniklinik Köln CeMIT |
-| 2020 | EPIC Games Mega Grant | Firefighter VR. Intern Zusage **45.000 USD** (Mail 10.06.2020). Zweite Bewerbung 2021 Dom-Tools **kein** Zuschlag |
-| 2019 | Überflieger Finalist | Firefighter VR, SH |
+| 2020 | EPIC Games Mega Grant | FirefighterVR. Intern Zusage **45.000 USD** (Mail 10.06.2020). Zweite Bewerbung 2021 Dom-Tools **kein** Zuschlag |
+| 2019 | Überflieger Finalist | FirefighterVR, SH |
 | 2019 | Excellence-Award Festival of Science Visualisation Tokio | Visualisierung |
 | 2018 | ChemTech Innovation Night | Currenta, Gewinnerpitch |
 | 2016 | HR Excellence Awards Best Use of Technology | Currenta |

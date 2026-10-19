@@ -173,7 +173,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Organisation:** [RescueArena (Koppenhagen112)](organizations.md#rescuearena-koppenhagen112)
 - **Rolle:** Offen (Geschäftsleitung, Auftraggeber)
 - **Kontaktweg:** E-Mail (Postfach Silas, jetzt Patrick)
-- **Themen:** Händler Firefighter VR, RescueArena-Modell
+- **Themen:** Händler FirefighterVR, RescueArena-Modell
 - **Bezug:** [Asana](https://app.asana.com/0/0/1208864434296029)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -227,7 +227,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Organisation:** [Feuerwehr Werl](organizations.md#feuerwehr-werl)
 - **Rolle:** Partner (Stammblatt FFVR-Partnerverwaltung)
 - **Kontaktweg:** E-Mail (Postfach Silas, jetzt Patrick)
-- **Themen:** Firefighter VR Partner, Presto-Referenz
+- **Themen:** FirefighterVR Partner, Presto-Referenz
 - **Bezug:** [Asana](https://app.asana.com/0/0/1217274762675542)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**

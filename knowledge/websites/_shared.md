@@ -47,7 +47,7 @@ Canonical-URLs:
 | Marke | URL |
 |---|---|
 | Meditrain VR | https://meditrainvr.com/ |
-| Firefighter VR | https://firefightervr.de/ (EN: https://www.firefightervr.de/en/) |
+| FirefighterVR | https://firefightervr.de/ (EN: https://www.firefightervr.de/en/) |
 | Next Factory VR | https://nextfactoryvr.com/ |
 | SpearheadVR | https://spearheadvr.de/ |
 | Storywalx | https://storywalx.com/ |
@@ -70,7 +70,7 @@ Sachlich, produktbezogen. Keine Superlative ohne Beleg („Pioniere“, „radik
 
 ## Video und Clips
 
-- Voiceover: „Firefighter VR“ mit englisch gesprochenem „VR“.
+- Schreibweise der Marke immer **FirefighterVR** (zusammen, Joachim 19.10.2026). Im Voiceover gesprochen „Firefighter VR“ mit englisch gesprochenem „VR“.
 - Reel „23 Module“ ist Stilreferenz für neue Clips.
 - Clips liegen in Marketing Sales / Social Clips.
 - Keine Aufnahme von Bundespräsident Steinmeier mit VR-Brille verwenden.

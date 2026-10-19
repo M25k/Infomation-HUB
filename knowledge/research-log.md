@@ -141,7 +141,7 @@ Noch offen: Rechnungen-Label, Kosovo-Mail, Berlin/Vita-Guard, RWE-PO, Quassum 20
 
 Kosovo: Reseller **Kognita** → **Interadria** (XK) → Endkunde; Rechnung 20241220-03; 10 Quest. GF Streitkräfte unverändert. Keine Seriennummern ins Git.
 
-EPIC Mega Grant Firefighter VR: Zusage **45.000 USD**, 10.06.2020. Dom-Tools 2021 kein zweiter Award.
+EPIC Mega Grant FirefighterVR: Zusage **45.000 USD**, 10.06.2020. Dom-Tools 2021 kein zweiter Award.
 
 FlowAR: IN-NX-2-013c, EFRE-20801092, Bescheid 23.05.2025.
 

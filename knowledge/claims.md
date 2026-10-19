@@ -111,7 +111,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Spot-KI Northdocks-Erstattung 42.065,85 € + Schluss 54.671,00 € | intern | WTSH-Mails 2024/25. Nur Teilvorhaben, **nicht** kumulierte 1,5 Mio. €, nicht Verbundsumme |
 | Spot-KI mit Vodafone oder Uniklinik Köln | **nicht verwenden** | Deck falsch; GF: keine Verbindung |
 | EPIC Mega Grant 2020 | öffentlich | funding.html |
-| EPIC Mega Grant Firefighter VR **45.000 USD** | intern | Zusage-Mail 10.06.2020. Nicht zur Pitch-Summe 1,5 Mio. € addieren |
+| EPIC Mega Grant FirefighterVR **45.000 USD** | intern | Zusage-Mail 10.06.2020. Nicht zur Pitch-Summe 1,5 Mio. € addieren |
 | EPIC MegaGrant-Perk RealityCapture Enterprise-Lizenz | intern | Folge-Mail nach dem Award |
 | FlowAR EFRE.NRW bis zu **583.569,83 €** (80 % von 729.462,29 €), Durchführung 01.06.2025–31.05.2028 | intern | Bescheid 23.05.2025, Az. IN-NX-2-013c. 2026 festgelegt 178.000 €, ausgezahlt 28.995,02 € (18.05.2026). PtJ-Rückantwort 31.08.2026 nicht in Gmail — Abruf nicht als vollständig behaupten |
 | Zweiter EPIC Mega Grant „Cologne Cathedral VR Tools“ | **nicht verwenden** als Zuschlag | Bewerbung/Review 2021, kein Award-Mail |
