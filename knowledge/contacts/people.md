@@ -229,7 +229,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Kontaktweg:** E-Mail (Postfach Patrick)
 - **Themen:** Vertrieb Norwegen, Zertifizierung
 - **Bezug:** [Asana](https://app.asana.com/0/0/1211946202779853)
-- **Freigabe:** nur intern
+- **Freigabe:** Freigabe fehlt
 - **Historie:**
   - 19.10.2026 · E-Mail · Patrick hat ihm geantwortet (laut One, Abstimmung 19.10.2026)
 
@@ -615,7 +615,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Kontaktweg:** Formular firefightervr.de; E-Mail (Postfach Patrick)
 - **Themen:** FirefighterVR, Vorführung, Basis-Set
 - **Bezug:** Erstangebot 20261019-01, kein Auftrag; Wiedervorlage 26.10.2026
-- **Freigabe:** nur intern
+- **Freigabe:** Freigabe fehlt
 - **Historie:**
   - 19.10.2026 · E-Mail · 11:51 Uhr: Erstangebot 20261019-01 von Patrick (1 Basis-Set plus Versand, 3.434 € netto, Vorkasse) (laut One)
   - 19.10.2026 · Formular firefightervr.de · 06:36 Uhr: Anfrage nach einer Vorführung (laut One)
@@ -627,7 +627,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Kontaktweg:** E-Mail (an Silas, ausgeschieden; Zuständigkeit klären, vermutlich Patrick)
 - **Themen:** FirefighterVR für Aus- und Weiterbildung, frühestens nach 2026 (Haushalt verplant)
 - **Bezug:** Kein Angebot
-- **Freigabe:** nur intern
+- **Freigabe:** Freigabe fehlt
 - **Historie:**
   - 19.10.2026 · E-Mail · Mail vom 15.10. erneut an Silas geschickt (laut One, Abstimmung 19.10.2026)
   - 15.10.2026 · E-Mail · Interesse an FirefighterVR, nicht mehr 2026
