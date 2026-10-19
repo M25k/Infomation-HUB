@@ -70,6 +70,14 @@ Generelle Namensregel für spätere Runden: Ordner namens „Personal“, „Geh
 | Currenta OPS | `1-5kPt6fZiYdUTWy3JXkWzl_2-DQZYJn-` | Bürrig/Currenta: Bilder, Einsatzpläne, Einsatzbereitschaftsdaten immer tabu | Currenta-Ordner ohne Elternordner (leer) | bestätigt |
 | Currenta | `1DrSjrQyqd_L5Esy492AegxNdoQ3JTCZT` | Bürrig/Currenta: Bilder, Einsatzpläne, Einsatzbereitschaftsdaten immer tabu | Currenta-Ordner ohne Elternordner (leer) | bestätigt |
 | _ND_Best Of (geteilt) / Projects / _Wasserwerk | `12OKrJv3nvlWLzkJh-T-dXHQlByAIdF-x` | Currenta-Verdacht (Standort unklar) | Name passt zu den Currenta-Wasserwerk-Tabus; Standort/Kunde ungeklärt (Runde 1, 18.10.2026), siehe [open-questions.md](open-questions.md) #15 | tabu bis geklärt |
+| 01 Administration / 01 FiBu / 2026 FiBu | `1RfQs_aCyuMlIbro4HuhxqU6pc0_CVXXD` | Finanzen/Personal/Verträge (Namensregel, bestätigt 18.10.2026) | Finanzablage 2026 („FiBu“). Liegt unter dem tabu „01 Administration“ (Elternordner 01 FiBu `1iWzlN0bRIfv6mU_3D_OPwZTtRFvkeQ0F`), ist also schon geerbt tabu. Runde 2 (19.10.2026): von Assets über die Änderungssuche gefunden, Inhalte nicht katalogisiert | bestätigt |
+| … / 2026 FiBu / 01 ND 2026 | `1kwVFDhD4dl_zhPVZUyYgVT3FIhndoFw3` | Finanzen/Personal/Verträge (Namensregel, bestätigt 18.10.2026) | Unterordner der Finanzablage 2026 | bestätigt |
+| … / 2026 FiBu / 01 ND 2026 / 001 FiBu 2026 | `1fOSSCj2H-NkrmDqvhlAW_cVrRBOattEy` | Finanzen/Personal/Verträge (Namensregel, bestätigt 18.10.2026) | Buchhaltung 2026 mit Monatsordnern | bestätigt |
+| … / 001 FiBu 2026 / Monatsordner 2026-10 (Belegordner) | `1R_HZrnWWhneDSKojvW_bhBxkzpz8CZ3y` | Finanzen/Personal/Verträge (Namensregel, bestätigt 18.10.2026) | Belege (Rechnungen) | bestätigt |
+| … / 001 FiBu 2026 / Monatsordner 2026-09 / Belegordner Karte | `1Vn7YzLD1YfuHXoOfCAHJ3n3jE93e47tW` | Finanzen/Personal/Verträge (Namensregel, bestätigt 18.10.2026) | Kartenbelege; echter Ordnername enthält Kartenkennung, hier nicht genannt | bestätigt |
+| 001 Personal ND | `14hd83J9lWAeWxqRoVcY9eeBbjEHQ3HUq` | Finanzen/Personal/Verträge (Namensregel, bestätigt 18.10.2026) | Name „Personal“; Elternordner der Lohnunterlagen (Ablage darüber nicht aufgelöst) | bestätigt |
+| 001 Personal ND / 001 MA / Lohnunterlagen-Ordner | `18GAVEE6yOhgiO5ySYyooFnQihHYdRRGF` | Finanzen/Personal/Verträge (Namensregel, bestätigt 18.10.2026) | Lohnunterlagen; Ordnername enthält Mitarbeiternamen, hier nicht genannt (Elternordner 001 MA `1G8Qra4BAuMt4M3PxHV2tD09B5iH5JYuP`) | bestätigt |
+| … / Kfz-Akte / Kfz-Behördenverfahren 2025 | `1PQf_ZqtUkmOF3rWrsuvSDptqPswkAMtF` | Finanzen/Personal/Verträge (Namensregel, bestätigt 18.10.2026) | Behördenverfahren zu einem Firmenfahrzeug (vergleichbar Verträge/Finanzen); Ablage oberhalb der Kfz-Akte nicht aufgelöst. Runde 2 (19.10.2026): von Assets über die Änderungssuche gefunden, Inhalte nicht katalogisiert | bestätigt |
 
 ## Nur intern (Regel, kein Tabu)
 

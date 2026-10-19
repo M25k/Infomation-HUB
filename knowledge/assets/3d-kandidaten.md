@@ -15,3 +15,38 @@ In Runde 1 kein Strahlrohr-, Pico- oder Fahrzeugmodell gefunden. Prio 1 enthält
 | S01_CAM_GERMANY_V002.hiplc u. a. | `1ZAsewwDoaaORRk2jFjYNyZqKE8n2m-2i` | … / 2018_gridStability_Teaser / WORK / HOUDINI | 26 MB | Houdini | Northdocks, Kunde sonnen | nein | Deutschlandkarte, nur intern |
 
 Beste Kandidaten für Video aus Runde 1: keine echten Turntable-Kandidaten. Render-Quelle: das UE4-Projekt ND_ASSETS (Halberstadt-Dom-Asset), Modelle von Northdocks, für Social und Web freigegeben (Joachim 18.10.2026).
+
+## Runde 2 (Assets, 19.10.2026): neue 3D-Quellen
+
+Alle Einträge: „Lizenz nicht schriftlich belegt“, Freigabevorschlag von Assets `social-video` nach Vorgabe Joachim 18.10.2026 an Video. Größen laut Drive-Metadaten.
+
+**Korrekturen Wissen 19.10.2026:** Dräger-Texturen ND-0545 bis 0548 nur intern (Regel 11, Produktionsdateien aus Kundenprojekt). Holmatro-Renders (Pentheon FFVR-0490 bis 0516, 0518 bis 0522; SPU 16 BC FFVR-0419 bis 0430, 0475, 0557) und HPS3500 FFVR-0467 nur intern, bis Kooperation oder Nachbau geklärt ist ([open-questions.md](open-questions.md) Nr. 51). Playground-Modelle bleiben social-video, Produktname „Playground“ nicht nennen (Nr. 53). Maßgeblich ist die Spalte `freigabe` in [assets.csv](assets.csv).
+
+### FAHRZEUGE (gesucht für FirefighterVR)
+
+| ID | Datei | Drive-ID | Ablage | Größe | Format | Was | Für Video | Hinweis |
+|---|---|---|---|---|---|---|---|---|
+| FFVR-0254 | PoliceCar.blend | `1qxL85wT5Nn8Mg-qkkSj5nXSbYiS5FxAy` | Shared Drive FirefighterVR / Playground / Assets / PoliceCar | 1,0 MB | BLEND | **Polizeiwagen** (Quelle) | ja | neu 14./15.10.2026; Playground nicht öffentlich nennen |
+| FFVR-0255 | PoliceCar.fbx | `17RF7itJFmIzVg6CF3gIcFfzupoVKdXJN` | dto. | 1,0 MB | FBX | Polizeiwagen Export | ja | |
+| FFVR-0256 | PoliceCar.spp | `165AxB2_2Fxu0vbysxQ41aLOp9V-Nfmpe` | dto. | 787,6 MB | SPP | Substance-Projekt | bedingt | Texturen fertig exportiert: FFVR-0259 bis 0261 (D/N/ORM) |
+| FFVR-0262 | RTW_with_Inside.fbx | `1d-MK-frPlqVCC0-L6sBRhnDHz-hsyzfq` | … / Playground / Feuerwehrautos / Assets / RTW / Out | 1,0 MB | FBX | **Rettungswagen (RTW) mit Innenraum** | ja | Duplikat in Work/Blender = FFVR-0267 |
+| FFVR-0266 | RTW_Inside_v011.blend | `1Lh_TEkJoy39oOrmJYGCF3c25N5snOjMN` | … / RTW / Work / Blender | 3,9 MB | BLEND | RTW-Innenraum (Quelle) | ja, nach Abschluss | **WIP**, zuletzt 19.10.2026 06:50 MESZ geändert |
+| FFVR-0268 | RTW_Inside_V002.spp | `1pI4DNSzALOBE9mzmtcUR0zBqW85C7GaN` | … / RTW / Work / SubP | 761,3 MB | SPP | Substance-Projekt Innenraum | bedingt | Texturen v002: FFVR-0269 bis 0274 |
+| ND-0545 bis 0548 | T_S_Notdienst_D/N/ORM.png, S_Notarzt.spp | siehe eintraege.csv | Kundenprojekte / Draeger / DraegerGamingWelt / Assets / Fahrzeuge | 10,0 / 0,1 / 7,4 / 305,8 MB | PNG/SPP | **Notarzt-Fahrzeug, nur Texturen + Substance** | nein (nur intern, Wissen 19.10.2026) | Mesh nicht im Ordner; Dräger-Kundenprojekt, keine Angebotsreferenz. Mesh vermutlich in DraegerGamingWelt / Assets / Fahrzeuge (Teilrunde 2 prüfen) |
+
+Fahrzeug-Renders ohne Quelldatei (nur Bilder/Videos, Quellmodell vermutlich im Unreal-Projekt Airplane Training): MAN Bus (FFVR-0323/0324), Gepäckwagen BaggageWagonv6 (FFVR-0307), Treppenwagen (FFVR-0332), Bodenstromgerät „Stromversorger“ (FFVR-0330/0331), Video Rosenbauer-Pumpenwagen (FFVR-0539, Herkunft unklar). Alle nur intern bis Kundenfrage Airplane Training geklärt ist.
+
+### PICO
+
+Kein neues Pico-Headset-Modell gefunden. Nur ein Video „UAD_Pico_DesktopStreaming_InputFix.mp4“ (FFVR-0333, Streaming-Test 2022, nur intern). Bekannte Pico-Halterungen siehe Runde 1 und 3d-suche-video-2026-10-18.md.
+
+### Figuren
+
+| ID | Datei | Ablage | Format | Was | Hinweis |
+|---|---|---|---|---|---|
+| FFVR-0275 bis 0283 | Police_Male.blend, Police_Male_SP.fbx, SK_Police_Male.fbx, Police_Men.spp, 2 Vorschaubilder, 3 Texturen | Asset-Library / Objects / Characters / Police | BLEND/FBX/SPP/PNG | Polizist, Skelett-Mesh | Substance-Projekt vorhanden, vermutlich Eigenbau; Herkunft prüfen |
+| FFVR-0284 bis 0290 | SK_Sanni.blend, SK_Sanni.fbx, Sanni.spp, Vorschaubild, 3 Texturen | Asset-Library / Objects / Characters / Sanni | BLEND/FBX/SPP/PNG | Sanitäter, Skelett-Mesh | wie oben |
+
+### _ND_Best Of / Projects, Teilrunde 1
+
+Keine 3D-Quelldateien in Feuerwehrassets, Firefighter VR, Brandcontainer und CPR_2022. Dort liegen nur Renders/Screenshots von Northdocks-Modellen 2021 (Fire Hose, Engine Cutter, Holmatro SPU 16 BC und Pentheon, Kettensäge, Überdrucklüfter, Megafon, Kabeltrommel, Feuerwehraxt, Trage u. a.; FFVR-0405 bis 0481, 0482 bis 0522, 0557). Die zugehörigen Quellmodelle sind vermutlich in „FirefighterVR / Assets“ bzw. im Unreal-Projekt; dort weitersuchen.

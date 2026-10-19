@@ -8,6 +8,7 @@ Status je Ordner: offen / in Arbeit / fertig / tabu. Vorschläge aus Runde 0 ste
 |---|---|---|---|
 | Runde 0 (Inventur, nur Metadaten) | 18.10.2026 | Northdocks Wissen | Ebenen 0 bis 2 vollständig, tiefer nur Ordnernamen teilweise. Keine Datei geöffnet |
 | Runde 1 (Prio 1: fertige Clips und Reels) | 18.10.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 14 Ordner, 603 Dateien per Metadaten, 233 Einträge in [assets.csv](assets.csv). 10 Ordner fertig, 4 in Arbeit (siehe unten) |
+| Runde 2 (Änderungen seit 12.10. und _ND_Best Of / Projects, Teilrunde 1) | 19.10.2026 (Assets 07:16 bis 07:37 MESZ) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 406 geänderte/neue Dateien seit 12.10. geprüft (90 neue Einträge ND-0544 bis 0593, FFVR-0254 bis 0293; 8 Titelkorrekturen FFVR-0059 bis 0066). Projects: 25 Ordner, 273 Dateien, 271 Einträge (FFVR-0294 bis 0564). Zusammen 361 Einträge: 265 nur intern, 96 social-video |
 
 ## Runde 1: Stand je Ordner (18.10.2026)
 
@@ -38,6 +39,50 @@ Nächstes Gebiet (Runde 2): _ND_Best Of (geteilt) / Projects (`1wu-j12vbatAtiQCs
 |---|---|---|---|---|
 | fertig | Shared Drive Kundenprojekte / Hannover_VR (Assets, Process, Making-of) | `1FEHljXN7eCgo3S16RXGvuAK6X5ZUTWFn` | 523 (HVR-0001 bis HVR-0271, HVR-0286 bis HVR-0537) | Fertig mit Nachsichtung 18.10.2026 (252 Einträge). Lücken laut Assets: 21 Render-Sequenzen (HVR-0515 bis HVR-0535) nur über den ersten Frame erfasst, Frames nicht einzeln gelistet; Inhalt von Aegidientor_Anim (render/ae, HVR-0515) unklar; Blender-Fluid-Caches nur teilweise gelistet. Texturen als Gruppeneinträge. Aufräumen siehe [aufraeumen.md](aufraeumen.md) |
 | fertig | Shared Drive Projekte/Meetings / old Meetings / 2026-07-15 / Hannover | `1w6bP3lv8nb8IR6cv4zHEq-8n1zo6jx0r` | 14 (HVR-0272 bis HVR-0285) | Ausnahme vom Tabu (Joachim 18.10.2026), 14 Dateien, keine Unterordner; 11 Duplikate aus Process. Rest von old Meetings bleibt tabu |
+
+## Runde 2: _ND_Best Of (geteilt) / Projects, Teilrunde 1 (19.10.2026)
+
+Projects (`1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN`) gesamt: **in Arbeit** (4 von 56 Projektordnern fertig). Geprüft und eingetragen von Northdocks Wissen. **Achtung:** Projects ist für jeden mit dem Link lesbar, siehe [open-questions.md](open-questions.md) Nr. 56.
+
+| Status | Pfad (unter Projects) | Ordner-ID | Unterordner | Dateien direkt | Einträge | Bemerkung |
+|---|---|---|---|---|---|---|
+| fertig | Feuerwehrassets | `1hfIhoMFXTzLWkc8AmUR2zxvBBpxH58xf` | 3 | 1 | 1 | nur Holmatro Engine SPU 16 BC / jpg (1 Bild), png leer. **Keine 3D-Quelldateien** |
+| fertig | Firefighter VR | `1D2xo9Tfc3v_FBN6LNFbVdefa7TZGrLYm` | 16 | 5 | 5 | Wurzel: 2 Videos, 1 Handyvideo, Übersicht.png, icons-logos.pdf |
+| fertig | Firefighter VR / Airplane Training Halle / Leipzig | `15Cc_zhj1cMZKX4qdJkyJjQZ3ISpJr6_S` | 1 | 47 | 45 | 2 leere doorAnim-.txt ohne Eintrag. Fahrzeug-Renders (MAN Bus, Gepäckwagen, Treppenwagen, Bodenstromgerät), Figuren-Renders |
+| fertig | … / Airplane Training Halle / Leipzig / VR Footage | `1YutOHK5uJwrJV4kTuLBH-J9NvksZ5TO1` | 0 | 16 | 16 | Screenshots und Aufnahmen 2020 |
+| fertig | Firefighter VR / Ampel | `1wEdbaQHNID9oPnyW07pps7aXK61OfY9C` | 0 | 3 | 3 | |
+| fertig | Firefighter VR / CPR Training | `1G9UZjB3ssIrJBVfBD4UrauPeiE8-S-JO` | 0 | 0 | 0 | leer |
+| fertig | Firefighter VR / ESKA Gloves | `1hskRWHibDxKnRT7cksPBTt07OnFAQsR6` | 0 | 3 | 3 | Referenzfotos |
+| fertig | Firefighter VR / FFVRLauncher | `1yWSJA6HUFCxeBa889Ydwk_NbjrFRuDzL` | 0 | 2 | 2 | UI-Entwürfe 2021 |
+| fertig | Firefighter VR / Feuerlöscher-Training | `1vILCEsJlXHfzggLh4P4brY1Hb9CdaQEu` | 1 | 33 | 33 | |
+| fertig | … / Feuerlöscher-Training / HNE Feuerlöscher | `1I3WCRBujJ_rm6NrAvcPEteUaARINxda-` | 0 | 4 | 4 | |
+| fertig | Firefighter VR / Feuerwehr-Assets | `1RwQsdd87FVJ4NX65q7hNLoAS-JtQgHTy` | 3 | 36 | 36 | Renders Northdocks-Modelle 2021 |
+| fertig | … / Feuerwehr-Assets / 1_Fire Hose | `17gfV_Z76COz5bDdMsnnPJzcVnzc81XDF` | 0 | 16 | 16 | |
+| fertig | … / Feuerwehr-Assets / 2_Engine Cutter | `1ivvs0f9Fp6JwUR_G-byF8muck1n7zZrm` | 0 | 2 | 2 | |
+| fertig | … / Feuerwehr-Assets / Northdocks Assets - Visueller Eindruck | `12IUboa_oAKlU_v-TuQGzzuaLcC9zm8Kd` | 0 | 23 | 23 | 10 Dubletten, 8 Industrie-/Laborobjekte (Standort unklar) |
+| fertig | Firefighter VR / Holmatro | `1N2XX1FjA-aNBWzi9AugpTJhrjhtigUIb` | 0 | 41 | 41 | |
+| fertig | Firefighter VR / Innenangriff | `18-tLXexpdF70Zf7Bpve7HMcu6KdN3TtP` | 0 | 9 | 9 | |
+| fertig | Firefighter VR / Kreiselpumpe | `1DlBX6Tvt1UQhzeF6Zmd_FQuSbHaAMU0I` | 0 | 9 | 9 | Rosenbauer-Pumpenwagen-Video |
+| fertig | Firefighter VR / Nutzergruppen FVR | `1KtfBZLwryhxdw5kgg1cEvl_qRHewZO3q` | 0 | 1 | 1 | |
+| fertig | Firefighter VR / Sprinklerwartung | `1D4LT0QOr8I-cUjNmAe4D-ZDPpjzdFRM8` | 0 | 1 | 1 | Dublette |
+| fertig | Firefighter VR / Vegetationsbrand Koppenhagen | `1MgjlYWREDLKJyPFTM9nDhzBU6Eltp6zX` | 0 | 14 | 14 | |
+| fertig | Brandcontainer | `1KWJFV2C86zo3Xv7La1I7VMSW7EiIdB7p` | 0 | 0 | 0 | leer |
+| fertig | CPR_2022 | `1cW9ruJNCEnKNwfwrJwRRSqM0-k5C24Lh` | 0 | 7 | 7 | Handyfotos und Bildschirmaufnahme März 2022 |
+
+Summe Teilrunde 1: 25 Ordner, 273 Dateien, 271 Einträge (FFVR-0294 bis FFVR-0564), 2 leere Hilfsdateien ohne Eintrag (doorAnim01/02.txt).
+
+Nur Metadaten, nicht geöffnet: _Wasserwerk `12OKrJv3nvlWLzkJh-T-dXHQlByAIdF-x` (kein Standort in den Metadaten, bleibt wie tabu), ??? `1wOixGaq0XpUukeVtJma4TraavXRYtkAX` (Nr. 57). Tabu und nicht geöffnet: Bürrig, Currenta.
+
+Teil 1 (Änderungen seit 12.10.2026): 90 neue Einträge, berührte Tabu-/Finanzablagen nicht katalogisiert; neue Tabu-Einträge „2026 FiBu“ u. a. in [tabu.md](tabu.md), Shared Drives flowAR und TEMA in [landkarte.md](landkarte.md).
+
+Nächstes Gebiet (Runde 3 = Projects, Teilrunde 2):
+
+| Reihenfolge | Pfad | Ordner-ID | Grund |
+|---|---|---|---|
+| 1 | Projects / Flughafen Leipzig/Halle | `1IiC_stbI7WlCGRrUFmdVpAZSkoTnnYO8` | gehört zu Airplane Training (Kundenfrage A1) |
+| 2 | Projects / Draeger, Drager (2×), Dräger | `1AnhjmJReZ98lnBLVZzXXee-usRvDfv4g`, `1DLmvTmqf63ttzqSx2Cq-YPT3fEWDNov9`, `1rxE2PMhw_9Nj67ssxPSFDP4P-oy1KMe5`, `14utLqi1le4om14OP9t39ksB52iP2vQUR` | Kundenordner, Fahrzeugmodelle möglich (DraegerGamingWelt) |
+| 3 | Projects / Evonik, BASF, Infraserv, Merck | `1eVN3-btDEe8_xBl6lk7Uv0cXqwQHeNYM`, `1OaLIKOMeqbJ0Mwkgp6Kl-EhLreGjpkF-`, `1FY-hOfrX9jlTIo232M9R-3Q9mq5mKBVE`, `13uWpSMBnfcXNIbBYqfZbxErDOG3Xzmy-` | Kundenordner: sicherheitsrelevante Industrieanlagen prüfen |
+| danach | übrige Projects-Ordner alphabetisch (AR, Actemium, Amatik, Amatik 2, Armstrong, …) | | bis 150 bis 300 Dateien je Runde |
 
 ## Ebene 0 und 1
 
