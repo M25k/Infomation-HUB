@@ -6,3 +6,4 @@ venv/
 .env
 Northdocks-Backups/
 asana-backups/
+.cursor/out/
