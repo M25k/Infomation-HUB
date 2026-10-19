@@ -74,6 +74,7 @@ Sachlich, produktbezogen. Keine Superlative ohne Beleg („Pioniere“, „radik
 - Reel „23 Module“ ist Stilreferenz für neue Clips.
 - Clips liegen in Marketing Sales / Social Clips.
 - Keine Aufnahme von Bundespräsident Steinmeier mit VR-Brille verwenden.
+- Sprachausgabe (TTS) in Clips nur mit einer lizenzierten Stimme, die keiner bekannten Person ähnelt. Lizenznachweis zur Stimme bei den Clips ablegen (aktuell VO_STIMME_LIZENZ.txt, ND-0596: Piper de_DE-eva_k-x_low). Die Piper-Stimme „thorsten“ nicht mehr verwenden (Team-Feedback: klingt wie eine bekannte Person). Keine Weiß-Blitze an Schnitten. Quelle: Video / Team-Feedback 19.10.2026.
 
 ### Reel-Bibliothek (fester Ablauf seit 19.10.2026)
 
