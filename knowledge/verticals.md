@@ -18,9 +18,11 @@
 
 Zusätzlich auf northdocks.com: [Preise & Förderungen](https://northdocks.com/funding.html), [News](https://northdocks.com/news.html).
 
-Website-IA und Copy-Regeln je Domain: [websites/](websites/README.md).
+Website-IA und Copy-Regeln je Domain: [websites/](websites/README.md). Marken-CI (Logos, Farben, Schriften, Schreibweisen) je Marke: [brand/](brand/README.md); Dachmarke: [brand/northdocks.md](brand/northdocks.md).
 
 ## 1. Meditrain VR
+
+CI: [brand/meditrainvr.md](brand/meditrainvr.md); Radiation Protection VR / StrahlenschutzVR: [brand/strahlenschutzvr.md](brand/strahlenschutzvr.md).
 
 Nächste Produktlinie nach FirefighterVR — Details [meditrain.md](meditrain.md), Strategie [strategy.md](strategy.md).
 
@@ -32,6 +34,8 @@ Kunden/Partner: Uniklinik Köln (CeMIT, AMBOSS 2026, Frontiers-Studie Station), 
 
 ## 2. FirefighterVR
 
+CI: [brand/firefightervr.md](brand/firefightervr.md). BMA Trainer (eigene Marke): [brand/bma.md](brand/bma.md).
+
 Produktplattform für Feuerwehr, Werkfeuerwehr, Brandschutz, Jugendfeuerwehr, Recruiting. All-in-one Koffer, Kauf/Miete, kein laufendes Software-Abo im öffentlichen Preismodell.
 
 Öffentliche Pakete (netto, Website 2026): Strahlrohr 3.299 €, Feuerlöscher 3.199 €, CPR 3.199 €. Software aller Trainings in jedem Paket. 23 Module laut Website.
@@ -40,6 +44,8 @@ Vorgänger: **PCVR** mit PC-Launcher (Steam-ähnlich). Eingestellt nach Kundenfe
 
 ## 3. Next Factory VR
 
+CI: [brand/nextfactoryvr.md](brand/nextfactoryvr.md).
+
 Industrie-/Chemietraining auf Digital Twins (Laserscans), Standalone-VR plus Fallback PC/Tablet/Mobile. Offline-fähig, Pico Device Manager.
 
 Öffentliche Kundenleiste: Bayer, Merck, BASF, Evonik, Henkel, Currenta, Infraserv, Vinci, Actemium. **RWE** und **Framatome** stehen im Security-Text; intern: sie nutzen das FirefighterVR-Paket Feuerlöscher. Als Factory-Referenz nur für Randfälle (z. B. Sprinklerwartung), nicht als Digital-Twin-Vollprojekte.
@@ -47,6 +53,8 @@ Industrie-/Chemietraining auf Digital Twins (Laserscans), Standalone-VR plus Fal
 Referenzprojekte auf der Site: Merck Technikum, Actemium Infinity / Förderband, Currenta Technikum Explorer, Sprinkler Bayer/Henkel.
 
 ## 4. SpearheadVR
+
+CI: [brand/spearheadvr.md](brand/spearheadvr.md).
 
 Defense-/Public-Safety-Marke (Koffer, Offline, Playground). **In Anträgen nur diese Belege:**
 
@@ -57,17 +65,23 @@ Nicht verwenden: Site-/Deck-Zahlen (22+ Missionen, 200+ Szenarien, 7 Headsets, �
 
 ## 5. Storywalx
 
+CI: [brand/storywalx.md](brand/storywalx.md).
+
 XR-Stadttouren mit amatik. Öffentliche Projekte: Zeitreise Landeshaven (SH-Landtag), Havenspuren Wilhelmshaven, Treverer Code Trier, Meta-dom Köln.
 
 Site: 5+ Touren, 50.000+ Besucher. Deck: 3+ Städte, 100+ Headsets. Eye-Tracking/Blicksteuerung ist die Eignungsschiene für UKSH.
 
 ## 6. Meta-dom
 
+CI: [brand/meta-dom.md](brand/meta-dom.md) (nichts gefunden).
+
 Digital Twin Kölner Dom für VR/Mobile (Coming Soon auf Pico, iOS, Android). Photogrammetrie, Unreal Engine 5, Unterstützung ZDV.
 
 Zitierfähig (Entscheidung 2026-08-26): **100.000+ Fotos und 1.000 Laserscans**. News 2020 (30.000 Fotos) nicht mehr verwenden. Polygonzahl öffentlich: two-billion / 2B+.
 
 ## 7. GodView — zwei Kundentypen (Entscheidung 2026-08-26)
+
+CI: [brand/godview.md](brand/godview.md) (abgeleitet, nicht belegt).
 
 Eine Plattform, **zwei Nutzungen**. In Anträgen immer zuerst den Kundentyp nennen, sonst klingt es nach zwei Produkten.
 

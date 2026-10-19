@@ -81,6 +81,10 @@ Prio 1 bis 9 nach der Sichtungsreihenfolge unten; die Prio eines Roots ist sein 
 | 9 | Currenta (Altordner) | [Currenta OPS](https://drive.google.com/drive/folders/1-5kPt6fZiYdUTWy3JXkWzl_2-DQZYJn-) | `1-5kPt6fZiYdUTWy3JXkWzl_2-DQZYJn-` | 0 | 0 | 0 | leer | 2020-05-13 | tabu vorgeschlagen |
 | 9 | Currenta (Altordner) | [Currenta](https://drive.google.com/drive/folders/1DrSjrQyqd_L5Esy492AegxNdoQ3JTCZT) | `1DrSjrQyqd_L5Esy492AegxNdoQ3JTCZT` | 0 | 0 | 0 | leer | 2020-02-19 | tabu vorgeschlagen |
 | tabu | Verwaltung | [01 Administration (geteilt)](https://drive.google.com/drive/folders/1-4L9eK91dNq0HsyT1wDUFQ2c1OmbwRDn) | `1-4L9eK91dNq0HsyT1wDUFQ2c1OmbwRDn` | 67 | 0 | 0 | leer | 2026-09-14 | tabu vorgeschlagen |
+| 9 | Fulldome/Fremd-IP | [Shared Drive DDF](https://drive.google.com/drive/folders/0AJWe1omqm1q3Uk9PVA) | `0AJWe1omqm1q3Uk9PVA` | – | – | – | „DDF und die Salztote“ (Die drei ???, Fremd-IP); bei der CI-Suche 19.10.2026 gefunden, Kunden-CI KCI | – | nicht inventarisiert; Fremd-IP nur intern |
+| 9 | Archiv | [Shared Drive ZZZ_Archiv](https://drive.google.com/drive/folders/0AC-UJTAI2Si0Uk9PVA) | `0AC-UJTAI2Si0Uk9PVA` | – | – | – | u. a. Sonnenbatterie (sonnen-Logo-Ending); bei der CI-Suche 19.10.2026 gefunden | – | nicht inventarisiert |
+| 3 | MeditrainVR | [Shared Drive MediTrain-UE-Projekt](https://drive.google.com/drive/folders/0AHKeKBnLBQ0iUk9PVA) | `0AHKeKBnLBQ0iUk9PVA` | – | – | – | Unreal-Projekt MediTrain, Assets/Logos; bei der CI-Suche 19.10.2026 gefunden | – | nicht inventarisiert |
+| 9 | unklar | [Shared Drive Claude](https://drive.google.com/drive/folders/0AIaGyx9K1hW9Uk9PVA) | `0AIaGyx9K1hW9Uk9PVA` | – | – | – | Ordner 10_Brand mit hah_logo_preview_styleguide.png („hah“ vermutlich Hand aufs Herz, [../websites/handaufsherz.md](../websites/handaufsherz.md); nicht bestätigt) | – | nicht inventarisiert |
 
 ## Priorität der Sichtung
 

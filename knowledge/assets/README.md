@@ -21,14 +21,14 @@ Gilt für [assets.csv](assets.csv) und die Tabellen der Produktdateien.
 
 | Feld (CSV) | Bedeutung | Werte |
 |---|---|---|
-| `id` | Stabile Katalog-ID, wird nie neu vergeben | Präfix je Produkt plus vierstellige Nummer: `FFVR-0001` (FirefighterVR), `MED-` (MeditrainVR), `STR-` (StrahlenschutzVR), `NFVR-` (Next Factory VR), `SPVR-` (SpearheadVR), `GV-` (GodView), `SW-` (Storywalx), `MD-` (Meta-dom), `ND-` (Northdocks allgemein). Für große Kundenprojekte sind eigene Projekt-Präfixe erlaubt (Joachim, 18.10.2026): `HVR-` = VR-Stadttour Hannover (Produkt Storywalx). Ein Präfix wird nur einmal vergeben und darf mit keinem bestehenden kollidieren |
+| `id` | Stabile Katalog-ID, wird nie neu vergeben | Präfix je Produkt plus vierstellige Nummer: `FFVR-0001` (FirefighterVR), `MED-` (MeditrainVR), `STR-` (StrahlenschutzVR), `NFVR-` (Next Factory VR), `SPVR-` (SpearheadVR), `GV-` (GodView), `SW-` (Storywalx), `MD-` (Meta-dom), `IMP-` (IMP Solutions, Submarke im Manual 2023), `KCI-` (Kunden- und Fremd-CI, immer nur intern; Joachim 19.10.2026), `ND-` (Northdocks allgemein). Für große Kundenprojekte sind eigene Projekt-Präfixe erlaubt (Joachim, 18.10.2026): `HVR-` = VR-Stadttour Hannover (Produkt Storywalx). Ein Präfix wird nur einmal vergeben und darf mit keinem bestehenden kollidieren |
 | `titel` | Kurzer sprechender Titel | Freitext |
 | `drive_link` | Drive-Link mit Datei-ID | `https://drive.google.com/file/d/<ID>` |
 | `pfad` | Pfad im Drive zum Zeitpunkt der Sichtung | Text, kann veralten; maßgeblich ist die Datei-ID |
-| `typ` | Art des Assets | 3D, Video, Foto, Audio, Doku, Präsentation, Render, Screenshot |
+| `typ` | Art des Assets | 3D, Video, Foto, Audio, Doku, Präsentation, Render, Screenshot, CI (Logos, Icons, Schriften, Farben, Styleguides/Manuals, Vorlagen; seit 19.10.2026) |
 | `format` | Dateiformat | z. B. mp4, mov, jpg, fbx, pptx |
 | `groesse` | Dateigröße | MB |
-| `produkt` | Produkt oder Vertical | FirefighterVR, MeditrainVR, StrahlenschutzVR, Next Factory VR, SpearheadVR, GodView, Storywalx, Meta-dom, Northdocks |
+| `produkt` | Produkt oder Vertical | FirefighterVR, MeditrainVR, StrahlenschutzVR, Next Factory VR, SpearheadVR, GodView, Storywalx, Meta-dom, Northdocks, IMP Solutions; leer bei Kunden-CI (KCI) |
 | `projekt_kunde` | Projekt oder Kunde | Freitext |
 | `datum` | Aufnahme- oder Erstellungsdatum | JJJJ-MM-TT |
 | `freigabe` | Wofür das Asset verwendet werden darf | `website`, `social-video`, `angebot`, `nur intern`; mehrere mit `;` |
@@ -60,6 +60,7 @@ Die Regeln gelten zusätzlich zu [document-rules.md](../document-rules.md) und [
 10. **Tabu-Ordner** (Finanzen, Personal und Vergleichbares, Liste in [tabu.md](tabu.md)): Zugriff ist erlaubt, um eine konkrete Frage zu klären. Informationen daraus werden nie ohne Abstimmung mit Joachim freigegeben oder weitergegeben (Joachim über One, 18.10.2026).
 11. **Kunden- und Partnermaterial als Referenz:** Kundenmaterial ist grundsätzlich als Referenz freigegeben (Freigabe `angebot`), ausdrücklich auch DJI, Vodafone, sonnen und Merck (Joachim, 18.10.2026). `social-video` nur, wenn Musik und Rechte belegt sind (Regel 6); `website` nur bei Claim-Stufe „öffentlich“ (Regel 8). Die festen Regeln bleiben: Bürrig-Bildmaterial nie, Reschke Productions nie als Referenz, Militär/TMA/Army VR nur intern, Koni Trainer nie als ausgeliefert. Produktionsdateien, Standort-/Kundendaten und Stock-Referenzen aus Kundenprojekten sind keine Referenz-Assets und bleiben nur intern. Kunden-Clips mit nicht lizenzierter oder ungeklärter Musik kommen erst ins Angebot, wenn die Musik durch lizenzierte (z. B. CC0) ersetzt ist; ohne Ton gilt nicht als Ersatz (Joachim, 18.10.2026). Das gilt auch für Videos aus Kundenprojekten mit ungeklärtem Ton: nicht ins Angebot.
 12. **VR-Stadttour Hannover (HVR):** Öffentlich nur als „VR-Stadttour Hannover“ mit amatik nennen, die Stadt Hannover nicht als Auftraggeber; keine Beträge, keine Blicksteuerung, Pressetour 10.09. nicht als gelaufen ([claims.md](../claims.md), Joachim 18.10.2026). Extern freigegebene HVR-Einträge tragen den Vermerk „Nennung nur VR-Stadttour Hannover mit amatik, Stadt nicht als Auftraggeber“. Dunkle Gasse, KI-Material, Fremdpakete ohne Lizenz und AE-Produktionsdateien bleiben nur intern. Historische Postkarten Flusswasserkunst und das HGM-Saal-Bild sind gemeinfrei (Joachim 18.10.2026, Quelle wird nicht genannt); andere historische Bilder nur mit Vermerk „gemeinfrei“, sonst nur intern. Die Kröpcke-Figuren sind Marketplace-Assets: Zeigen erlaubt, nicht als Eigenbau darstellen. Altstadt und Dunkle Gasse sind dieselbe Szene; bis zur Klärung durch Joachim nur intern.
+13. **CI-Dateien (Typ CI, Joachim 19.10.2026):** Standard „nur intern“, bis Joachim entscheidet. Eigene Markenlogos dürfen auf social-video;website;angebot, wenn sie im Styleguide stehen **und** auf der Live-Site verwendet werden (Stand 19.10.2026: MED-0022, MED-0026, NFVR-0020, SW-0018). Kunden- und Fremd-CI (Präfix KCI, u. a. Reschke, Die drei ???) bleibt immer intern; Reschke und National Guard nie als Referenz. Markenblätter: [../brand/](../brand/README.md).
 
 ## Rollen
 
