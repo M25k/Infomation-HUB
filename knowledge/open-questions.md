@@ -80,7 +80,7 @@ Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Ass
 | **Schreibweise Storywalx** | Logo/Styleguide „storywalx“, document-rules „Storywalx“, Live „StoryWalx“ | Storywalx. Joachim: festlegen? |
 | **StrahlenschutzVR / Radiation Protection VR** | Logo-Folie und Flyer englisch, Site strahlenschutzvr.de deutsch und mit MediTrain-VR-Logo; kein Logofile, kein Styleguide | Name im deutschen Video, eigenes Logo oder MeditrainVR-CI? |
 | **„Firefighter VR“ auf Live-Sites** | firefightervr.de 3× (u. a. „Firefighter VR Basis-Set“), northdocks.com 2× | Regel steht. Korrektur über Northdocks Web, nicht hier |
-| **Northdocks-Schrift und Logofarbe** (Video a) | CI 2020: Oswald + Roboto Mono, Logo orange; Logo-Dateien 2023 grau #505050; Submarken 2023 Nunito Sans; Website Outfit, Icon weiß | Joachim: gilt CI 2020 (Oswald/Orange) oder ein neuerer Stand? |
+| **Northdocks-Schrift und Logofarbe** (Video a) | CI 2020: Oswald + Roboto Mono, Logo orange; Logo-Dateien 2023 grau #505050; Logo-Intros 2020 weiß auf #505050; Submarken 2023 Nunito Sans; Website Outfit, Icon weiß. Oswald und Open Sans liegen lizenziert im Drive (_fonts, OFL bzw. Apache 2.0). **Orange-Konflikt:** FARBPALETTE.png 2020 (ND-0393, Quelldatei ND-0541) zeigt #F28915, Farbkit (ND-0395) und Präsentationsvorlage 2021 #FF9900 | Joachim: gilt CI 2020 (Oswald/Orange) oder ein neuerer Stand? Welches Orange gilt, #FF9900 oder #F28915? |
 | **Branding Hannover-Reels** (Video b) | storywalx oder Northdocks offen | Regel 12 gilt in jedem Fall: „VR-Stadttour Hannover“ mit amatik, Stadt nicht als Auftraggeberin |
 | **Hexwerte Styleguide oder Logo** (Video c) | MediTrain #63B1E5 vs. Logo #64ACCC, Next Factory #EBE945 vs. #F9EC60, Spearhead #ABBDCA vs. #9DB8C4 | Joachim: welcher Wert gilt für Video und Web? |
 | **Gültiger CI-Stand** | Submarken-Manual 06.12.2023 ist die jüngste Fassung (MED-0004, NFVR-0003, SPVR-0002, SW-0002, IMP-0001). Für die Dachmarke gibt es nur Print-CI 2020 (ND-0155), Farbkit 2020 und Social-Templates 2021, kein Manual | Joachim: Ist 20231206 gültig, und gibt es ein Manual für die Dachmarke? |
@@ -88,7 +88,8 @@ Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Ass
 | **Kanalfreigabe CI-Dateien** | Alle CI-Einträge „nur intern“. Freigegeben (social-video;website;angebot) nur MED-0022, MED-0026, NFVR-0020, SW-0018 (Styleguide + live verwendet). Kunden-CI (KCI) immer intern, Reschke nie als Referenz | Joachim: Ist die Kanalfreigabe so ok? Sollen weitere Varianten (weiß/schwarz/hoch, FirefighterVR-Logo, Northdocks-Logo) frei werden? |
 | **„hah“ im Shared Drive Claude** | 10_Brand mit hah_logo_preview_styleguide.png; im Repo gibt es Hand aufs Herz ([websites/handaufsherz.md](websites/handaufsherz.md)), die Abkürzung „hah“ kommt nicht vor | Vermutlich Hand aufs Herz, bestätigen |
 | **IMP Solutions** | Eigenes Submarken-Manual 2023 (IMP-0001/0002) und Logos, aber nicht in verticals.md | Joachim: aktive Marke oder Archiv? |
-| **Verticals-Logos.zip** | ND-0169, 252 MB, nicht geprüft (über 100 MB) | Manuell prüfen oder entpackt ablegen |
+| ~~**Verticals-Logos.zip**~~ erledigt 19.10.2026 | ND-0169 von Video geprüft: nur das Paket „4 Erscheinungsbilder“ 12/2023 (Styleguides 06.12.2023, Logos, Animationen, Ordner alt), keine neueren Logos oder Farben, kein Northdocks-, FirefighterVR- oder StrahlenschutzVR-Material | – |
+| **Logo-Intros** (Video, 19.10.2026) | Northdocks-Intros A/B (ND-0003/0004, 3 s), Transition ND-0493 und AE-Projekt ND-0005; alle 16:9 ohne Alpha. Für FirefighterVR gibt es kein Intro | Joachim: Alpha- und 9:16-Fassungen aus dem AEP rendern lassen? FirefighterVR-Intro im Stil der Northdocks-Intros neu bauen? |
 
 ### Abstimmungsrunde 2026-10-16
 

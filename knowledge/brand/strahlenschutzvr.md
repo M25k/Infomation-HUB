@@ -6,14 +6,14 @@ Stand: 19.10.2026. Vollständigkeit: **kein Styleguide gefunden**. Logo nur als 
 
 | Datei | Drive-ID | Inhalt |
 |---|---|---|
-| Radiation Protection VR - Logo (Google Slides) | [1fD0rhEnvzDTivW2L7wPYe6NfgkDLEvR5b75BcjwA3p4](https://drive.google.com/open?id=1fD0rhEnvzDTivW2L7wPYe6NfgkDLEvR5b75BcjwA3p4) | Logo-Folie „RADIATION PROTECTION VR“, Farbe #2084C0, Schrift Montserrat (aus Export abgeleitet) |
-| Flyer_Radiation_Protection_VR_Mobile_022026.pdf | [1PhbhcU3YxPir1eMSk38CAZqQEDwj98mW](https://drive.google.com/open?id=1PhbhcU3YxPir1eMSk38CAZqQEDwj98mW) | Flyer 02/2026, Fonts Catamaran und Nunito Sans, Hellblau/Gelb, www.radiationprotectionvr.com, Kontakt über die MeditrainVR-Adresse |
+| Radiation Protection VR - Logo (Google Slides) | [1fD0rhEnvzDTivW2L7wPYe6NfgkDLEvR5b75BcjwA3p4](https://drive.google.com/open?id=1fD0rhEnvzDTivW2L7wPYe6NfgkDLEvR5b75BcjwA3p4) (STR-0001) | Logo-Folie „RADIATION PROTECTION VR“, Farbe #2084C0, Schrift Montserrat (aus Export abgeleitet) |
+| Flyer_Radiation_Protection_VR_Mobile_022026.pdf | [1PhbhcU3YxPir1eMSk38CAZqQEDwj98mW](https://drive.google.com/open?id=1PhbhcU3YxPir1eMSk38CAZqQEDwj98mW) (STR-0002) | Flyer 02/2026, Fonts Catamaran und Nunito Sans, Hellblau/Gelb, www.radiationprotectionvr.com, Kontakt über die MeditrainVR-Adresse |
 
 Marketing-Ordner „Radiation Protection VR - Marketing“: [1fvEwoZVrZvK4zFH3QnRuKbQU8ttnTcBu](https://drive.google.com/open?id=1fvEwoZVrZvK4zFH3QnRuKbQU8ttnTcBu) (liegt im MeditrainVR-Markenumfeld). Kontakt-Tabellen darin nicht geöffnet.
 
 ## Logos
 
-Kein SVG/PNG-Logo gefunden. Einzige Quelle ist die Slides-Folie ([1fD0rhEnvzDTivW2L7wPYe6NfgkDLEvR5b75BcjwA3p4](https://drive.google.com/open?id=1fD0rhEnvzDTivW2L7wPYe6NfgkDLEvR5b75BcjwA3p4)): Strahlen-Linien + „RADIATION PROTECTION“ und „VR“ in Box, einfarbig #2084C0. Für die Vorschau wurde die Folie gerendert, freigestellt und eingefärbt (Ersatz, kein Original-Logofile).
+Kein SVG/PNG-Logo gefunden. Einzige Quelle ist die Slides-Folie ([1fD0rhEnvzDTivW2L7wPYe6NfgkDLEvR5b75BcjwA3p4](https://drive.google.com/open?id=1fD0rhEnvzDTivW2L7wPYe6NfgkDLEvR5b75BcjwA3p4) (STR-0001)): Strahlen-Linien + „RADIATION PROTECTION“ und „VR“ in Box, einfarbig #2084C0. Für die Vorschau wurde die Folie gerendert, freigestellt und eingefärbt (Ersatz, kein Original-Logofile).
 
 ## Farben (abgeleitet, nicht belegt)
 
@@ -40,6 +40,8 @@ Deutsch „StrahlenschutzVR“ (strahlenschutzvr.de), Englisch „Radiation Prot
 ## Regeln
 
 Schutzzone, Mindestgröße, Don'ts: **nicht dokumentiert**.
+
+Abgleich mit der CI-Liste von Assets (19.10.2026): auch dort keine CI-Dateien für StrahlenschutzVR. Logo-Folie und Flyer fehlten in der Assets-Liste; Wissen führt sie als STR-0001 und STR-0002 (nur intern).
 
 ## Offen
 

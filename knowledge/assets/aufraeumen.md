@@ -195,6 +195,8 @@ Stand: 2026-10-19 06:09 (Europe/Berlin, UTC+2)
 
 Duplikat heißt hier: gleicher Dateiname und gleiche Größe in Byte. Als „Original“ ist die Ablage unter Marketing Sales / 00 Brands bzw. _ND_Resources / CI vorgeschlagen. Vor einem Löschen bitte Joachim fragen, denn Drive-Änderungen sind nicht Teil dieses Auftrags.
 
+Nachtrag Wissen (19.10.2026, aus Videos CI-Blättern): `FARBPALETTE.png` liegt zusätzlich zu ND-0393 im Template-Bib-Ordner von 00 Brands / Northdocks (`1kDeC__9m3Pon59_UjBBmlBQVFcKV-ok-`, gleiche Größe 2.458 Byte); dort liegt auch die Quelldatei FARBPALETTE.ai (ND-0541). Die Kopien der Logo-Intros stehen weiter unten unter „Logo-Intros“.
+
 #### Ordnerweise Doppelablagen (Kernbefund)
 
 - 24 Dateien: Original `Shared Drive Marketing Sales / 00 Brands / Northdocks / Northdocks Logo / Unreal` – Duplikat in `Shared Drive Marketing Sales / 00 Brands / Northdocks / Northdocks Logos / Unreal`

@@ -6,8 +6,8 @@ Stand: 19.10.2026. Vollständigkeit: **kein Styleguide, kein Logofile**. Alles *
 
 | Datei | Drive-ID | Inhalt |
 |---|---|---|
-| GodView.jpg | [1uucD34E9uDqCRqI6dmDoeR9OHRr0I-yH](https://drive.google.com/open?id=1uucD34E9uDqCRqI6dmDoeR9OHRr0I-yH) | Orange-roter Globus mit „VR“-Badge auf Dunkel (Median-Orange ca. #FF4900). Unklar, ob das das GodView-Logo ist |
-| godview_handbuch_BETA.pdf | [1DcRWDj1TBFrPnEy9IIbkbZSz-cSCCQHp](https://drive.google.com/open?id=1DcRWDj1TBFrPnEy9IIbkbZSz-cSCCQHp) | Handbuch (Helvetica). Screenshot des App-Startbildschirms mit Wortmarke „GODVIEW“: „GOD“ Weiß, „VIEW“ #FF9900, schmale fette Versalien (wirkt wie Oswald Bold), Tagline „DIGITAL TWIN OPERATION PLATFORM“ gesperrt in Grau ca. #8890A0 |
+| GodView.jpg | [1uucD34E9uDqCRqI6dmDoeR9OHRr0I-yH](https://drive.google.com/open?id=1uucD34E9uDqCRqI6dmDoeR9OHRr0I-yH) (GV-0002) | Orange-roter Globus mit „VR“-Badge auf Dunkel (Median-Orange ca. #FF4900). Liegt laut Assets-Liste im Ordner FirefighterVR / _Media / ICONS / „ICONS FFVR PICO MDM“ zwischen den Modul-Kacheln, ist also die **App-Kachel für das Pico-MDM**, kein Markenlogo (so auch im Katalog vermerkt) |
+| godview_handbuch_BETA.pdf | [1DcRWDj1TBFrPnEy9IIbkbZSz-cSCCQHp](https://drive.google.com/open?id=1DcRWDj1TBFrPnEy9IIbkbZSz-cSCCQHp) (GV-0003) | Handbuch (Helvetica). Screenshot des App-Startbildschirms mit Wortmarke „GODVIEW“: „GOD“ Weiß, „VIEW“ #FF9900, schmale fette Versalien (wirkt wie Oswald Bold), Tagline „DIGITAL TWIN OPERATION PLATFORM“ gesperrt in Grau ca. #8890A0 |
 
 ## Logos
 
@@ -36,5 +36,5 @@ Wortmarke wirkt wie Oswald Bold. Website godview.solutions: Oswald, Inter, Space
 
 ## Offen
 
-- Ist GodView.jpg das Logo oder nur ein Motiv?
+- GodView.jpg ist die Pico-MDM-App-Kachel (geklärt über Fundort). Ein Markenlogo fehlt weiterhin.
 - Offizielle Wortmarke als Vektor fehlt.
