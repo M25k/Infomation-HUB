@@ -43,7 +43,7 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 | [knowledge/accounting.md](knowledge/accounting.md) | FreeAgent: GJ, Rechnungsindex — **FA-Zahlen gelten**, ohne Fördermittel |
 | [knowledge/accounting-pass.md](knowledge/accounting-pass.md) | Laufender FreeAgent-Tiefenpass (Coverage) |
 | [knowledge/document-rules.md](knowledge/document-rules.md) | Wie Dokumente geschrieben werden (inkl. [german-prose.mdc](.cursor/rules/german-prose.mdc)) |
-| [knowledge/recruiting-2026-10.md](knowledge/recruiting-2026-10.md) | Stellenanzeigen Festanstellung Okt. 2026; HTML in [`.cursor/out/recruiting-2026-10/`](.cursor/out/recruiting-2026-10/) |
+| [knowledge/recruiting-2026-10.md](knowledge/recruiting-2026-10.md) | Stellenanzeigen Festanstellung Okt. 2026; HTML am 19.10.2026 aus dem Repo entfernt (Git-Stand dc2ddfc) |
 | [knowledge/tender-scan.md](knowledge/tender-scan.md) | Wöchentlicher Scan öffentlicher Ausschreibungen (Kompetenzfilter) |
 | [knowledge/tender-runs/](knowledge/tender-runs/) | Ergebnisse der Wochenläufe |
 | [knowledge/contacts/](knowledge/contacts/README.md) | Kontaktlisten Organisationen und Personen, Pflege über Bot „Northdocks Wissen“ |

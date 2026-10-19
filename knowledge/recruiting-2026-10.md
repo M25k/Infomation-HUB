@@ -10,9 +10,9 @@ Kontakt: kontakt@northdocks.com · Betreff je Rolle siehe unten.
 
 | Rolle | Datei |
 |---|---|
-| A Unreal/VR | [`.cursor/out/recruiting-2026-10/Northdocks-Stellenanzeige-A-Unreal-VR.html`](../.cursor/out/recruiting-2026-10/Northdocks-Stellenanzeige-A-Unreal-VR.html) |
-| B Web/Twin | [`.cursor/out/recruiting-2026-10/Northdocks-Stellenanzeige-B-Web-Twin.html`](../.cursor/out/recruiting-2026-10/Northdocks-Stellenanzeige-B-Web-Twin.html) |
-| C KI-Integration | [`.cursor/out/recruiting-2026-10/Northdocks-Stellenanzeige-C-KI-Integration.html`](../.cursor/out/recruiting-2026-10/Northdocks-Stellenanzeige-C-KI-Integration.html) |
+| A Unreal/VR | `.cursor/out/recruiting-2026-10/Northdocks-Stellenanzeige-A-Unreal-VR.html` (entfernt 19.10.2026, im Git-Stand dc2ddfc) |
+| B Web/Twin | `.cursor/out/recruiting-2026-10/Northdocks-Stellenanzeige-B-Web-Twin.html` (entfernt 19.10.2026, im Git-Stand dc2ddfc) |
+| C KI-Integration | `.cursor/out/recruiting-2026-10/Northdocks-Stellenanzeige-C-KI-Integration.html` (entfernt 19.10.2026, im Git-Stand dc2ddfc) |
 
 Änderungen **immer zuerst** in diesen HTML-Dateien (oder hier im Markdown, dann HTML nachziehen). Browser → Google Doc nur zum Einfügen/Layout-Check.
 
