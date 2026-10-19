@@ -7,6 +7,7 @@ Status: **bestätigt** von Joachim am 18.10.2026 (über One). Die Bürrig-Regel 
 - Ordner wie Finanzen, Personal und Vergleichbares sind tabu (Joachim über One, 18.10.2026).
 - Zugriff ist erlaubt, um eine konkrete Frage zu klären. Informationen daraus werden nie ohne Abstimmung mit Joachim freigegeben oder weitergegeben.
 - Northdocks Assets sichtet und rendert aus Tabu-Ordnern nichts.
+- Ausnahme Freigabe-Audit (Joachim, 19.10.2026): Assets liest bei Tabu-Ordnern rein lesend nur die Berechtigungen des Ordners selbst, keine Inhalte, und ändert keine Freigaben. Funde gehen an Joachim, Patrick und Wissen (siehe [README.md](README.md), Rollen). Schreiben darf Assets nur in „Assets Output“ und, für Audit-Berichte, in „Northdocks IT“.
 - Bürrig (Currenta): Bilder, Einsatzpläne und Einsatzbereitschaftsdaten sind immer tabu, der Name darf genannt werden. Andere Currenta-Standorte (Leverkusen, Dormagen, Krefeld) fallen nicht unter diese Regel (Joachim, 18.10.2026); sicherheitsrelevantes Material von dort bleibt aber nur intern.
 - Personen und Kundenlogos sind kein Tabu-Grund (Joachim über One, 18.10.2026).
 

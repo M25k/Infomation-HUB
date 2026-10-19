@@ -64,11 +64,12 @@ Die Regeln gelten zusätzlich zu [document-rules.md](../document-rules.md) und [
 
 ## Rollen
 
-Stand 18.10.2026 (Joachim über One):
+Stand 18.10.2026 (Joachim über One), ergänzt 19.10.2026 (Freigabe-Audits):
 
 - **Wissen** pflegt Katalog, Regeln und Freigaben und committet ins Repo. Nur Wissen trägt Einträge in [assets.csv](assets.csv) und die Produktdateien ein. Wissen bündelt die Freigabefragen und die Aufräumvorschläge von Assets für Joachim.
 - **Assets** ist der Drive-Bot. Er sichtet den Bestand nur lesend nach Priorität aus [landkarte.md](landkarte.md), überwacht werktäglich neue und geänderte Dateien und liefert Einträge als Vorschlag an Wissen. Außerdem sammelt er Aufräumvorschläge für das Drive (Duplikate, Altstände, Ablage). Umgesetzt wird eine Änderung im Drive nur mit Joachims OK. Assets schreibt nicht ins Repo.
-  - Ausgabeordner: „Assets Output“ im Shared Drive „Marketing Sales“, neben „Social Clips“ (Ordner-ID `1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm`, https://drive.google.com/drive/folders/1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm). Er ist die einzige Schreibstelle von Assets im Drive.
+  - Ausgabeordner: „Assets Output“ im Shared Drive „Marketing Sales“, neben „Social Clips“ (Ordner-ID `1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm`, https://drive.google.com/drive/folders/1pXmME0amj9-6IeLgg0ZsUmBCyftveBGm). Er ist neben „Northdocks IT“ (nur Audit-Berichte, siehe unten) die einzige Schreibstelle von Assets im Drive.
+  - **Freigabe-Audits** (Entscheidung Joachim, 19.10.2026, ca. 15:40 MESZ, über One): Assets prüft regelmäßig die Freigaben im ganzen Drive, **montags Vollaudit, werktags Delta-Prüfung**. Die Prüfung ist rein lesend, Assets ändert keine Freigaben. Bei Tabu-Ordnern liest Assets nur die Berechtigungen des Ordners, keine Inhalte. Funde gehen an Joachim, Patrick und Wissen; Wissen trägt sie in [open-questions.md](open-questions.md) ein (Entscheidung Joachim, Umsetzung Eigentümer bzw. Patrick). Assets darf in den geteilten Ordner „Northdocks IT“ schreiben, aber nur seine Audit-Berichte. Der Ordner existiert noch nicht (Stand 19.10.2026, [open-questions.md](open-questions.md) Nr. 67); bis dahin liegen die Berichte auf der Box unter `/workspace/asset-katalog/audit/` (erster Bericht `freigabe-audit-2026-10-19.md`).
 - **Video** übernimmt 3D-Rendering, Turntables und die GPU-Nutzung, über die gemeinsame Sperre in [../repos.md](../repos.md). Der Output landet in einem Unterordner in „Marketing Sales“. Turntables liegen in „Assets Output / Turntables“ (`1hLNuppiWO9sEAzqWiZ995_h5bV1dpa7d`). B-Roll legt Video ab 19.10.2026 unter „Assets Output / Turntables / B-Roll“ ab (`1tBtqIJlDKnEKCxBMx5rsGrp8C4wtznWQ`). Die Hannover-B-Roll (HVR-0560 bis HVR-0566) liegt im älteren Ordner „Assets Output / B-Roll“ (`1e_Zkj93CNRson7xZZRkw1Tc9hddQJC2G`). Kandidaten stehen in [3d-kandidaten.md](3d-kandidaten.md).
 - **Web, Social und Förderung** lesen [assets.csv](assets.csv) oder fragen Wissen. Sie verwenden nur Assets mit passender Freigabe.
 
