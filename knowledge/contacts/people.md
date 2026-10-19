@@ -222,6 +222,17 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
   - 13.01.2026 · E-Mail · Bestellung Set
   - 04.12.2025 · Call · Präsentation
 
+## Jacob Göransson
+
+- **Organisation:** [Presto Training AS / TRYGG KURS](organizations.md#presto-training-as--trygg-kurs)
+- **Rolle:** Geschäftsführer (Nachfolger von Jarle Ragnar Meløy, der zurückgetreten ist)
+- **Kontaktweg:** E-Mail (Postfach Patrick)
+- **Themen:** Vertrieb Norwegen, Zertifizierung
+- **Bezug:** [Asana](https://app.asana.com/0/0/1211946202779853)
+- **Freigabe:** nur intern
+- **Historie:**
+  - 19.10.2026 · E-Mail · Patrick hat ihm geantwortet (laut One, Abstimmung 19.10.2026)
+
 ## Karsten Korte
 
 - **Organisation:** [Feuerwehr Werl](organizations.md#feuerwehr-werl)
@@ -596,6 +607,30 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Historie:**
   - 25.08.2023 · E-Mail · NDA unterschrieben ([Asana](https://app.asana.com/0/0/1219577265953320))
   - 11.08.2023 · E-Mail · Schickt Standard-NDA ([Asana](https://app.asana.com/0/0/1219577265953320))
+
+## Stefan Bömler
+
+- **Organisation:** [Freiwillige Feuerwehr Goch](organizations.md#freiwillige-feuerwehr-goch)
+- **Rolle:** Leiter der Feuerwehr
+- **Kontaktweg:** Formular firefightervr.de; E-Mail (Postfach Patrick)
+- **Themen:** FirefighterVR, Vorführung, Basis-Set
+- **Bezug:** Erstangebot 20261019-01, kein Auftrag; Wiedervorlage 26.10.2026
+- **Freigabe:** nur intern
+- **Historie:**
+  - 19.10.2026 · E-Mail · 11:51 Uhr: Erstangebot 20261019-01 von Patrick (1 Basis-Set plus Versand, 3.434 € netto, Vorkasse) (laut One)
+  - 19.10.2026 · Formular firefightervr.de · 06:36 Uhr: Anfrage nach einer Vorführung (laut One)
+
+## Marcus Pforr
+
+- **Organisation:** [Landratsamt Wartburgkreis](organizations.md#landratsamt-wartburgkreis)
+- **Rolle:** Brand- und Katastrophenschutz
+- **Kontaktweg:** E-Mail (an Silas, ausgeschieden; Zuständigkeit klären, vermutlich Patrick)
+- **Themen:** FirefighterVR für Aus- und Weiterbildung, frühestens nach 2026 (Haushalt verplant)
+- **Bezug:** Kein Angebot
+- **Freigabe:** nur intern
+- **Historie:**
+  - 19.10.2026 · E-Mail · Mail vom 15.10. erneut an Silas geschickt (laut One, Abstimmung 19.10.2026)
+  - 15.10.2026 · E-Mail · Interesse an FirefighterVR, nicht mehr 2026
 
 ## Weitere aus grants.md
 

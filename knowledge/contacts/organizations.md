@@ -223,11 +223,12 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 
 - **Ort/Land:** Norwegen
 - **Typ:** Schulungsanbieter, Vertriebspartner
-- **Ansprechpartner:** [Kjartan Taranger](people.md#kjartan-taranger); Oddbjørn Granlund
+- **Ansprechpartner:** [Jacob Göransson](people.md#jacob-göransson) (Geschäftsführer, Nachfolger von Jarle Ragnar Meløy); [Kjartan Taranger](people.md#kjartan-taranger); Oddbjørn Granlund
 - **Themen:** Brandschutzhelfer- und Heißarbeitskurse, Feuerlöscher-VR, Zertifizierung Norwegen
 - **Bezug:** [grants.md](../grants.md) (Pipeline); [Asana](https://app.asana.com/0/0/1211946202779853)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
+  - 19.10.2026 · E-Mail · Jarle Ragnar Meløy als Geschäftsführer zurückgetreten, Nachfolger Jacob Göransson; Patrick hat ihm geantwortet (laut One, Abstimmung 19.10.2026)
   - 05.03.2026 · E-Mail · Taranger wartet auf Vertrag der eigenen Finanzabteilung, Testversion noch nicht getestet ([Asana](https://app.asana.com/0/0/1212517329514837))
   - 26.02.2026 · E-Mail · Erste norwegische Testversion Feuerlöscher in PICO-Gruppe „Test“, Übersetzungstabelle zur Korrektur ([Asana](https://app.asana.com/0/0/1212517329514837))
   - 18.02.2026 · E-Mail · Erste Kundenanfrage Norwegen; Presto braucht Agentenvertrag, Apps auf Norwegisch oder Englisch, englisches Handbuch ([Asana](https://app.asana.com/0/0/1212517329514837))
@@ -748,6 +749,30 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
   - 16.05.2024 · Online · Kolloquium, Silas zugeschaltet ([Asana](https://app.asana.com/0/0/1219577427192727))
   - 15.02.2024 · Dokument · Ausleihvertrag Pico 4, Strahlrohr, Adapter ([Asana](https://app.asana.com/0/0/1219577427192727))
   - 08.01.2024 · E-Mail · Anfrage mit Exposé ([Asana](https://app.asana.com/0/0/1219577427192727))
+
+## Freiwillige Feuerwehr Goch
+
+- **Ort/Land:** Goch, DE
+- **Typ:** Feuerwehr (Freiwillige Feuerwehr), Lead
+- **Ansprechpartner:** [Stefan Bömler](people.md#stefan-bömler) (Leiter der Feuerwehr)
+- **Themen:** FirefighterVR, Vorführung, Basis-Set
+- **Bezug:** Erstangebot 20261019-01, kein Auftrag; Wiedervorlage 26.10.2026 (Patrick)
+- **Freigabe:** nur intern
+- **Historie:**
+  - 19.10.2026 · E-Mail · 11:51 Uhr: Patrick schickt Erstangebot 20261019-01 (1 Basis-Set plus Versand, 3.434 € netto, Vorkasse); Wiedervorlage 26.10.2026, kein Auftrag (laut One, Abstimmung 19.10.2026)
+  - 19.10.2026 · Formular firefightervr.de · 06:36 Uhr: Anfrage nach einer Vorführung (laut One)
+
+## Landratsamt Wartburgkreis
+
+- **Ort/Land:** Wartburgkreis (Thüringen), DE
+- **Typ:** Behörde (Brand- und Katastrophenschutz), Lead
+- **Ansprechpartner:** [Marcus Pforr](people.md#marcus-pforr)
+- **Themen:** FirefighterVR für Aus- und Weiterbildung; nicht mehr 2026, Haushalt verplant
+- **Bezug:** Kein Angebot, kein Auftrag. **Zuständigkeit klären:** Mail ging an Silas (ausgeschieden), vermutlich übernimmt Patrick
+- **Freigabe:** nur intern
+- **Historie:**
+  - 19.10.2026 · E-Mail · Mail vom 15.10. erneut an Silas geschickt; Interesse, Budget erst nach 2026 (laut One, Abstimmung 19.10.2026)
+  - 15.10.2026 · E-Mail · Interesse an FirefighterVR für Aus- und Weiterbildung, an Silas
 
 ## Kunden aus Mailakte Silas (Asana, Stand 16.10.2026, Läufe 1 bis 3)
 
