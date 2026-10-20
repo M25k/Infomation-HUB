@@ -85,7 +85,7 @@ Prio 1 bis 9 nach der Sichtungsreihenfolge unten; die Prio eines Roots ist sein 
 | 9 | Archiv | [Shared Drive ZZZ_Archiv](https://drive.google.com/drive/folders/0AC-UJTAI2Si0Uk9PVA) | `0AC-UJTAI2Si0Uk9PVA` | – | – | – | u. a. Sonnenbatterie (sonnen-Logo-Ending); bei der CI-Suche 19.10.2026 gefunden | – | nicht inventarisiert |
 | 3 | MeditrainVR | [Shared Drive MediTrain-UE-Projekt](https://drive.google.com/drive/folders/0AHKeKBnLBQ0iUk9PVA) | `0AHKeKBnLBQ0iUk9PVA` | – | – | – | Unreal-Projekt MediTrain, Assets/Logos; bei der CI-Suche 19.10.2026 gefunden | – | nicht inventarisiert |
 | 9 | unklar | [Shared Drive Claude](https://drive.google.com/drive/folders/0AIaGyx9K1hW9Uk9PVA) | `0AIaGyx9K1hW9Uk9PVA` | – | – | – | Ordner 10_Brand mit hah_logo_preview_styleguide.png („hah“ vermutlich Hand aufs Herz, [../websites/handaufsherz.md](../websites/handaufsherz.md); nicht bestätigt) | – | nicht inventarisiert |
-| 9 | Partnerprojekt | [Shared Drive flowAR (Name vermutet)](https://drive.google.com/drive/folders/0AFKKutiu3e7pUk9PVA) | `0AFKKutiu3e7pUk9PVA` | – | – | – | Ordner „flowAR Exchange“ (`1AENBTQTpTHsQLfyQw4lfMLsTxTnwQekl`, angelegt 2025-07-01) mit Kokerei-Hansa-Fotos, Showcase und Launch-Workshop (ND-0557 bis ND-0577, nur intern). Drive angelegt 2025-06-30; Name liefert der Connector nicht | – | teilweise (Runde 2, 19.10.2026) |
+| 9 | Partnerprojekt | [Shared Drive flowAR (Name vermutet)](https://drive.google.com/drive/folders/0AFKKutiu3e7pUk9PVA) | `0AFKKutiu3e7pUk9PVA` | – | – | – | Ordner „flowAR Exchange“ (`1AENBTQTpTHsQLfyQw4lfMLsTxTnwQekl`, angelegt 2025-07-01) mit Kokerei-Hansa-Fotos, Showcase und Launch-Workshop (ND-0557 bis ND-0577, nur intern), dazu 008_Fotos/Zukunftswerkstatt und 009_Veranstaltungen/Zukunftswerkstätte (ND-0601 bis ND-0617, nur intern; 20 externe Bearbeiter, Audit 20.10.2026). Drive angelegt 2025-06-30; Name liefert der Connector nicht | – | teilweise (Runde 2 und 3, 20.10.2026) |
 | 9 | Forschungsprojekt | [Shared Drive TEMA (Name vermutet)](https://drive.google.com/drive/folders/0AHpu7Pqn3nM7Uk9PVA) | `0AHpu7Pqn3nM7Uk9PVA` | – | – | – | Ordner „WP6“ (`1dN8c7VbQ7XQ7RpC7ZT5C8Aw7zHUGPrYa`, angelegt 2022-12-13) mit DJI-Aufnahmen (ND-0578 bis ND-0592, nur intern) und Projektdokumenten (Deliverables, Protokolle; nicht katalogisiert). Drive angelegt 2022-10-11; Name liefert der Connector nicht | – | teilweise (Runde 2, 19.10.2026) |
 
 ## Priorität der Sichtung
@@ -295,3 +295,9 @@ Runde 1 (Prio 1, Clips/Reels) brachte keine echten Turntable-Kandidaten (kein St
 - Nur was das Konto von Joachim sieht. Ordner anderer Konten, die nicht geteilt sind, fehlen.
 - „01 Administration“ und „01 ND“ wurden als Tabu-Kandidaten nicht durchsucht.
 - Personennamen in Ordnernamen sind hier als „[Name]“, Mailadressen als „[Mailadresse geschwärzt]“ ersetzt; die Ordner-ID führt zum Original.
+
+## Ergänzung Runde 3 (20.10.2026)
+
+- _ND_Best Of (geteilt) / Projects (`1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN`): Teilrunde 2 fertig (Flughafen Leipzig/Halle, Draeger, Drager 2×, Dräger, Evonik, BASF, Infraserv, Merck; 383 Dateien, 383 Einträge). Evonik, BASF, Infraserv enthalten sicherheitsrelevante Anlagendaten (nur intern, [open-questions.md](open-questions.md) Nr. 71). Dräger-Kundenordner in vier Schreibweisen (R3-05). Nächste Teilrunde alphabetisch ab AR.
+- Shared Drive FirefighterVR / Assets: neuer Unterordner Corpus C3 (19.10.2026, FFVR-0598).
+- Projekte/Meetings: neue Ordner 21.10.2026 (Hygiene und Firefighting, Vertrieb), FFVR-0601 bis 0604 nur intern.

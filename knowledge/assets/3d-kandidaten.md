@@ -50,3 +50,36 @@ Kein neues Pico-Headset-Modell gefunden. Nur ein Video „UAD_Pico_DesktopStream
 ### _ND_Best Of / Projects, Teilrunde 1
 
 Keine 3D-Quelldateien in Feuerwehrassets, Firefighter VR, Brandcontainer und CPR_2022. Dort liegen nur Renders/Screenshots von Northdocks-Modellen 2021 (Fire Hose, Engine Cutter, Holmatro SPU 16 BC und Pentheon, Kettensäge, Überdrucklüfter, Megafon, Kabeltrommel, Feuerwehraxt, Trage u. a.; FFVR-0405 bis 0481, 0482 bis 0522, 0557). Die zugehörigen Quellmodelle sind vermutlich in „FirefighterVR / Assets“ bzw. im Unreal-Projekt; dort weitersuchen.
+
+## Runde 3 (Assets, 20.10.2026): neue 3D-Quellen und Fahrzeug-Renders
+
+3D-Quellen: „Lizenz nicht schriftlich belegt“, Freigabevorschlag `social-video` nach Vorgabe Joachim 18.10.2026 an Video. Größen laut Drive-Metadaten.
+
+### FAHRZEUGE
+
+| ID | Datei | Drive-ID | Ablage | Größe | Format | Was | Für Video | Hinweis |
+|---|---|---|---|---|---|---|---|---|
+| FFVR-0599 | RTW_Inside_v012.blend | `1s4q5btThu1aV2ciyp7pdojyj3d58YsiR` | Shared Drive FirefighterVR / Playground / Feuerwehrautos / Assets / RTW / Work / Blender | 4,5 MB | BLEND | **Rettungswagen (RTW) mit Innenraum, v012** | ja, nach Abschluss | **WIP** vom 19.10.2026, Nachfolger von v011 (FFVR-0266); Playground nicht öffentlich nennen |
+| FFVR-0600 | RTW_Inside_v012.fbx | `1OwsxDrXLS4XVnggLMzGD7Lm0yNL9NXry` | dto. | 1,3 MB | FBX | RTW v012 Export | ja | neuer als Out/RTW_with_Inside.fbx (FFVR-0262, Stand v011) |
+
+Fahrzeug-Renders ohne Quelldatei aus dem Kundenordner Projects / Draeger (Dräger-Kundenprojekt GamingWelt 2020, keine 3D-Dateien im Ordner):
+- Render_TRT_01–04 (ND-0737–0742, davon 2 Dubletten) und draegerTRT.png (ND-0775): Dräger-Trainingsanlage TRT auf Fahrgestell, **nur intern** (Dräger-Regel; Assets schlug angebot vor, Nr. 73).
+- Fahrzeuge_01–03 (ND-0684–0686): Fahrzeuge der GamingWelt, **nur intern** (Dräger-Regel, Nr. 73).
+- Cartrainer.JPG, Cartrainerv2.JPG (ND-0648/0649): ausgebranntes Übungsauto, Einzelmodell-Render, **nur intern**.
+- LKW_Kippbar_01/02 (ND-0720/0721): kippbarer LKW-Aufbau, Einzelmodell-Render, **nur intern**.
+- leak.jpg (ND-0776): Tankwagen mit Leck, Unreal-Editor-Screenshot, **nur intern**.
+Die Quellmodelle liegen vermutlich im Shared Drive „Kundenprojekte“ / Draeger / DraegerGamingWelt / Assets / Fahrzeuge (dort auch das Notarzt-Fahrzeug ND-0545–0548). Prüfen in einer späteren Runde.
+
+### Sonstige 3D-Quellen
+
+| ID | Datei | Drive-ID | Ablage | Größe | Was | Hinweis |
+|---|---|---|---|---|---|---|
+| FFVR-0598 | Corpus_C3.blend | `1nbissEUxLPqWQl-75AMDxCSgHsO_8lcf` | Shared Drive FirefighterVR / Assets / Corpus C3 (neu 19.10.2026) | 0,1 MB | nur ein Blockout: 1 Würfel-Mesh, 114 Vertices, ca. 30 × 12 × 30 cm, ohne Material (im Blender geprüft) | für Renderings noch nicht brauchbar; Gegenstand unklar ([open-questions.md](open-questions.md) Nr. 72) |
+
+### PICO
+
+Kein Pico-Headset-Modell gefunden (Teil 1 und Projects Teilrunde 2).
+
+### _ND_Best Of / Projects, Teilrunde 2
+
+Keine 3D-Quelldateien in Draeger, Drager, Dräger, Evonik, BASF, Infraserv und Merck. Dort liegen nur Renders, Screenshots und Videos aus den Kundenprojekten 2019–2022.

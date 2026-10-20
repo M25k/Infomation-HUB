@@ -9,6 +9,7 @@ Status je Ordner: offen / in Arbeit / fertig / tabu. Vorschläge aus Runde 0 ste
 | Runde 0 (Inventur, nur Metadaten) | 18.10.2026 | Northdocks Wissen | Ebenen 0 bis 2 vollständig, tiefer nur Ordnernamen teilweise. Keine Datei geöffnet |
 | Runde 1 (Prio 1: fertige Clips und Reels) | 18.10.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 14 Ordner, 603 Dateien per Metadaten, 233 Einträge in [assets.csv](assets.csv). 10 Ordner fertig, 4 in Arbeit (siehe unten) |
 | Runde 2 (Änderungen seit 12.10. und _ND_Best Of / Projects, Teilrunde 1) | 19.10.2026 (Assets 07:16 bis 07:37 MESZ) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 406 geänderte/neue Dateien seit 12.10. geprüft (90 neue Einträge ND-0544 bis 0593, FFVR-0254 bis 0293; 8 Titelkorrekturen FFVR-0059 bis 0066). Projects: 25 Ordner, 273 Dateien, 271 Einträge (FFVR-0294 bis 0564). Zusammen 361 Einträge: 265 nur intern, 96 social-video |
+| Runde 3 (Änderungen seit 19.10. und _ND_Best Of / Projects, Teilrunde 2) | 20.10.2026 (Assets 07:40 bis 08:50 Athen, UTC+3) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 90 Treffer seit 19.10.2026, 08:37 (25 neue Einträge ND-0600 bis 0617, FFVR-0598 bis 0604; 3 Aktualisierungen FFVR-0266, 0291, 0292). Projects Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge (ND-0618 bis 0895, NFVR-0027 bis 0131). Zusammen 408 Einträge nach Korrektur Wissen: 320 nur intern, 85 angebot, 3 social-video |
 
 ## Runde 1: Stand je Ordner (18.10.2026)
 
@@ -83,6 +84,26 @@ Nächstes Gebiet (Runde 3 = Projects, Teilrunde 2):
 | 2 | Projects / Draeger, Drager (2×), Dräger | `1AnhjmJReZ98lnBLVZzXXee-usRvDfv4g`, `1DLmvTmqf63ttzqSx2Cq-YPT3fEWDNov9`, `1rxE2PMhw_9Nj67ssxPSFDP4P-oy1KMe5`, `14utLqi1le4om14OP9t39ksB52iP2vQUR` | Kundenordner, Fahrzeugmodelle möglich (DraegerGamingWelt) |
 | 3 | Projects / Evonik, BASF, Infraserv, Merck | `1eVN3-btDEe8_xBl6lk7Uv0cXqwQHeNYM`, `1OaLIKOMeqbJ0Mwkgp6Kl-EhLreGjpkF-`, `1FY-hOfrX9jlTIo232M9R-3Q9mq5mKBVE`, `13uWpSMBnfcXNIbBYqfZbxErDOG3Xzmy-` | Kundenordner: sicherheitsrelevante Industrieanlagen prüfen |
 | danach | übrige Projects-Ordner alphabetisch (AR, Actemium, Amatik, Amatik 2, Armstrong, …) | | bis 150 bis 300 Dateien je Runde |
+
+## Runde 3: _ND_Best Of (geteilt) / Projects, Teilrunde 2 (20.10.2026)
+
+Projects (`1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN`) gesamt: **in Arbeit**. Geprüft und eingetragen von Northdocks Wissen; Tabu-Filter sauber.
+
+| Status | Pfad (unter Projects) | Ordner-ID | Dateien | Einträge | Bemerkung |
+|---|---|---|---|---|---|
+| fertig | Flughafen Leipzig/Halle | `1IiC_stbI7WlCGRrUFmdVpAZSkoTnnYO8` | 0 | 0 | leer (R2-08) |
+| fertig | Draeger (inkl. Brandcontainer, FD, FTS 8000, Kanalrettungsanlage, Katalog, Temp, Videos) | `1AnhjmJReZ98lnBLVZzXXee-usRvDfv4g` | 266 | 266 | Dräger-Material nur intern |
+| fertig | Drager | `1rxE2PMhw_9Nj67ssxPSFDP4P-oy1KMe5` | 1 | 1 | R3-05 |
+| fertig | Drager | `1DLmvTmqf63ttzqSx2Cq-YPT3fEWDNov9` | 0 | 0 | leer |
+| fertig | Dräger | `14utLqi1le4om14OP9t39ksB52iP2vQUR` | 0 | 0 | leer |
+| fertig | Evonik | `1eVN3-btDEe8_xBl6lk7Uv0cXqwQHeNYM` | 8 | 8 | sicherheitsrelevant (Nr. 71) |
+| fertig | BASF | `1OaLIKOMeqbJ0Mwkgp6Kl-EhLreGjpkF-` | 2 | 2 | sicherheitsrelevant (Nr. 71) |
+| fertig | Infraserv | `1FY-hOfrX9jlTIo232M9R-3Q9mq5mKBVE` | 1 | 1 | sicherheitsrelevant (Nr. 71) |
+| fertig | Merck (inkl. Merck Chemie-System, Merck Technikum, Technikum, Ruehrwerksapparatur, VR Screenshots) | `13uWpSMBnfcXNIbBYqfZbxErDOG3Xzmy-` | 105 | 105 | Bilder angebot (Stichprobe), Videos intern (Ton, Nr. 69) |
+
+Summe Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge. Keine 3D-Quelldateien. Tabu und nicht geöffnet: Bürrig, Currenta; nur Metadaten: _Wasserwerk, ???.
+
+Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, Actemium, Amatik, Amatik 2, Armstrong, Azure Spatial Anchors, BAT, Bayer, Bitterfeld, DEV_Intern_Tools, DLR, Digitale Zwillinge, Dom zu Halberstadt, Gdview, INFINITY, Kiel AR, Kiel Arena, Kölner Dom, Landtag, Landtag VR, LandtagTouch, Lhoist, LWL, Marketing, Mars2020, ND CAD Explorer, ND VR Tutorial, Omexom Hochspannung, Schiffshebewerk, SIGA, Sonnen, sonnen, Strahlenschutz, Submerge, Template ×3, Tut, UKK).
 
 ## Ebene 0 und 1
 
