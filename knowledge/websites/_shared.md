@@ -70,6 +70,8 @@ Sachlich, produktbezogen. Keine Superlative ohne Beleg („Pioniere“, „radik
 
 ## Video und Clips
 
+- Schriften: Pro Brand die definierte Schrift aus [../brand/fonts.md](../brand/fonts.md) verwenden, in Reels, auf Webseiten und in Grafiken; Fallback nur bei fehlender Lizenz. FirefighterVR vorläufig Teko Bold (Titel) und Open Sans (Joachim, 20.10.2026).
+
 - Schreibweise der Marke immer **FirefighterVR** (zusammen, Joachim 19.10.2026). Im Voiceover gesprochen „Firefighter VR“ mit englisch gesprochenem „VR“.
 - Reel „23 Module“ ist Stilreferenz für neue Clips.
 - Clips liegen in Marketing Sales / Social Clips.

@@ -90,6 +90,11 @@ Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Ass
 | **IMP Solutions** | Eigenes Submarken-Manual 2023 (IMP-0001/0002) und Logos, aber nicht in verticals.md | Joachim: aktive Marke oder Archiv? |
 | ~~**Verticals-Logos.zip**~~ erledigt 19.10.2026 | ND-0169 von Video geprüft: nur das Paket „4 Erscheinungsbilder“ 12/2023 (Styleguides 06.12.2023, Logos, Animationen, Ordner alt), keine neueren Logos oder Farben, kein Northdocks-, FirefighterVR- oder StrahlenschutzVR-Material | – |
 | **Logo-Intros** (Video, 19.10.2026) | Northdocks-Intros A/B (ND-0003/0004, 3 s), Transition ND-0493 und AE-Projekt ND-0005; alle 16:9 ohne Alpha. Für FirefighterVR gibt es kein Intro | Joachim: Alpha- und 9:16-Fassungen aus dem AEP rendern lassen? FirefighterVR-Intro im Stil der Northdocks-Intros neu bauen? |
+| **Schriften: Northdocks-Fließtext** (fonts.md, 20.10.2026) | CI 2020 Roboto Mono; Video Open Sans; Vorlage 2021 Arial/Calibri; Website Outfit; Submarken-Footer Nunito Sans | Joachim: welche Fließtextschrift gilt? |
+| **Schriften: Oswald Heavy** | CI 2020 nennt Oswald Heavy; im Drive nur Regular/Bold/Light + Variable Font; Video nutzt Bold | Joachim: Heavy (aus Google Fonts nicht verfügbar) oder Bold? |
+| **Schriften: Websites weichen ab** | northdocks.com Outfit, firefightervr.de Poppins/Roboto, spearheadvr.de Inter/Outfit statt CI-Schrift (live, 20.10.2026) | Joachim: Websites auf die CI-Schrift umstellen (Web)? |
+| **Schriften: FirefighterVR Open-Sans-Gewicht** | Teko Bold vorläufig; Open-Sans-Schnitt nicht festgelegt (Video nutzt SemiBold); Acumin aus CI 2020 ohne Lizenz | Mit Asana 1219679346562920 festlegen |
+| **Schriften: Brands ohne Schrift** | StrahlenschutzVR (Montserrat/Catamaran/Nunito Sans/Oswald widersprüchlich), GodView, Meta-dom, HannoverVR, BMA Trainer, Hand aufs Herz | Joachim: Schrift festlegen oder Dachmarke übernehmen? |
 
 ### Abstimmungsrunde 2026-10-16
 
