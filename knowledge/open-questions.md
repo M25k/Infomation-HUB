@@ -17,7 +17,7 @@ Geklärte Punkte bleiben kurz dokumentiert. Nur offene Punkte blockieren Formuli
 | Meditrain-Rechtsform | Bleibt Vertical der Northdocks GmbH. Pitch 2024 (Ausgründung/Startup) ist tot. Produktziel: Koffer + Hardware/Software-Komplettpaket analog FirefighterVR. |
 | Spearhead / TMA | **The Marketing Arm (TMA)**, Teil von Omnicom, ist Auftraggeber der National-Guard-Trainings. Lieferung intern **State of Emergency**. Zweitens: Playground-Sonderversion Kosovo. Site-/Deck-Zahlen nicht verwenden. |
 | RWE / Framatome | Nutzen das FirefighterVR-Paket **Feuerlöscher**. Auf nextfactoryvr.com, weil es Factory-Randfälle gibt (z. B. Sprinklerwartung) — nicht als Full-Custom-Next-Factory-Twins führen. |
-| Kontakt | Kanonisch **kontakt@northdocks.com**. Telefon GmbH/Hub **+49 (0) 2173 9996715**; FirefighterVR **9996713**; Meditrain/Strahlenschutz **9996714**. Erreichbarkeit Mo.–Fr. 9:00–13:00. Andere Adressen auf Vertical-Sites nicht als Firmenstandard. |
+| Kontakt | Kanonisch die zentrale Kontaktadresse (nicht im Repo). Telefon GmbH/Hub [Nummer A]; FirefighterVR [Nummer B]; Meditrain/Strahlenschutz [Nummer C] (Nummern nicht im Repo). Erreichbarkeit Mo.–Fr. 9:00–13:00. Andere Adressen auf Vertical-Sites nicht als Firmenstandard. |
 | BMA Trainer | Eigenes Produkt, perspektivisch Funnel für FirefighterVR (z. B. WebXR). Derzeit **keine Vermarktung**. |
 | Umsatz | Intern vage **ca. 1 Mio. € p.a.** (GF). In Eignung die Schwelle >200.000 € VR/Simulation in mind. einem der letzten drei GJ. FreeAgent-Verkauf 2023–25 1,31 / 0,80 / 0,58 Mio. €, **ohne Fördermittel**. Keine präzise GJ-Zahl nach außen; FA nicht mit grants.md addieren. |
 | Alte FFVR-Plattform | PCVR mit PC-Launcher (Steam-ähnlich). Eingestellt, weil Kunden PCVR als zu teuer und kompliziert rückmeldeten → Wechsel auf die Koffer-/Standalone-Lösung. Nicht „gescheitert“ nach außen. |
@@ -43,7 +43,7 @@ Geklärte Punkte bleiben kurz dokumentiert. Nur offene Punkte blockieren Formuli
 
 | Thema | Entscheidung |
 |---|---|
-| Telefon-Split | Asana [Telefonnummern glattziehen](https://app.asana.com/1/8864272155433/project/1205233000589835/task/1218361891390444) (10.09.2026). GmbH/Hub **9996715**, Meditrain/Strahlenschutz **9996714**, FirefighterVR **9996713**. ABs eingerichtet. Erreichbarkeit Mo.–Fr. 9:00–13:00. 6713 nicht mehr als GmbH-Standard in Angeboten. |
+| Telefon-Split | Asana [Telefonnummern glattziehen](https://app.asana.com/1/8864272155433/project/1205233000589835/task/1218361891390444) (10.09.2026). GmbH/Hub [Nummer A], Meditrain/Strahlenschutz [Nummer C], FirefighterVR [Nummer B] (Nummern nicht im Repo). ABs eingerichtet. Erreichbarkeit Mo.–Fr. 9:00–13:00. [Nummer B] nicht mehr als GmbH-Standard in Angeboten. |
 
 ## Geklärt 2026-08-31 (Quellenlauf Drive / Gmail / Asana)
 
