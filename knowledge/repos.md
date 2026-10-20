@@ -43,6 +43,15 @@ Nicht lokal, aber auf GitHub / in Asana-Repo-Karten (nicht „Lücke weil nicht 
 
 Unreal Engine **5.7**, C++-Projekt. Ziel Android **Arm64**, **Vulkan**, Target API **34**, Plugin **PICOOpenXR**. Fab-Plugins: CesiumForUnreal, EOSCore, SmoothSyncPlugin, JsonXmlHelper, NodeGraphAssistant, VaRest. Offen: Bezugsweg der Fab-Plugins (Lizenzkonto), Package-Name, Rotation des Android-Keystores. Keine Keystore-Dateien oder Passwörter ins Git.
 
+### Unreal: Stand aus Cursor-Chat ND-NB-20 (intern, Abgleich 20.10.2026)
+
+- **NDFramework (UE 5.7):** Setup wie oben. `BP_NDVR_Hand` ist auf die leere C++-Basis `ANDVRHandBase` reparented; eine volle C++-Migration geht nicht ohne Editorarbeit.
+- **VaRest:** `VaRest.uplugin` lokal auf EngineVersion 5.7.0 gesetzt, aber gitignored. **Offen:** Plugin vendoren (ins Repo übernehmen), sonst fehlt es auf anderen Rechnern.
+- **NDVRActemium:** laut Chat richtiger Branch 5.7 (Tabelle oben: `5.7_update`, prüfen), ElevenVoice installiert, Lookdev-Wunsch AO-Look.
+- **State of Emergency:** wird **eine** Quest-3-App; konsolidiertes USD-Angebot an Vincent Vallos (TMA); Jet-Pipe-Tracking prüfen.
+- **FlowAR (Kotlin/ARCore):** Basis für AR mit QR-Ankern (Fresenius/Wasserwerk), Spin-off-Idee „Firefighter AR“.
+- **GodView-App (ND-GodViewWeb):** Deploy und Editionen siehe [websites/godview.md](websites/godview.md).
+
 ## Vertical-Websites
 
 | Ordner | Remote | Live-URL |

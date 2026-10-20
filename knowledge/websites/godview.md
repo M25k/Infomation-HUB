@@ -42,6 +42,17 @@ Hosting-Aussage auf der Site: Deutschland, DSGVO. Intern Linode / DLR-On-Prem **
 - TED/TEMA als GodView-App-Store
 - Headset-Multiplayer-Peak 16 als GodView-Claim
 
+## App app.godview.solutions (intern, Cursor-Chat ND-NB-20, Abgleich 20.10.2026)
+
+- **Zwei Editionen in einer App:** generisches GodView (Bau/Inspektion) und **GodView Firefighter** (eigenes Produkt mit FFVR-CI/Logo, eigenem Asset-Katalog, Registrierung mit `?edition=firefighter`). Produkte verlinkt, aber getrennt; **kein Embedding** in firefightervr.de (Chat 12.09.2026). Globus-Stil „Platte“ (stilisierte Planspielplatte aus OSM-Footprints) nur in der Firefighter-Edition; generisch: kein Globus / ohne / mit Terrain / Google Earth. Assetnamen der Firefighter-Edition nach FFVR-Playground-Objektliste.xlsx.
+- **Lage-Funktionen (Firefighter):** Führungsebene beim Anlegen (Gruppenführer, Zugführer, Verbandsführer), Fahrzeug-Labels ELW 1/ELW 2, Lagephasen (Start, Anfahrt …), Feuer-/Rauch-Effekte, Export von Lagen ins FFVR-Planspiel. Grundlage: Janis-Feedback (Asana) und `_ref/planspiel`. Offen: Cap für Lage-Partikel.
+- **Soft-Umzug auf app.godview.solutions:** beide Hosts parallel, kein Redirect; Origin aus Host/X-Forwarded-Proto, Mails über `APP_PUBLIC_URL`. Cookies host-only, Nutzer müssen sich auf dem neuen Host neu anmelden. Unreal-/VR-Exportlinks auf godview.nd-apps.de bleiben gültig. Asana-Task „Domain Umzug nach app.godview.solutions“ offen (DNS/Zertifikat serverseitig ausstehend).
+- **Deploy:** Produktion nur per `deploy.sh`; es holt `origin/master` per Fast-Forward, lokale Commits müssen vorher gepusht sein, sonst baut der Server den alten Stand. Lokal `Start-DevEnv.ps1`. GitHub-Actions-Weg ungenutzt.
+- **Super-Admin-Login mit E-Mail-Code (2FA)** seit 26.09.2026 (Migration 037).
+- **News-Seiten in der App** als Vorstufe eines Feature-Newsletters (Hinweiskarte unten).
+- **Geplant:** native/Unreal-App (zuerst Android-Tablets) mit Login und Datenabgleich zum GodView-Server; Handshake noch nicht gebaut. Seite „Einladungslink ungültig“ statt 404 gebaut, Deploy ausstehend.
+- Kölner-Dom-Zahl offen, siehe [../open-questions.md](../open-questions.md).
+
 ## Standnotiz Monitoring (GodView Monitor, 18.10.2026)
 
 - Repos in der Org Northdocks-GmbH: Landingpage `www-godview-landingpage` (Live-Stand inkl. `feuerwehr.html` noch nicht gepusht, letzter Commit 07.07.2026), App `ND-GodViewWeb` (letzter Commit 15.10.2026, live Version `2ef827e`). Ältere Repos: `ND-GodView` (2024) und `ND-CesiumTilesetViewer`.

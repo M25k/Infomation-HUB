@@ -301,3 +301,11 @@ Runde 1 (Prio 1, Clips/Reels) brachte keine echten Turntable-Kandidaten (kein St
 - _ND_Best Of (geteilt) / Projects (`1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN`): Teilrunde 2 fertig (Flughafen Leipzig/Halle, Draeger, Drager 2×, Dräger, Evonik, BASF, Infraserv, Merck; 383 Dateien, 383 Einträge). Evonik, BASF, Infraserv enthalten sicherheitsrelevante Anlagendaten (nur intern, [open-questions.md](open-questions.md) Nr. 71). Dräger-Kundenordner in vier Schreibweisen (R3-05). Nächste Teilrunde alphabetisch ab AR.
 - Shared Drive FirefighterVR / Assets: neuer Unterordner Corpus C3 (19.10.2026, FFVR-0598).
 - Projekte/Meetings: neue Ordner 21.10.2026 (Hygiene und Firefighting, Vertrieb), FFVR-0601 bis 0604 nur intern.
+
+## Ergänzung aus Cursor-Chat ND-NB-20 (Abgleich 20.10.2026, intern)
+
+- **My-Drive-Root aufgeräumt** (16.08.2026, Workspace `drive-root-cleanup`): AE-, Render- und DREIFragezeichen-Dumps liegen im Archivordner.
+- **BestOf / Projekte** (`G:\Shared drives\BestOf\Projekte`): 171 Ordner nach Asana-Projektnamen, befüllt nur „FVR“; leer u. a. Hannover, FlowAR, TUHH, Meditrain, BMA und die FVR-Module 2025/26.
+- **Cold-Archiv** 30 TB nach Cloudflare R2 geplant (rclone-Skripte, Seed 10 TB, sonntags 02:00); Umsetzungsstand offen ([open-questions.md](open-questions.md) Nr. 81).
+- **FFVR-Playground-Objektliste.xlsx** ist die Referenz für die Assetnamen in GodView Firefighter ([../websites/godview.md](../websites/godview.md)).
+

@@ -269,7 +269,7 @@ Quelle: Bericht `/workspace/cursor-chats/abgleich-2026-10-20.md` (226 Chats 13.0
 
 | Thema | Stand | Wer / Frage |
 |---|---|---|
-| **Kölner Dom: Fotozahl** | Joachim im Chat 02.10.2026: **200.000 Fotos** (100.000 Drohne, 100.000 am Boden von Hand/Roboter) und 1.000 Laserscans. HUB (claims.md, meta-dom.md, document-rules.md, godview.md): „100.000+ Fotos und 1.000 Laserscans“ | Joachim: Welche Zahl gilt öffentlich? |
+| **Kölner Dom: Fotozahl** | Joachim im Chat 02.10.2026: **200.000 Fotos**, aufgeteilt in 100.000 per Drohne und 100.000 am Boden (von Hand bzw. per Roboter), und 1.000 Laserscans. HUB (claims.md, meta-dom.md, document-rules.md, godview.md): „100.000+ Fotos und 1.000 Laserscans“ | Joachim: Welche Zahl gilt öffentlich? |
 | **BMA: SEO** | Chats Juli–07.10.2026: SEO auf bmatraining.de; Vorgabe sagte „kein SEO-Ausbau“ | **Entschieden** (Joachim, 20.10.2026, über BMA App): SEO darf weiterlaufen; übrige Vorgaben bleiben (z. B. nicht als FFVR-Modul) ([websites/bma.md](websites/bma.md)) |
 | **godview.solutions: Umschalter „Einsatz & Feuerwehr“** | Chat 13.09.2026: Links entfernt; live 20.10.2026 vorhanden | **Entschieden** (Joachim, 20.10.2026, über Web): Umschalter bleibt, beide Bereiche aktiv beworben ([websites/godview.md](websites/godview.md)) |
 | **Sicherheit: Migadu-SMTP-Passwort (GodView) rotieren** | Stand früher in `production.env.template`, dort ersetzt; Rotation offen (Chat 13.08.2026). Kein Wert im Repo | Joachim/Patrick |

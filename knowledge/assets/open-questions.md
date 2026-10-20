@@ -127,3 +127,9 @@ Quelle: Delta-Audit von Assets, 20.10.2026 (90 Objekte, rein lesend, 3 neue Fund
 | 79 | #feir 05.11.2026: Abstimmung mit Fraunhofer IAO und Material? | Öffentlich ist nur „Fraunhofer IAO ist Verbundpartner“ ([../claims.md](../claims.md), Joachim 17.10.2026; ohne Fördersumme/FKZ). Im Repo kein Eintrag zum 05.11., keine feir-Assets im Katalog (Drive-Ordner Kundenprojekte / feir `1bXteSmF-rF6h21EzToOwBfDSyDLWjbJT` noch nicht gesichtet), keine dokumentierte Abstimmung mit IAO zu Posts/Logo | offen (Joachim) |
 | 80 | Allgemeine Drittmarken-Regel für Clips und Renders: dürfen Herstellermarken (Minimax, Rosenbauer, Gloria, Empl) sichtbar sein? | Im Repo keine Partnerschaft oder Markenfreigabe. Rosenbauer und Empl kommen nur als Mitbieter/Kontakte der Ausschreibung MaBu-2026-0272 vor ([../open-questions.md](../open-questions.md), [../grants.md](../grants.md), [../research-log.md](../research-log.md)); FFVR-0539 „RosenbauerPumpenwagen“ nur intern (Herkunft unklar). Gloria nur in Nr. 49 (offen) und FFVR-0061ff. (social-video;angebot). Minimax siehe Nr. 77. Betroffen jetzt: Reel 02 v4 (FFVR-0622/0624: Rosenbauer bei 14–15 s, EMPL-Logo im Vorschaubild FFVR-0623), Reel 11 v2 (FFVR-0619: Gloria-Schriftzug in B-Roll). Vorschlag: eine Regel für alle Drittmarken (zeigen erlaubt / nur ohne Nennung / unkenntlich machen); bis dahin neue Clips mit sichtbarer Drittmarke nur intern, Nr. 49 und 77 gehen darin auf | entschieden: Joachim, 20.10.2026, 10:01 Athen: Logos auf Gegenständen, 3D-Assets und Fotos immer ok; fremde Logos als Einblendung im Video brauchen Freigabe; eigene Logos immer ok (Regel README Nr. 14, document-rules Nr. 5) |
 
+## Abgleich Cursor-Chats ND-NB-20 (20.10.2026)
+
+| # | Frage | Kontext | Status |
+|---|---|---|---|
+| 81 | Cold-Archiv auf Cloudflare R2: Wie ist der Umsetzungsstand? | Geplant laut Cursor-Chat ND-NB-20: 30 TB per rclone, Seed 10 TB, Lauf sonntags 02:00. Ob Seed und Zeitplan laufen, ist nicht belegt | offen (Joachim) |
+
