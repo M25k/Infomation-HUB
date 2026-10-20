@@ -34,8 +34,8 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Mehr als sechs Jahre virtuelle Feuerwehrausbildung als Produktlinie | öffentlich + intern | FFVR-Site. Firma seit 2009, immersive Arbeit früher (Fulldome). Nicht zu „17 Jahre FirefighterVR“ aufblasen |
 | Planspiel-Peak 16 gleichzeitige Nutzer | intern | UKSH-Mappe. Addon: UKK CeMIT 13 Plätze nur Nachreichbeleg, nicht Peak-Claim |
 | Mitglied WFVD, vfdb, DRZ, DIBT | öffentlich | firefightervr.de (DE+EN). **Kein** Deutscher Feuerwehrverband (DFV) auf der Site |
-| Echtes Strahlrohr mit Trackinghalterung | intern belegt | Joachim 18.10.2026 (Social Clip 05 „Strahlrohr im Detail“, FFVR-0033) |
-| FirefighterVR läuft standalone auf der Pico-Brille, ohne Internet und ohne PC | intern belegt | Joachim 18.10.2026 (Social Clip 02 „23 Module“, Begleittext FFVR-0038) |
+| Echtes Strahlrohr mit Trackinghalterung | öffentlich | Joachim 18.10.2026 (Social Clip 05 „Strahlrohr im Detail“, FFVR-0033); auf „öffentlich“ gehoben: Joachim, 20.10.2026 |
+| FirefighterVR läuft standalone auf der Pico-Brille, ohne Internet und ohne PC | öffentlich | Joachim 18.10.2026 (Social Clip 02 „23 Module“, Begleittext FFVR-0038); auf „öffentlich“ gehoben: Joachim, 20.10.2026 |
 | Entwickelt mit Deutschem Feuerwehrverband / „German Fire Brigade Association“ | **nicht verwenden** | Business Deck; öffentliche Mitgliedschaft ist WFVD, nicht DFV |
 | Vertrieb FirefighterVR in Österreich über Rumpold (ganz Österreich, nicht nur Kärnten); damit Abdeckung Deutschland, Italien und Österreich | intern | Patrick, Team-Discord #firefightervr, 15.10.2026. Nicht öffentlich, solange nicht freigegeben |
 | VR-Feuerlöscher-Training **ergänzt** die Erstausbildung, ersetzt sie nicht: nach DGUV Information 205-023 muss in der Erstausbildung jede Person selbst eine reale Flamme löschen (z. B. gasbetriebener Löschtrainer) | intern belegt (Grenze für alle Texte) | Cursor-Chat ND-NB-20 (4b887f2e); passt zu Silas 03.12.2025 (kein Ersatz der Brandschutzhelferausbildung, [mailakte-silas.md](mailakte-silas.md)). Nie „ersetzt die Ausbildung mit realem Feuer“ |
