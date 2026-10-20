@@ -96,3 +96,4 @@ Keine 3D-Quelldateien in Draeger, Drager, Dräger, Evonik, BASF, Infraserv und M
 - **Ablage:** Fertige 3D-Blockouts liegen im Shared Drive „Marketing Sales“ im Ordner „3D“. Renke bekommt die .blend gepackt plus FBX und GLB.
 - **Hersteller-CAD** (z. B. AWG-STEP) bleibt **intern**.
 - **Hoher VRAM-Bedarf:** Solche Modelle sind für den GodView-AI-Inspect-PC mit 2 × 96 GB VRAM vorgemerkt, siehe [../repos.md](../repos.md) (Abschnitt GPU-Rechner).
+- **Workflow CAD → Echtzeit** (STEP → LODs, UVs, Bake vom CAD-Highpoly): [../workflows/cad-zu-echtzeit.md](../workflows/cad-zu-echtzeit.md), Skripte [../workflows/cad2rt/](../workflows/cad2rt/). Ein Update mit Aufdrucken und dem Entfernen von Innenflächen folgt (Quelle: Bot 3D, 20.10.2026).

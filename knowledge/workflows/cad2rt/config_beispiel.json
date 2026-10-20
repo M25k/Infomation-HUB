@@ -1,0 +1,181 @@
+{
+ "name": "Modell",
+ "step": "<PFAD_ZUR_STEP_DATEI>.step",
+ "work": "<ARBEITSORDNER>/work",
+ "out": "<AUSGABEORDNER>",
+ "skip_regex": "Kugel|Druckfeder|O-Ring|Gewindestift|Dichtring|Lagerbuchse|Ventilteller",
+ "high": {
+  "lin": 0.02,
+  "ang": 0.12
+ },
+ "lods": [
+  {
+   "lin": 0.15,
+   "ang": 0.35,
+   "tris": 30000,
+   "tex": 2048
+  },
+  {
+   "lin": 0.3,
+   "ang": 0.6,
+   "tris": 15000,
+   "tex": 1024
+  },
+  {
+   "lin": 0.6,
+   "ang": 1.0,
+   "tris": 6000,
+   "tex": 512,
+   "drop": true
+  }
+ ],
+ "rotate_x_deg": 90,
+ "origin_part": "<TEIL_GRUNDKOERPER>",
+ "sharp_angle_deg": 30,
+ "padding_px": 16,
+ "materials": {
+  "Rot_Kunststoff": {
+   "color": [
+    0.55,
+    0.02,
+    0.02
+   ],
+   "metal": 0.0,
+   "rough": 0.45,
+   "match": [
+    "<TEIL_1>",
+    "<TEIL_2>",
+    "<TEIL_3>"
+   ]
+  },
+  "Schwarz_Kunststoff": {
+   "color": [
+    0.03,
+    0.03,
+    0.03
+   ],
+   "metal": 0.0,
+   "rough": 0.6,
+   "match": [
+    "<TEIL_4>",
+    "<TEIL_5>",
+    "<TEIL_6>",
+    "<TEIL_7>",
+    "<TEIL_8>"
+   ]
+  },
+  "Alu_Silber": {
+   "color": [
+    0.75,
+    0.75,
+    0.76
+   ],
+   "metal": 1.0,
+   "rough": 0.35,
+   "match": [
+    "<TEIL_9>",
+    "<TEIL_10>",
+    "<TEIL_11>",
+    "<TEIL_12>",
+    "<TEIL_13>",
+    "<TEIL_14>"
+   ]
+  },
+  "Zinkgelb": {
+   "color": [
+    0.8,
+    0.65,
+    0.1
+   ],
+   "metal": 1.0,
+   "rough": 0.4,
+   "match": [
+    "<TEIL_15>"
+   ]
+  },
+  "Alu_Eloxal_Schwarz": {
+   "color": [
+    0.025,
+    0.025,
+    0.028
+   ],
+   "metal": 1.0,
+   "rough": 0.32,
+   "match": []
+  }
+ },
+ "groups": [
+  {
+   "name": "<GRUPPE_16>",
+   "match": [
+    "<TEIL_17>",
+    "<TEIL_18>",
+    "<TEIL_19>",
+    "<TEIL_20>"
+   ],
+   "pivot": "origin"
+  },
+  {
+   "name": "<GRUPPE_21>",
+   "match": [
+    "<TEIL_22>",
+    "<TEIL_23>",
+    "<TEIL_24>"
+   ],
+   "pivot": "axis_between:<TEIL>"
+  },
+  {
+   "name": "<GRUPPE_25>",
+   "match": [
+    "<TEIL_26>",
+    "<TEIL_27>",
+    "<TEIL_28>"
+   ],
+   "pivot": "barrel_axis"
+  },
+  {
+   "name": "<GRUPPE_29>",
+   "match": [
+    "<TEIL_30>",
+    "<TEIL_31>"
+   ],
+   "pivot": "barrel_axis"
+  },
+  {
+   "name": "<GRUPPE_32>",
+   "match": [
+    "<TEIL_33>",
+    "<TEIL_34>",
+    "<TEIL_35>",
+    "<TEIL_36>",
+    "<TEIL_37>",
+    "<TEIL_38>",
+    "<TEIL_39>"
+   ],
+   "pivot": "barrel_axis"
+  },
+  {
+   "name": "<GRUPPE_40>",
+   "match": [
+    ""
+   ],
+   "pivot": "barrel_axis"
+  }
+ ],
+ "barrel_axis": "Y",
+ "hard_angle_deg": 75,
+ "chart_cone_deg": 65,
+ "min_chart_faces": 25,
+ "lod_drop": [
+  "<KLEINTEIL_1>",
+  "<KLEINTEIL_2>"
+ ],
+ "budget_boost": {
+  "<TEIL_A>": 2.5,
+  "<TEIL_B>": 1.5
+ },
+ "offset_mm": {
+  "<AUFLIEGENDES_TEIL>": -0.15
+ },
+ "bake_samples": 16
+}
