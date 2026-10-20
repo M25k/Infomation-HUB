@@ -87,3 +87,12 @@ Keine 3D-Quelldateien in Draeger, Drager, Dräger, Evonik, BASF, Infraserv und M
 ## Bot 3D: Turbo-Spritze EVO 235 Storz C (nur intern)
 
 **Nur intern** (AWG-Herstellerdaten). 3D hat aus der AWG-STEP-Datei der Turbo-Spritze EVO 235 Storz C ein erstes Echtzeit-Modell gebaut. Joachim (20.10.2026, 18:19, Chat mit One): weitermachen, Kupplung silbern ok. Fokus: saubere Teiletrennung und Benennung, UVs, Baking CAD → LODs, Workflow dokumentieren. Kein Katalog-Eintrag mit Außenkanal.
+
+## 3D-Standards (Bot 3D, Joachim 20.10.2026)
+
+- **Image-to-3D-Standard:** Hunyuan3D-2. Den EU-Ausschluss in der Lizenz hat Joachim bewusst ignoriert (Entscheidung Joachim, 20.10.2026).
+- **Ausweichmodell:** TRELLIS ohne nvdiffrast und ohne Gaussian-Bausteine (kommerziell sauber).
+- **Vorschauen:** SF3D (Stability Community License).
+- **Ablage:** Fertige 3D-Blockouts liegen im Shared Drive „Marketing Sales“ im Ordner „3D“. Renke bekommt die .blend gepackt plus FBX und GLB.
+- **Hersteller-CAD** (z. B. AWG-STEP) bleibt **intern**.
+- **Hoher VRAM-Bedarf:** Solche Modelle sind für den GodView-AI-Inspect-PC mit 2 × 96 GB VRAM vorgemerkt, siehe [../repos.md](../repos.md) (Abschnitt GPU-Rechner).
