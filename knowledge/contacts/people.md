@@ -632,6 +632,39 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
   - 19.10.2026 · E-Mail · Mail vom 15.10. erneut an Silas geschickt (laut One, Abstimmung 19.10.2026)
   - 15.10.2026 · E-Mail · Interesse an FirefighterVR, nicht mehr 2026
 
+## Jörg Häusler
+
+- **Organisation:** [Bergwacht Bayern](organizations.md#bergwacht-bayern)
+- **Rolle:** Referent Einsatz
+- **Kontaktweg:** E-Mail (Gmail Joachim)
+- **Themen:** Luftretter-MR-Training, FirefighterVR
+- **Bezug:** Kennengelernt bei den TEMA-Trials; [Asana Projektentwicklung, Task 1212752431387969](https://app.asana.com/0/0/1212752431387969)
+- **Freigabe:** Freigabe fehlt
+- **Historie:**
+  - 20.10.2026 · E-Mail · Antwort von Joachim an Jörg Häusler, CC Florian Lotter und Louis Krätzschmar (BW-ZSA): FirefighterVR vorgestellt; Umsetzungsvorschlag Luftretter-MR-Training (Heli-Modell am Kran mit echter Seilwinde, Nahbereich real, Umgebung in VR, z. B. Felswand oder Bohrinsel); Anbindung an Kran und Winde müsste erst entwickelt werden (kein Claim); VIKO vorgeschlagen
+
+## Florian Lotter
+
+- **Organisation:** [Bergwacht Bayern](organizations.md#bergwacht-bayern)
+- **Rolle:** BW-ZSA (Bergwacht-Zentrum für Sicherheit und Ausbildung), Bad Tölz; in CC
+- **Kontaktweg:** E-Mail (Gmail Joachim)
+- **Themen:** Luftretter-MR-Training, FirefighterVR
+- **Bezug:** Kennengelernt bei den TEMA-Trials; [Asana Projektentwicklung, Task 1212752431387969](https://app.asana.com/0/0/1212752431387969)
+- **Freigabe:** Freigabe fehlt
+- **Historie:**
+  - 20.10.2026 · E-Mail · Antwort von Joachim an Jörg Häusler, CC Florian Lotter und Louis Krätzschmar (BW-ZSA): FirefighterVR vorgestellt; Umsetzungsvorschlag Luftretter-MR-Training (Heli-Modell am Kran mit echter Seilwinde, Nahbereich real, Umgebung in VR, z. B. Felswand oder Bohrinsel); Anbindung an Kran und Winde müsste erst entwickelt werden (kein Claim); VIKO vorgeschlagen
+
+## Louis Krätzschmar
+
+- **Organisation:** [Bergwacht Bayern](organizations.md#bergwacht-bayern)
+- **Rolle:** BW-ZSA (Bergwacht-Zentrum für Sicherheit und Ausbildung), Bad Tölz; in CC
+- **Kontaktweg:** E-Mail (Gmail Joachim)
+- **Themen:** Luftretter-MR-Training, FirefighterVR
+- **Bezug:** Kennengelernt bei den TEMA-Trials; [Asana Projektentwicklung, Task 1212752431387969](https://app.asana.com/0/0/1212752431387969)
+- **Freigabe:** Freigabe fehlt
+- **Historie:**
+  - 20.10.2026 · E-Mail · Antwort von Joachim an Jörg Häusler, CC Florian Lotter und Louis Krätzschmar (BW-ZSA): FirefighterVR vorgestellt; Umsetzungsvorschlag Luftretter-MR-Training (Heli-Modell am Kran mit echter Seilwinde, Nahbereich real, Umgebung in VR, z. B. Felswand oder Bohrinsel); Anbindung an Kran und Winde müsste erst entwickelt werden (kein Claim); VIKO vorgeschlagen
+
 ## Weitere aus grants.md
 
 Nur Name, Organisation, Quelle. Freigabe jeweils: Freigabe fehlt.

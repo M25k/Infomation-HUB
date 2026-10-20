@@ -271,7 +271,7 @@ Quelle: Bericht `/workspace/cursor-chats/abgleich-2026-10-20.md` (226 Chats 13.0
 |---|---|---|
 | **Kölner Dom: Fotozahl** | Joachim im Chat 02.10.2026: **200.000 Fotos** (100.000 Drohne, 100.000 am Boden von Hand/Roboter) und 1.000 Laserscans. HUB (claims.md, meta-dom.md, document-rules.md, godview.md): „100.000+ Fotos und 1.000 Laserscans“ | Joachim: Welche Zahl gilt öffentlich? |
 | **BMA: SEO** | Chats Juli–07.10.2026: SEO-Daten, „Traffic steigt“, OG/canonical/hreflang/Schema auf bmatraining.de. [websites/bma.md](websites/bma.md): „keine Vermarktung, kein SEO-Ausbau“ | Joachim: Gilt die Vorgabe noch? |
-| **godview.solutions: Umschalter „Einsatz & Feuerwehr“** | Chat 13.09.2026: Feuerwehr-Links aus der Bau-Navigation entfernt, feuerwehr.html nur über Sitemap. Live 20.10.2026: Umschalter vorhanden (Web hat ihn am 18.10. mit Joachims Freigabe eingebaut) | Joachim: Bleibt der Umschalter? (Web fragt ebenfalls) |
+| **godview.solutions: Umschalter „Einsatz & Feuerwehr“** | Chat 13.09.2026: Links entfernt; live 20.10.2026 vorhanden | **Entschieden** (Joachim, 20.10.2026, über Web): Umschalter bleibt, beide Bereiche aktiv beworben ([websites/godview.md](websites/godview.md)) |
 | **Sicherheit: Migadu-SMTP-Passwort (GodView) rotieren** | Stand früher in `production.env.template`, dort ersetzt; Rotation offen (Chat 13.08.2026). Kein Wert im Repo | Joachim/Patrick |
 | **Sicherheit: FloriaX-Share-Token rotieren** | FloriaX-Monitor: Share-Link ohne Login (Security-Eval im Chat). Kein Wert im Repo | Joachim/Patrick |
 | **SPF northdocks.com** | Laut Chat fehlte SPF (DNS bei Linode), DKIM pass. Siehe [company.md](company.md) IT | Patrick: SPF gesetzt? |

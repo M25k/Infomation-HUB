@@ -13,7 +13,7 @@ Rolle: Browser-Digital-Twin. **Eine Plattform, zwei Kundentypen.** Die Live-Land
 
 ## Ist-Struktur
 
-`index.html` (Hero Baustelle/Inspektion, Features, FAQ, Preise), `feuerwehr.html` (Lagebild/Einsatz, Link zu firefightervr.de/trainings/planspiel/), `news.html`, `roadmap.html`, Impressum, Datenschutz. Umschalter **Bau & Inspektion** / **Einsatz & Feuerwehr** in der Navigation. Sprachumschalter auf derselben URL — **keine** eigene `/en/`-Site (im Gegensatz zu firefightervr.de/en/).
+`index.html` (Hero Baustelle/Inspektion, Features, FAQ, Preise), `feuerwehr.html` (Lagebild/Einsatz, Link zu firefightervr.de/trainings/planspiel/), `news.html`, `roadmap.html`, Impressum, Datenschutz. Umschalter **Bau & Inspektion** / **Einsatz & Feuerwehr** in der Navigation. **Entschieden (Joachim, 20.10.2026, über Web):** Der Umschalter ist freigegeben; „Einsatz & Feuerwehr“ bleibt in der Navigation von index, news und roadmap (Link auf feuerwehr.html), beide Bereiche (Bau sowie Einsatz & Feuerwehr) werden auf godview.solutions aktiv beworben. Die Chat-Entscheidung vom 13.09.2026 (Feuerwehr-Links aus der Bau-Navigation entfernt) gilt nicht mehr. Sprachumschalter auf derselben URL — **keine** eigene `/en/`-Site (im Gegensatz zu firefightervr.de/en/).
 
 Kontakt live: **kontakt@northdocks.com**, Telefon **+49 (0) 2173 9996715**, Mo.–Fr. 9:00–13:00. `godview@…` nicht verwenden.
 
