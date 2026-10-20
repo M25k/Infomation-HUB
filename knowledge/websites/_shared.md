@@ -75,6 +75,7 @@ Sachlich, produktbezogen. Keine Superlative ohne Beleg („Pioniere“, „radik
 - Clips liegen in Marketing Sales / Social Clips.
 - Keine Aufnahme von Bundespräsident Steinmeier mit VR-Brille verwenden.
 - Sprachausgabe (TTS) in Clips nur mit einer lizenzierten Stimme, die keiner bekannten Person ähnelt. Lizenznachweis zur Stimme bei den Clips ablegen (aktuell VO_STIMME_LIZENZ.txt, ND-0596: Piper de_DE-eva_k-x_low). Die Piper-Stimme „thorsten“ nicht mehr verwenden (Team-Feedback: klingt wie eine bekannte Person). Keine Weiß-Blitze an Schnitten. Quelle: Video / Team-Feedback 19.10.2026.
+- Drittmarken ([document-rules.md](../document-rules.md) Nr. 5): Herstellerlogos auf Gegenständen, in 3D-Szenen und 3D-Assets sowie auf Fotos sind immer in Ordnung (z. B. Minimax am Feuerlöscher im Spiel, Gloria, Rosenbauer/Empl auf Fahrzeugen oder Geräten im Bild). Fremde Logos, die als Einblendung, Overlay, Bauchbinde oder Endcard in ein Video eingebaut werden, brauchen eine Freigabe. Northdocks-eigene Logos sind immer in Ordnung (Joachim, 20.10.2026, 10:01 Athen: „logos on objects, 3D assets and in photos are always fine, but logos that are integrated into the video except from ours need permission“).
 
 ### Reel-Bibliothek (fester Ablauf seit 19.10.2026)
 

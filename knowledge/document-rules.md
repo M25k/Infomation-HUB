@@ -30,6 +30,7 @@ Vertical-Mails (`info@handaufsherz-vr.de`, `info@northdocks.de`, `godview@…`) 
 2. **Marke vs. GmbH.** MeditrainVR, SpearheadVR usw. sind Marken. Vertragspartnerin ist immer die GmbH.
 3. **Forschung vs. Produkt.** TEMA, feir, Spot-KI, FlowAR sind Forschungs-/Förderprojekte. Sie belegen Kompetenz, sind aber nicht automatisch Liefergegenstand.
 4. **GodView vs. Headset.** GodView = Browser-Twin mit zwei Kundentypen (Bauinspektion vs. Einsatz/Playground). Headset-Training = Unreal/OpenXR. Nie als dieselbe Anwendung beschreiben.
+5. **Logo im Bild vs. Logo im Video.** Herstellerlogos auf Gegenständen, in 3D-Szenen und 3D-Assets sowie auf Fotos sind immer in Ordnung (z. B. Minimax am Feuerlöscher im Spiel, Gloria, Rosenbauer/Empl auf Fahrzeugen oder Geräten im Bild). Fremde Logos, die als Einblendung, Overlay, Bauchbinde oder Endcard in ein Video eingebaut werden, brauchen eine Freigabe. Northdocks-eigene Logos sind immer in Ordnung (Joachim, 20.10.2026, 10:01 Athen: „logos on objects, 3D assets and in photos are always fine, but logos that are integrated into the video except from ours need permission“).
 
 ## Evidenzstufen (in Texten verwenden)
 
