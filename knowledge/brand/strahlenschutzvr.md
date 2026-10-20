@@ -16,6 +16,8 @@ Joachim über One, 20.10.2026, 16:26: „We need to bring Strahlenschutz closer 
 | Layout | Helle Blauflächen in den Abstufungen, Klinik-/OP-Fotos mit VR-Headset, Headline groß in ExtraBold, Buttons rund oder mit abgerundeten Ecken, Social-Media-Grafikvariante mit Bildmarke, Footer „POWERED BY NORTHDOCKS“ |
 | Nicht im Manual | Schutzzone, Mindestgröße, Don'ts, Bewegtbild |
 
+Einordnung (Zielbild, Joachim über One, 20.10.2026, 16:27): StrahlenschutzVR wird eines der Trainings innerhalb von MeditrainVR; Bezeichnung in Logo/Titel „Strahlenschutz – ein MeditrainVR-Training“ (document-rules Nr. 8).
+
 Lücke: Ein eigenes StrahlenschutzVR-Logo im MeditrainVR-Aufbau existiert nicht (nur Slides-Folie STR-0001 im alten Stil). Name im deutschen Material (StrahlenschutzVR oder Radiation Protection VR) weiter offen.
 
 ## Quellen (Drive)

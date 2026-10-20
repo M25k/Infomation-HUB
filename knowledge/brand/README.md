@@ -77,6 +77,13 @@ Die wichtigsten Dateien je Marke im Katalog:
 | Storywalx | Manual 12/2023 SW-0002, 11/2023 SW-0001, Logos quer SW-0018/0022/0020, hoch SW-0017/0019/0021, Animationen SW-0023/0024 |
 | GodView | GodView.jpg GV-0002 (App-Kachel, kein Markenlogo), Handbuch GV-0003 |
 
+## Markenarchitektur
+
+- **FirefighterVR:** Trainingsplattform mit vielen Modulen (Ist-Stand, 23 Module laut claims.md).
+- **MeditrainVR (Zielbild, Joachim über One, 20.10.2026, 16:27):** soll wie FirefighterVR zur Trainingsplattform mit vielen Modulen werden.
+- **StrahlenschutzVR:** wird eines der Trainings innerhalb von MeditrainVR; Gestaltung nach MeditrainVR-CI (Joachim 20.10.2026, 16:26, [strahlenschutzvr.md](strahlenschutzvr.md)). Bezeichnung in Logo/Titel: „Strahlenschutz – ein MeditrainVR-Training“.
+- Darstellung nach außen nur als Ziel ([../document-rules.md](../document-rules.md) Nr. 8, [../claims.md](../claims.md) Stufe Zielbild).
+
 ## Schreibweise
 
 **Entschieden:** **FirefighterVR** wird immer zusammen geschrieben, nie „Firefighter VR“. Im Voiceover wird „Firefighter VR“ gesprochen (Joachim, 19.10.2026; [../document-rules.md](../document-rules.md)).

@@ -1,6 +1,6 @@
 # Claims und Evidenz
 
-Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüchlich | nicht verwenden.
+Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüchlich | nicht verwenden | Zielbild (Richtung, als Ziel formulieren, nie als umgesetzt).
 
 ## Firma
 
@@ -45,6 +45,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 
 | Claim | Stufe | Quelle |
 |---|---|---|
+| MeditrainVR wird wie FirefighterVR zur Trainingsplattform mit vielen Modulen; StrahlenschutzVR gehört künftig als ein Training zu MeditrainVR | **Zielbild** | Joachim über One, 20.10.2026, 16:27. Nur als Ziel/Entwicklung formulieren („wird“, „künftig“), nicht „bietet bereits X Module“; keine Modulzahl |
 | AMBOSS-Award 2026 Excellence in Nursing, CeMIT UKK, Meditrain-Lieferung | öffentlich | News |
 | Die Uniklinik Köln (AG Lehre der Viszeralchirurgie des CeMIT Cologne) erhielt für ihr Trainingsprogramm den AMBOSS-Award 2026 „Excellence in Nursing“; Northdocks lieferte mit MeditrainVR die immersive **Multiplayer-Simulation** dafür. Preisträger ist CeMIT/Uniklinik (mit Lindenburg Akademie), **nicht** Northdocks | öffentlich | northdocks.com/news.html (Juli 2026): „Die AG Lehre der Viszeralchirurgie des CeMIT Cologne (Uniklinik Köln) gewinnt den AMBOSS-Award 2026. Northdocks lieferte mit Meditrain VR die immersive Multiplayer-Simulation …“; amboss.com/de/news/amboss-awards-2026 (nennt Northdocks/Meditrain nicht). News-Überschrift „Northdocks … ausgezeichnet“ irreführend, so nicht verwenden. Geprüft für Reel 10 (Wissen, 19.10.2026) |
 | Schockraum-Volumen FA **328.403 € netto Paid** (acht Rechnungen 2022–24); KI 40 k€ zugesagt, noch nicht in FA | intern | FreeAgent 30.08.2026. UKSH-Mappe „ca. 380 k€“ ist Alttext. 357.000 € brutto nicht verwenden. KI = **ein Topf** 40.000 € aus UKK-Mitteln (Datta) ab 01.01. für Voice/Lisa, unabhängig von AMBOSS. Kein zweites 40 k€ |
