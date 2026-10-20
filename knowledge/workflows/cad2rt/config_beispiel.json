@@ -177,5 +177,35 @@
  "offset_mm": {
   "<AUFLIEGENDES_TEIL>": -0.15
  },
- "bake_samples": 16
+ "bake_samples": 16,
+ "version": "v3",
+ "cull_hidden": {
+  "rays": 64,
+  "min_visible": 0.03
+ },
+ "texel_boost": {
+  "<AUFDRUCKTRAEGER_ZYLINDER>": 2.0,
+  "<AUFDRUCKTRAEGER_GEHAEUSE>": 1.6
+ },
+ "decals_script": "<SKRIPTORDNER>/make_decals.py",
+ "decals_dir": "<AUSGABEORDNER>/decals",
+ "decals": [
+  {
+   "match": "<AUFDRUCKTRAEGER_ZYLINDER>",
+   "type": "cyl",
+   "image": "<AUSGABEORDNER>/decals/D_Skalenring.png",
+   "rough": 0.5
+  },
+  {
+   "match": "<AUFDRUCKTRAEGER_GEHAEUSE>",
+   "type": "planar_x",
+   "side": 0,
+   "image": "<AUSGABEORDNER>/decals/D_Gehaeuse_Seite.png",
+   "y0": -0.045,
+   "y1": 0.005,
+   "z0": 0.064,
+   "z1": 0.082,
+   "rough": 0.5
+  }
+ ]
 }

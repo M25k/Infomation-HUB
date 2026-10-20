@@ -1,14 +1,14 @@
 # Workflow: CAD (STEP) → Echtzeit-Asset (VR/Unreal/GLB)
 
-Quelle: Bot 3D, 20.10.2026. **Update folgt:** Aufdrucke und Entfernen von Innenflächen.
+Quelle: Bot 3D, 20.10.2026. **v3 (20.10.2026): Aufdrucke und das Entfernen von Innenflächen enthalten.**
 
-Stand 20.10.2026 · Northdocks 3D · erstmals angewendet auf ein internes Hersteller-CAD-Modell (Strahlrohr; Herstellerdaten nur intern).
+Stand 20.10.2026 (v3) · Northdocks 3D · angewendet auf ein internes Hersteller-CAD-Modell (Strahlrohr; Herstellerdaten nur intern), v2 und v3.
 Alles läuft headless auf der Box, ohne GPU und nur mit lizenzfreien Tools:
 - **OpenCascade 7.x** über `cadquery-ocp` (OCCT: LGPL-2.1 mit Ausnahme, Bindings: Apache-2.0)
 - **Blender 5.2 LTS** (GPL, nur als Werkzeug, die Assets fallen nicht unter GPL)
 - **numpy, Pillow**
 
-Skripte: [cad2rt/](cad2rt/) (im Repo nur Skripte und eine generische Beispiel-Config, keine CAD-Daten, Meshes, Texturen oder Bakes)
+Skripte: [cad2rt/](cad2rt/) (im Repo nur Skripte und eine generische Beispiel-Config, keine CAD-Daten, Meshes, Texturen, Aufdruck-PNGs oder Bakes)
 
 | Datei | Zweck |
 |---|---|
@@ -18,7 +18,8 @@ Skripte: [cad2rt/](cad2rt/) (im Repo nur Skripte und eine generische Beispiel-Co
 | `shots.py` | Review-Renders: Gesamt, Detail, Wireframe je LOD; gleiche Kameras für Vorher/Nachher über `cams.json` |
 | `uvshot.py` | UV-Layout über BaseColor als PNG (ohne GPU) |
 | `run_all.sh CONFIG.json` | Komplette Pipeline |
-| `config_beispiel.json` | generische Beispiel-Konfiguration (Platzhalter statt Teilenamen und Pfaden) |
+| `make_decals.py` | Aufdruck-Texturen (RGBA) per PIL erzeugen – Vorlage für Skalen/Labels/Logos (Logo als Platzhalter, Text über `CAD2RT_LOGO_TEXT`) |
+| `config_beispiel.json` | generische Beispiel-Konfiguration inkl. v3-Parametern (Culling, Texel-Boost, Aufdrucke); Platzhalter statt Teilenamen und Pfaden |
 
 ## Setup (einmalig)
 ```bash
@@ -48,17 +49,25 @@ export CAD2RT_PY=<VENV>/bin/python
 | Lowpoly-Basis | eigenes, grobes OCCT-Tessellat je LOD: Rundungen bekommen eine feste Segmentzahl (ang 0.35 ≈ 18, 0.6 ≈ 11, 1.0 ≈ 6 Segmente/Kreis) | `lods[i].lin/ang` |
 | Bereinigung | Verschweißen (2 µm), Planar-Dissolve 0,5° | – |
 | Nicht-manifold CAD | Teile mit >0,5 % Kanten an >2 Flächen bekommen Voxel-Remesh | `voxel_mm` (Default max(0,35; 1,5·lin)) |
+| Verdeckte Flächen (v3) | Vor dem Decimate: Raycast je Fläche (Mittelpunkt + 1 Eckpunkt, 64 Fibonacci-Richtungen, Hemisphäre) gegen BVH aller Lowpoly-Teile in Einbaulage; Fläche bleibt, wenn ≥ `min_visible` (3 %) der Strahlen frei entkommen. Budget fließt dadurch in sichtbare Flächen. | `cull_hidden.rays`, `cull_hidden.min_visible`, `cull_hidden.extra_pts` |
 | Decimate | Collapse je Teil, Budget = 0,6·Flächenanteil + 0,4·Tri-Anteil, Rotationsteile ×1,5, Boost pro Teil möglich | `round_budget_boost`, `budget_boost` |
 | Normalen | harte Kante bei >`hard_angle_deg` (75°), danach Weighted Normals (Face Area, Keep Sharp) | |
 | Charts / Seams | Region-Growing: Normalen-Kegel `chart_cone_deg` (65°), Stopp an harten Kanten. Rotationsteile: Mantel als ein Streifen, Schnitt auf der verdeckten Seite (`hidden_dir`), Stirnflächen getrennt. Mini-Charts (<`min_chart_faces`) werden zusammengelegt. Seams = Chart-Grenzen. | |
 | Unwrap | Angle Based, an den Seams | |
+| Texel-Boost (v3) | Inseln bestimmter Teile im Packer vergrößert (z. B. Skalenring ×2, Gehäuse ×1,6) für lesbare Aufdrucke | `texel_boost` |
 | Packing | eigener Packer: einheitliche Texeldichte (UV-Fläche ∝ 3D-Fläche), PCA-Rotation, Shelf-Packing, Padding garantiert | `padding_px` 16 |
 | Bake Normal | Selected-to-Active, explodiert pro Bauteil (0,4 m Versatz), daher kein Fremdtreffer zwischen Teilen. Cage-Extrusion = 2·lin + 0,5 mm, Ray = 3× Extrusion | `bake_samples` 16 |
 | Bake AO | Detail-AO (explodiert, Highpoly) × Kontakt-AO (Lowpoly in Lage), gemischt 0,35 + 0,65 | |
-| BaseColor / Rough / Metal | Emission-Bake der Materialwerte | |
+| BaseColor / Rough / Metal | Emission-Bake der Materialwerte auf Lowpoly **in Einbaulage** (Weltkoordinaten für Projektion) | |
+| Aufdrucke (v3) | `decals`: pro Teil eine RGBA-Textur, projiziert im Shader über Weltposition: `cyl` = Abwicklung um Rohrachse (u = Winkel ab +Z, v = axial über Teil-BBox, REPEAT), `planar_x` = Seitenprojektion entlang ±X (side 0 = beide Seiten, lesbar), Maske über Normale. Wirkt in BaseColor (Bildfarbe), Roughness (`rough`) und Metallic (0) | `decals[].match/type/image/y0/y1/z0/z1/side/u_sign/u_offset/v_flip/rough` |
 | Ausgabe | `T_<Name>_LOD<i>_{BaseColor, Normal (OpenGL), Normal_DirectX, ORM, AO}.png` · ORM: R = AO, G = Roughness, B = Metallic | |
 | Teile | Join pro Gruppe, Origin auf Pivot, Name `SM_<Name>_<Gruppe>_LOD<i>`, Collection `LOD<i>`, ein Material `M_<Name>_LOD<i>` pro LOD | |
 | Export | FBX pro LOD (Meter, −Z forward / Y up, Tangenten, Texturen eingebettet), GLB pro LOD | |
+
+## Neue Schritte v3 (Kurz)
+1. **Verdeckte Flächen entfernen**: `cull_hidden` in der Config setzen. Log prüfen: `Verdeckte Flächen entfernt X von Y`. Danach visuell prüfen (Mündung/Kupplung von vorn ansehen – sichtbare Bohrungsanfänge müssen bleiben; sonst `min_visible` senken).
+2. **Aufdrucke**: Texte/Logo in `make_decals.py` (oder eigene PNGs mit Alpha) erstellen; Position in Weltmetern nach `rotate_x_deg`/Pivot-Transformation angeben (Hilfe: Teil-BBoxen aus Log/Blend). Zylindrische Skalen: Winkel 0 = Oberseite (+Z), Zahl über die Bildnaht hinweg doppelt zeichnen (u-Wrap). Testrender `detail_print_*`-Kameras in `cams.json`.
+3. **Texel-Boost** für Aufdruckträger setzen; Lesbarkeit in LOD0 prüfen (Ziel ≥ 4 px pro mm Schrifthöhe… Faustregel: Schrifthöhe 5 mm ≥ 15 px).
 
 ## Unreal-Hinweise
 - Für Unreal `Normal_DirectX` verwenden, oder beim OpenGL-Map in UE „Flip Green Channel“ setzen.
@@ -88,4 +97,7 @@ export CAD2RT_PY=<VENV>/bin/python
 | Zackige Kanten im Bake | 1 Sample, kein AA | `bake_samples` ≥ 16 |
 | Zackenmuster / Flimmern an aufliegenden Teilen | Z-Fighting koplanarer Bauteile (z. B. Skalenring auf Hülse) | `offset_mm` für das untere Teil (z. B. −0,15 mm) |
 | Zerknitterte Fläche nach Decimate | Budget für ein Teil zu klein | `budget_boost` für das Teil |
+| Aufdruck abgeschnitten an Bildkante | Text liegt über u = 0/1 | Text zusätzlich bei x ± Bildbreite zeichnen |
+| Aufdruck an Fasen verzerrt | Projektion trifft schräge Flächen | Normalen-Maske (`planar_x` hat |n.x| > 0,6), Fläche verkleinern |
+| Sichtbare Löcher nach Culling | `min_visible` zu hoch / zu wenige Strahlen | `min_visible` 0,01–0,02, `rays` 96 |
 | Blender `uv.export_layout` schlägt headless fehl | braucht GPU-Kontext | `uvshot.py` (PIL) |

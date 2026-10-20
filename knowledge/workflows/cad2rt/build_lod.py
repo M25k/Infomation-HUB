@@ -39,6 +39,12 @@ for k in keys:
     for o in (H[k],Lo[k]): o.data.materials.clear(); o.data.materials.append(SRC[matcat(k)])
 for o in H.values():
     for p in o.data.polygons: p.use_smooth=True
+DEC={}  # Materialname -> (Kategorie, Decal-Config, Teil)
+for di,dc in enumerate(cfg.get("decals",[])):
+    for k in keys:
+        if dc["match"] in k:
+            cat=matcat(k); M=SRC[cat].copy(); M.name=f"SRC_{cat}_DEC{di}"; DEC[M.name]=(cat,dc,k)
+            Lo[k].data.materials.clear(); Lo[k].data.materials.append(M)
 # ---- Lowpoly: Merge, Seams aus CAD-Kanten, Planar-Dissolve, Decimate mit Schutz
 def tris(o): return sum(len(p.vertices)-2 for p in o.data.polygons)
 def grp(k):
@@ -63,6 +69,35 @@ def prep(k):
     for f in bm.faces: f.smooth=True
     bm.to_mesh(o.data); bm.free()
 for k in keys: prep(k)
+CULL=cfg.get("cull_hidden")
+if CULL:
+    from mathutils.bvhtree import BVHTree
+    allbm=bmesh.new()
+    for k in keys: allbm.from_mesh(Lo[k].data)
+    bvh=BVHTree.FromBMesh(allbm); allbm.free()
+    nd=CULL.get("rays",64); ga=math.pi*(3-math.sqrt(5))
+    DIRS=[Vector((math.cos(ga*i)*math.sqrt(1-(1-2*(i+.5)/nd)**2),math.sin(ga*i)*math.sqrt(1-(1-2*(i+.5)/nd)**2),1-2*(i+.5)/nd)) for i in range(nd)]
+    thr=CULL.get("min_visible",0.03); removed=0; before=0
+    for k in keys:
+        o=Lo[k]; bm=bmesh.new(); bm.from_mesh(o.data); bm.faces.ensure_lookup_table(); dead=[]
+        for f in bm.faces:
+            c=f.calc_center_median(); n=f.normal; tot=esc=0
+            # Mittelpunkt + Eckpunkte (leicht nach innen) testen: sichtbar, wenn irgendein Punkt genug freie Strahlen hat
+            pts=[c]+[v.co.lerp(c,0.3) for v in list(f.verts)[:CULL.get('extra_pts',1)]]
+            vis=False
+            for p in pts:
+                p=p+n*2e-5; tot=esc=0; need=max(1,int(thr*nd/2))
+                for d in DIRS:
+                    if d.dot(n)<=0.02: continue
+                    tot+=1
+                    if bvh.ray_cast(p,d,1.0)[0] is None:
+                        esc+=1
+                        if esc>=need: break
+                if esc>=need: vis=True; break
+            if not vis: dead.append(f)
+        before+=len(bm.faces); removed+=len(dead)
+        bmesh.ops.delete(bm,geom=dead,context='FACES'); bmesh.ops.delete(bm,geom=[v for v in bm.verts if not v.link_faces],context='VERTS'); bm.to_mesh(o.data); bm.free()
+    log("Verdeckte Flächen entfernt",removed,"von",before)
 pre=sum(tris(Lo[k]) for k in keys); log("nach dissolve",pre)
 A={k:sum(f.area for f in Lo[k].data.polygons) for k in keys}; At=sum(A.values()); Tt=pre
 target=L["tris"]; r=target/pre
@@ -139,6 +174,8 @@ def seams(k):
     bm.to_mesh(o.data); bm.free()
 for k in keys:
     o=Lo[k]; bpy.context.view_layer.objects.active=o; bpy.ops.object.modifier_apply(modifier="d")
+for k in keys:
+    o=Lo[k]; bpy.context.view_layer.objects.active=o
     seams(k)
     wn=o.modifiers.new("wn",'WEIGHTED_NORMAL'); wn.keep_sharp=True; wn.mode='FACE_AREA'; bpy.ops.object.modifier_apply(modifier="wn")
 for k in keys:
@@ -162,6 +199,9 @@ def pack_uniform(objs,pad_uv):
     bms=[]
     for o in objs:
         bm=bmesh.new(); bm.from_mesh(o.data); uvl=bm.loops.layers.uv.active; bms.append((o,bm))
+        boost=1.0
+        for s_,f_ in cfg.get("texel_boost",{}).items():
+            if s_ in o.name: boost=f_
         seen=set()
         for f in bm.faces:
             if f.index in seen: continue
@@ -172,9 +212,9 @@ def pack_uniform(objs,pad_uv):
                     if e.seam: continue
                     for h in e.link_faces:
                         if h.index not in seen: seen.add(h.index); st.append(h)
-            isl.append((uvl,fs))
+            isl.append((uvl,fs,boost))
     rects=[]
-    for uvl,fs in isl:
+    for uvl,fs,boost in isl:
         loops=[l for f in fs for l in f.loops]
         P=np.array([l[uvl].uv[:] for l in loops]); a3=sum(f.calc_area() for f in fs)
         ua=0.0
@@ -189,7 +229,7 @@ def pack_uniform(objs,pad_uv):
         c=P.mean(0); Q=P-c
         if len(Q)>2:
             w,v=np.linalg.eigh(np.cov(Q.T)); Q=Q@v
-        Q=Q-Q.min(0); wh=Q.max(0)
+        Q=(Q-Q.min(0))*boost; wh=Q.max(0)
         if wh[1]>wh[0]: Q=Q[:,::-1]; wh=wh[::-1]
         rects.append([loops,Q,wh,uvl])
     def place(k):
@@ -245,12 +285,60 @@ def bake(kind,img,obj,s2a,**kw):
     bpy.ops.object.bake(type=kind,**kw); pxv=np.array(img.pixels[:]).reshape(-1,4); log("bake",kind,img.name,pxv.mean(0).round(3),"uvs",[u.name for u in obj.data.uv_layers])
 def save(img):
     img.filepath_raw=f"{OUT}/textures/{img.name}.png"; img.file_format='PNG'; img.save()
-def emit_mode(fn):
-    for k,M in SRC.items():
+def decal_nodes(M,dc,k):
+    """Aufdruck per Projektion (Weltkoordinaten): 'cyl' = Abwicklung um Rohrachse, 'planar_x' = Seitenansicht ±X."""
+    nt=M.node_tree; N=nt.nodes; Lk=nt.links
+    if "DMIX" in N: return N["DMIX"]
+    geo=N.new("ShaderNodeNewGeometry"); sp=N.new("ShaderNodeSeparateXYZ"); Lk.new(geo.outputs["Position"],sp.inputs[0])
+    def m(op,a,b=None,val=None):
+        n=N.new("ShaderNodeMath"); n.operation=op
+        for i,x in enumerate((a,b)):
+            if x is None: continue
+            if isinstance(x,(int,float)): n.inputs[i].default_value=x
+            else: Lk.new(x,n.inputs[i])
+        return n.outputs[0]
+    me=Lo[k].data; ys=[v.co.y for v in me.vertices]
+    y0=dc.get("y0",min(ys)); y1=dc.get("y1",max(ys))
+    if dc["type"]=="cyl":
+        dx=m('SUBTRACT',sp.outputs[0],axis0.x); dz=m('SUBTRACT',sp.outputs[2],axis0.z)
+        ang=m('ARCTAN2',dx,dz); u=m('MULTIPLY',ang,dc.get("u_sign",1)/(2*math.pi)); u=m('ADD',u,dc.get("u_offset",0.0))
+        v=m('DIVIDE',m('SUBTRACT',sp.outputs[1],y0),y1-y0)
+        if dc.get("v_flip"): v=m('SUBTRACT',1.0,v)
+        mask=None
+    else:
+        sd=dc.get("side",0); z0,z1=dc["z0"],dc["z1"]   # side: +1/-1 = nur diese Seite, 0 = beide (lesbar gespiegelt)
+        sn=N.new("ShaderNodeSeparateXYZ"); Lk.new(geo.outputs["Normal"],sn.inputs[0])
+        u=m('DIVIDE',m('SUBTRACT',sp.outputs[1],y0),y1-y0)
+        sg=m('SIGN',sn.outputs[0]) if sd==0 else sd
+        u=m('ADD',m('MULTIPLY',m('SUBTRACT',u,0.5),sg),0.5)
+        v=m('DIVIDE',m('SUBTRACT',sp.outputs[2],z0),z1-z0)
+        mask=m('GREATER_THAN',m('ABSOLUTE',sn.outputs[0]),0.6) if sd==0 else m('GREATER_THAN',m('MULTIPLY',sn.outputs[0],sd),0.6)
+    cb=N.new("ShaderNodeCombineXYZ"); Lk.new(u,cb.inputs[0]); Lk.new(v,cb.inputs[1])
+    tx=N.new("ShaderNodeTexImage"); tx.name="DTEX"; tx.image=bpy.data.images.load(dc["image"]); tx.extension='REPEAT' if dc["type"]=="cyl" else 'CLIP'
+    tx.interpolation='Cubic'; Lk.new(cb.outputs[0],tx.inputs[0])
+    fac=tx.outputs["Alpha"]
+    if mask is not None: fac=m('MULTIPLY',fac,mask)
+    mix=N.new("ShaderNodeMix"); mix.data_type='RGBA'; mix.name="DMIX"; Lk.new(fac,mix.inputs["Factor"])
+    return mix
+def emit_mode(fn,kind="color"):
+    mats=[(k,M) for k,M in SRC.items()]+[(c,bpy.data.materials[n]) for n,(c,dc,k) in DEC.items()]
+    for k,M in mats:
         nt=M.node_tree; e=nt.nodes.get("EM") or nt.nodes.new("ShaderNodeEmission"); e.name="EM"
-        e.inputs[0].default_value=fn(cfg["materials"][k]); nt.links.new(e.outputs[0],nt.nodes["Material Output"].inputs[0])
+        val=fn(cfg["materials"][k])
+        if M.name in DEC:
+            c_,dc,pk=DEC[M.name]; mix=decal_nodes(M,dc,pk)
+            mix.inputs[6].default_value=val
+            for l in list(mix.inputs[7].links): nt.links.remove(l)
+            if kind=="color": nt.links.new(nt.nodes["DTEX"].outputs["Color"],mix.inputs[7])
+            elif kind=="rough": mix.inputs[7].default_value=(dc.get("rough",0.5),)*3+(1,)
+            else: mix.inputs[7].default_value=(0,0,0,1)
+            nt.links.new(mix.outputs[2],e.inputs[0])
+        else:
+            for l in list(e.inputs[0].links): nt.links.remove(l)
+            e.inputs[0].default_value=val
+        nt.links.new(e.outputs[0],nt.nodes["Material Output"].inputs[0])
 def bsdf_mode():
-    for k,M in SRC.items():
+    for k,M in list(SRC.items())+[(c,bpy.data.materials[n]) for n,(c,dc,_k) in DEC.items()]:
         v=cfg["materials"][k]; nt=M.node_tree; b=nt.nodes["Principled BSDF"]
         b.inputs["Base Color"].default_value=(*v["color"],1); b.inputs["Metallic"].default_value=v["metal"]; b.inputs["Roughness"].default_value=v["rough"]
         nt.links.new(b.outputs[0],nt.nodes["Material Output"].inputs[0])
@@ -258,15 +346,16 @@ bsdf_mode()
 sc.cycles.samples=cfg.get("bake_samples",16)
 IM={}
 IM["Normal"]=newimg("Normal"); bake('NORMAL',IM["Normal"],BL,True); save(IM["Normal"])
-emit_mode(lambda v:(*v["color"],1)); IM["BaseColor"]=newimg("BaseColor",'sRGB'); bake('EMIT',IM["BaseColor"],BL,False); save(IM["BaseColor"])
-emit_mode(lambda v:(v["rough"],)*3+(1,)); IR=newimg("R"); bake('EMIT',IR,BL,False)
-emit_mode(lambda v:(v["metal"],)*3+(1,)); IMt=newimg("M"); bake('EMIT',IMt,BL,False)
+BL2=dupjoin(lows,"BAKE_LOW_INPLACE",0.0)  # Weltlage nötig für Aufdruck-Projektion
+emit_mode(lambda v:(*v["color"],1),"color"); IM["BaseColor"]=newimg("BaseColor",'sRGB'); bake('EMIT',IM["BaseColor"],BL2,False); save(IM["BaseColor"])
+emit_mode(lambda v:(v["rough"],)*3+(1,),"rough"); IR=newimg("R"); bake('EMIT',IR,BL2,False)
+emit_mode(lambda v:(v["metal"],)*3+(1,),"metal"); IMt=newimg("M"); bake('EMIT',IMt,BL2,False)
 bsdf_mode()
 sc.cycles.samples=48
 sc.world=bpy.data.worlds.new("w"); sc.world.light_settings.distance=0.02
 IA1=newimg("AO_detail"); bake('AO',IA1,BL,True)
 # AO zwischen Teilen: Lows an Originalposition
-BL2=dupjoin(lows,"BAKE_LOW_INPLACE",0.0); IA2=newimg("AO_contact"); bake('AO',IA2,BL2,False)
+IA2=newimg("AO_contact"); bake('AO',IA2,BL2,False)
 px=lambda im: np.array(im.pixels[:],dtype=np.float32).reshape(TEX,TEX,4)
 ao=px(IA1)[...,0]*(0.35+0.65*px(IA2)[...,0])
 IAO=newimg("AO"); a=np.ones((TEX,TEX,4),np.float32); a[...,:3]=ao[...,None]; IAO.pixels[:]=a.ravel(); save(IAO)
@@ -309,7 +398,7 @@ for g in cfg["groups"]:
     info.append({"name":o.name,"tris":tris(o),"pivot_m":[round(x,4) for x in p],"achse":ax,"teile":[re.sub(r"^NAUO\d+\|","",k) for k in ks]})
 for o in list(sc.objects):
     if o.name.startswith("L_"): bpy.data.objects.remove(o)
-for M in list(SRC.values()): bpy.data.materials.remove(M)
+for M in list(SRC.values())+[bpy.data.materials[n] for n in DEC]: bpy.data.materials.remove(M)
 bpy.data.materials.remove(BM)
 json.dump({"lod":LI,"tex":TEX,"tris":sum(i["tris"] for i in info),"objekte":info},open(f"{W}/LOD{LI}_info.json","w"),indent=1,ensure_ascii=False)
 log("LOD",LI,"tris",sum(i["tris"] for i in info))

@@ -9,4 +9,4 @@ for i in range(len(cfg["lods"])):
         sc.collection.children.link(c)
         if i>0: bpy.context.view_layer.layer_collection.children[c.name].hide_viewport=True
 bpy.ops.file.pack_all()
-bpy.ops.wm.save_as_mainfile(filepath=f"{OUT}/{cfg['name']}_v2.blend",compress=True)
+bpy.ops.wm.save_as_mainfile(filepath=f"{OUT}/{cfg['name']}_{cfg.get('version','v2')}.blend",compress=True)
