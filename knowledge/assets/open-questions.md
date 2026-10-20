@@ -115,8 +115,8 @@ Quelle: Delta-Audit von Assets, 20.10.2026 (90 Objekte, rein lesend, 3 neue Fund
 | Nr. | Frage | Kontext | Status |
 |---|---|---|---|
 | 74 | Linkfreigabe der Folien Zukunftswerkstatt (`12a65Yza2XK7styRElC4rIiUstWODpM4x`, Shared Drive flowAR) entfernen? | Für jeden mit dem Link **bearbeitbar**; die Partner haben schon über den Ordner Zugriff. Vorschlag: Linkfreigabe entfernen oder auf Betrachter. Stufe hoch | offen (Entscheidung Joachim, Umsetzung Patrick über One) |
-| 75 | Linkfreigabe der TEMA-Teilnehmerliste (`1Gcqq8lU_b_WAPQhPRekE_RsF6yz4upPg`, Shared Drive TEMA) entfernen? | Personenbezogene Daten, für jeden mit dem Link lesbar (nicht geöffnet). Konsortiumszugriff bleibt über das Shared Drive. Stufe hoch | offen (Entscheidung Joachim, Umsetzung Patrick über One) |
-| 76 | flowAR Exchange (`1AENBTQTpTHsQLfyQw4lfMLsTxTnwQekl`): 20 externe Bearbeiter bestätigen? | Im Vollaudit nicht erfasst, daher neu erfasst, nicht unbedingt neu geteilt; vererbt auf die neuen Workshopfotos. Private Konten prüfen, wo möglich auf Betrachter setzen. Stufe hoch | offen (Entscheidung Joachim, Umsetzung Patrick über One) |
+| 75 | Linkfreigabe der TEMA-Teilnehmerliste (`1Gcqq8lU_b_WAPQhPRekE_RsF6yz4upPg`, Shared Drive TEMA) entfernen? | Personenbezogene Daten, für jeden mit dem Link lesbar (nicht geöffnet). Konsortiumszugriff bleibt über das Shared Drive. Stufe hoch | offen. Stand 20.10.2026: Joachim hat um 09:38 Athen Alexandros Zamioudis (AUTH) gebeten, die Linkfreigabe einzuschränken; um 09:40 noch offen. Audit-Funde in Patricks Asana-Ticket [1219651100826570](https://app.asana.com/0/0/1219651100826570) |
+| 76 | flowAR Exchange (`1AENBTQTpTHsQLfyQw4lfMLsTxTnwQekl`): 20 externe Bearbeiter bestätigen? | Im Vollaudit nicht erfasst, daher neu erfasst, nicht unbedingt neu geteilt; vererbt auf die neuen Workshopfotos. Private Konten prüfen, wo möglich auf Betrachter setzen. Stufe hoch | offen, Antwort ausstehend (Stand 20.10.2026). Audit-Funde in Patricks Asana-Ticket [1219651100826570](https://app.asana.com/0/0/1219651100826570) |
 
 ## Anfrage Video 20.10.2026 (Reels 11/12, Promos 2021)
 

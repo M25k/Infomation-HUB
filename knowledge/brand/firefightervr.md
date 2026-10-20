@@ -1,6 +1,20 @@
 # FirefighterVR – Brand
 
-Stand: 19.10.2026. Vollständigkeit: **kein Styleguide gefunden**. Logo-Dateien vorhanden (Vektor), Farben und Schriften nur **abgeleitet, nicht belegt** (aus Logo-SVG, Rollup 2022 und CI 2020 der Dachmarke).
+Stand: 20.10.2026 (vorläufige CI, siehe unten). Vollständigkeit: **kein Styleguide gefunden**. Logo-Dateien vorhanden (Vektor), Farben und Schriften nur **abgeleitet, nicht belegt** (aus Logo-SVG, Rollup 2022 und CI 2020 der Dachmarke).
+
+## Vorläufige CI (Joachim, 20.10.2026, über One)
+
+**Status: vorläufig**, bis das Asana-Ticket „FirefighterVR-CI einmal durchdefinieren“ ([1219679346562920](https://app.asana.com/0/0/1219679346562920)) abgeschlossen ist. Joachim: Videos Vorschlag passt vorerst.
+
+| Rolle | Wert |
+|---|---|
+| Verlauf | #ED7F00 → #E1001A |
+| Akzent | #E63310 |
+| Dunkelgrau | #3D3D3F |
+| Schrift | Teko Bold (Titel), dazu Open Sans |
+| Intro | neues Intro geplant (noch keins vorhanden) |
+
+Die Werte unten unter „Farben“ und „Schriften“ waren abgeleitet; sie gelten bis zum Ticketabschluss als vorläufig bestätigt.
 
 ## Schreibweise (Entscheidung Joachim, 19.10.2026)
 
@@ -77,7 +91,7 @@ Schutzzone, Mindestgröße, Don'ts: **nicht dokumentiert**.
 ## Offen
 
 - Gibt es einen FirefighterVR-Styleguide außerhalb des Drives (Agentur)?
-- Gilt Teko/Open Sans (Rollup 2022) als Hausschrift?
+- Gilt Teko/Open Sans (Rollup 2022) als Hausschrift? Vorläufig ja (Joachim, 20.10.2026), endgültig mit Ticket 1219679346562920.
 - Herkunft der Farben #009FE3/#E74510 im black-background-SVG.
 - `Verticals-Logos.zip` (ND-0169) geprüft: enthält kein FirefighterVR-Material.
 - Kein Logo-Intro vorhanden. Ein Intro im Stil der Northdocks-Intros müsste neu gebaut werden.
