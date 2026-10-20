@@ -1,4 +1,4 @@
-# StrahlenschutzVR / Radiation Protection VR – Brand
+# StrahlenschutzVR / RadiationProtectionVR – Brand
 
 Stand: 20.10.2026. **Gestaltung nach MeditrainVR-CI (Entscheidung Joachim 20.10.2026, siehe unten).** Eigener Styleguide: keiner. Logo nur als Google-Slides-Folie, Farben und Schriften **abgeleitet, nicht belegt**.
 
@@ -18,7 +18,12 @@ Joachim über One, 20.10.2026, 16:26: „We need to bring Strahlenschutz closer 
 
 Einordnung (Zielbild, Joachim über One, 20.10.2026, 16:27): StrahlenschutzVR wird eines der Trainings innerhalb von MeditrainVR; Bezeichnung in Logo/Titel „Strahlenschutz – ein MeditrainVR-Training“ (document-rules Nr. 8).
 
-Lücke: Ein eigenes StrahlenschutzVR-Logo im MeditrainVR-Aufbau existiert nicht (nur Slides-Folie STR-0001 im alten Stil). Name im deutschen Material (StrahlenschutzVR oder Radiation Protection VR) weiter offen.
+Lücke: Ein eigenes StrahlenschutzVR-Logo im MeditrainVR-Aufbau existiert nicht (nur Slides-Folie STR-0001 im alten Stil). Name entschieden (siehe Schreibweise).
+
+## Schreibweise und Logo-Regel (Joachim über One, 20.10.2026, 16:35)
+
+- Deutsch **StrahlenschutzVR**, Englisch **RadiationProtectionVR**, beide zusammengeschrieben wie FirefighterVR. „Radiation Protection VR“ (mit Leerzeichen) ist **veraltet**; historische Dokumenttitel und Dateinamen (z. B. STR-0001, STR-0002, Drive-Ordner) bleiben unverändert.
+- **Kein Strahlenwarnzeichen (Trefoil) im StrahlenschutzVR-Logo.** Joachim entwirft die Logo-Ideen selbst.
 
 ## Quellen (Drive)
 
@@ -63,6 +68,6 @@ Abgleich mit der CI-Liste von Assets (19.10.2026): auch dort keine CI-Dateien f�
 
 ## Offen
 
-- Name im deutschen Video: StrahlenschutzVR oder Radiation Protection VR?
+- ~~Name im deutschen Video~~: entschieden 20.10.2026, StrahlenschutzVR (DE) / RadiationProtectionVR (EN).
 - ~~Schrift~~ und ~~Farbe~~: entschieden 20.10.2026, MeditrainVR-CI (Nunito Sans, #63B1E5).
 - Echtes Logofile (SVG) fehlt. Gehört die Marke unter die MeditrainVR-Submarken-CI?

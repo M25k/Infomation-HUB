@@ -49,7 +49,7 @@ Die Hintergrundfarben der Animationen entsprechen den Styleguide-Primärfarben (
 
 ## Keine Intros gefunden für
 
-FirefighterVR, StrahlenschutzVR / Radiation Protection VR, GodView, BMA Trainer, Meta-dom. Für FirefighterVR gibt es nur den Splash-Screen `FFVRSplash.png` ([1yokbwtpV21PitUf5f-IM5vYSfDwgG8z0](https://drive.google.com/open?id=1yokbwtpV21PitUf5f-IM5vYSfDwgG8z0) (FFVR-0248), 600x200, Logo weiß/rot #E1001A auf #505050, Asset-Library / Logos & Splash Screens).
+FirefighterVR, StrahlenschutzVR / RadiationProtectionVR, GodView, BMA Trainer, Meta-dom. Für FirefighterVR gibt es nur den Splash-Screen `FFVRSplash.png` ([1yokbwtpV21PitUf5f-IM5vYSfDwgG8z0](https://drive.google.com/open?id=1yokbwtpV21PitUf5f-IM5vYSfDwgG8z0) (FFVR-0248), 600x200, Logo weiß/rot #E1001A auf #505050, Asset-Library / Logos & Splash Screens).
 
 ## Hinweise für den Einsatz in Reels (9:16)
 

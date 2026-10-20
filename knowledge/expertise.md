@@ -28,7 +28,7 @@ Nur Fähigkeiten, die durch Produkt, Repo oder dokumentierte Referenz gedeckt si
 
 - Brandphysik / Löschangriff, Flashover, Waldbrand (FirefighterVR-Module).
 - Physiologische Patientensimulation (Meditrain, Schockraum).
-- Strahlenschutz mit Echtzeit-Dosimetrie (Radiation Protection VR, Evaluation UKK, ECR-Award laut Deck). Öffentliches Repo `ND-Strahlensimulation` = Unreal **4.27** (`NDRaySimulation`, Plugin `RaySimulation`) — Kompetenzbeleg für Dosimetrie, nicht der aktuelle 5.7-Produktionsstand.
+- Strahlenschutz mit Echtzeit-Dosimetrie (RadiationProtectionVR, Evaluation UKK, ECR-Award laut Deck). Öffentliches Repo `ND-Strahlensimulation` = Unreal **4.27** (`NDRaySimulation`, Plugin `RaySimulation`) — Kompetenzbeleg für Dosimetrie, nicht der aktuelle 5.7-Produktionsstand.
 - Industrie-Verfahrensfolgen und Konsequenztraining (Actemium Infinity).
 - Sprachausgabe intern über **ElevenVoice** (TTS) in den meisten XR-Produkten. Ausnahmen: diverse Fulldome-Shows und VR-Stadttouren (Storywalx). `NDVRActemium.uproject` hat das Plugin enabled; Dateien fehlen im Git-Checkout — Nutzung trotzdem intern Standard. Nicht als öffentliches Website-Feature.
 - Katastrophenlage 3D-Daten / Mapping (TEMA, Ahrtal). Tecnosylva-Waldbrand-Sims intern als GeoTIFF (Arrival Time) + KMZ-Isochronen an die TEMA-Plattform; KPI Immersion erst in den 2026-Trials statistisch belegen, nicht als abgeschlossene Validierung zitieren.

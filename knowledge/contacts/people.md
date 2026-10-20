@@ -273,10 +273,10 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 ## Hugo de las Heras Gala
 
 - **Organisation:** [Bundesamt für Strahlenschutz (BfS)](organizations.md#bundesamt-für-strahlenschutz-bfs) (bis 26.06.2025 im Projekt)
-- **Rolle:** Fachlicher Ansprechpartner Strahlenschutz VR (Physik)
+- **Rolle:** Fachlicher Ansprechpartner StrahlenschutzVR (Physik)
 - **Kontaktweg:** E-Mail (Silas, Mailakte Asana)
 - **Themen:** Kostenlose App, Kongresse, XR2LEARN, gemeinsamer Artikel, Vermittlung internationaler Kontakte (KCOR, Pistoia, Bambino Gesù, Mater Misericordiae Dublin, UCD, Brest, Uni Hannover IRS)
-- **Bezug:** [projects.md](../projects.md) (Radiation Protection VR); [meditrain.md](../meditrain.md); Fujiwara/BfS-Artikel ([open-questions.md](../open-questions.md)); [Asana](https://app.asana.com/0/0/1217847528017752), [Asana](https://app.asana.com/0/0/1208870789468398)
+- **Bezug:** [projects.md](../projects.md) (RadiationProtectionVR); [meditrain.md](../meditrain.md); Fujiwara/BfS-Artikel ([open-questions.md](../open-questions.md)); [Asana](https://app.asana.com/0/0/1217847528017752), [Asana](https://app.asana.com/0/0/1208870789468398)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
   - 02.02.2026 · E-Mail · Sagt ECR 2026 ab, bietet weitere Hilfe an ([Asana](https://app.asana.com/0/0/1217847528017752))
@@ -441,7 +441,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Organisation:** [PICO (ByteDance) / PICO Interactive Europe](organizations.md#pico-bytedance--pico-interactive-europe)
 - **Rolle:** Offen
 - **Kontaktweg:** Online-Meeting (Silas, Patrick)
-- **Themen:** Strahlenschutz VR auf Pico, Test-Headset, ISV-Programm, Hardware-Roadmap
+- **Themen:** StrahlenschutzVR auf Pico, Test-Headset, ISV-Programm, Hardware-Roadmap
 - **Bezug:** Offene Folgeaufgaben ([open-questions.md](../open-questions.md))
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -516,7 +516,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Organisation:** [Uni Hannover, IRS](organizations.md#uni-hannover-irs)
 - **Rolle:** Leiter Strahlenschutzkurse
 - **Kontaktweg:** E-Mail (Silas, Mailakte Asana)
-- **Themen:** Train-the-Trainer Mailand, Strahlenschutz VR in Kursen
+- **Themen:** Train-the-Trainer Mailand, StrahlenschutzVR in Kursen
 - **Bezug:** Kundentabelle (Flugkosten-Rechnungen)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -577,7 +577,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Organisation:** [University College Dublin](organizations.md#university-college-dublin-radiography)
 - **Rolle:** Offen
 - **Kontaktweg:** E-Mail (Silas, Mailakte Asana)
-- **Themen:** ECR 2026, Strahlenschutz VR
+- **Themen:** ECR 2026, StrahlenschutzVR
 - **Bezug:** Offen
 - **Freigabe:** Freigabe fehlt
 - **Historie:**

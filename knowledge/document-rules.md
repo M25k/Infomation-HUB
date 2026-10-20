@@ -4,7 +4,7 @@
 
 - Deutsch für deutsche/EU-Vergaben, Englisch nur wenn die Unterlagen englisch sind.
 - Sachlich, nachvollziehbar, keine Marketing-Superative ohne Beleg.
-- Markennamen nicht übersetzen: FirefighterVR, MeditrainVR, Next Factory VR, SpearheadVR, Storywalx, Meta-dom, GodView. Schreibweise **FirefighterVR** zusammen, nie „Firefighter VR“ (Joachim, 19.10.2026); historische Dokumenttitel bleiben, wie sie sind.
+- Markennamen nicht übersetzen: FirefighterVR, MeditrainVR, Next Factory VR, SpearheadVR, Storywalx, Meta-dom, GodView. Schreibweise **FirefighterVR** zusammen, nie „Firefighter VR“ (Joachim, 19.10.2026); historische Dokumenttitel bleiben, wie sie sind. Strahlenschutz: deutsch **StrahlenschutzVR**, englisch **RadiationProtectionVR**, beide zusammen wie FirefighterVR; „Radiation Protection VR“ bzw. „Strahlenschutz VR“ mit Leerzeichen ist veraltet, historische Dokumenttitel bleiben unverändert (Joachim über One, 20.10.2026, 16:35).
 - **Typografie (verbindlich):** Nach Doppelpunkt **Großschreibung** des folgenden Worts (Ausnahme Eigennamen, URLs, Code). **Keine Gedankenstriche** (`—`, `–` als Einschub); stattdessen Komma, Punkt, Klammer oder neuer Satz. Details: [.cursor/rules/german-prose.mdc](../.cursor/rules/german-prose.mdc).
 
 ## Was immer gleich bleibt

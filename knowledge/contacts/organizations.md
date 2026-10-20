@@ -303,7 +303,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** Łódź, PL
 - **Typ:** Staatliches Zentrum (gegründet vom Gesundheitsministerium, landesweit zuständig für medizinische Exposition), Kunde
 - **Ansprechpartner:** Dariusz Kluszczyński (Direktor), Szczepan Stefanowicz, Lucjan Pfajfer, Tomasz Gąsiorowski, Anna Błaszczyk
-- **Themen:** Radiation Protection VR Mobile, PJOMED-Konferenz, Ausschreibung mit CE-Nachweis
+- **Themen:** RadiationProtectionVR Mobile, PJOMED-Konferenz, Ausschreibung mit CE-Nachweis
 - **Bezug:** Kontakt über BfS ([Hugo de las Heras Gala](people.md#hugo-de-las-heras-gala)); [Asana](https://app.asana.com/0/0/1209442155213969)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -317,10 +317,10 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 ## Bundesamt für Strahlenschutz (BfS)
 
 - **Ort/Land:** DE
-- **Typ:** Bundesbehörde, Auftraggeber und Partner Strahlenschutz VR
+- **Typ:** Bundesbehörde, Auftraggeber und Partner StrahlenschutzVR
 - **Ansprechpartner:** [Hugo de las Heras Gala](people.md#hugo-de-las-heras-gala) (bis 26.06.2025 im Projekt), Eugen Sperling (Nachfolge), Augusto Giussani, Sebastian Trinkl, Dr. Stella Winter, Judith Mantei (Presse)
-- **Themen:** Strahlenschutz VR (kostenlose PC-Version, Förderhinweis BMUV 3621S42350), Vermittlung von Kliniken, Hochschulen und Herstellern, Kongressauftritte (ECR, RÖKO, APT, ECMP, EUTERP)
-- **Bezug:** [projects.md](../projects.md) (Radiation Protection VR, 3621S42350, ca. 204 k€ intern); [meditrain.md](../meditrain.md); [mailakte-silas.md](../mailakte-silas.md); Fujiwara/BfS-Artikel in [open-questions.md](../open-questions.md); [Asana](https://app.asana.com/0/0/1217847528017752)
+- **Themen:** StrahlenschutzVR (kostenlose PC-Version, Förderhinweis BMUV 3621S42350), Vermittlung von Kliniken, Hochschulen und Herstellern, Kongressauftritte (ECR, RÖKO, APT, ECMP, EUTERP)
+- **Bezug:** [projects.md](../projects.md) (RadiationProtectionVR, 3621S42350, ca. 204 k€ intern); [meditrain.md](../meditrain.md); [mailakte-silas.md](../mailakte-silas.md); Fujiwara/BfS-Artikel in [open-questions.md](../open-questions.md); [Asana](https://app.asana.com/0/0/1217847528017752)
 - **Freigabe:** Freigabe fehlt (BfS als Partner laut [websites/meditrainvr.md](../websites/meditrainvr.md) öffentlich sagbar)
 - **Historie:**
   - 04.08.2026 · E-Mail · Giussani leitet technische Anfrage an die allgemeinen Northdocks-Kontaktdaten weiter ([Asana](https://app.asana.com/0/0/1217847528017752))
@@ -517,7 +517,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** Wien, AT (Central Office)
 - **Typ:** Fachgesellschaft / Kongressveranstalter
 - **Ansprechpartner:** Daniel Vojnich (Central Office), Birgit Slijepčević; [Prof. Dr. Peter Reimer](people.md#prof-dr-peter-reimer) (Chair Radiation Protection Subcommittee)
-- **Themen:** Radiation Protection Pavilion, IROS Salzburg, Strahlenschutz VR
+- **Themen:** Radiation Protection Pavilion, IROS Salzburg, StrahlenschutzVR
 - **Bezug:** [meditrain.md](../meditrain.md); [Asana](https://app.asana.com/0/0/1206905601810676)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -531,7 +531,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** Dublin, IE
 - **Typ:** Klinik, Forschungspartner (Antragsidee)
 - **Ansprechpartner:** Paddy Gilligan, Luke Oonan, Colin Cantwell
-- **Themen:** XR2LEARN, Evaluationsstudie Strahlenschutz VR, TACE-Szenario
+- **Themen:** XR2LEARN, Evaluationsstudie StrahlenschutzVR, TACE-Szenario
 - **Bezug:** [grants.md](../grants.md) (Pipeline); Vermittlung durch [Hugo de las Heras Gala](people.md#hugo-de-las-heras-gala) (BfS); [Asana](https://app.asana.com/0/0/1208870789468398)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -544,7 +544,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** Barcelona, ES (PICO Interactive Europe)
 - **Typ:** Headset-Hersteller (ByteDance), Hardware- und Technologiepartner (Business/MDM, ISV)
 - **Ansprechpartner:** [Runjie Liu](people.md#runjie-liu) (Technical Project Manager Training/Education); [Rob Pereira](people.md#rob-pereira); Victor, Jesús Atorrasagasti (Developer Support)
-- **Themen:** Business Device Manager, MDM-Beta, lokalisierte App-Namen, UE-SDK, Strahlenschutz VR auf Pico 4 Ultra Enterprise, Hardware-Roadmap und Speicherausstattung, Test-Headset, SME-ISV-Anmeldung, Virtual Worlds Association
+- **Themen:** Business Device Manager, MDM-Beta, lokalisierte App-Namen, UE-SDK, StrahlenschutzVR auf Pico 4 Ultra Enterprise, Hardware-Roadmap und Speicherausstattung, Test-Headset, SME-ISV-Anmeldung, Virtual Worlds Association
 - **Bezug:** Pico-Bezug über Schenker Technologies ([projects.md](../projects.md), Abschnitt B); TikTok/Bytedance als Kunde ist eine getrennte Beziehung ([projects.md](../projects.md), Zeile TikTok); offene Folgeaufgaben in [open-questions.md](../open-questions.md); [Asana](https://app.asana.com/0/0/1219372283303862), [Asana](https://app.asana.com/0/0/1219577426903160)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -602,7 +602,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** Odense, DK
 - **Typ:** Unternehmen (VR- und PC-Training für Radiographen), möglicher Vertriebspartner
 - **Ansprechpartner:** [Rune Jensen](people.md#rune-jensen) (CEO), Christian Bollerup
-- **Themen:** Zusammenarbeit Strahlenschutz VR, Marktzugang Deutschland, Revenue Share
+- **Themen:** Zusammenarbeit StrahlenschutzVR, Marktzugang Deutschland, Revenue Share
 - **Bezug:** Vertrag nicht belegt ([open-questions.md](../open-questions.md))
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -633,7 +633,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Typ:** Klinik (Radiologie, Medizinphysik)
 - **Ansprechpartner:** [Prof. Dr. Peter Reimer](people.md#prof-dr-peter-reimer), Peter Starck (Medizinphysik); vermittelt: Reinhard Witte, Uwe Schmid (Siemens), Michael Heider (Philips)
 - **Themen:** 3D-Streustrahlenvisualisierung in Angiographie und Herzkatheterlabor, CIRSE Radiation Protection Pavillon, ECR EuroSafe und Cube
-- **Bezug:** [meditrain.md](../meditrain.md) (Strahlenschutz VR)
+- **Bezug:** [meditrain.md](../meditrain.md) (StrahlenschutzVR)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
   - 23.02.2026 · E-Mail · Cube 2026 voll, Teilnahme 2027 wird geprüft; Online-Zuschaltung unerwünscht ([Asana](https://app.asana.com/0/0/1219577380282090))
@@ -647,7 +647,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** Hannover, DE
 - **Typ:** Universität (Strahlenschutzkurse)
 - **Ansprechpartner:** [Dr. Jan-Willem Vahlbruch](people.md#dr-jan-willem-vahlbruch) (Leiter Strahlenschutzkurse), Tobias Weissenborn
-- **Themen:** Strahlenschutz VR in Kursen, Train-the-Trainer Mailand, englische Version ohne Launcher
+- **Themen:** StrahlenschutzVR in Kursen, Train-the-Trainer Mailand, englische Version ohne Launcher
 - **Bezug:** Kundentabelle (Rechnungen Flugkosten); vermittelt über [BfS](organizations.md#bundesamt-für-strahlenschutz-bfs)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -703,7 +703,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** Berlin, DE
 - **Typ:** Universitätsklinik
 - **Ansprechpartner:** [PD Dr. Maximilian de Bucourt](people.md#pd-dr-maximilian-de-bucourt)
-- **Themen:** ECR Cube, Strahlenschutz VR, gemeinsamer ECR-Auftritt mit UCD und University College Cork
+- **Themen:** ECR Cube, StrahlenschutzVR, gemeinsamer ECR-Auftritt mit UCD und University College Cork
 - **Bezug:** [claims.md](../claims.md) (Präsenz ECR 2024)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -716,7 +716,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** Dublin, IE
 - **Typ:** Universität
 - **Ansprechpartner:** [Prof. Louise Rainford](people.md#prof-louise-rainford), Michelle O'Connor; Dr. Andrew England (University College Cork)
-- **Themen:** Strahlenschutz VR, ECR 2026
+- **Themen:** StrahlenschutzVR, ECR 2026
 - **Bezug:** Vorstellung durch [BfS](organizations.md#bundesamt-für-strahlenschutz-bfs)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**

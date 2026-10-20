@@ -17,7 +17,7 @@ Lösungssatz: Standalone-VR, Local-Only, interprofessionell, Physiologie statt S
 |---|---|---|---|
 | **Schockraum VR** (interner Projektname bleibt; außen **ERVR** / **Emergency Room VR**) | UKK, PD Dr. Rabi Raj Datta; cABCDE; Multiplayer; Physiologie; Debriefing; Sprach-NPCs | Referenzprojekt, FA **328.403 €** Paid + KI 40 k€ zugesagt (noch nicht in FA, Rechnung ab 01.01.2027); AMBOSS 2026; Voice „Hey Lisa“ Kickoff 01.07. Zielhardware **PICO Space Pro** (vormals Project Swan), Mobile-Ports laufen. Emergency **Response** nicht. | Innenangriff / Team / Debriefing |
 | **Station VR** | UKK; Ursprungsszenario **Instabiler Patient auf Normalstation**. Produkt: 9 randomisierte Notfälle, Zwei-Spieler Arzt & Pflege. Frontiers 2026 DOI 10.3389/frvir.2026.1737515 = **Delphi-Lernziele**, Hardware Paper **PCVR Pimax**, nicht Pico-Koffer-Wirksamkeit. Rechnung MS III `20230731-01` | Produktseite live | Szenarien-Katalog |
-| **Strahlenschutz VR** | BfS, evaluiert UKK und UKSH; **Präsenz ECR 2024** (Wien). Award nur Deck. Site https://strahlenschutzvr.de/ | Am nächsten an FFVR-Produkt: Miete ab 499 €/Woche, Kauf ab 3.499 €; § 63 StrlSchV / ALARA | Koffer + Pflichtunterweisung |
+| **StrahlenschutzVR** | BfS, evaluiert UKK und UKSH; **Präsenz ECR 2024** (Wien). Award nur Deck. Site https://strahlenschutzvr.de/ | Am nächsten an FFVR-Produkt: Miete ab 499 €/Woche, Kauf ab 3.499 €; § 63 StrlSchV / ALARA | Koffer + Pflichtunterweisung |
 | **CPR VR** | Björn-Steiger-Stiftung; Puppe, Drucktiefe/Frequenz, Röntgenblick | Auch FirefighterVR-Paket CPR. Schulableger **Hand aufs Herz** (handaufsherz-vr.de): Pilot OHG Monheim öffentlich nennbar; bis Aug. 2026 vier Kurse, Feedback intern nach 31.08. Stiftung-Gespräch intern offen. Offline, keine Schülerdaten. Vertical-Mail nicht als Firmenstandard | Identische Haptik-Linie |
 | **Koni / OP (Coming Soon)** | Konisation (LLETZ), nicht Koniotomie. Soft-Tissue-Cutting auf Edge-Devices; h_da (Trapp) / UKW (Kiesel). **KMU-innovativ VR-Koni-Edge abgelehnt 10.07.2026.** RC1 11/2025, Mesh Cutting offen. [koni.md](koni.md) | Forschung, nicht Katalog | Neues Fachmodul |
 | **Flashlight / UKSH** | Interreg, acht Lagen, Rettung, Eye-Tracking | Los 2 eingereicht 24.08.; Bieterinfo v3 Frist **28.09.2026**; LV v2 ändert Los 3, nicht Los 2 | Planspiel + Medizin-Lagen |
@@ -36,7 +36,7 @@ Erste Hilfe Actemium (Pitch 2023) ist Industrie-Erste-Hilfe, näher an Next Fact
 | Dr. Jana Adams | Fachpartnerin Station VR, Frontiers-Paper 2026. Nicht als Startup-Gründerin führen |
 | Niels-Benjamin Adams | UKK, CC auf Meditrain-Terminen ab 21.07.2026 — intern, nicht als Website-Zeuge |
 | AMBOSS SE | LiSA / AMBOSS AI Mode. Kontakt Lina Glaser (Product); Hackathon Juni 2026; LoI intern offen. **Nicht** behaupten, Meditrain liefere AMBOSS-Wissen als fertiges Produkt |
-| BfS | Strahlenschutz VR |
+| BfS | StrahlenschutzVR |
 | UKSH | Strahlenschutz-Historie, Flashlight 2026 |
 | Björn-Steiger-Stiftung | CPR |
 | Medizin-Studierende UKK | Pulse Engine (Asana Status UKK-VR) |

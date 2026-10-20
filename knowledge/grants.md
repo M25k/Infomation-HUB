@@ -22,7 +22,7 @@ Quelle vor allem Asana-Projekt [Anträge & Ausschreibungen](https://app.asana.co
 | 2018 | ChemTech Innovation Night | Currenta, Gewinnerpitch |
 | 2016 | HR Excellence Awards Best Use of Technology | Currenta |
 
-Deck ergänzt: Radiation Protection VR am European Congress of Radiology — **Präsenz ECR 2024** belegt; „Auszeichnung“ nur Deck, ohne Urkunde nicht als Award.
+Deck ergänzt: RadiationProtectionVR am European Congress of Radiology — **Präsenz ECR 2024** belegt; „Auszeichnung“ nur Deck, ohne Urkunde nicht als Award.
 
 ## Zuschläge (Asana-Section)
 
@@ -33,7 +33,7 @@ Deck ergänzt: Radiation Protection VR am European Congress of Radiology — **P
 - FlowAR (EFRE.NRW; Az. **IN-NX-2-013c**, Projekt EFRE-**20801092**; Zuwendungsbescheid **23.05.2025**, PtJ). Höchstbetrag bis zu **583.569,83 €** (80 % von 729.462,29 € zuwendungsfähig). Durchführung **01.06.2025–31.05.2028**. 2026 festgelegt 178.000 €, davon ausgezahlt **28.995,02 €** (18.05.2026). PtJ-Rückantwort 31.08.2026 in Gmail nicht gefunden — Abruf nicht als vollständig. Intern 05.08.2026 organisatorisch übergeben. Android-Prototyp Stand 13.07.2026 (Mapbox, OpenGL-AR). Endziel **Android und iOS**; Mac für Deployment in Beschaffung. Nicht „iOS live“. WebXR-Pico intern offen; Sachberichte bis 2028. EFRE-Portal-Hauptkontakt ab Juli 2025 Joachim. Sachbericht 2025: Vorlage (v3) mit Projektbogen und Stundenzettel-Vorlage 2026 am 02.03.2026 über den Verbund (Dana Hofmann), Tabelle je Arbeitspaket im gemeinsamen Drive; Abgabe in der Akte nicht belegt. Mittelabruf über EFRE.NRW.Online oder schriftlich; der Verwendungsnachweis nach Nr. 6.4 ANBest-EU ist zusätzlich schriftlich vorzulegen ([Asana](https://app.asana.com/0/0/1210973329322411), [Asana](https://app.asana.com/0/0/1210625106091316)).
 - Forschungszulage (BSFZ, Beratung PFIF): Drei Vorhaben für die Wirtschaftsjahre 2021 bis 2024, 01 Hardware-agnostische VR, 02 Fire Fighter VR, 03 photogrammetrischer Workflow (Kölner Dom). Bescheid **06.02.2026**: 02 und 03 bescheinigt, 01 abgelehnt („fehlende Risiken“). Widerspruch erfolgreich, laut PFIF **21.05.2026** alle drei Vorhaben voll positiv beschieden. Zweiter Schritt Festsetzung beim Finanzamt (Kick-off PFIF **19.02.2026**). PFIF stellte am **06.07.2026** vier Honorarrechnungen auf Basis der Zuwendungsbescheide des Finanzamts. Summen und Zahlungsstatus hier nicht belegt. PFIF fragt nach neuen Vorhaben ab 2025. Quelle: Mailakte Silas, [Asana](https://app.asana.com/0/0/1209233061901597).
 - VR Platform (NRW eVergabe, 2023)
-- Strahlenschutz VR, Schiffshebewerk, Armstrong, Tier VR Tour (historisch)
+- StrahlenschutzVR, Schiffshebewerk, Armstrong, Tier VR Tour (historisch)
 
 ## In Arbeit / eingereicht (2026)
 

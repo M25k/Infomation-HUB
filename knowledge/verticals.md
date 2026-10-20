@@ -22,13 +22,13 @@ Website-IA und Copy-Regeln je Domain: [websites/](websites/README.md). Marken-CI
 
 ## 1. Meditrain VR
 
-CI: [brand/meditrainvr.md](brand/meditrainvr.md); Radiation Protection VR / StrahlenschutzVR: [brand/strahlenschutzvr.md](brand/strahlenschutzvr.md).
+CI: [brand/meditrainvr.md](brand/meditrainvr.md); RadiationProtectionVR / StrahlenschutzVR: [brand/strahlenschutzvr.md](brand/strahlenschutzvr.md).
 
 Nächste Produktlinie nach FirefighterVR — Details [meditrain.md](meditrain.md), Strategie [strategy.md](strategy.md).
 
 Marke der Northdocks GmbH (kein Spin-out). Medizinisches VR-Training: Schockraum, Strahlenschutz, CPR, Stationsnotfälle. Zielprodukt wie FirefighterVR: Koffer, Hardware und Softwarekatalog als Komplettpaket, Local-Only für Klinik-IT.
 
-Öffentliche Module: Radiation Protection VR (strahlenschutzvr.de, Kofferpreise), Shock Room VR, CPR VR, Station VR. Pipeline: Koni/OP, Flashlight-Rettung, Hand aufs Herz (Schulen).
+Öffentliche Module: RadiationProtectionVR (strahlenschutzvr.de, Kofferpreise), Shock Room VR, CPR VR, Station VR. Pipeline: Koni/OP, Flashlight-Rettung, Hand aufs Herz (Schulen).
 
 Kunden/Partner: Uniklinik Köln (CeMIT, AMBOSS 2026, Frontiers-Studie Station), Björn Steiger Stiftung, Bundesamt für Strahlenschutz, UKSH.
 
