@@ -1,6 +1,22 @@
 # StrahlenschutzVR / Radiation Protection VR – Brand
 
-Stand: 19.10.2026. Vollständigkeit: **kein Styleguide gefunden**. Logo nur als Google-Slides-Folie, Farben und Schriften **abgeleitet, nicht belegt**.
+Stand: 20.10.2026. **Gestaltung nach MeditrainVR-CI (Entscheidung Joachim 20.10.2026, siehe unten).** Eigener Styleguide: keiner. Logo nur als Google-Slides-Folie, Farben und Schriften **abgeleitet, nicht belegt**.
+
+## Entscheidung 20.10.2026: Angleichung an MeditrainVR
+
+Joachim über One, 20.10.2026, 16:26: „We need to bring Strahlenschutz closer to meditrain.“ StrahlenschutzVR folgt der MeditrainVR-CI, soweit das Submarken-Manual MediTrain VR vom 06.12.2023 ([1qWd00BHd8WgpetqV14stP0THEOYk9H_w](https://drive.google.com/open?id=1qWd00BHd8WgpetqV14stP0THEOYk9H_w), MED-0004) sie belegt. Die abgeleiteten Werte unten (Montserrat, Catamaran, Oswald/Inter, #2084C0, #005BA3) gelten nicht mehr.
+
+| Bereich | Wert (aus MED-0004) |
+|---|---|
+| Schrift | Nunito Sans (SIL OFL, Google Fonts): H1 ExtraBold, H2 Medium, H3 Medium, H4 ExtraBold, P Regular; Footer „POWERED BY NORTHDOCKS“ Bold, Versalien, Laufweite 10 % |
+| Primärfarbe | #63B1E5 (RGB 99/177/229, CMYK 61/16/0/0, Pantone 2915) |
+| Abstufungen | #82C1EA (130/193/234), #A1D0EF (161/208/239), #DBEBF6 (219/235/246) |
+| Neutral | #E0E1DD (224/225/221), Schwarz #000000, Weiß #FFFFFF |
+| Logo-Aufbau | Bildmarke (vier Kreuz-/Pfeilelemente) links neben der Wortmarke in Nunito-Sans-Anmutung, quer; Hochformat mit Kürzel („MT VR“) unter bzw. neben der Bildmarke; Varianten weiß auf #63B1E5, schwarz-blau, schwarz |
+| Layout | Helle Blauflächen in den Abstufungen, Klinik-/OP-Fotos mit VR-Headset, Headline groß in ExtraBold, Buttons rund oder mit abgerundeten Ecken, Social-Media-Grafikvariante mit Bildmarke, Footer „POWERED BY NORTHDOCKS“ |
+| Nicht im Manual | Schutzzone, Mindestgröße, Don'ts, Bewegtbild |
+
+Lücke: Ein eigenes StrahlenschutzVR-Logo im MeditrainVR-Aufbau existiert nicht (nur Slides-Folie STR-0001 im alten Stil). Name im deutschen Material (StrahlenschutzVR oder Radiation Protection VR) weiter offen.
 
 ## Quellen (Drive)
 
@@ -46,6 +62,5 @@ Abgleich mit der CI-Liste von Assets (19.10.2026): auch dort keine CI-Dateien f�
 ## Offen
 
 - Name im deutschen Video: StrahlenschutzVR oder Radiation Protection VR?
-- Farbe #2084C0 (Logo) oder #005BA3 (Website)?
-- Schrift: Montserrat, Nunito Sans/Catamaran oder Oswald/Inter?
+- ~~Schrift~~ und ~~Farbe~~: entschieden 20.10.2026, MeditrainVR-CI (Nunito Sans, #63B1E5).
 - Echtes Logofile (SVG) fehlt. Gehört die Marke unter die MeditrainVR-Submarken-CI?

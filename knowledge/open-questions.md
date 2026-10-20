@@ -78,7 +78,7 @@ Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Ass
 | **Schreibweise Next Factory** | Logo „next factory VR“, document-rules und Live „Next Factory VR“, Video-Blatt „NextFactoryVR“ | Next Factory VR. Joachim: bestätigen? |
 | **Schreibweise Spearhead** | Logo „SPEARHEAD VR“, document-rules „SpearheadVR“, Live „Spearhead VR“; Canonical von spearheadvr.de zeigt auf spearheadvr.com | SpearheadVR. Joachim: Schreibweise und kanonische Domain (.de oder .com)? |
 | **Schreibweise Storywalx** | Logo/Styleguide „storywalx“, document-rules „Storywalx“, Live „StoryWalx“ | Storywalx. Joachim: festlegen? |
-| **StrahlenschutzVR / Radiation Protection VR** | Logo-Folie und Flyer englisch, Site strahlenschutzvr.de deutsch und mit MediTrain-VR-Logo; kein Logofile, kein Styleguide | Name im deutschen Video, eigenes Logo oder MeditrainVR-CI? |
+| ~~**StrahlenschutzVR / Radiation Protection VR**~~ | Logo-Folie und Flyer englisch, Site strahlenschutzvr.de deutsch und mit MediTrain-VR-Logo; kein Logofile, kein Styleguide | **Entschieden** (Joachim über One, 20.10.2026, 16:26: „We need to bring Strahlenschutz closer to meditrain.“): MeditrainVR-CI (Nunito Sans, #63B1E5, Logo-Aufbau und Layout aus MED-0004), siehe [brand/strahlenschutzvr.md](brand/strahlenschutzvr.md). Offen bleiben Name im deutschen Video und ein eigenes Logofile |
 | **„Firefighter VR“ auf Live-Sites** | firefightervr.de 3× (u. a. „Firefighter VR Basis-Set“), northdocks.com 2× | Regel steht. Korrektur über Northdocks Web, nicht hier. Hinweis One (20.10.2026): Schreibweise FirefighterVR (Joachim 19.10.2026); Korrektur steht bei Web aus |
 | **Northdocks-Schrift und Logofarbe** (Video a) | CI 2020: Oswald + Roboto Mono, Logo orange; Logo-Dateien 2023 grau #505050; Logo-Intros 2020 weiß auf #505050; Submarken 2023 Nunito Sans; Website Outfit, Icon weiß. Oswald und Open Sans liegen lizenziert im Drive (_fonts, OFL bzw. Apache 2.0). **Orange-Konflikt:** FARBPALETTE.png 2020 (ND-0393, Quelldatei ND-0541) zeigt #F28915, Farbkit (ND-0395) und Präsentationsvorlage 2021 #FF9900 | Joachim: gilt CI 2020 (Oswald/Orange) oder ein neuerer Stand? Welches Orange gilt, #FF9900 oder #F28915? |
 | **Branding Hannover-Reels** (Video b) | storywalx oder Northdocks offen | Regel 12 gilt in jedem Fall: „VR-Stadttour Hannover“ mit amatik, Stadt nicht als Auftraggeberin |
@@ -94,7 +94,7 @@ Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Ass
 | **Schriften: Oswald Heavy** | CI 2020 nennt Oswald Heavy; im Drive nur Regular/Bold/Light + Variable Font; Video nutzt Bold | Joachim: Heavy (aus Google Fonts nicht verfügbar) oder Bold? |
 | **Schriften: Websites weichen ab** | northdocks.com Outfit, firefightervr.de Poppins/Roboto, spearheadvr.de Inter/Outfit statt CI-Schrift (live, 20.10.2026) | Joachim: Websites auf die CI-Schrift umstellen (Web)? |
 | **Schriften: FirefighterVR Open-Sans-Gewicht** | Teko Bold vorläufig; Open-Sans-Schnitt nicht festgelegt (Video nutzt SemiBold); Acumin aus CI 2020 ohne Lizenz | Mit Asana 1219679346562920 festlegen |
-| **Schriften: Brands ohne Schrift** | StrahlenschutzVR (Montserrat/Catamaran/Nunito Sans/Oswald widersprüchlich), GodView, Meta-dom, HannoverVR, BMA Trainer, Hand aufs Herz | Joachim: Schrift festlegen oder Dachmarke übernehmen? |
+| **Schriften: Brands ohne Schrift** | GodView, Meta-dom, HannoverVR, BMA Trainer, Hand aufs Herz | StrahlenschutzVR entschieden 20.10.2026 (MeditrainVR-CI). Joachim: Schrift festlegen oder Dachmarke übernehmen? |
 
 ### Abstimmungsrunde 2026-10-16
 

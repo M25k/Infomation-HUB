@@ -19,7 +19,7 @@ Alle unten genannten Google Fonts stehen unter der **SIL Open Font License 1.1**
 | SpearheadVR | Nunito Sans | Nunito Sans | wie MeditrainVR | OFL | Submarken-Manual 06.12.2023 (SPVR-0002), [spearheadvr.md](spearheadvr.md) | belegt |
 | Storywalx | Nunito Sans | Nunito Sans | wie MeditrainVR | OFL | Submarken-Manual 06.12.2023 (SW-0002), [storywalx.md](storywalx.md) | belegt |
 | IMP Solutions | Nunito Sans | Nunito Sans | laut Manual (Hierarchie wie die übrigen Submarken, nicht einzeln geprüft) | OFL | Submarken-Manual 06.12.2023 (IMP-0001, pdftotext: 6× „Nunito Sans“) | belegt; Marke aktiv oder Archiv offen |
-| StrahlenschutzVR | – | – | – | – | kein Styleguide. Flyer 02/2026 (STR-0002) eingebettet Catamaran Regular/SemiBold/Bold und Nunito Sans Regular/Bold (beide OFL); Logo-Folie Montserrat (STR-0001, laut [strahlenschutzvr.md](strahlenschutzvr.md)); live Oswald/Inter/Syne | Lücke |
+| StrahlenschutzVR | Nunito Sans | Nunito Sans | wie MeditrainVR (H1 ExtraBold, H2/H3 Medium, H4 ExtraBold, P Regular; Footer Bold, Versalien, 10 %) | OFL, [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans) | Entscheidung Joachim über One, 20.10.2026, 16:26: „We need to bring Strahlenschutz closer to meditrain. → MeditrainVR-CI aus MED-0004 ([strahlenschutzvr.md](strahlenschutzvr.md)); bisher Catamaran/Nunito Sans (Flyer STR-0002), Montserrat (Logo-Folie), live Oswald/Inter/Syne | entschieden, Umsetzung offen |
 | GodView | – | – | – | – | kein Styleguide, kein Logofile. Wortmarke wirkt wie Oswald Bold (abgeleitet, [godview.md](godview.md)); Handbuch Helvetica (GV-0003); live Oswald, Inter, Space Grotesk (alle OFL) | Lücke |
 | Meta-dom | – | – | – | – | keine CI. Live Outfit (OFL) | Lücke |
 | HannoverVR (VR-Stadttour Hannover) | – | – | – | – | keine CI; Branding storywalx oder Northdocks offen ([../open-questions.md](../open-questions.md), „Branding Hannover-Reels“). Das vermeintliche HannoverVR-Logo ist Kunden-CI sonnen, nicht verwenden | Lücke |
@@ -30,6 +30,8 @@ Live-Stand der Websites (CSS, 20.10.2026, kein CI-Beleg): northdocks.com Outfit 
 
 Für Reels nutzt Video derzeit Oswald Bold + Open Sans SemiBold (Northdocks) und Teko Bold + Open Sans SemiBold (FirefighterVR), laut CI-Stand von Video vom 20.10.2026 (Box). Für Northdocks weicht das vom CI 2020 ab (Fließtext Roboto Mono, Headline Oswald Heavy).
 
+**StrahlenschutzVR (Joachim 20.10.2026, 16:26):** folgt der MeditrainVR-CI; Schrift, Farben, Logo-Aufbau und Layout wie MeditrainVR laut MED-0004, Werte in [strahlenschutzvr.md](strahlenschutzvr.md).
+
 ## Widersprüche und Lücken
 
 1. **Northdocks-Fließtext:** CI 2020 Roboto Mono; Video nutzt Open Sans; Präsentationsvorlage 2021 Arial/Calibri; Website Outfit; Submarken-Footer Nunito Sans. Welche gilt?
@@ -38,7 +40,7 @@ Für Reels nutzt Video derzeit Oswald Bold + Open Sans SemiBold (Northdocks) und
 4. **Northdocks-Website** nutzt Outfit statt Oswald; Regel verlangt die CI-Schrift.
 5. **FirefighterVR:** Teko/Open Sans vorläufig (Joachim 20.10.2026); Website nutzt Poppins/Roboto. CI 2020 nennt für den FFVR-Flyer Acumin (Adobe, Lizenz nicht im Drive), Oswald, Roboto Mono. Gewicht für Open Sans nicht festgelegt.
 6. **Submarken (Meditrain, Next Factory, Spearhead, Storywalx):** spearheadvr.de nutzt Inter/Outfit statt Nunito Sans.
-7. **StrahlenschutzVR:** keine CI; Montserrat (Logo), Catamaran + Nunito Sans (Flyer), Oswald/Inter/Syne (Website).
+7. ~~**StrahlenschutzVR**~~ entschieden 20.10.2026: MeditrainVR-CI (Nunito Sans, Farben und Layout aus MED-0004). Offen nur die Umsetzung (Website, Flyer, Logo).
 8. **GodView, Meta-dom, HannoverVR, BMA Trainer, Hand aufs Herz:** keine Schrift definiert.
 9. **IMP Solutions:** Manual vorhanden, Marke aktiv oder Archiv offen.
 10. **Acumin** (CI 2020, FFVR-Flyer) ist die einzige nicht freie Schrift; ohne Lizenznachweis Fallback nötig.
