@@ -80,3 +80,7 @@ Vorbild-Ablage UKSH: `00-Angebot` Arbeitsnotizen, `01-Einreichung-Los2` nur Port
 1. Urkunden Renke (Multimedia Production) und Stephan (3D/Ausbildung) an Teil 2 heften. julia.barenthien nicht als ND-Personal beilegen.
 2. Zwei Referenzen mit Freigabe vor Namensnennung.
 3. Tagessätze 1.1–1.9 in derselben Größenordnung wie die PT-Zeilen (1.095 €), keine Dekosätze.
+
+## Zusammenarbeit
+
+- Aufgaben an Patrick Reschke laufen über **Asana**. Gibt es kein passendes Projekt, kommt die Aufgabe ins Projekt „Additional Tasks“ (Joachim im Chat mit One, 20.10.2026).

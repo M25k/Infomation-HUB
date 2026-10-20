@@ -101,6 +101,8 @@ Information-HUB bleibt die Textquelle. Technik belegen: lokaler Ordner **oder** 
 
 ## GPU-Rechner: gemeinsame Sperre (seit 18.10.2026)
 
+**Neu (Joachim im Chat mit One, 20.10.2026):** Der GodView-AI-Inspect-PC bekommt 2 GPUs mit je 96 GB VRAM. Modelle mit hohem VRAM-Bedarf werden auf diesen PC **vertagt, nicht verworfen**. Modellerstellung (Image-to-3D, CAD) macht der Bot 3D, Rendern weiter Video.
+
 Der GPU-Rechner (MSI, Ubuntu, RTX 4070 Laptop 8 GB) wird von mehreren Bots genutzt: Video (auch 3D-Renderings und Turntables, seit 18.10.2026) und Wissen. Damit sich Jobs nicht gegenseitig den Grafikspeicher wegnehmen, gilt für jeden GPU-Job:
 
 1. Vorher mit `nvidia-smi` prüfen, ob die GPU frei ist, und in `~/gpu-jobs/lock` schauen.

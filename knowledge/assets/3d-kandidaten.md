@@ -83,3 +83,7 @@ Kein Pico-Headset-Modell gefunden (Teil 1 und Projects Teilrunde 2).
 ### _ND_Best Of / Projects, Teilrunde 2
 
 Keine 3D-Quelldateien in Draeger, Drager, Dräger, Evonik, BASF, Infraserv und Merck. Dort liegen nur Renders, Screenshots und Videos aus den Kundenprojekten 2019–2022.
+
+## Bot 3D: Turbo-Spritze EVO 235 Storz C (nur intern)
+
+**Nur intern** (AWG-Herstellerdaten). 3D hat aus der AWG-STEP-Datei der Turbo-Spritze EVO 235 Storz C ein erstes Echtzeit-Modell gebaut. Joachim (20.10.2026, 18:19, Chat mit One): weitermachen, Kupplung silbern ok. Fokus: saubere Teiletrennung und Benennung, UVs, Baking CAD → LODs, Workflow dokumentieren. Kein Katalog-Eintrag mit Außenkanal.

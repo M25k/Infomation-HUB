@@ -65,7 +65,7 @@ Klinik/OP-Szenen mit VR-Headset, Fachpersonal in OP-Kleidung, hellblaue Flächen
 
 ## Offen
 
-- Logo-SVG nutzt #64ACCC, Styleguide-Primär ist #63B1E5. Welche gilt im Video?
+- ~~Logo-SVG nutzt #64ACCC, Styleguide-Primär ist #63B1E5. Welche gilt im Video?~~ entschieden: #63B1E5 (Joachim im Chat mit One, 20.10.2026, Logo-Richtung StrahlenschutzVR).
 - Kein blaues Quer-Logo als SVG (nur PDF).
 - Schreibweise MediTrain VR (Logo) vs. MeditrainVR (Repo-Regel)?
 - StrahlenschutzVR/RadiationProtectionVR liegt im MeditrainVR-Markenordner, eigene CI?

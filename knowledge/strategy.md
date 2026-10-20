@@ -61,3 +61,9 @@ Gute Anträge hängen Meditrain an FFVR-Betriebsfähigkeit **und** an UKK/BfS-Fa
 | Lehre / interprofessionell | UKK-Studien, AMBOSS, Frontiers-Paper als Impact-Beleg |
 
 Details: [meditrain.md](meditrain.md), [proposal-playbook.md](proposal-playbook.md).
+
+## Markt und Wettbewerb
+
+| Datum | Wettbewerber | Thema | Bezug | Quelle |
+|---|---|---|---|---|
+| 20.10.2026 | VR ZeitReise GmbH (Christoph Boyn) | VR-Stadtführung Hannover mit VR-Brille | Kein Northdocks-Bezug; Wettbewerber zur VR-Stadttour Hannover (mit amatik) | [NDR, 20.10.2026](https://www.ndr.de/kultur/gesellschaft/stadtfuehrung-mit-einer-virtual-reality-brille-macht-geschichte-erlebbar,virtualreality-100.html); Hinweis Joachim im Chat mit One, 20.10.2026 |

@@ -25,6 +25,12 @@ Lücke: Ein eigenes StrahlenschutzVR-Logo im MeditrainVR-Aufbau existiert nicht 
 - Deutsch **StrahlenschutzVR**, Englisch **RadiationProtectionVR**, beide zusammengeschrieben wie FirefighterVR. „Radiation Protection VR“ (mit Leerzeichen) ist **veraltet**; historische Dokumenttitel und Dateinamen (z. B. STR-0001, STR-0002, Drive-Ordner) bleiben unverändert.
 - **Kein Strahlenwarnzeichen (Trefoil) im StrahlenschutzVR-Logo.** Joachim entwirft die Logo-Ideen selbst.
 
+## Logo-Richtung (gewählt ca. 17:23 UTC+3, Joachim im Chat mit One, 20.10.2026)
+
+- Gewählt: One-Entwurf „Hand mit Punkt, zwei Bögen darüber“. Hand kleiner und anatomisch korrekt, **kein Warnzeichen**, Farbe **#63B1E5**, beide Namen (StrahlenschutzVR / RadiationProtectionVR).
+- Farbfrage #64ACCC (Logo-SVG MeditrainVR) vs. #63B1E5 (Styleguide): **entschieden für #63B1E5**.
+- Patrick Reschke gibt nur Richtungs-Feedback ([Asana 1219701590971888](https://app.asana.com/0/0/1219701590971888), fällig 30.10.2026) und baut keine Vektordateien. Wer den Vektor baut, ist offen ([../open-questions.md](../open-questions.md)).
+
 ## Quellen (Drive)
 
 | Datei | Drive-ID | Inhalt |

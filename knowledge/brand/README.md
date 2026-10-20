@@ -109,7 +109,7 @@ Kunden-CI (z. B. sonnen, auch das vermeintliche HannoverVR-Logo) nur intern, nie
 
 Gebündelt für Joachim in [../open-questions.md](../open-questions.md), Abschnitt „Marken-CI und Schreibweisen“.
 
-1. Logo-Dateien vs. Styleguide-Farben (MediTrain #64ACCC/#63B1E5, Spearhead #9DB8C4/#ABBDCA, Next Factory #F9EC60/#EBE945): Welcher Wert gilt im Video?
+1. Logo-Dateien vs. Styleguide-Farben (MediTrain #64ACCC/#63B1E5 – entschieden: #63B1E5 (Joachim im Chat mit One, 20.10.2026, Logo-Richtung StrahlenschutzVR); Spearhead #9DB8C4/#ABBDCA, Next Factory #F9EC60/#EBE945): Welcher Wert gilt im Video?
 2. Northdocks-Schrift: Oswald (CI 2020, Templates 2021, lizenziert im Drive), Nunito Sans (Submarken 2023) oder Outfit (Website)? Logo im Video weiß auf #505050 (Intros), orange (CI 2020/Social) oder grau? Orange #FF9900 (Farbkit, Templates) oder #F28915 (FARBPALETTE 2020)?
 3. FirefighterVR: Gilt Teko/Open Sans als Hausschrift? Gibt es einen Styleguide außerhalb des Drives? Woher stammen #009FE3/#E74510 im black-background-SVG?
 4. StrahlenschutzVR vs. RadiationProtectionVR: Name, Farbe (#2084C0 vs. #005BA3), Schrift, eigenes Logofile?
