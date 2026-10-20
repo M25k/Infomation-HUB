@@ -25,3 +25,14 @@ Perspektive intern: Funnel zu FirefighterVR (z. B. WebXR). Erst wenn GF Vermarkt
 - Veraltet: Der Verweis auf die EU-Online-Streitbeilegungsplattform (eingestellt am 20.07.2025) muss raus. Gilt für alle Northdocks-Impressen.
 - SSL-Zertifikat (Let's Encrypt) gültig bis 01.12.2026.
 - Umsetzung von Fixes über den Bot „Northdocks Web“.
+
+## Betrieb und Bedienlogik (intern, Cursor-Chat ND-NB-20, Abgleich 20.10.2026)
+
+- Server-Checkout `/opt/bma-trainer`. `deploy/update.sh` baut und startet den Docker-Stack **ohne** git pull; den Pull macht der GitHub-Workflow `deploy.yml` nach grüner CI auf `main`. Merge auf `main` = Produktions-Deploy, nur mit Joachims OK.
+- Bedienreihenfolge in allen Modi: **FBF-Schlüssel, dann FSE, dann FSD**, serverseitig erzwungen (Feedback Janis Weinbach über Asana, 19.09.2026).
+- Ablauf laut Testbericht 01.10.2026: FAT lesen, Summer ab, Laufkarte, Schlüssel, Erkundung, Rückstellen. FAT-Summer und Gebäudesirene sind getrennt; die FSD-Klappe öffnet bei Alarm; ÜE ab und BFS ab nur optional.
+- Die 2D-Laufkarte ist die Draufsicht desselben 3D-Gebäudeplans.
+- Gestrichen am 15.08.2026: Offline-Pairing über Bluetooth/Ad-hoc-WLAN. Kopplung nur per Session-Link/Token.
+- Konten: Solo und Teilnehmer ohne Konto, Übungsleitung mit Login.
+- Fachliches Feedback: Janis Weinbach (Asana).
+- Widerspruch SEO-Arbeit vs. Vorgabe oben: offen, siehe [../open-questions.md](../open-questions.md).

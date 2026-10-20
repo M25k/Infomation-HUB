@@ -262,3 +262,18 @@ Kanonisch: [koni.md](koni.md). Hub-Zeilen „eingereicht/Antragspfad“ waren ve
 | **GodView nur per IPv6 erreichbar** | `app.godview.solutions` hat nur einen AAAA-Eintrag; Login-Links nutzen `godview.nd-apps.de` (GodView Monitor, 18.10.2026). | Entscheiden, ob ein A-Eintrag ergänzt wird oder app.godview.solutions nicht beworben wird. |
 
 RWE bleibt: **keine** Factory-/FFVR-Referenz (Mail 03/2021, keine PO). Frontiers-Kurzregeln: Delphi-Lernziele, PCVR Pimax, nicht Pico-Koffer-Wirksamkeit; Paper-Sitz „Düsseldorf“ ignorieren. In Anträgen die **konservative** Zeile, bis Live-FA die Restlücken schließt.
+
+### Abgleich Cursor-Chats ND-NB-20 (20.10.2026)
+
+Quelle: Bericht `/workspace/cursor-chats/abgleich-2026-10-20.md` (226 Chats 13.07.–15.10.2026, gegen HUB f7ba204). Nicht geändert, nur gefragt.
+
+| Thema | Stand | Wer / Frage |
+|---|---|---|
+| **Kölner Dom: Fotozahl** | Joachim im Chat 02.10.2026: **200.000 Fotos** (100.000 Drohne, 100.000 am Boden von Hand/Roboter) und 1.000 Laserscans. HUB (claims.md, meta-dom.md, document-rules.md, godview.md): „100.000+ Fotos und 1.000 Laserscans“ | Joachim: Welche Zahl gilt öffentlich? |
+| **BMA: SEO** | Chats Juli–07.10.2026: SEO-Daten, „Traffic steigt“, OG/canonical/hreflang/Schema auf bmatraining.de. [websites/bma.md](websites/bma.md): „keine Vermarktung, kein SEO-Ausbau“ | Joachim: Gilt die Vorgabe noch? |
+| **godview.solutions: Umschalter „Einsatz & Feuerwehr“** | Chat 13.09.2026: Feuerwehr-Links aus der Bau-Navigation entfernt, feuerwehr.html nur über Sitemap. Live 20.10.2026: Umschalter vorhanden (Web hat ihn am 18.10. mit Joachims Freigabe eingebaut) | Joachim: Bleibt der Umschalter? (Web fragt ebenfalls) |
+| **Sicherheit: Migadu-SMTP-Passwort (GodView) rotieren** | Stand früher in `production.env.template`, dort ersetzt; Rotation offen (Chat 13.08.2026). Kein Wert im Repo | Joachim/Patrick |
+| **Sicherheit: FloriaX-Share-Token rotieren** | FloriaX-Monitor: Share-Link ohne Login (Security-Eval im Chat). Kein Wert im Repo | Joachim/Patrick |
+| **SPF northdocks.com** | Laut Chat fehlte SPF (DNS bei Linode), DKIM pass. Siehe [company.md](company.md) IT | Patrick: SPF gesetzt? |
+| **firefightervr.de: /ar/brandschutz/ fehlt in der Sitemap; Web-Repos nicht gepusht** | Live-Check Web 20.10.2026 | Web |
+| **Kununu-Firmierung „NorthDocks UG“** | Bewertungshelden nicht beauftragt; Profil zeigt alte Firmierung | Social/Joachim |

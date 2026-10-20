@@ -80,6 +80,13 @@ Business Deck (intern): all-in-one, schnelle Feedbackschleifen, praxisnahe Endnu
 - WFVD e.V., vfdb e.V., DRZ e.V., DIBT e.V. — so auf firefightervr.de. **Kein** DFV auf der öffentlichen Site.
 - EU Virtual Worlds Partnership / VWA (Asana 2026, Mitglied)
 
+## IT-Infrastruktur (intern)
+
+Quelle: Cursor-Chat ND-NB-20 (Abgleich 20.10.2026). Keine Zugangsdaten hier.
+
+- Active Directory `intra.northdocks.com`: **DC02** (Server 2025, hält alle FSMO-Rollen) und **STORE04** (Server 2019, DHCP). DC01, STORE01 und STORE02 sind außer Betrieb.
+- E-Mail-DNS northdocks.com (DNS bei Linode): DKIM pass, **SPF fehlte** (Stand Chat), Google Postmaster aktiv. SPF-Eintrag prüfen, siehe [open-questions.md](open-questions.md).
+
 ## Partner (wiederkehrend)
 
 - amatik (Storywalx / Stadttouren)

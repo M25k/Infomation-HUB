@@ -106,7 +106,7 @@ ARiNeP-Kontakt (intern): Dr. med. Johannes Gehrig — nur in Eignung, nicht öff
 | DDF Und die Salztote | Sony Music / DDF | Visuals-Auftragsproduktion. Adobe-Sign **01.02.2025**. Simona-Mail **20250304-01** an PO-INV.DE — FA bucht **`20250307-02`**. Folge `20250806-01` 7.560 €, `20251022-01` 13.440 € (Drive Wolfsburg 4K 10–11/2025). ???-Rendering bleibt `20221219-01` 1.240 €. Kein Meißen-Eignung | intern, Auftrag |
 | Die drei ??? / Singende Schlange | HO3RRAUM / Sony Music | Fulldome-Rendering und Showdaten-Auslieferung 2022 (Planetarien u. a. Berlin, Bochum, Hamburg, Kiel, Münster, Luzern). Rechnung Sony **`20221219-01` 1.240 €**. Getrennt von Asana `Sony - ??? - Das Dorf der Teufel` 2019. Kein Eignungsslot | intern, abgeschlossen |
 | Traumzauberbaum | HO3RRAUM (Markus Schäfer) | Fulldome-Rendering/Domemaster 2022, Festival 2023. Kein Asana-Board, kein Volumen, nicht Eignung | intern, abgeschlossen |
-| FD Sojus-Start | LWL-Planetarium Münster / GDP (Björn Voss); Premiere Berlin 04/2018 | Fulldome-Animation Sojus ~2017–18. Kein Volumen, nicht Eignung | intern, historisch |
+| FD Sojus-Start | LWL-Planetarium Münster / GDP (Björn Voss, damals; heute Direktor des Planetariums Hamburg, Cursor-Chat ND-NB-20, 20.10.2026); Premiere Berlin 04/2018 | Fulldome-Animation Sojus ~2017–18. Kein Volumen, nicht Eignung | intern, historisch |
 | Planetarium Berlin / Bochum / Hamburg | Stiftung Planetarium Berlin; Freundeskreis Planetarium Bochum e.V.; Planetarium Hamburg | Drei **getrennte** AGs, nicht addieren. Berlin **Maus Armstrong:** Produktion MS I `20210921-02` **23.730 €**; MS II `20210921-03` **14.238 €**; MS III `20220221-01` **28.476 €**; MS IV `20220316-03` **28.476 €** (Premiere). Summe Produktion **94.920 €**. Kombi `20220106-02` 56.952 = III+IV, **ersetzt** (Rienow: IV erst nach Abschluss) — nicht addieren. Korrekturen `20230123-01` **13.440 €** separat. Bochum `20220920-01` **39.840 €**. Hamburg `20231238` **24.192 €**. Kein Eignungsslot | intern, abgeschlossen |
 | SPACE EXHIBITION | — | archiviert | archiviert |
 | XM Fulldome | — | archiviert | archiviert |
@@ -166,3 +166,8 @@ Kurz zur Navigation (Details und Task-Zahlen dort):
 - **amatik/Kultur:** Landtag, Wilhelmshaven, Trier (310 Tasks), LVermGeo/LKN/LaZuF, Fulldome inkl. XM Cyber intern.
 - **Medizin:** UKSH/BfS 194 Tasks, ARiNeP, Meditrain-Plattform archiviert.
 - **Nicht Eignung:** John Deere (1 Task), leere Hüllen, interne Demos, Angebotszahl Gendorf 47.880 €.
+
+## K. Neu aus Cursor-Chat ND-NB-20 (Abgleich 20.10.2026, intern)
+
+- **Demo-App Handtracking** mit Felix Prell: neues Projekt (Cursor-Chat ND-NB-20, 14.10.2026). Umfang und Kunde offen.
+- **Philips / TMA:** Follow-up an Pascal van Dalen, Frist **11.11.2026** (Cursor-Chat ND-NB-20, Okt. 2026).

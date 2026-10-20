@@ -56,3 +56,21 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 ## Nicht auf diese Site
 
 - DFV-Partnerschaft, Deck-Zahlen Spearhead, Umsatz, Eignungsvolumen Currenta/Henkel
+
+## Live-Stand 20.10.2026 (Web) und Abgleich Cursor-Chat ND-NB-20
+
+- Suchseiten `/tr/brandschutz/` und `/pl/brandschutz/` live und in der Sitemap, nicht verlinkt. `/ar/brandschutz/` live, aber **nicht in der Sitemap** (offen).
+- FAQ-Kategorie „Standorte“ live: Vorführorte Kabelsketal (BTL), Fritz Massong, MEDIGUYS, B-Safe (Mainz), FW Werl, KFV Northeim (laut Chat 10 Orte inkl. Northdocks Monheim).
+- Basis-Set auf der Startseite: „Pico 4 Ultra Enterprise“, ohne „16 GB“.
+- Tracking: AppLovin `generate_lead` und Formspree-Formular auf `/brandschutz/` und `/ar/brandschutz/`; AppLovin steht in der Datenschutzerklärung. Kein Pixel-ID hier.
+- HDMI-hochkant-Tipp (Taste „R“ am Empfänger dreht das Bild) live in der FAQ (DE/EN) und im Handbuch unter Troubleshooting und Setup.
+- `/shop/` live (index.html und catalog.json; Shopify-Backend über feuerwehrvr.de, siehe [feuerwehrvr.md](feuerwehrvr.md)). Miete-Woche-Preise und Kaution offen.
+- Neue Startseite live („23 Szenarien auf der Brille …“), Umbau 15.10.2026 wegen viel Traffic und wenig Leads.
+- Web-Repos auf dem Laptop entsprechen seit 20.10. dem Live-Stand, lokal committet, **noch nicht gepusht** (offen).
+
+## Werbung (intern, Cursor-Chat ND-NB-20)
+
+- Google-Ads-Konto „Northdocks GmbH“: 20.07.–29.09.2026 **1.853,86 €**, **1.579 Klicks**. Nur intern.
+- Kampagnen DACH Feuerwehr, Brandschutz, Erste Hilfe; UTM-Schema `utm_source=google&utm_medium=paid&utm_campaign=dach_*_202608`; Callouts und Sitelinks erstellt.
+- Ads-CSV-Packs unter `_ref/ads/` (Repo www-firefightervr) auf firefightervr.de umgestellt; ob die Live-Anzeigen noch auf die alte Domain zeigen, prüft Social.
+- Bewertungshelden (Kununu, Google) geprüft, nicht beauftragt. Kununu zeigt noch die alte Firmierung „NorthDocks UG“ (offen).

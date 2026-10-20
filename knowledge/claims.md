@@ -38,6 +38,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | FirefighterVR läuft standalone auf der Pico-Brille, ohne Internet und ohne PC | intern belegt | Joachim 18.10.2026 (Social Clip 02 „23 Module“, Begleittext FFVR-0038) |
 | Entwickelt mit Deutschem Feuerwehrverband / „German Fire Brigade Association“ | **nicht verwenden** | Business Deck; öffentliche Mitgliedschaft ist WFVD, nicht DFV |
 | Vertrieb FirefighterVR in Österreich über Rumpold (ganz Österreich, nicht nur Kärnten); damit Abdeckung Deutschland, Italien und Österreich | intern | Patrick, Team-Discord #firefightervr, 15.10.2026. Nicht öffentlich, solange nicht freigegeben |
+| VR-Feuerlöscher-Training **ergänzt** die Erstausbildung, ersetzt sie nicht: nach DGUV Information 205-023 muss in der Erstausbildung jede Person selbst eine reale Flamme löschen (z. B. gasbetriebener Löschtrainer) | intern belegt (Grenze für alle Texte) | Cursor-Chat ND-NB-20 (4b887f2e); passt zu Silas 03.12.2025 (kein Ersatz der Brandschutzhelferausbildung, [mailakte-silas.md](mailakte-silas.md)). Nie „ersetzt die Ausbildung mit realem Feuer“ |
 
 ## Meditrain / Strahlenschutz
 
@@ -110,6 +111,8 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | feir: Fraunhofer IAO ist Verbundpartner | öffentlich | Freigabe Joachim 17.10.2026; Verbund laut grants.md. Ohne Fördersumme/FKZ |
 | Spot-KI mit KI-Transfer-Hub Schleswig-Holstein, EU + Land SH | öffentlich + intern | funding.html, News, GF 2026-08-26; WTSH **220 23 012**, Laufzeit 01.07.2022–30.06.2024 |
 | Spot-KI Northdocks-Erstattung 42.065,85 € + Schluss 54.671,00 € | intern | WTSH-Mails 2024/25. Nur Teilvorhaben, **nicht** kumulierte 1,5 Mio. €, nicht Verbundsumme |
+| Spot-KI: De-minimis-Beihilfe, bewilligt 112.125 € (Bescheid 26.06.2023), ausgezahlt zusammen 96.736,85 € | intern | Cursor-Chat ND-NB-20 (dd2fdfa6). Nicht nach außen |
+| TEMA wird nur intern verwertet, kein Verkauf von TEMA-Technologie | intern belegt | Latitudo-40-Fragebogen, Cursor-Chat ND-NB-20 |
 | Spot-KI mit Vodafone oder Uniklinik Köln | **nicht verwenden** | Deck falsch; GF: keine Verbindung |
 | EPIC Mega Grant 2020 | öffentlich | funding.html |
 | EPIC Mega Grant FirefighterVR **45.000 USD** | intern | Zusage-Mail 10.06.2020. Nicht zur Pitch-Summe 1,5 Mio. € addieren |
