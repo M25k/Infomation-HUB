@@ -45,6 +45,7 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 4. GodView und Planspiel: FAQ darf eigene 3D-Tilesets erwähnen. GodView bleibt Browser-Leitung, nicht Headset-Training.
 5. BMA Trainer nicht als 24. Headset-Modul listen.
 6. Keine „>100 Kunden“ auf die Site, solange nicht nachgezählt und freigegeben. Öffentliche Kundenleiste nur mit bestehenden, geprüften Namen.
+   - Der Satz „rund 600 Kunden“ entfällt auf firefightervr.de (Joachim 20.10.2026 15:15 im Chat mit One); Umsetzung Web.
 7. RWE/Framatome nicht hier als Factory-Twin verkaufen (Feuerlöscher-Paket).
 
 ## Öffentlich sagbar

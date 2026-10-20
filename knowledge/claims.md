@@ -29,13 +29,14 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 |---|---|---|
 | >100 Kunden | intern, **in Eignung erlaubt** (Entscheidung 2026-08-26) | UKSH-Eignung; nicht so auf der FFVR-Website. Nicht als Website-Claim ohne Zählung kopieren |
 | rund 400 internationale Kundenorganisationen | **nicht verwenden** intern/Eignung | EIC-Pitch-Mail an IB.SH 17.07.2026. C-Level darf außen gelegentlich übertreiben; KB und Angebote bleiben bei **>100** |
+| rund 600 Kunden | **nicht verwenden** | Satz entfällt auf firefightervr.de (Joachim 20.10.2026 15:15 im Chat mit One) |
 | 23 Trainingsmodule (Stand 2026; Zahl steigt periodisch) | öffentlich | firefightervr.de `trainingslist.html`. Didaktik v47 (22) nicht als Zähler |
 | Vorgänger PCVR mit PC-Launcher (Steam-ähnlich); Wechsel auf Koffer, weil Kunden PCVR als zu teuer/kompliziert rückmeldeten | intern, **kanonisch** (2026-08-26) | GF. Nicht „Plattform gescheitert“ nach außen |
 | Mehr als sechs Jahre virtuelle Feuerwehrausbildung als Produktlinie | öffentlich + intern | FFVR-Site. Firma seit 2009, immersive Arbeit früher (Fulldome). Nicht zu „17 Jahre FirefighterVR“ aufblasen |
 | Planspiel-Peak 16 gleichzeitige Nutzer | intern | UKSH-Mappe. Addon: UKK CeMIT 13 Plätze nur Nachreichbeleg, nicht Peak-Claim |
 | Mitglied WFVD, vfdb, DRZ, DIBT | öffentlich | firefightervr.de (DE+EN). **Kein** Deutscher Feuerwehrverband (DFV) auf der Site |
-| Echtes Strahlrohr mit Trackinghalterung | öffentlich | Joachim 18.10.2026 (Social Clip 05 „Strahlrohr im Detail“, FFVR-0033); auf „öffentlich“ gehoben: Joachim, 20.10.2026 |
-| FirefighterVR läuft standalone auf der Pico-Brille, ohne Internet und ohne PC | öffentlich | Joachim 18.10.2026 (Social Clip 02 „23 Module“, Begleittext FFVR-0038); auf „öffentlich“ gehoben: Joachim, 20.10.2026 |
+| Echtes Strahlrohr mit Trackinghalterung | öffentlich | Joachim 18.10.2026 (Social Clip 05 „Strahlrohr im Detail“, FFVR-0033); auf „öffentlich“ gehoben: Joachim, 20.10.2026; bestätigt (Joachim 20.10.2026 15:15 im Chat mit One) |
+| FirefighterVR läuft standalone auf der Pico-Brille, ohne Internet und ohne PC | öffentlich | Joachim 18.10.2026 (Social Clip 02 „23 Module“, Begleittext FFVR-0038); auf „öffentlich“ gehoben: Joachim, 20.10.2026; bestätigt (Joachim 20.10.2026 15:15 im Chat mit One) |
 | Entwickelt mit Deutschem Feuerwehrverband / „German Fire Brigade Association“ | **nicht verwenden** | Business Deck; öffentliche Mitgliedschaft ist WFVD, nicht DFV |
 | Vertrieb FirefighterVR in Österreich über Rumpold (ganz Österreich, nicht nur Kärnten); damit Abdeckung Deutschland, Italien und Österreich | intern | Patrick, Team-Discord #firefightervr, 15.10.2026. Nicht öffentlich, solange nicht freigegeben |
 | VR-Feuerlöscher-Training **ergänzt** die Erstausbildung, ersetzt sie nicht: nach DGUV Information 205-023 muss in der Erstausbildung jede Person selbst eine reale Flamme löschen (z. B. gasbetriebener Löschtrainer) | intern belegt (Grenze für alle Texte) | Cursor-Chat ND-NB-20 (4b887f2e); passt zu Silas 03.12.2025 (kein Ersatz der Brandschutzhelferausbildung, [mailakte-silas.md](mailakte-silas.md)). Nie „ersetzt die Ausbildung mit realem Feuer“ |
