@@ -5,7 +5,7 @@ DIN 14675 Web-MVP (FAT/FBF). Eigenes Produkt, **kein** FirefighterVR-Headset-Mod
 
 ## Vorgabe
 
-Derzeit **keine Vermarktung**. Keine Landingpage-Kampagnen, keine Paketpreise, kein SEO-Ausbau, nicht in northdocks.com-Vertikale aufnehmen.
+Derzeit **keine Vermarktung**. Keine Landingpage-Kampagnen, keine Paketpreise, nicht in northdocks.com-Vertikale aufnehmen. **SEO für bmatraining.de darf weiterlaufen** (Joachim, 20.10.2026, über BMA App).
 
 Perspektive intern: Funnel zu FirefighterVR (z. B. WebXR). Erst wenn GF Vermarktung frei gibt, diese Datei aktualisieren.
 
@@ -35,4 +35,4 @@ Perspektive intern: Funnel zu FirefighterVR (z. B. WebXR). Erst wenn GF Vermarkt
 - Gestrichen am 15.08.2026: Offline-Pairing über Bluetooth/Ad-hoc-WLAN. Kopplung nur per Session-Link/Token.
 - Konten: Solo und Teilnehmer ohne Konto, Übungsleitung mit Login.
 - Fachliches Feedback: Janis Weinbach (Asana).
-- Widerspruch SEO-Arbeit vs. Vorgabe oben: offen, siehe [../open-questions.md](../open-questions.md).
+- SEO-Arbeit seit Juli 2026: erlaubt, entschieden 20.10.2026 (siehe Vorgabe oben).
