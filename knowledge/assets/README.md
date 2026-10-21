@@ -79,6 +79,8 @@ Stand 18.10.2026 (Joachim über One), ergänzt 19.10.2026 (Freigabe-Audits):
 
 - **Shorts und Thumbnails** (Video über Assets, 21.10.2026): Läuft ein Reel unter 60 s, ist der YouTube-Short dieselbe 9:16-Datei wie das Final, nur mit einer TXT im Ordner YouTube Shorts; doppelte Thumbnails sind Kopien für Bibliothek und Shorts. Beides ist gewollt, kein Aufräumfall; im Katalog als Duplikat mit Verweis auf das Original führen. Video liefert bald neue Fassungen aller Reels mit ElevenLabs-Stimmen; die alten Versionen werden dann ersetzt. Regel auch in [../websites/_shared.md](../websites/_shared.md) (Video und Clips).
 
+- **Reels-Seite (Joachim über Web und Video, 21.10.2026):** Die Kanal-Freigaben im Katalog gelten für Social Media. Die Seite northdocks.com/reels/ (noindex, nicht im Menü) ist davon ausgenommen: Reels dort brauchen Joachims Freigabe pro Reel, nicht den Kanal „website“ der Quellen; im Katalog steht dann `website` mit Vermerk „Reels-Seite“. Regel auch in [../websites/_shared.md](../websites/_shared.md).
+
 ## Ablauf
 
 1. Runde 0: Inventur nur über Metadaten (erledigt 18.10.2026, Ergebnis [landkarte.md](landkarte.md)).
