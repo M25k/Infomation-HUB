@@ -2,7 +2,43 @@
 
 Quelle: Bot 3D, 20.10.2026. **v3 (20.10.2026): Aufdrucke und das Entfernen von Innenflächen enthalten.**
 
-Stand 20.10.2026 (v3) · Northdocks 3D · angewendet auf ein internes Hersteller-CAD-Modell (Strahlrohr; Herstellerdaten nur intern), v2 und v3.
+Stand 21.10.2026 (v6) · Northdocks 3D · angewendet auf ein internes Hersteller-CAD-Modell (Strahlrohr; Herstellerdaten nur intern), v2 bis v6. Die Abschnitte ab „Setup“ beschreiben den Stand v3; bei Widersprüchen gelten die verbindlichen Regeln unten.
+
+**Abgabe immer gegen die [Abgabe-Checkliste](cad-zu-echtzeit-abgabe-checkliste.md) prüfen; die ausgefüllte Kopie liegt in jedem Exportpaket.**
+
+## Verbindliche Regeln (allgemein, für jedes Rohr / Hero-Asset)
+
+Quelle: Joachim, 21.10.2026, aus dem Review v3 von Marcel Timm (UE 5.7 + Quest, 55/100), umgesetzt vom Bot 3D. Gelten vor allen älteren Hinweisen in diesem Dokument; Herkunft im Changelog.
+
+1. **Namensschema:** `Nozzle_[Hersteller][Produkt]` (Beispiel: `Nozzle_HerstellerProdukt`). Meshes `SM_<Name>_<Teil>`, Texturen `T_<Name>_BaseColor|Normal|ORM`, Material `M_<Name>`. Kein `_LOD0`, keine Format-Suffixe (`_DirectX`, `_OpenGL`).
+2. **Hero-Asset = nur LOD0** (Strahlrohre sind immer nah an der Kamera). Budget ca. 20.000 bis 30.000 Vertices gesamt (UE-Zählung inkl. UV- und Hartkanten-Splits). Weitere LODs nur, wenn die Config sie ausdrücklich anfordert.
+3. **Texturen 2048 × 2048**, ein Atlas, ein Material für alle Teile.
+4. **Eine Normal-Map, nur im UE-Format** (DirectX, Grün = −Y), Name ohne Suffix. Eine zweite OpenGL-Variante führt nur zu Verwechslungen (Flip Green doppelt oder fehlend).
+5. **Achsen:** +X = vorne (Mündung bzw. Blickrichtung des Bauteils), +Z = oben, Einheit cm. Der FBX-Header entspricht dem UE-Zielsystem (Blender-Export `axis_forward='Y', axis_up='Z'`), damit ist der Import ohne Optionen korrekt. Prüfung: Rohdaten-BBox im FBX gleich Blender-BBox.
+6. **Pivots auf den echten Drehachsen**, berechnet aus den CAD-Zylinderflächen (Achse und Lage), nicht aus Bounding-Boxen: Rotationsteile exakt auf der Rohrachse, Hebel exakt auf der Scharnierachse. Statische Teile: Bezug Griff.
+7. **Richtige Teilezuordnung:** Jedes CAD-Bauteil kommt in die Gruppe, mit der es sich real bewegt (z. B. Zeiger zum drehenden Ring). Mehrkomponenten-Teile (Hart/Weich, Einleger) per `split_regex` in Solids trennen und getrennt einfärben.
+8. **Wasserdicht von außen:** keine sichtbaren Spalte, kein Durchgucken. Mittel: kein Voxel-Remesh bei Mehr-Solid-Teilen, strenges Culling mit Sicherheitssaum, Kontaktschutz beim Decimate, leichtes Inflate, Abdeckscheiben in offenen Bohrungen. Prüfung: Watertight-Skript (offene Kanten, Durchguck = 0), Renders aus vielen Winkeln, Durchguck-Render gegen Leuchtfläche.
+9. **Farben, Materialien und Aufdrucke am Originalfoto prüfen.** Was nicht belegt ist, als Annahme kennzeichnen; fehlen Fotos, über One anfragen. Herstellerlogos auf dem Objekt sind erlaubt ([../document-rules.md](../document-rules.md) Nr. 5).
+10. **Skalen und Aufdrucke** nach CAD-Prägung, Foto und Review positionieren: Zahl und Marke als Einheit, Nullstellung oben, Lesbarkeit aus der Bedienansicht prüfen (Nahaufnahme-Render).
+11. **Texturen VR-tauglich:** kein Rauschen (AO mit mindestens 256 Samples plus Insel-Blur, Normal leicht gefiltert), glatte CAD-Flächen mit flacher Normal-Map, feine Strukturen (Rändel) nur mit einer Periode von mindestens 6 bis 8 Texeln (sonst Moiré und Mip-Flimmern).
+12. **UE-5.7-Import (Interchange) ohne Altoptionen** (Uniform Scale, Convert Scene, Force Front X gibt es nicht mehr). Nur: Normals/Tangents nicht neu berechnen. Normal-Map als Normalmap (BC5/ASTC), ORM linear.
+13. **Verifikation vor Abgabe:** Re-Import jeder FBX (1 Objekt, Lage 0, Rotation 0, 1 Material, BBox, Vertex-Zahl), Vorher/Nachher-Renders mit identischen Kameras, Durchguck vorn und hinten, Skalen-Nahaufnahme. Quest/Android (ASTC, Vulkan) darf nicht brechen: ein Material, keine Spezial-Shader.
+
+**Prozess (Joachim, 21.10.2026):**
+- Die [Abgabe-Checkliste](cad-zu-echtzeit-abgabe-checkliste.md) vor jeder Übergabe abhaken und ausgefüllt ins Exportpaket legen.
+- Jedes Review wird als **allgemeine Regel** formuliert (nicht nur für das eine Modell) und im Changelog mit Datum, Quelle und Regel eingetragen.
+- Nach jedem Review Marcel Timm um eine Punktzahl (0 bis 100) bitten und sie im Changelog vermerken.
+
+## Changelog (Regeln)
+
+| Datum | Quelle | Regel / Änderung |
+|---|---|---|
+| 21.10.2026 | Review Marcel Timm (UE 5.7 + Quest), v3, 55/100; Joachim | Regeln 1 bis 13: Namensschema `Nozzle_`, nur LOD0, 2048er, Normal nur UE-Format ohne Suffix, +X vorne ohne Importoptionen, Pivots aus CAD-Achsen, Teilezuordnung und Solid-Split, wasserdicht mit Prüfskript, Farben am Foto, Skalen nach CAD/Foto, Texturen entrauscht, UE-5.7-Interchange-Import, Abgabe-Checkliste |
+| 20.10.2026 | UE-Importtest v5 | Teil-FBX: Objekt am Ursprung, Transform angewendet, Platzierungstabelle; LOD1/2-Export sichtbar machen (leere FBX) |
+| 20.10.2026 | UE-Importtest v4 | cm und UnitScaleFactor 1 (v3 importierte 1:100), ein Atlas/Material für alle LODs |
+| 20.10.2026 | UE-Importtest v3 | Normal-Map: DirectX ohne Flip Green (nie beides), ORM linear |
+
+Weitere Skripte des Stands v6 (Export-Paket mit Re-Import-Prüfung, Watertight-Prüfung, Vorher/Nachher-Renders) liegen beim Bot 3D auf der Box, nicht im Repo.
 Alles läuft headless auf der Box, ohne GPU und nur mit lizenzfreien Tools:
 - **OpenCascade 7.x** über `cadquery-ocp` (OCCT: LGPL-2.1 mit Ausnahme, Bindings: Apache-2.0)
 - **Blender 5.2 LTS** (GPL, nur als Werkzeug, die Assets fallen nicht unter GPL)
