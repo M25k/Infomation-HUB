@@ -21,7 +21,7 @@ Perspektive intern: Funnel zu FirefighterVR (z. B. WebXR). Erst wenn GF Vermarkt
 - Live unter https://bmatraining.de als eigene Marke, tritt nicht als FirefighterVR-Modul auf. Repo `Northdocks-GmbH/www-bma-Trainer-App` (privat, Default-Branch `main`).
 - Stack: Node/Express, PostgreSQL, Socket.io, nginx; Hosting bei Linode/Akamai, Mail über Migadu, DNS bei GoDaddy (nur intern, nicht auf Websites).
 - Funktionen: Solo-Training (8 Szenarien), Prüfungsmodus (5 Szenarien), Übungsleitung mit Mehrteilnehmer-Modus (Einladungslink), Laufkarten-Generator, Feuerwehrplan-Generator, Konto (Registrierung mit E-Mail-Bestätigung, Passwort-Reset, Trainingsverlauf), Admin-Bereich.
-- Abweichung Impressum: Live steht eine Telefonnummer mit Endung 9996713, Stammdaten-Soll ist +49 (0) 2173 9996715 ([open-questions.md](../open-questions.md)).
+- Impressum-Telefon bmatraining.de live seit 20.10.2026 (Nummer nicht im Repo; Festlegung in [_shared.md](_shared.md), Asana). Frühere Abweichung zur Hub-Nummer laut Monitoring 17./18.10.2026 damit überholt.
 - Veraltet: Der Verweis auf die EU-Online-Streitbeilegungsplattform (eingestellt am 20.07.2025) muss raus. Gilt für alle Northdocks-Impressen.
 - SSL-Zertifikat (Let's Encrypt) gültig bis 01.12.2026.
 - Umsetzung von Fixes über den Bot „Northdocks Web“.
@@ -36,3 +36,9 @@ Perspektive intern: Funnel zu FirefighterVR (z. B. WebXR). Erst wenn GF Vermarkt
 - Konten: Solo und Teilnehmer ohne Konto, Übungsleitung mit Login.
 - Fachliches Feedback: Janis Weinbach (Asana).
 - SEO-Arbeit seit Juli 2026: erlaubt, entschieden 20.10.2026 (siehe Vorgabe oben).
+
+
+## Prüfungsmodus und Offline-App (Joachim, 21.10.2026, via BMA App)
+
+- **Prüfung** wird streng wie die Solo-Übung bewertet: Die Reihenfolge zählt, Fehler senken die Prozentzahl.
+- **Zielbild (nicht extern als umgesetzt darstellen):** Offline-App für PICO-Headsets von FirefighterVR-Kunden, nur die Modi Solo und Prüfung. Technik: WebView-APK mit gemeinsamem Logikmodul. Umsetzung durch die Bots BMA App und Pico Native. **Start wartet auf Joachims OK.**
