@@ -11,7 +11,7 @@ Gilt für alle Northdocks-Domains, solange die Site-Datei nichts Engeres festleg
 | Register | HRB 76844, Amtsgericht Düsseldorf |
 | USt-IdNr. | DE298519758 |
 | Geschäftsführer | Joachim Perschbacher, Patrick D. Reschke |
-| Telefon | Jede Website nennt die Telefonnummer ihrer Marke nach Patricks Festlegung (Asana 1218361891390444) mit dem Hinweis „Mo. bis Fr. 9:00 bis 13:00“. StrahlenschutzVR nutzt die Nummer von MeditrainVR. Northdocks, MeditrainVR und FirefighterVR haben je eine eigene Durchwahl. SpearheadVR, Storywalx, Next Factory VR, meta-dom und GodView nutzen **vorläufig** die Northdocks-Nummer (#102). Die Nummern stehen in der Asana-Aufgabe, nicht im Repo (Joachim über One und Web, 21.10.2026). |
+| Telefon | Jede Website nennt die Telefonnummer ihrer Marke nach Patricks Festlegung (Asana 1218361891390444) mit dem Hinweis „Mo. bis Fr. 9:00 bis 13:00“. StrahlenschutzVR nutzt die Nummer von MeditrainVR. Northdocks, MeditrainVR und FirefighterVR haben je eine eigene Durchwahl. SpearheadVR, Storywalx, Next Factory VR, meta-dom und GodView nutzen die Northdocks-Nummer (Joachim über One, 21.10.2026, #102 erledigt). Die Nummern stehen in der Asana-Aufgabe, nicht im Repo (Joachim über One und Web, 21.10.2026). |
 | Mail (kanonisch) | **kontakt@northdocks.com** |
 
 Kiel, Schauenburgerstraße 116, nur wo der Standort inhaltlich vorkommt (nicht als Rechtssitz).
