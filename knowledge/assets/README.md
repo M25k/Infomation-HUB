@@ -77,6 +77,8 @@ Stand 18.10.2026 (Joachim über One), ergänzt 19.10.2026 (Freigabe-Audits):
 - **Zuständigkeit 3D-Material** (Runde 4, 21.10.2026): Quellfotos und CAD für 3D-Modelle gehen an den Bot 3D, Renders an Video.
 - Der Logo-Entwurf für StrahlenschutzVR kommt erst ins Drive, wenn Joachim es will.
 
+- **Shorts und Thumbnails** (Video über Assets, 21.10.2026): Läuft ein Reel unter 60 s, ist der YouTube-Short dieselbe 9:16-Datei wie das Final, nur mit einer TXT im Ordner YouTube Shorts; doppelte Thumbnails sind Kopien für Bibliothek und Shorts. Beides ist gewollt, kein Aufräumfall; im Katalog als Duplikat mit Verweis auf das Original führen. Video liefert bald neue Fassungen aller Reels mit ElevenLabs-Stimmen; die alten Versionen werden dann ersetzt. Regel auch in [../websites/_shared.md](../websites/_shared.md) (Video und Clips).
+
 ## Ablauf
 
 1. Runde 0: Inventur nur über Metadaten (erledigt 18.10.2026, Ergebnis [landkarte.md](landkarte.md)).
