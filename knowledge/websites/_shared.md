@@ -11,7 +11,7 @@ Gilt für alle Northdocks-Domains, solange die Site-Datei nichts Engeres festleg
 | Register | HRB 76844, Amtsgericht Düsseldorf |
 | USt-IdNr. | DE298519758 |
 | Geschäftsführer | Joachim Perschbacher, Patrick D. Reschke |
-| Telefon | Hub/Impressum **+49 (0) 2173 9996715**; Meditrain/Strahlenschutz **9996714**; FirefighterVR **9996713**. Erreichbarkeit Mo.–Fr. 9:00–13:00 |
+| Telefon | Jede Website nennt die Telefonnummer ihrer Marke nach Patricks Festlegung (Asana 1218361891390444) mit dem Hinweis „Mo. bis Fr. 9:00 bis 13:00“. StrahlenschutzVR nutzt die Nummer von MeditrainVR. Northdocks, MeditrainVR und FirefighterVR haben je eine eigene Durchwahl. SpearheadVR, Storywalx, Next Factory VR, meta-dom und GodView nutzen **vorläufig** die Northdocks-Nummer (#102). Die Nummern stehen in der Asana-Aufgabe, nicht im Repo (Joachim über One und Web, 21.10.2026). |
 | Mail (kanonisch) | **kontakt@northdocks.com** |
 
 Kiel, Schauenburgerstraße 116, nur wo der Standort inhaltlich vorkommt (nicht als Rechtssitz).
@@ -84,7 +84,7 @@ Sachlich, produktbezogen. Keine Superlative ohne Beleg („Pioniere“, „radik
 ### Reel-Bibliothek (fester Ablauf seit 19.10.2026)
 
 - Der Bot „Northdocks Video“ produziert ab Montag, 19.10.2026, jeden Werktag zwei Reels für eine Reel-Bibliothek (Vorgabe Joachim, 17.10.2026).
-- Inhalte: Nur belegte Aussagen zu den Produkten (FirefighterVR, MeditrainVR, Next Factory VR, SpearheadVR, StrahlenschutzVR u. a.); auf Social und Websites nur Claims mit Stufe „öffentlich“ aus [claims.md](../claims.md).
+- Inhalte: Nur belegte Aussagen zu den Produkten (FirefighterVR, MeditrainVR, Next Factory VR, SpearheadVR, StrahlenschutzVR u. a.); auf Social und Websites nur Stufe „öffentlich“ oder Zielbild im Wortlaut von [claims.md](../claims.md) (Joachim über One, 21.10.2026, #96).
 - Ablauf: Northdocks Video fragt morgens beim Bot „Northdocks Wissen“ nach Themen, belegten Inhalten und neuen Freigaben oder Tabus für Bildmaterial. Northdocks Wissen schickt auch von sich aus Themen mit gutem, freigegebenem Material.
 - Bildmaterial-Tabus gelten immer, unter anderem: kein Bildmaterial, keine Einsatzpläne oder Einsatzbereitschaftsdaten aus Bürrig (Currenta), keine Steinmeier-Aufnahme, Reschke Productions nie als Referenz.
 - Technik: Northdocks Video rendert auf der CPU. Den GPU-Rechner nutzen Northdocks Video (Whisper-Gegenproben), Northdocks Wissen (Whisper-Transkription) und für 3D-Renderings/Turntables Video (seit 18.10.2026, vorher Assets), immer über die gemeinsame GPU-Sperre ([repos.md](../repos.md), Abschnitt „GPU-Rechner: gemeinsame Sperre“).
