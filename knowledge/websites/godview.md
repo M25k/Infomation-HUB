@@ -34,7 +34,7 @@ Hosting-Aussage auf der Site: Deutschland, DSGVO. Intern Linode / DLR-On-Prem **
 
 - Cesium, 3D Tiles, Drohnen, Punktwolken, Messung, Team, Export, DE-Hosting-Aussage
 - Preise wie auf der Site
-- Dom als Inspektionsbeispiel (100k Fotos + 1000 Scans nur wenn GF das hier öffentlich will; sonst auf meta-dom.de belassen)
+- Dom als Inspektionsbeispiel (öffentlich laut claims.md, Joachim 21.10.2026: mehr als 200.000 Fotos und 1.000 Laserscans aufgenommen, aktuelles Modell rund 100.000 Fotos und über 2 Mrd. Polygone; getrennt nennen)
 
 ## Nicht auf diese Site
 

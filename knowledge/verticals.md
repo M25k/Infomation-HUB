@@ -77,7 +77,7 @@ CI: [brand/meta-dom.md](brand/meta-dom.md) (nichts gefunden).
 
 Digital Twin Kölner Dom für VR/Mobile (Coming Soon auf Pico, iOS, Android). Photogrammetrie, Unreal Engine 5, Unterstützung ZDV.
 
-Zitierfähig (Entscheidung 2026-08-26): **100.000+ Fotos und 1.000 Laserscans**. News 2020 (30.000 Fotos) nicht mehr verwenden. Polygonzahl öffentlich: two-billion / 2B+.
+Zitierfähig (Joachim 21.10.2026, [claims.md](claims.md)): Aufnahme **mehr als 200.000 Fotos und 1.000 Laserscans**; aktuelles Modell **rund 100.000 Fotos, über 2 Mrd. Polygone** (getrennt nennen). News 2020 (30.000 Fotos) nicht mehr verwenden.
 
 ## 7. GodView — zwei Kundentypen (Entscheidung 2026-08-26)
 

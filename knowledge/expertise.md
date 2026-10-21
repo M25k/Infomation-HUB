@@ -22,7 +22,7 @@ Nur Fähigkeiten, die durch Produkt, Repo oder dokumentierte Referenz gedeckt si
 - Hosting in Deutschland, DSGVO-Aussage auf godview.solutions. Intern (DLR-Gespräch 2026): Betrieb derzeit bei Linode; DLR will On-Premise — für Anträge nicht als Linode nennen, On-Prem nicht als Standard behaupten.
 - Photogrammetrie: Drohnenbefliegung, RealityCapture-Headless über `ND-Processing` (Express Port 3000 → Python `process.py` → RealityCapture.exe → Cesium-3D-Tiles; lokal oder MinIO; Export u. a. GLB und Orthophoto). Hardcoded-User nicht zitieren.
 - Volumenextraktion Punktwolke → LAS/LAZ.
-- Extrem große Modelle: Kölner Dom mit **100.000+ Fotos und 1.000 Laserscans** (zitierfähig). Polygonzahl öffentlich 2 Mrd. — nicht unabhängig nachgezählt.
+- Extrem große Modelle: Kölner Dom: Aufnahme **mehr als 200.000 Fotos und 1.000 Laserscans**; aktuelles Modell **rund 100.000 Fotos, über 2 Mrd. Polygone** (öffentlich, claims.md; nicht unabhängig nachgezählt).
 
 ### Simulation
 

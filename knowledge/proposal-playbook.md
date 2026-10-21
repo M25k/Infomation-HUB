@@ -25,7 +25,7 @@ Ersetzen von weichen Floskeln durch belegbare, auftragsbezogene Aussagen.
 |---|---|
 | Pioniere / führend / einzigartig | Seit 2009 Softwarehaus; immersive Linie über Fulldome zum Kern XR + Digital Twin. Konkrete Referenz: … |
 | Wir digitalisieren die Feuerwehr | FirefighterVR ist bei mehr als 100 Kunden im Einsatz; Los X liefert nur die genannten Komponenten, nicht den Gesamtkatalog. |
-| GodView ist unsere Kommandozentrale | GodView bedient zwei Kundentypen auf einer Plattform: (A) Bauinspektion, belegt am Kölner Dom mit 100.000+ Fotos und 1.000 Laserscans; (B) Einsatzleitung analog Planspiel/Playground. Die Headset-Trainingsapp ist Unreal/OpenXR, nicht GodView. |
+| GodView ist unsere Kommandozentrale | GodView bedient zwei Kundentypen auf einer Plattform: (A) Bauinspektion, belegt am Kölner Dom (mehr als 200.000 Fotos und 1.000 Laserscans aufgenommen, aktuelles Modell aus rund 100.000 Fotos mit über 2 Mrd. Polygonen); (B) Einsatzleitung analog Planspiel/Playground. Die Headset-Trainingsapp ist Unreal/OpenXR, nicht GodView. |
 | KI revolutioniert das Training | In feir entwickeln wir KI-gestützte Szenariengenerierung aus nutzergenerierten Daten (BMBF-Teilvorhaben). Spot-KI: KI-Transfer-Hub SH, nicht Vodafone/UKK. |
 | Horizon-Erfahrung | Partner in TEMA (Horizon Europe), Koordinator AUTH; Northdocks liefert 3D/XR, nicht die Verbundkoordination. |
 | Made in Germany | Entwicklung und Hosting in Deutschland; Offline-Betrieb auf Standalone-Headset ohne VR-PC-Farm. |

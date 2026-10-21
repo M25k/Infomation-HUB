@@ -56,7 +56,7 @@ Vor Namensnennung externer Personen: Freigabe einholen, wenn `projects.md` das v
 
 - Engine: Unreal Engine 5.7 in den Framework-Repos (lokal oder GitHub/Cursor), OpenXR, Pico OpenXR.
 - GodView: SvelteKit, Cesium, Hosting in Deutschland.
-- Photogrammetrie: RealityCapture-Pipeline (`ND-Processing`), Potree/3D Tiles, Drohnenbefliegung. Dom: 100.000+ Fotos und 1.000 Laserscans.
+- Photogrammetrie: RealityCapture-Pipeline (`ND-Processing`), Potree/3D Tiles, Drohnenbefliegung. Dom: mehr als 200.000 Fotos und 1.000 Laserscans aufgenommen; aktuelles Modell aus rund 100.000 Fotos, über 2 Mrd. Polygone (claims.md, Joachim 21.10.2026).
 - Keine Engine erfinden (kein Unity als Standard-Stack, außer ein konkretes Altprojekt das belegt).
 
 ## Bücher

@@ -176,7 +176,7 @@ Mail-Lücken ohne Asana-Board (Details in projects.md): **Traumzauberbaum** HO3R
 
 | Board | ab | Tasks | Hinweis |
 |---|---|---|---|
-| KDom - 3d Rekonstruktion | 2020 | 36 | kanonische Schreibweise; 100.000+ Fotos und 1.000 Scans |
+| KDom - 3d Rekonstruktion | 2020 | 36 | kanonische Schreibweise; Aufnahme mehr als 200.000 Fotos und 1.000 Scans, aktuelles Modell rund 100.000 Fotos (claims.md, 21.10.2026) |
 | KDom - 3d Reconstruktion | 2020 | 0 | Dublette, leer |
 | ND - SubmergeVR | 2018 | 60 | interne Demo |
 | ND - VR Demo | 2018 | 18 | intern |

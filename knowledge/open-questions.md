@@ -10,7 +10,7 @@ Geklärte Punkte bleiben kurz dokumentiert. Nur offene Punkte blockieren Formuli
 | FFVR-URL | Canonical https://firefightervr.de/ |
 | >100 Kunden | In Eignung erlaubt |
 | Firmenalter | Tätigkeit 2009 CAU Kiel (Narrative). GmbH ab 2015: siehe Geklärt 2026-08-31. Nicht „17 Jahre FirefighterVR“. |
-| Dom-Erfassung | 100.000+ Fotos **und** 1.000 Laserscans zitierfähig. 30.000 aus 2020 verwerfen. |
+| Dom-Erfassung | Aktualisiert 21.10.2026: Aufnahme mehr als 200.000 Fotos **und** 1.000 Laserscans; aktuelles Modell rund 100.000 Fotos, über 2 Mrd. Polygone (claims.md). 30.000 aus 2020 verwerfen. |
 | Spot-KI | Nur KI-Transfer-Hub SH / EU+Land. Keine Vodafone, keine UKK. |
 | GodView | Zwei Kundentypen auf einer Plattform: Bauinspektion vs. Einsatz/Playground. Nicht Headset-Trainingsapp. |
 | Repos | GitHub `Northdocks-GmbH` (+ `M25k`) ist die volle Kopie; Cursor hat Zugang. `C:\Githup` ist Teilmenge. Fehlt lokal → GitHub/Cursor, nicht „kein Repo“. |
@@ -275,7 +275,7 @@ Quelle: Bericht `/workspace/cursor-chats/abgleich-2026-10-20.md` (226 Chats 13.0
 
 | Thema | Stand | Wer / Frage |
 |---|---|---|
-| **Kölner Dom: Fotozahl** | Joachim im Chat 02.10.2026: **200.000 Fotos**, aufgeteilt in 100.000 per Drohne und 100.000 am Boden (von Hand bzw. per Roboter), und 1.000 Laserscans. HUB (claims.md, meta-dom.md, document-rules.md, godview.md): „100.000+ Fotos und 1.000 Laserscans“ | Joachim: Welche Zahl gilt öffentlich? |
+| **Kölner Dom: Fotozahl** | Joachim im Chat 02.10.2026: **200.000 Fotos**, aufgeteilt in 100.000 per Drohne und 100.000 am Boden (von Hand bzw. per Roboter), und 1.000 Laserscans. HUB bisher: „100.000+ Fotos und 1.000 Laserscans“ | **Weitgehend erledigt** (Joachim 21.10.2026 über Social): beide öffentlich, getrennt: Aufnahme mehr als 200.000 Fotos + 1.000 Laserscans; aktuelles Modell rund 100.000 Fotos, über 2 Mrd. Polygone ([claims.md](claims.md)). Offen: Handout/Case-Study nennen „200.000“ (nicht „mehr als“) und ordnen die über 2 Mrd. Polygone nicht der 100.000-Foto-Basis zu; dort angleichen? (Joachim/Social) |
 | **BMA: SEO** | Chats Juli–07.10.2026: SEO auf bmatraining.de; Vorgabe sagte „kein SEO-Ausbau“ | **Entschieden** (Joachim, 20.10.2026, über BMA App): SEO darf weiterlaufen; übrige Vorgaben bleiben (z. B. nicht als FFVR-Modul) ([websites/bma.md](websites/bma.md)) |
 | **godview.solutions: Umschalter „Einsatz & Feuerwehr“** | Chat 13.09.2026: Links entfernt; live 20.10.2026 vorhanden | **Entschieden** (Joachim, 20.10.2026, über Web): Umschalter bleibt, beide Bereiche aktiv beworben ([websites/godview.md](websites/godview.md)) |
 | **Sicherheit: Migadu-SMTP-Passwort (GodView) rotieren** | Stand früher in `production.env.template`, dort ersetzt; Rotation offen (Chat 13.08.2026). Kein Wert im Repo | Joachim/Patrick |

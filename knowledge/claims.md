@@ -68,8 +68,8 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Zwei GodView-Kundentypen: A Bauinspektion (Dom), B Einsatzleitung (Feuerwehr/Playground) | öffentlich auf der Site (2026-09-13) | GF; nicht als zwei Produkte beschreiben. `index.html` = Typ A, `feuerwehr.html` = Typ B, Umschalter in der Nav. Planspiel-Link: firefightervr.de/trainings/planspiel/ |
 | Hosting Deutschland, DSGVO | öffentlich | godview.solutions |
 | 119 €/Monat Basis, +49 € Module | öffentlich | Site — nur in Produktangeboten |
-| 100.000+ Fotos **und** 1.000 Laserscans Kölner Dom | intern, **in Anträgen erlaubt** (Entscheidung 2026-08-26) | GF; meta-dom.de hat 100.000+. News 2020 (30.000) ist Altstand, nicht mehr zitieren |
-| 2 Mrd. Polygone Kölner Dom | öffentlich | Deck + meta-dom.de. Kepler-Profil 07.2026 (25 Mrd. / 200.000 Fotos) **nicht** verwenden |
+| Kölner Dom, **Aufnahme**: mehr als 200.000 Fotos (rund 100.000 per Drohne, 100.000 am Boden von Hand oder per Roboter) plus 1.000 Laserscans | öffentlich | Joachims Handout (Digitaler Zwilling Kölner Dom) + Klarstellung Joachim 21.10.2026 über Social. 200.000 ist die **Aufnahmemenge**, nicht die Basis des Modells; nie mit der Modellbasis vermischen. News 2020 (30.000) ist Altstand |
+| Kölner Dom, **aktuelles 3D-Modell**: basiert auf rund 100.000 Fotos und hat über 2 Mrd. Polygone | öffentlich | Joachims Handout (Digitaler Zwilling Kölner Dom) + Klarstellung Joachim 21.10.2026 über Social; Deck + meta-dom.de (2 Mrd.). Polygonzahl nicht als selbst nachgezählt ausgeben. Kepler-Profil 07.2026 (25 Mrd.) **nicht** verwenden |
 | <1 mm Accuracy / 216K Textur | öffentlich | meta-dom.de, nicht unabhängig gemessen |
 
 ## Storywalx
@@ -135,4 +135,4 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 - „Nachgewiesener Multiplayer-Peak im Planspiel: 16 gleichzeitige Nutzer.“
 - „Eye-Tracking und Blicksteuerung seit 2021/22 (Wilhelmshaven), fortgeführt in Trier, Hannover und ARiNeP.“ Hinweis zu ARiNeP: Eye-Tracking-Daten laut Klinik kaum verwertbar, nur als technische Umsetzung nennen ([Asana](https://app.asana.com/0/0/1216337250485610)).
 - „Produktionsengine der Trainingsanwendungen: Unreal Engine 5 mit OpenXR. GodView ist die browserbasierte Twin-Plattform mit zwei Kundentypen: Bauinspektion (z. B. Kölner Dom) und Einsatzleitung (z. B. Feuerwehr, analog Planspiel/Playground). GodView ist nicht die Headset-Trainingsanwendung.“
-- „Der Digital Twin des Kölner Doms basiert auf mehr als 100.000 Fotos und 1.000 Laserscans.“
+- „Für den Digital Twin des Kölner Doms wurden mehr als 200.000 Fotos und 1.000 Laserscans aufgenommen. Das aktuell prozessierte 3D-Modell basiert auf rund 100.000 Fotos und hat über 2 Mrd. Polygone.“ (Aufnahme und Modellbasis immer getrennt nennen)
