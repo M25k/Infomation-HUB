@@ -9,6 +9,7 @@ Status je Ordner: offen / in Arbeit / fertig / tabu. Vorschläge aus Runde 0 ste
 | Runde 0 (Inventur, nur Metadaten) | 18.10.2026 | Northdocks Wissen | Ebenen 0 bis 2 vollständig, tiefer nur Ordnernamen teilweise. Keine Datei geöffnet |
 | Runde 1 (Prio 1: fertige Clips und Reels) | 18.10.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 14 Ordner, 603 Dateien per Metadaten, 233 Einträge in [assets.csv](assets.csv). 10 Ordner fertig, 4 in Arbeit (siehe unten) |
 | Runde 2 (Änderungen seit 12.10. und _ND_Best Of / Projects, Teilrunde 1) | 19.10.2026 (Assets 07:16 bis 07:37 MESZ) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 406 geänderte/neue Dateien seit 12.10. geprüft (90 neue Einträge ND-0544 bis 0593, FFVR-0254 bis 0293; 8 Titelkorrekturen FFVR-0059 bis 0066). Projects: 25 Ordner, 273 Dateien, 271 Einträge (FFVR-0294 bis 0564). Zusammen 361 Einträge: 265 nur intern, 96 social-video |
+| Runde 4 (Änderungen seit 20.10. und _ND_Best Of / Projects, Teilrunde 3a) | 21.10.2026 (Assets bis 08:50 Athen, UTC+3) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 181 Treffer seit 20.10.2026, 08:50 (20 tabu verworfen; 88 neue Einträge ND-0903 bis 0905, FFVR-0649 bis 0732, MED-0060; 3 Aktualisierungen FFVR-0275, 0280, 0598). Projects Teilrunde 3a: 4 Ordner, 294 Dateien, 294 Einträge (NFVR-0132 bis 0174, ND-0906 bis 1138, SW-0025 bis 0042). Zusammen 382 Einträge: 299 nur intern, 69 angebot, 14 social-video. ElevenLabs-Nachweis von ND-0903 auf ND-1139 umnummeriert |
 | Runde 3 (Änderungen seit 19.10. und _ND_Best Of / Projects, Teilrunde 2) | 20.10.2026 (Assets 07:40 bis 08:50 Athen, UTC+3) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 90 Treffer seit 19.10.2026, 08:37 (25 neue Einträge ND-0600 bis 0617, FFVR-0598 bis 0604; 3 Aktualisierungen FFVR-0266, 0291, 0292). Projects Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge (ND-0618 bis 0895, NFVR-0027 bis 0131). Zusammen 408 Einträge nach Korrektur Wissen: 320 nur intern, 85 angebot, 3 social-video |
 
 ## Runde 1: Stand je Ordner (18.10.2026)
@@ -104,6 +105,17 @@ Projects (`1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN`) gesamt: **in Arbeit**. Geprüft u
 Summe Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge. Keine 3D-Quelldateien. Tabu und nicht geöffnet: Bürrig, Currenta; nur Metadaten: _Wasserwerk, ???.
 
 Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, Actemium, Amatik, Amatik 2, Armstrong, Azure Spatial Anchors, BAT, Bayer, Bitterfeld, DEV_Intern_Tools, DLR, Digitale Zwillinge, Dom zu Halberstadt, Gdview, INFINITY, Kiel AR, Kiel Arena, Kölner Dom, Landtag, Landtag VR, LandtagTouch, Lhoist, LWL, Marketing, Mars2020, ND CAD Explorer, ND VR Tutorial, Omexom Hochspannung, Schiffshebewerk, SIGA, Sonnen, sonnen, Strahlenschutz, Submerge, Template ×3, Tut, UKK).
+
+## Runde 4: _ND_Best Of (geteilt) / Projects, Teilrunde 3a (21.10.2026)
+
+| Status | Pfad (unter Projects) | Dateien | Einträge | Bemerkung |
+|---|---|---|---|---|
+| fertig | AR | 0 | 0 | leer (R4-07) |
+| fertig | Actemium (AC_Kabel, Actemium Mechatronic) | 43 | 43 | Referenz offen (#88) |
+| fertig | Amatik | 2 | 2 | R4-07 |
+| fertig | Amatik 2 (Paternoster, LandtagTouch, Landtag_PointNClick, Lehrer VR, Messestand, Quiz der Allgemeinen Verwaltung, SteuerVR, VR Landtag, VR Landtag V2, WilhelmshavenVR) | 249 | 249 | #88–#90, #93 |
+
+Projects gesamt weiter **in Arbeit**. Nächstes Gebiet (Teilrunde 3b), 35 Ordner offen ab Armstrong: Armstrong, Azure Spatial Anchors, BAT, Bayer, Bitterfeld, DEV_Intern_Tools, Digitale Zwillinge, DLR, Dom zu Halberstadt, Gdview, INFINITY, Kiel AR, Kiel Arena, Kölner Dom, Landtag, Landtag VR, LandtagTouch, Lhoist, LWL, Marketing, Mars2020, ND CAD Explorer, ND VR Tutorial, Omexom, Schiffshebewerk, SIGA, sonnen, Sonnen, Strahlenschutz, Submerge, Template ×3, Tut, UKK.
 
 ## Ebene 0 und 1
 

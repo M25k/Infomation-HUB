@@ -88,6 +88,8 @@ Keine 3D-Quelldateien in Draeger, Drager, Dräger, Evonik, BASF, Infraserv und M
 
 **Nur intern** (AWG-Herstellerdaten). 3D hat aus der AWG-STEP-Datei der Turbo-Spritze EVO 235 Storz C ein erstes Echtzeit-Modell gebaut. Joachim (20.10.2026, 18:19, Chat mit One): weitermachen, Kupplung silbern ok. Fokus: saubere Teiletrennung und Benennung, UVs, Baking CAD → LODs, Workflow dokumentieren. Kein Katalog-Eintrag mit Außenkanal.
 
+**Runde 4 (21.10.2026):** Die AWG-STEP EVO 235 und alle Inhalte des 3D-Ordners AWG_TurboSpritze_EVO235_INTERN `1chKoUWUzFxOTmz28W_CT_63zWTxzBKOj` (inkl. v2–v5, Renders, Screenshots; FFVR-0661–0716) sind **nur intern** (vertraulicher Herstellerdatensatz; Ablage siehe #94/R4-01). Neu außerdem: Corpus C3 = Defibrillator/Monitor nach Vorbild corpuls C3, texturiert (FFVR-0598, 0649–0656); KI-Test Feuerlöscher Hunyuan3D (FFVR-0717–0726, nur intern).
+
 ## 3D-Standards (Bot 3D, Joachim 20.10.2026)
 
 - **Image-to-3D-Standard:** Hunyuan3D-2. Den EU-Ausschluss in der Lizenz hat Joachim bewusst ignoriert (Entscheidung Joachim, 20.10.2026).

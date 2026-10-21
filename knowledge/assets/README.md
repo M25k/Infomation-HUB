@@ -74,6 +74,8 @@ Stand 18.10.2026 (Joachim über One), ergänzt 19.10.2026 (Freigabe-Audits):
 - **3D** (seit 20.10.2026, Joachim im Chat mit One, 20.10.2026) erstellt die 3D-Modelle: Image-to-3D und CAD-Aufbereitung. Kandidaten in [3d-kandidaten.md](3d-kandidaten.md). Workflow CAD → Echtzeit: [../workflows/cad-zu-echtzeit.md](../workflows/cad-zu-echtzeit.md) (v3 (20.10.2026): Aufdrucke und das Entfernen von Innenflächen enthalten).
 - **Video** macht seit 20.10.2026 nur noch Reels, Renders, Turntables und Cutaways, keine Modellerstellung mehr. Bisher: Video übernimmt 3D-Rendering, Turntables und die GPU-Nutzung, über die gemeinsame Sperre in [../repos.md](../repos.md). Der Output landet in einem Unterordner in „Marketing Sales“. Turntables liegen in „Assets Output / Turntables“ (`1hLNuppiWO9sEAzqWiZ995_h5bV1dpa7d`). B-Roll legt Video ab 19.10.2026 unter „Assets Output / Turntables / B-Roll“ ab (`1tBtqIJlDKnEKCxBMx5rsGrp8C4wtznWQ`). Die Hannover-B-Roll (HVR-0560 bis HVR-0566) liegt im älteren Ordner „Assets Output / B-Roll“ (`1e_Zkj93CNRson7xZZRkw1Tc9hddQJC2G`). Kandidaten stehen in [3d-kandidaten.md](3d-kandidaten.md).
 - **Web, Social und Förderung** lesen [assets.csv](assets.csv) oder fragen Wissen. Sie verwenden nur Assets mit passender Freigabe.
+- **Zuständigkeit 3D-Material** (Runde 4, 21.10.2026): Quellfotos und CAD für 3D-Modelle gehen an den Bot 3D, Renders an Video.
+- Der Logo-Entwurf für StrahlenschutzVR kommt erst ins Drive, wenn Joachim es will.
 
 ## Ablauf
 

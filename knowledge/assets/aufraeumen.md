@@ -588,3 +588,25 @@ Vorschläge von Northdocks Assets, nichts umgesetzt. Umsetzung nur mit Joachims 
 - **zu R2-08** (Airplane Training / Flughafen Leipzig/Halle): Der Projektordner „Flughafen Leipzig/Halle“ `1IiC_stbI7WlCGRrUFmdVpAZSkoTnnYO8` ist leer (vollständig gelistet am 20.10.). Er kann ohne Verlust gelöscht werden.
 - **zu R2-03** (.blend1-Backups der Playground-Modelle): zwei neue .blend1 vom 19.10.: RTW_Inside_v012.blend1 `17URjlD2nxXncW1D-h78f8m4UEY24CuWE` und Corpus_C3.blend1 `1iQH6ASvhnpucbwsRJMxDRMUFB1ABNIcM`.
 - **zu R2-14** (Texturen mit Datum 3427): weiterhin vorhanden, in Teil 1 ignoriert.
+
+## Runde 4 (Assets, 21.10.2026)
+
+Nur gesammelt, nichts umgesetzt; umsetzen nur mit Joachims OK.
+
+| Nr. | Befund | Objekte (Drive-ID) | Vorschlag |
+|---|---|---|---|
+| R4-01 | **heikel:** Ein vertraulicher Herstellerdatensatz liegt im allgemeinen Marketing-Drive. Der Ordner trägt „INTERN“ im Namen, und BERICHT.md sagt „VERTRAULICH – AWG-Herstellerdatensatz, nur intern“. Marketing Sales ist für die ganze Northdocks-Domäne lesbar (Audit: keine Öffnung nach außen) | AWG_TurboSpritze_EVO235_INTERN `1chKoUWUzFxOTmz28W_CT_63zWTxzBKOj` mit v2–v5 (FFVR-0661–0716) | in einen Bereich mit eingeschränktem Zugriff verschieben (z. B. 3D-Arbeitsbereich mit Zugriff nur für das 3D-Team) oder bewusst so lassen. Entscheidung Joachim/Patrick; Bot 3D informieren |
+| R4-02 | Dublette in AWG v4/v5 | Strahlrohr_v4.blend `1dVjGFCV2tzbsD4JaYBtwt2TMvtlxoL10` = Strahlrohr_v5.blend `10czQ2rxfuHGoYietzEd4R3ZMxyoL05-G` (je 5.793.051 Byte; FFVR-0710/0715) | Bot 3D fragen, ob v5 eine bloße Kopie ist; sonst eine Datei entfernen |
+| R4-03 | Falsch abgelegt: Zwei große Tileset-Archive (zusammen ca. 818 MB) liegen in der Wurzel des Drehtag-Drives BilsterBerg. „greece“ passt nicht zum Drehort | tileset_greece.zip `1YnK3gs6vOzdC8GOs8OWmYNf1Ed25LZoP`, tileset_rc_output.zip `12hRTpQcnFhoEm7ycqkpDvzyYeJBazXIU` (ND-0903/0904) | Urheber fragen (3D/Video). In einen Unterordner „3D“ verschieben oder löschen, wenn es sich um einen Testexport handelt |
+| R4-04 | Die YouTube-Shorts sind byte-gleich mit den Finals in der Bibliothek, bei 12 Paaren | z. B. 01_…_short_v4 `1NQ_0KPedkK-Iihgrm0ql58CzVf3_qeXH` = 01_…_final_v4 `1zPocp0yYINddK-wKg1os4W7KlppE-wVb`; 02 v4/v5, 03 v5, 04 v3, 09 v4, 10 v3, 12 (ohne/v2/v3) ebenso | Video fragen, ob die Shorts bewusst Kopien sind (Upload-Ordner). Sonst nur eine Fassung behalten oder Verknüpfungen nutzen |
+| R4-05 | Byte-gleiche Thumbnails in der Bibliothek | 11_…_final_v2_thumb `1VYIWae0Qfp7dRelxQbDDlqJyayHSrWKg` = 11_…_final_v3_thumb `1LcZyal1imOCop-PhG5_9r2lAUuNUTFBE`; 12_…_final_thumb `1D1-6xYDEW5pG2INfJsuT2Tc8O4RMoQz-` = 12_…_final_v2_thumb `1lUIW26BZKHZThBst1xEpmJNCCH3-nJ-I` | ältere Fassung entfernen (Video) |
+| R4-06 | KI-Testmaterial ohne Kennzeichnung im Marketing-Drive | Feuerloescher_Test_2026-10-20 `1TXTOSrXDC_TH40W4HbAb-kPuGivnw6Te` (FFVR-0717–0726) | in „KI-Test“ umbenennen oder in den Arbeitsbereich von Bot 3D verschieben, damit es nicht als Produktmaterial verwendet wird |
+| R4-07 | Projects: Amatik in zwei Ordnern („Amatik“ mit 2 Website-Screenshots, „Amatik 2“ mit allen Projekten), dazu der leere Ordner „AR“ | Amatik, Amatik 2, AR unter `1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN` | „Amatik“ in „Amatik 2“ zusammenführen und in „Amatik“ umbenennen, „AR“ löschen |
+| R4-08 | Video ohne Dateigröße (möglicherweise defekt oder ein abgebrochener Upload) | LehrerVR_OFFLINE_EDIT_v004.mp4 `14sX81ZFkf7oNAx0BSgqcIM73NPHqfei7` (ND-0938) | im Drive öffnen und prüfen; wenn defekt, löschen |
+| R4-09 | Tippfehler im Dateinamen | ActeriumMechatronic3–5.JPG `1c6sx21ptZWtTb5WNm-cCpsIiFcefPpz0`, `1Ua2xXEwfaoVlimEdIg-GxFAmR5HELHNx`, `18YS0r4-NLtOsSYDuUSgp5Nyc0lsuQ8Nr` (NFVR-0149–0151) | in „ActemiumMechatronic…“ umbenennen |
+
+### Ergänzungen zu früheren Runden
+
+- **zu R2-03** (.blend1-Sicherungen): neu Police_Male.blend1 `1UsBxOdfbGstX5yvni0-u3ZPVDwK89wt7` (21.10.2026); Corpus_C3.blend1 `1iQH6ASvhnpucbwsRJMxDRMUFB1ABNIcM` am 20.10. erneut geändert.
+- **zu R2-14** (Texturen mit Datum 3427): weiter vorhanden, in Teil 1 ignoriert.
+- **zu R3-10**: am 21.10. nicht neu geprüft.
