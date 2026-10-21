@@ -151,3 +151,9 @@ Quelle: Delta-Audit von Assets, 20.10.2026 (90 Objekte, rein lesend, 3 neue Fund
 | 93 | Zu welchem Projekt gehören Paternoster3/4.jpg (ND-0908/0909)? | Projects / Amatik 2. Vorschlag: Landtag prüfen, bis dahin nur intern | offen (Joachim) |
 | 94 | Vertrauliche AWG-Herstellerdaten im domänenweit lesbaren Marketing-Drive verschieben (R4-01)? | AWG_TurboSpritze_EVO235_INTERN mit v2–v5 (FFVR-0661–0716), laut Bericht „VERTRAULICH – nur intern“. Vorschlag: in einen eingeschränkten Ordner (nur 3D-Team) verschieben; Bot 3D informieren | offen (Joachim/Patrick) |
 | 95 | Ordner „Firefighter VR Mobile - Infos & Docs [Public]“ per Link lesbar: gewollt? | Freigabe-Audit 21.10.2026, Bewertung niedrig; enthält nur die 3 Quick Setup Guides. Vorschlag: so lassen, wenn die Guides öffentlich sein sollen (#87) | offen (Joachim) |
+
+## Lieferung Video 21.10.2026 (ElevenLabs-Neufassungen)
+
+| # | Frage | Kontext | Status |
+|---|---|---|---|
+| 96 | Darf der Zielbild-Wortlaut zu MeditrainVR in Reels auf Social und Web stehen? | Reel 10 v4 (MED-0061, Short MED-0062) sagt „MeditrainVR entwickelt sich zu einer Trainingsplattform nach dem Vorbild von FirefighterVR“ ([../claims.md](../claims.md) Z. 48, Stufe Zielbild). [document-rules Nr. 8](../document-rules.md) nennt Reels, Social und Websites ausdrücklich; [websites/_shared.md](../websites/_shared.md) (Video und Clips) und README Regel 8 erlauben auf Social/Web aber nur Stufe „öffentlich“. Bis zur Klärung: Social für 10 v4 zurückgehalten, Website wie Vorversion. Vorschlag: Zielbild-Wortlaut (als Ziel formuliert, laut Nr. 8) auf Social und Web erlauben und die Regel in _shared.md/README um „oder Zielbild im Wortlaut von claims.md“ ergänzen | offen (Joachim) |
