@@ -16,7 +16,7 @@ Joachim über One, 20.10.2026, 16:26: „We need to bring Strahlenschutz closer 
 | Layout | Helle Blauflächen in den Abstufungen, Klinik-/OP-Fotos mit VR-Headset, Headline groß in ExtraBold, Buttons rund oder mit abgerundeten Ecken, Social-Media-Grafikvariante mit Bildmarke, Footer „POWERED BY NORTHDOCKS“ |
 | Nicht im Manual | Schutzzone, Mindestgröße, Don'ts, Bewegtbild |
 
-Einordnung (Zielbild, Joachim über One, 20.10.2026, 16:27): StrahlenschutzVR wird eines der Trainings innerhalb von MeditrainVR; Bezeichnung in Logo/Titel „Strahlenschutz – ein MeditrainVR-Training“ (Wortlaut offen, #100) (document-rules Nr. 8).
+Einordnung (Zielbild, Joachim über One, 20.10.2026, 16:27): StrahlenschutzVR wird eines der Trainings innerhalb von MeditrainVR; Bezeichnung in Logo/Titel „Strahlenschutz – ein MeditrainVR-Training“ (Logo/Titel); im Fließtext „Strahlenschutz, ein MeditrainVR-Training“ (Joachim 21.10.2026, #100) (document-rules Nr. 8).
 
 Lücke: Ein eigenes StrahlenschutzVR-Logo im MeditrainVR-Aufbau existiert nicht (nur Slides-Folie STR-0001 im alten Stil). Name entschieden (siehe Schreibweise).
 
@@ -29,7 +29,7 @@ Lücke: Ein eigenes StrahlenschutzVR-Logo im MeditrainVR-Aufbau existiert nicht 
 
 - Gewählt: One-Entwurf „Hand mit Punkt, zwei Bögen darüber“. Hand kleiner und anatomisch korrekt, **kein Warnzeichen**, Farbe **#63B1E5**, beide Namen (StrahlenschutzVR / RadiationProtectionVR).
 - Farbfrage #64ACCC (Logo-SVG MeditrainVR) vs. #63B1E5 (Styleguide): **entschieden für #63B1E5**.
-- Patrick Reschke gibt nur Richtungs-Feedback ([Asana 1219701590971888](https://app.asana.com/0/0/1219701590971888), fällig 30.10.2026) und baut keine Vektordateien. Wer den Vektor baut, ist offen ([../open-questions.md](../open-questions.md)).
+- Patrick Reschke gibt Richtungs-Feedback und baut danach die Vektordatei ([Asana 1219701590971888](https://app.asana.com/0/0/1219701590971888), fällig 30.10.2026; Joachim 21.10.2026, 15:04). Wer den Vektor baut, ist offen ([../open-questions.md](../open-questions.md)).
 
 ## Quellen (Drive)
 

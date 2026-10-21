@@ -34,7 +34,7 @@ Für Reels nutzt Video derzeit Oswald Bold + Open Sans SemiBold (Northdocks) und
 
 ## Widersprüche und Lücken
 
-1. **Northdocks-Fließtext:** CI 2020 Roboto Mono; Video nutzt Open Sans; Präsentationsvorlage 2021 Arial/Calibri; Website Outfit; Submarken-Footer Nunito Sans. Welche gilt?
+1. **Northdocks-Fließtext: entschieden** (Joachim 21.10.2026, 15:04, via One): **Roboto Mono** (CI 2020). Abweichend bisher: Video Open Sans, Präsentationsvorlage 2021 Arial/Calibri, Website Outfit, Submarken-Footer Nunito Sans; bei Überarbeitung auf Roboto Mono umstellen.
 2. **Northdocks-Headline-Gewicht:** CI 2020 Oswald Heavy; im Drive _fonts nur Regular/Bold/Light plus Variable Font (bis Bold, kein Heavy); Video nutzt Bold.
 3. **Northdocks-Manual 26.09.2023 (ND-0157):** reine Bilddatei, keine Schriftangabe auslesbar; ob es die Dachmarke neu definiert, ist offen.
 4. **Northdocks-Website** nutzt Outfit statt Oswald; Regel verlangt die CI-Schrift.
