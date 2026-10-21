@@ -150,7 +150,7 @@ Quelle: Delta-Audit von Assets, 20.10.2026 (90 Objekte, rein lesend, 3 neue Fund
 | 92 | Herkunft der BilsterBerg-Tilesets (ND-0903 tileset_greece.zip, ND-0904 tileset_rc_output.zip, zusammen ca. 818 MB)? | Liegen in der Wurzel des Dreh-Footage-Drives BilsterBerg, „greece“ passt nicht zum Drehort (R4-03). Vorschlag: Urheber (3D/Video) fragen, bis dahin nur intern | offen (3D/Video) |
 | 93 | Zu welchem Projekt gehören Paternoster3/4.jpg (ND-0908/0909)? | Projects / Amatik 2. Vorschlag: Landtag prüfen, bis dahin nur intern | offen (Joachim) |
 | 94 | Vertrauliche AWG-Herstellerdaten im domänenweit lesbaren Marketing-Drive verschieben (R4-01)? | AWG_TurboSpritze_EVO235_INTERN mit v2–v5 (FFVR-0661–0716), laut Bericht „VERTRAULICH – nur intern“. Vorschlag: in einen eingeschränkten Ordner (nur 3D-Team) verschieben; Bot 3D informieren | offen (Joachim/Patrick) |
-| 95 | Ordner „Firefighter VR Mobile - Infos & Docs [Public]“ per Link lesbar: gewollt? | Freigabe-Audit 21.10.2026, Bewertung niedrig; enthält nur die 3 Quick Setup Guides. Vorschlag: so lassen, wenn die Guides öffentlich sein sollen (#87) | offen (Joachim) |
+| 95 | Ordner „Firefighter VR Mobile - Infos & Docs [Public]“ per Link lesbar: gewollt? | Freigabe-Audit 21.10.2026, Bewertung niedrig; enthält nur die 3 Quick Setup Guides. Vorschlag: so lassen, wenn die Guides öffentlich sein sollen (#87) | erledigt: gewollt, darüber werden FirefighterVR-Dokumente geteilt; nur für öffentliche Weitergabe geeignete Dokumente ablegen (Joachim über Assets, 21.10.2026; README Freigaberegeln) |
 
 ## Lieferung Video 21.10.2026 (ElevenLabs-Neufassungen)
 
