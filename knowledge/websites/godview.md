@@ -29,6 +29,7 @@ Hosting-Aussage auf der Site: Deutschland, DSGVO. Intern Linode / DLR-On-Prem **
 4. VR-Export und 3D Tiles (auch kundeneigene Tilesets, analog FFVR-FAQ) sind Produktfeatures, kein FirefighterVR-Katalog.
 5. Englisch: entweder vollwertige EN-Texte oder klarer Umschalter; keine halben Strings.
 6. Kontakt: kontakt@northdocks.com, Telefon Hub **+49 (0) 2173 9996715**. `godview@…` nicht zum Firmenstandard machen.
+7. **AGB:** Die GodView-AGB stellt Joachim selbst am Wochenende online, nicht automatisch über den GodView-Bot (Joachim, 21.10.2026, Discord #small_talk, via One). Bis dahin keine AGB-Seite durch Bots anlegen oder veröffentlichen.
 
 ## Öffentlich sagbar
 
