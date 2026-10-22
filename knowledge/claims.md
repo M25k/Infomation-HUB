@@ -40,6 +40,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Entwickelt mit Deutschem Feuerwehrverband / „German Fire Brigade Association“ | **nicht verwenden** | Business Deck; öffentliche Mitgliedschaft ist WFVD, nicht DFV |
 | Vertrieb FirefighterVR in Österreich über Rumpold (ganz Österreich, nicht nur Kärnten); damit Abdeckung Deutschland, Italien und Österreich | intern | Patrick, Team-Discord #firefightervr, 15.10.2026. Nicht öffentlich, solange nicht freigegeben |
 | VR-Feuerlöscher-Training **ergänzt** die Erstausbildung, ersetzt sie nicht: nach DGUV Information 205-023 muss in der Erstausbildung jede Person selbst eine reale Flamme löschen (z. B. gasbetriebener Löschtrainer) | intern belegt (Grenze für alle Texte) | Cursor-Chat ND-NB-20 (4b887f2e); passt zu Silas 03.12.2025 (kein Ersatz der Brandschutzhelferausbildung, [mailakte-silas.md](mailakte-silas.md)). Nie „ersetzt die Ausbildung mit realem Feuer“ |
+| FirefighterVR **ergänzt die Heißausbildung, ersetzt sie nicht** (Modul Rauchgasdurchzündung/Flashover) | intern belegt (Hochstufung auf öffentlich: [assets/open-questions.md](assets/open-questions.md) #114) | Live auf firefightervr.de/trainingslist.html (geprüft 22.10.2026): „Flashover-Warnsignale erkennen – ergänzt die Heißausbildung“; der Zusatz „ersetzt sie nicht“ steht dort nicht. Inhaltlich wie Z. 42 (DGUV 205-023). Verwendet in Reel 17 (FFVR-0859) |
 
 ## Meditrain / Strahlenschutz
 
