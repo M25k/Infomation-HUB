@@ -34,6 +34,10 @@ Wortmarke wirkt wie Oswald Bold. Website godview.solutions: Oswald, Inter, Space
 
 „DIGITAL TWIN OPERATION PLATFORM“ (App-Startbildschirm).
 
+## Reels
+
+- **Endkarte:** GodView-Reels enden nur mit der GodView-Wortmarke, ohne Northdocks-Logo. (Joachim 22.10.2026, 12:30 UTC+3, übermittelt von Video) Konkretisierung von [document-rules.md](../document-rules.md) Nr. 9 (eine CI pro Reel).
+
 ## Offen
 
 - GodView.jpg ist die Pico-MDM-App-Kachel (geklärt über Fundort). Ein Markenlogo fehlt weiterhin.
