@@ -13,6 +13,8 @@ Status: **bestätigt** von Joachim am 18.10.2026 (über One). Die Bürrig-Regel 
 
 Generelle Namensregel für spätere Runden: Ordner namens „Personal“, „Gehalt“, „FiBu“, „Buchhaltung“, „Steuer“, „Verträge“, „Bank“, „Rechnungen“, „Angebote“, „Investors“ sowie „Private“ (außerhalb von Code- und Engine-Strukturen) gelten als tabu, auch wenn sie unten fehlen; neue Funde meldet Northdocks Assets an Northdocks Wissen.
 
+Schreibvarianten (seit 22.10.2026, Runde 5): „Bürrig“, „Buerrig“, „Bürig“, „Buerig“ und „Burrig/Burig“ gelten gleich; Filter `b(ü|ue|u)r{1,2}ig` (ohne Groß-/Kleinschreibung). Bürrig-Dateien können auch außerhalb der Bürrig-Ordner liegen, deshalb gilt die Namensregel auch für Dateinamen.
+
 ## Tabu (bestätigt)
 
 | Ordner | ID | Kategorie | Grund | Status |
@@ -79,6 +81,11 @@ Generelle Namensregel für spätere Runden: Ordner namens „Personal“, „Geh
 | 001 Personal ND | `14hd83J9lWAeWxqRoVcY9eeBbjEHQ3HUq` | Finanzen/Personal/Verträge (Namensregel, bestätigt 18.10.2026) | Name „Personal“; Elternordner der Lohnunterlagen (Ablage darüber nicht aufgelöst) | bestätigt |
 | 001 Personal ND / 001 MA / Lohnunterlagen-Ordner | `18GAVEE6yOhgiO5ySYyooFnQihHYdRRGF` | Finanzen/Personal/Verträge (Namensregel, bestätigt 18.10.2026) | Lohnunterlagen; Ordnername enthält Mitarbeiternamen, hier nicht genannt (Elternordner 001 MA `1G8Qra4BAuMt4M3PxHV2tD09B5iH5JYuP`) | bestätigt |
 | … / Kfz-Akte / Kfz-Behördenverfahren 2025 | `1PQf_ZqtUkmOF3rWrsuvSDptqPswkAMtF` | Finanzen/Personal/Verträge (Namensregel, bestätigt 18.10.2026) | Behördenverfahren zu einem Firmenfahrzeug (vergleichbar Verträge/Finanzen); Ablage oberhalb der Kfz-Akte nicht aufgelöst. Runde 2 (19.10.2026): von Assets über die Änderungssuche gefunden, Inhalte nicht katalogisiert | bestätigt |
+| _ND_Best Of (geteilt) / Projects / Digitale Zwillinge / Making of (nur die Bürrig-Dateien darin) | `1EgB8H6UDFxHu6rMGzrmM8U8DVviC1UoL` | Bürrig/Currenta | 3 Dateien mit Bürrig-Bezug außerhalb des Bürrig-Ordners, nicht katalogisiert, keine Namen (R5-01). Der übrige Ordnerinhalt ist katalogisiert | bestätigt (Wissen 22.10.2026, Bürrig-Regel) |
+| … / Digitale Zwillinge / Chempark-Ordner | `1-MxECJQzyLRE0dXbEGsY1v6YP-72CATv` | Currenta, Standort unklar | vorsorglich, nicht geöffnet (#110a) | vorsorglich bis Joachims Antwort (#110a) |
+| … / Digitale Zwillinge / Leverkusen | `1943nrAH5OmA-RTLx9sb5vXOFpHL_9QuK` | Standort von Bürrig | vorsorglich, nicht geöffnet | vorsorglich bis Joachims Antwort |
+| … / Digitale Zwillinge / (Bürrig-Schreibvariante) | `11uGdbd2j5TPXXD7zVIwDW5StWEZsrRj4` | Bürrig (Schreibvariante „buerig“) | nicht geöffnet | vorsorglich bis Joachims Antwort |
+| … / Digitale Zwillinge / (Name nach Namensregel „Angebote“) | `1-Pd3SYXfjxnB8ZKhXQ0BWiiMJ3KW3aFg` | Namensregel | nicht geöffnet | vorsorglich bis Joachims Antwort |
 
 ## Nur intern (Regel, kein Tabu)
 

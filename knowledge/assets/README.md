@@ -27,7 +27,7 @@ Gilt für [assets.csv](assets.csv) und die Tabellen der Produktdateien.
 | `pfad` | Pfad im Drive zum Zeitpunkt der Sichtung | Text, kann veralten; maßgeblich ist die Datei-ID |
 | `typ` | Art des Assets | 3D, Video, Foto, Audio, Doku, Präsentation, Render, Screenshot, CI (Logos, Icons, Schriften, Farben, Styleguides/Manuals, Vorlagen; seit 19.10.2026) |
 | `format` | Dateiformat | z. B. mp4, mov, jpg, fbx, pptx |
-| `groesse` | Dateigröße | MB |
+| `groesse` | Dateigröße | MB im Sinne von MiB (1 MB = 1.048.576 Byte), eine Nachkommastelle; so seit Runde 1 im Katalog. Assets rechnet in Dezimal-MB (1.000.000 Byte) und rechnet beim Import um. Bestehende Einträge werden nicht nur wegen der Einheit geändert (Wissen 22.10.2026) |
 | `produkt` | Produkt oder Vertical | FirefighterVR, MeditrainVR, StrahlenschutzVR, Next Factory VR, SpearheadVR, GodView, Storywalx, Meta-dom, Northdocks, IMP Solutions; leer bei Kunden-CI (KCI) |
 | `projekt_kunde` | Projekt oder Kunde | Freitext |
 | `datum` | Aufnahme- oder Erstellungsdatum | JJJJ-MM-TT |

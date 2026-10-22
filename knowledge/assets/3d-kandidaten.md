@@ -99,3 +99,40 @@ Keine 3D-Quelldateien in Draeger, Drager, Dräger, Evonik, BASF, Infraserv und M
 - **Hersteller-CAD** (z. B. AWG-STEP) bleibt **intern**.
 - **Hoher VRAM-Bedarf:** Solche Modelle sind für den GodView-AI-Inspect-PC mit 2 × 96 GB VRAM vorgemerkt, siehe [../repos.md](../repos.md) (Abschnitt GPU-Rechner).
 - **Workflow CAD → Echtzeit** (STEP → LODs, UVs, Bake vom CAD-Highpoly): [../workflows/cad-zu-echtzeit.md](../workflows/cad-zu-echtzeit.md), Skripte [../workflows/cad2rt/](../workflows/cad2rt/). v3 (20.10.2026): Aufdrucke und das Entfernen von Innenflächen enthalten (Quelle: Bot 3D).
+
+## Runde 5 (Assets, 22.10.2026): neue 3D-Quellen
+
+Größen laut Drive-Metadaten in Dezimal-MB (Angabe von Assets; im Katalog in MiB umgerechnet). Für 3D-Quellen gilt „Lizenz nicht schriftlich belegt“, wo nichts anderes steht.
+
+### FAHRZEUGE
+
+- **FFVR-0849** PoliceCar.png (Meeting 21.10.2026 / Playground), Screenshot im VR-Playground: Streifenwagen „Patrol Car“ im Spiel, Fahrzeugmenü mit Car 01–03, Oil Tanker, Fireboat und Patrol Car. **nur intern** (Entwicklungsstand). Das Patrol-Car-Modell ist schon katalogisiert (FFVR-0254 bis FFVR-0261, Playground / Assets / PoliceCar, social-video). Für Car 01–03, Oil Tanker und Fireboat habe ich im Drive keine Quelldateien gefunden. Für Video lohnt es sich, im Unreal-Projekt nachzufragen.
+- **ND-1175** A004_RocketLaunch_Police.jpg (Projects / Armstrong): Render mit Polizeiauto in einer Fulldome-Szene, **nur intern** (Fremd-IP vermutet).
+
+### PICO
+
+Kein Pico-Headset-Modell gefunden (Teil 1 und Projects Teilrunde 3b).
+
+### Neue FirefighterVR-Assets (Szene Hygiene, Shared Drive FirefighterVR / Assets, angelegt 21./22.10.2026)
+
+| ID | Set | Inhalt | Freigabe / Hinweis |
+|---|---|---|---|
+| FFVR-0770–0775 (+ Update FFVR-0657) | Phone_intern | Haus-/Wandtelefon mit Hörer: Blend, FBX, SPP, Texturen, Vorschau-Render | nur intern bis #104 (Vorschlag social-video, Lizenz nicht schriftlich belegt) |
+| FFVR-0776–0783 | RTW_Biohazard_Bin | Kanülen-/Abwurfbehälter für infektiösen Abfall: Blend, FBX, SPP, Texturen, Render (gesichtet) | social-video |
+| FFVR-0784–0789 | RTW_WasteBin | Abfallbehälter RTW: Blend, FBX, SPP (19 MB), Texturen | social-video |
+| FFVR-0790–0798 | Towel_Dispenser | Papierhandtuchspender geschlossen/offen: Blend, FBX, SPP, Texturen, Render (gesichtet) | social-video |
+| FFVR-0833–0835 | AWG_TurboSpritze_EVO235_INTERN / v6 | ZIP Modell v6, Vergleichsbilder, Tafel vorher/nachher | **nur intern** (vertrauliche Herstellerdaten) |
+
+### Projects Teilrunde 3b (alles nur intern)
+
+| ID | Datei/Gruppe | Ablage | Größe | Hinweis |
+|---|---|---|---|---|
+| ND-1283–1300 | Photogrammetrie-/CAD-Modelle Dormagen, Krefeld, MPC, D8, Technikum (FBX, RAR, Textursets) | Digitale Zwillinge / FBX | bis 574 MB | Currenta-Standorte (nicht Bürrig), Industrieanlage, sicherheitsrelevant: keine Weitergabe an Video |
+| ND-1278 | model.glb | Digitale Zwillinge / CP Pro | 15 MB | Herkunft unklar |
+| ND-1302–1304 | bauplatz_v003 (ZIP, FBX, Textur) | Digitale Zwillinge / ISIT | bis 6,7 MB | Kunde unklar |
+| MD-0025, MD-0030, MD-0033 | Dom-Nordturm-Import (3,9 GB), Testmodell, nd4dom-Paket (1,5 GB) | Digitale Zwillinge / Kölner Dom bzw. Making of | | Produktionsdaten aus dem Kundenprojekt Kölner Dombauhütte |
+| ND-1317 | ND4Industry-Paket (16,8 GB) | Digitale Zwillinge / Making of | | nicht geöffnet |
+
+### Quellfotos für Bild-zu-3D (an Bot 3D)
+
+- **FFVR-0799–0832**: 34 Referenzfotos des realen AWG-Strahlrohrs TURBO-SPRITZE EVO 235 (Handyfotos vom 21.10.2026, geordnet nach Ansicht 1 bis 8). **nur intern** (Ordner INTERN, Herstellerdaten-Kontext). Passen zum laufenden Modell AWG v6.

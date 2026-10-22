@@ -610,3 +610,20 @@ Nur gesammelt, nichts umgesetzt; umsetzen nur mit Joachims OK.
 - **zu R2-03** (.blend1-Sicherungen): neu Police_Male.blend1 `1UsBxOdfbGstX5yvni0-u3ZPVDwK89wt7` (21.10.2026); Corpus_C3.blend1 `1iQH6ASvhnpucbwsRJMxDRMUFB1ABNIcM` am 20.10. erneut geändert.
 - **zu R2-14** (Texturen mit Datum 3427): weiter vorhanden, in Teil 1 ignoriert.
 - **zu R3-10**: am 21.10. nicht neu geprüft.
+
+## Runde 5 (Assets, 22.10.2026)
+
+Nur gesammelt, nichts umgesetzt; umsetzen nur mit Joachims OK. Abgeglichen mit R1 bis R4, nichts doppelt.
+
+| Nr. | Vorschlag | Objekte (Drive-ID) | Hinweis |
+|---|---|---|---|
+| R5-01 | **Heikel:** Im Ordner Projects / Digitale Zwillinge / Making of liegen Dateien mit Bürrig-Bezug außerhalb des Bürrig-Ordners. Vorschlag: in den Bürrig-Ordner verschieben (Patrick) | nur Ordner `1EgB8H6UDFxHu6rMGzrmM8U8DVviC1UoL` (3 Dateien, nicht katalogisiert, keine Namen) | Bürrig ist tabu; die Dateien sind vom Ordner-Filter nicht erfasst. Dazu kommen 4 Dateien und 1 Ordner mit Leverkusen-Bezug in Digitale Zwillinge, vorsorglich tabu (Frage 7) |
+| R5-02 | Kopien der Lhoist-Flugbilder („- Copy“, „- Copy-2“ bis „- Copy-4“) | ND-1311 `1ER9ubD7ZHJDlA2jATaIwvL53rVstTXFd` (byte-gleich mit ND-1312), ND-1305 `1ENO3TYR_IJUbuG-UM0-f5T3sL9fc5wzP`, ND-1306 `1EJEjCi43ERRpDkldVQKEULaIHSsOoHp_`, ND-1307 `1EHb0EPRtLYb8pW5Ktj7r-Hvo9p4odo4G`, ND-1308 `1E708WSlqgTYgiVKjLL9th0oHhzNQYbdQ` | Nur ND-1311 ist sicher byte-gleich. Die „20181224-…-Copy“-Dateien haben unterschiedliche Größen (vermutlich Varianten), erst prüfen |
+| R5-03 | PDF „Schulterblick Hönnetal“ ist byte-gleich mit dem Konzeptblatt im Hauptordner | ND-1310 `1EZTBbBZjlMRv_D9fzvnT-STi16fyJVXa` = ND-1268 | Kopie entfernen oder als Verknüpfung |
+| R5-04 | Whitepaper „bidirektionale 3D-Geodaten-Management-Lösung“ doppelt | ND-1319 `1IwKUSw7daYOhN-H8WM-03VgGitnf4qKv` (Making of) = ND-1276 `1L6DWqfQ4WKIPzvmi-2JxDO-w__FReuDs` | gleicher Name, gleiche Größe |
+| R5-05 | Drei Armstrong-Videos gibt es je zweimal mit gleichem Namen, aber anderer Größe | ND-1204/ND-1205, ND-1207/ND-1208, ND-1210/ND-1211 | Keine Dubletten. Vorschlag: umbenennen (z. B. „_alt“), damit klar ist, welche Fassung gilt |
+| R5-06 | Leere Textdatei (0 Byte) | `13CTc2hnoTVXXSpMKxX-8Ib5fC5QeLHw6` (Dom zu Halberstadt) | löschen |
+| R5-07 | Leerer Ordner Gdview | Projects / Gdview `1_bKYBwV0BxDi765ZZv_gldY7kQpTGlFD` | löschen oder mit GodView-Material füllen |
+| R5-08 | Blender-Backups (.blend1), Substance-Autosaves und eine Sperrdatei bei den neuen Hygiene-Assets, das Original liegt jeweils im selben Ordner | `1Y61MU3_2D_1xQndUn_km2MJFX-6O6eJ6`, `1YdSjirqQgttafyyUgd6IUjkUqP45Jvwv`, `1Gs6_DlRt-J30n99MjFTTBVkv-jQDpjja`, `1AceR0GK4oOQfd415IKww5AuQ5RHNrVWv`, `1mp2CoWCdvjQaBx2ou6sWgJAkg5m8yARt` (.blend1); `1cVqrLTL7WJXplEEV7ffWlNu10puIXQHd`, `1Da0HiMpruq5DuXu8wevp0BFLJUkCcKlD`, `1MYQpk1-2bu5sGHtZdpvWWBwMuC7bKpvi` (Autosaves, je ca. 19 MB); `1YHoJy1_TQhUitBemKLB7YF_-7R4-T8Xn` (painter_lock) | Erst löschen, wenn die Arbeit an den Assets abgeschlossen ist. Die Sperrdatei zeigt, dass das Projekt vielleicht noch offen ist |
+| R5-09 | Kopien der Asset-Renders im Meeting-Ordner 21.10.2026 / Hygiene | FFVR-0845 `1rE9dklnqwPklhekhydFuM34jgrLQygRf` (= FFVR-0771), FFVR-0848 `1g_qoxdwgqmib0oxvZPDqKHVL11Lt26c3` (= FFVR-0794) | Nach dem Meeting entbehrlich, Originale in Shared Drive FirefighterVR / Assets |
+| R5-10 | 10 Verknüpfungen (Shortcuts) im Ordner Armstrong zeigen auf Videos außerhalb | `1yi8SnKO4S8T3jeqNWHUEX3l_Ei3j2bmi`, `1ePJxqxrypJTDdEAUK6EW1-J_djlUOs2G`, `1OaTWUBHRRJjFMdbYkENNuT43Q9bfksnR`, `1c679I41_k7h6sR8EFf7WRFgY_XbIOI37`, `15M5OldDnslQaG-LH7O00_eZkEYAQqBhV`, `1aB7bqYsWxJsRcaSlW1DCkop9YsMhZErz`, `14uzOFsEwHpiu8dEuKkNs3cCuKl5ebTWj`, `1vQpZT6KVX7Q8k--GFjvC8TdRKjBC7pG-`, `1Ts4P3VzYRSPW8tPpzHkJhr3jPLBn-aSc`, `1Efi1J1WCDCnomg5uNinygzX0xqXkvMgd` | Prüfen, ob die Ziele noch existieren; tote Verknüpfungen löschen |

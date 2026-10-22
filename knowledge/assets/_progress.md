@@ -106,6 +106,14 @@ Summe Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge. Keine 3D-Quelldateien. 
 
 Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, Actemium, Amatik, Amatik 2, Armstrong, Azure Spatial Anchors, BAT, Bayer, Bitterfeld, DEV_Intern_Tools, DLR, Digitale Zwillinge, Dom zu Halberstadt, Gdview, INFINITY, Kiel AR, Kiel Arena, Kölner Dom, Landtag, Landtag VR, LandtagTouch, Lhoist, LWL, Marketing, Mars2020, ND CAD Explorer, ND VR Tutorial, Omexom Hochspannung, Schiffshebewerk, SIGA, Sonnen, sonnen, Strahlenschutz, Submerge, Template ×3, Tut, UKK).
 
+## Runde 5: Änderungen seit 21.10. und Projects Teilrunde 3b (22.10.2026)
+
+| Status | Pfad (unter Projects) | Bemerkung |
+|---|---|---|
+| fertig | Armstrong, Azure Spatial Anchors, BAT, Bayer, Bitterfeld, DEV_Intern_Tools, Digitale Zwillinge, DLR, Dom zu Halberstadt, Gdview (leer), INFINITY | 11 Ordner, 244 Einträge; offene Fragen #104 bis #110 |
+
+Teil 1 (Änderungen seit 21.10.2026, 08:50): 98 neue Einträge, Update FFVR-0657. Gesamt 342 Einträge (ND-1152–1348, FFVR-0770–0858, MD-0025–0063, MED-0071–0073, NFVR-0175–0188), keine ID-Kollision. Projects weiter **in Arbeit**, nächste Teilrunde 3c ab sonnen/Sonnen.
+
 ## Runde 4: _ND_Best Of (geteilt) / Projects, Teilrunde 3a (21.10.2026)
 
 | Status | Pfad (unter Projects) | Dateien | Einträge | Bemerkung |
