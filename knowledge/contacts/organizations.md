@@ -152,7 +152,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** Aerzen, DE (Dibbetweg 31, 31855 Aerzen)
 - **Typ:** Übungsanlage / Trainingszentrum von Koppenhagen112
 - **Ansprechpartner:** [Jan-Hendrik Koppenhagen](people.md#jan-hendrik-koppenhagen), [Dennis Heumann](people.md#dennis-heumann) (Vertrieb VR seit 04/2026), Frank Koppenhagen, Daniel Viebrock
-- **Themen:** Realbrand- und Taktiktraining, Indoor-Arena; Koppenhagen112 ist Firefighter-VR-Händler (Händlerpreise, Abo)
+- **Themen:** Realbrand- und Taktiktraining, Indoor-Arena; Koppenhagen112 ist Firefighter-VR-Händler (Händlerpreise, Abo); Partnervertrag unterschrieben, weiterer Händler wie Rumpold (Patrick, Discord #small_talk, 22.10.2026, übermittelt von One)
 - **Bezug:** Auftrag 2024/25, archiviert ([projects.md](../projects.md), [history.md](../history.md)); FreeAgent-Kontakt Koppenhagen GmbH; Asana-Projekt „RescueArena Koppenhagen“; Quelle [rescue-arena.de](https://rescue-arena.de/); Mailakte Silas [Asana](https://app.asana.com/0/0/1208864434296029), [Asana](https://app.asana.com/0/0/1208964653680311), [Asana](https://app.asana.com/0/0/1203393673702944)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -511,6 +511,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
   - 15.10.2026 · Discord (intern) · Patrick: Rumpold übernimmt den FirefighterVR-Vertrieb für ganz Österreich
+  - Weiterer Händler: Koppenhagen112 (Partnervertrag unterschrieben, Patrick, Discord #small_talk, 22.10.2026), siehe [RescueArena (Koppenhagen112)](#rescuearena-koppenhagen112)
 
 ## CIRSE (Cardiovascular and Interventional Radiological Society of Europe)
 

@@ -86,6 +86,8 @@ Feuerwehrmann mit VR-Headset, Orange-Rot-Verlauf als Duotone, Schwarz/Weiß-Typo
 
 ## Regeln
 
+- **Videos:** FirefighterVR-Videos tragen kein Northdocks-Branding, nur das jeweilige Vertical. Eigennamen, Produktnamen und URLs müssen richtig ausgesprochen werden. Aussprache über das ElevenLabs-Wörterbuch „Northdocks“ (siehe [websites/_shared.md](../websites/_shared.md) Regel 18) (Patrick, Discord #videos, 22.10.2026, übermittelt von One)
+
 Schutzzone, Mindestgröße, Don'ts: **nicht dokumentiert**.
 
 ## Offen
