@@ -86,7 +86,7 @@ Schreibvarianten (seit 22.10.2026, Runde 5): „Bürrig“, „Buerrig“, „B�
 | … / Digitale Zwillinge / Leverkusen | `1943nrAH5OmA-RTLx9sb5vXOFpHL_9QuK` | Standort von Bürrig | vorsorglich, nicht geöffnet | vorsorglich bis Joachims Antwort |
 | … / Digitale Zwillinge / (Bürrig-Schreibvariante) | `11uGdbd2j5TPXXD7zVIwDW5StWEZsrRj4` | Bürrig (Schreibvariante „buerig“) | nicht geöffnet | vorsorglich bis Joachims Antwort |
 | … / Digitale Zwillinge / (Name nach Namensregel „Angebote“) | `1-Pd3SYXfjxnB8ZKhXQ0BWiiMJ3KW3aFg` | Namensregel | nicht geöffnet | vorsorglich bis Joachims Antwort |
-| … / Digitale Zwillinge / Making of: ND-1274 (Whitepaper Currenta, 01/2019) und ND-1277 (previews.pptx) | Einzeldateien, siehe assets.csv | Currenta-Standort unklar | Currenta-Standort unklar, tabu bis geklärt (Regel Joachim 18.10.2026); Standortklärung #111 | tabu bis geklärt (Wissen 22.10.2026) |
+| … / Digitale Zwillinge / Making of: ND-1274 (Whitepaper Currenta, 01/2019) | Einzeldatei, siehe assets.csv | Bürrig/Currenta | Bürrig-Bezug bestätigt durch Textsuche von Assets (#111, 22.10.2026). ND-1277 (Standort Dormagen) ist nicht tabu, nur intern | tabu (bestätigt, Bürrig-Regel) |
 
 ## Nur intern (Regel, kein Tabu)
 
