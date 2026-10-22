@@ -36,7 +36,7 @@ Wortmarke wirkt wie Oswald Bold. Website godview.solutions: Oswald, Inter, Space
 
 ## Reels
 
-- **Endkarte:** GodView-Reels enden nur mit der GodView-Wortmarke, ohne Northdocks-Logo. (Joachim 22.10.2026, 12:30 UTC+3, übermittelt von Video) Konkretisierung von [document-rules.md](../document-rules.md) Nr. 9 (eine CI pro Reel).
+- **Endkarte:** GodView-Reels enden nur mit der GodView-Wortmarke, ohne Northdocks-Logo. (Joachim 22.10.2026, 12:30 UTC+3, übermittelt von Video) Im Voiceover darf „von Northdocks“ gesprochen bleiben; im Bild nur die GodView-Wortmarke. (Joachim 22.10.2026, 12:47 UTC+3, übermittelt von Video) Konkretisierung von [document-rules.md](../document-rules.md) Nr. 9 (eine CI pro Reel).
 
 ## Offen
 
