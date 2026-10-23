@@ -11,13 +11,13 @@ Stand 21.10.2026 (v6) · Northdocks 3D · angewendet auf ein internes Hersteller
 Quelle: Joachim, 21.10.2026, aus dem Review v3 von Marcel Timm (UE 5.7 + Quest, 55/100), umgesetzt vom Bot 3D. Gelten vor allen älteren Hinweisen in diesem Dokument; Herkunft im Changelog.
 
 1. **Namensschema:** `Nozzle_[Hersteller][Produkt]` (Beispiel: `Nozzle_HerstellerProdukt`). Meshes `SM_<Name>_<Teil>`, Texturen `T_<Name>_BaseColor|Normal|ORM`, Material `M_<Name>`. Kein `_LOD0`, keine Format-Suffixe (`_DirectX`, `_OpenGL`).
-2. **Hero-Asset = nur LOD0** (Strahlrohre sind immer nah an der Kamera). Budget ca. 20.000 bis 30.000 Vertices gesamt (UE-Zählung inkl. UV- und Hartkanten-Splits). Weitere LODs nur, wenn die Config sie ausdrücklich anfordert.
+2. **Hero-Asset = nur LOD0** (Strahlrohre sind immer nah an der Kamera). Budget ca. 20.000 bis 30.000 Vertices gesamt (UE-Zählung inkl. UV- und Hartkanten-Splits). **Ergänzt:** Qualität geht vor der Vertex-Zielzahl, solange das Ziel um höchstens 30 % überschritten wird (also bis ca. 39.000 Vertices) (Joachim 23.10.2026, übermittelt von 3D). Weitere LODs nur, wenn die Config sie ausdrücklich anfordert.
 3. **Texturen 4096 × 4096** (geändert 23.10.2026, Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D; vorher 2048 × 2048), ein Atlas, ein Material für alle Teile. Texeldichte mindestens 3 px/mm, Teile mit Aufdruck mindestens 6 px/mm.
 4. **Eine Normal-Map, nur im UE-Format** (DirectX, Grün = −Y), Name ohne Suffix. Eine zweite OpenGL-Variante führt nur zu Verwechslungen (Flip Green doppelt oder fehlend).
 5. **Achsen:** +X = vorne (Mündung bzw. Blickrichtung des Bauteils), +Z = oben, Einheit cm. Der FBX-Header entspricht dem UE-Zielsystem (Blender-Export `axis_forward='Y', axis_up='Z'`), damit ist der Import ohne Optionen korrekt. Prüfung: Rohdaten-BBox im FBX gleich Blender-BBox.
 6. **Pivots auf den echten Drehachsen**, berechnet aus den CAD-Zylinderflächen (Achse und Lage), nicht aus Bounding-Boxen: Rotationsteile exakt auf der Rohrachse, Hebel exakt auf der Scharnierachse. Statische Teile: Bezug Griff.
 7. **Richtige Teilezuordnung:** Jedes CAD-Bauteil kommt in die Gruppe, mit der es sich real bewegt (z. B. Zeiger zum drehenden Ring). Mehrkomponenten-Teile (Hart/Weich, Einleger) per `split_regex` in Solids trennen und getrennt einfärben.
-8. **Wasserdicht von außen:** keine sichtbaren Spalte, kein Durchgucken. Mittel: kein Voxel-Remesh bei Mehr-Solid-Teilen, strenges Culling mit Sicherheitssaum, Kontaktschutz beim Decimate, leichtes Inflate, Abdeckscheiben in offenen Bohrungen. Prüfung: Watertight-Skript (offene Kanten, Durchguck = 0), Renders aus vielen Winkeln, Durchguck-Render gegen Leuchtfläche.
+8. **Wasserdicht** (verschärft (Joachim 23.10.2026, übermittelt von 3D): Löcher und offene Kanten sind generell ein No-Go, mehr als 0 Boundary-Edges je Teil = nicht verwertbar, nicht nur „von außen sichtbar“; ~~von außen~~): keine sichtbaren Spalte, kein Durchgucken. Mittel: kein Voxel-Remesh bei Mehr-Solid-Teilen, strenges Culling mit Sicherheitssaum, Kontaktschutz beim Decimate, leichtes Inflate, Abdeckscheiben in offenen Bohrungen. Prüfung: Watertight-Skript (offene Kanten, Durchguck = 0), Renders aus vielen Winkeln, Durchguck-Render gegen Leuchtfläche.
 9. **Farben, Materialien und Aufdrucke am Originalfoto prüfen.** Was nicht belegt ist, als Annahme kennzeichnen; fehlen Fotos, über One anfragen. Herstellerlogos auf dem Objekt sind erlaubt ([../document-rules.md](../document-rules.md) Nr. 5).
 10. **Skalen und Aufdrucke** nach CAD-Prägung, Foto und Review positionieren: Zahl und Marke als Einheit, Nullstellung oben, Lesbarkeit aus der Bedienansicht prüfen (Nahaufnahme-Render).
 11. **Texturen VR-tauglich:** kein Rauschen (AO mit mindestens 256 Samples plus Insel-Blur, Normal leicht gefiltert), glatte CAD-Flächen mit flacher Normal-Map, feine Strukturen (Rändel) nur mit einer Periode von mindestens 6 bis 8 Texeln (sonst Moiré und Mip-Flimmern).
@@ -25,11 +25,11 @@ Quelle: Joachim, 21.10.2026, aus dem Review v3 von Marcel Timm (UE 5.7 + Quest, 
 13. **Verifikation vor Abgabe:** Re-Import jeder FBX (1 Objekt, Lage 0, Rotation 0, 1 Material, BBox, Vertex-Zahl), Vorher/Nachher-Renders mit identischen Kameras, Durchguck vorn und hinten, Skalen-Nahaufnahme. Quest/Android (ASTC, Vulkan) darf nicht brechen: ein Material, keine Spezial-Shader.
 
 14. **Abgabe als eine kombinierte FBX** für „Import Into Level“, die Texturen als zweite ZIP. Ersetzt getrennte Teil-FBX und eingebettete Texturen (siehe Changelog).
-15. **Review-Priorität:** erst Texturqualität, dann Skalen und Beschriftung, dann Watertight.
+15. **Review-Priorität:** erst Texturqualität, dann Skalen und Beschriftung, dann Watertight. **Widerspruch, offen:** Seit 23.10.2026 ist Watertight ein Ausschlusskriterium (Regeln 8 und 19, Joachim), steht hier aber an letzter Stelle; nicht aufgelöst.
 16. **Texte und Icons gerade und unverzerrt abwickeln**; mit Orthoansicht-Renders prüfen.
 17. **Beschriftung nur auf Außenflächen**; erhabene CAD-Schrift darunter einebnen.
 18. **Jede Beschriftung auf das Teil wie auf den Fotos**; Logos auch auf kleine Kappen.
-19. **Watertight-Check je Teil**, Ziel: 0 sichtbare offene Kanten.
+19. **Watertight-Check je Teil**, **Pflicht** (verschärft (Joachim 23.10.2026, übermittelt von 3D), vorher „Ziel: 0 sichtbare offene Kanten“): 0 Boundary-Edges je Teil; mehr als 0 = Modell nicht verwertbar. Löcher und offene Kanten sind generell ein No-Go.
 20. **Schwarz eloxiertes Metall:** metallic ≤ 0,3, roughness ≥ 0,5.
 21. **Jedes Teil mit den Referenzfotos abgleichen.**
 
@@ -44,6 +44,7 @@ Regeln 14 bis 21 und die Änderung an Regel 3: Review Marcel v6, 23.10.2026, 74/
 
 | Datum | Quelle | Regel / Änderung |
 |---|---|---|
+| 23.10.2026 | Joachim, übermittelt von 3D | Regel 19 von Ziel zu Pflicht: 0 Boundary-Edges je Teil, sonst nicht verwertbar; Regel 8 verschärft (nicht nur sichtbar); Regel 2: Qualität vor Vertex-Ziel bei höchstens +30 %. **Widersprüche vermerkt:** Regel 15 (Watertight zuletzt), Culling verdeckter Flächen (v3) erzeugt offene Kanten |
 | 23.10.2026 | 3D, `export_ue.py` | Export-Standard auf Regel 14 umgestellt: eine kombinierte FBX (Nodes unter dem Hauptteil, Node-Position = Pivot, nur LOD0) plus `<PAKET>_FBX.zip` und `<PAKET>_Texturen.zip`; Re-Import-Check bricht bei eingebetteten Texturen ab; `export_mode` single/both, `legacy_export` aus. Test v7-Config: 6 Nodes, 0,0 mm Pivot-Abweichung. **Korrektur:** „Texturen eingebettet“ war ein Doku-Fehler, das Skript hat nie eingebettet; falsch war nur, dass der alte Export standardmäßig aktiv war |
 | 23.10.2026 | Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D | Regel 3 geändert (4096², ≥ 3 px/mm, Aufdruck ≥ 6 px/mm); neu 14 bis 21: eine kombinierte FBX + Textur-ZIP, Review-Priorität, gerade Abwicklung (Ortho-Check), Beschriftung nur außen, Beschriftung wie Fotos/Logos auf Kappen, Watertight je Teil, Eloxal-Werte, Referenzfoto-Abgleich. **Überholt:** getrennte Teil-FBX mit Platzierungstabelle (v5), FBX/GLB pro LOD als Standard (Pipeline-Tabelle; aufgelöst 23.10.2026, siehe nächste Zeile), Faustregel ≥ 4 px/mm (v3) |
 | 21.10.2026 | Review Marcel Timm (UE 5.7 + Quest), v3, 55/100; Joachim | Regeln 1 bis 13: Namensschema `Nozzle_`, nur LOD0, 2048er, Normal nur UE-Format ohne Suffix, +X vorne ohne Importoptionen, Pivots aus CAD-Achsen, Teilezuordnung und Solid-Split, wasserdicht mit Prüfskript, Farben am Foto, Skalen nach CAD/Foto, Texturen entrauscht, UE-5.7-Interchange-Import, Abgabe-Checkliste |
@@ -114,7 +115,7 @@ export CAD2RT_PY=<VENV>/bin/python
 | Export (Standard, `export_ue.py`) (3D, 23.10.2026) | Eine kombinierte FBX `Meshes/SM_<Name>.fbx`: alle Teile als Nodes unter dem Hauptteil, Node-Position = Pivot, standardmäßig nur LOD0. Texturen werden nie eingebettet. Der Export schreibt selbst zwei ZIPs: `<PAKET>_FBX.zip` und `<PAKET>_Texturen.zip`. Re-Import-Check schlägt fehl, wenn eine Textur eingebettet ist. README, Checkliste und Vergleichsbilder müssen **vor** dem Export im Paketordner liegen, sonst fehlen sie im ZIP. Getestet mit der v7-Config: 6 Nodes, 0,0 mm Pivot-Abweichung, keine eingebetteten Texturen | `export_mode` = `single` (Standard) oder `both`; `legacy_export` (FBX/GLB pro LOD, alte Variante) standardmäßig aus |
 
 ## Neue Schritte v3 (Kurz)
-1. **Verdeckte Flächen entfernen**: `cull_hidden` in der Config setzen. Log prüfen: `Verdeckte Flächen entfernt X von Y`. Danach visuell prüfen (Mündung/Kupplung von vorn ansehen – sichtbare Bohrungsanfänge müssen bleiben; sonst `min_visible` senken).
+1. **Verdeckte Flächen entfernen** (**Widerspruch, offen** seit 23.10.2026: Entfernte Flächen erzeugen offene Kanten; nach Regel 19 sind mehr als 0 Boundary-Edges je Teil nicht verwertbar. Klären mit 3D/Joachim): `cull_hidden` in der Config setzen. Log prüfen: `Verdeckte Flächen entfernt X von Y`. Danach visuell prüfen (Mündung/Kupplung von vorn ansehen – sichtbare Bohrungsanfänge müssen bleiben; sonst `min_visible` senken).
 2. **Aufdrucke**: Texte/Logo in `make_decals.py` (oder eigene PNGs mit Alpha) erstellen; Position in Weltmetern nach `rotate_x_deg`/Pivot-Transformation angeben (Hilfe: Teil-BBoxen aus Log/Blend). Zylindrische Skalen: Winkel 0 = Oberseite (+Z), Zahl über die Bildnaht hinweg doppelt zeichnen (u-Wrap). Testrender `detail_print_*`-Kameras in `cams.json`.
 3. **Texel-Boost** für Aufdruckträger setzen; Lesbarkeit in LOD0 prüfen (Ziel ≥ 4 px pro mm Schrifthöhe… Faustregel: Schrifthöhe 5 mm ≥ 15 px). **Überholt durch Regel 3 (23.10.2026):** mindestens 3 px/mm, Teile mit Aufdruck mindestens 6 px/mm.
 
@@ -126,7 +127,7 @@ export CAD2RT_PY=<VENV>/bin/python
 
 ## Checkliste Review
 - [ ] Maße in m plausibel (BBox gegen Datenblatt), Scale 1, Pivots auf den Drehachsen
-- [ ] Tris je LOD im Budget (Log: `LOD i tris`); LOD1 ≈ 50 %, LOD2 ≈ 20 %
+- [ ] Tris je LOD im Budget (Log: `LOD i tris`); LOD1 ≈ 50 %, LOD2 ≈ 20 % — **überholt für Hero-Assets:** nur LOD0 (Regel 2), Qualität vor Vertex-Ziel bis +30 % (Joachim 23.10.2026, übermittelt von 3D)
 - [ ] Log: `UV gepackt … Texeldichte px/m`; Richtwert VR-Handobjekt LOD0 ≥ 1500 px/m
 - [ ] Keine WARNUNG zu UV-Pack oder Padding
 - [ ] Nahaufnahmen (Rohr, Kupplung, Hebel): keine Flecken, keine Wellen auf Zylindern, keine Naht-Kanten, kein Z-Fighting

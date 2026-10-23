@@ -5,10 +5,10 @@ Quelle: Bot 3D, 21.10.2026 (Joachim, aus dem Review v3 von Marcel Timm). Vor jed
 | # | Punkt | Prüfung / Nachweis |
 |---|---|---|
 | 1 | Namensschema `Nozzle_[Hersteller][Produkt]` (z. B. `Nozzle_HerstellerProdukt`), `SM_/T_/M_` | Dateiliste Paket |
-| 2 | Hero-Asset nur LOD0, ca. 20.000 bis 30.000 Vertices, Texturen 4096² (geändert 23.10.2026, vorher 2048²), ≥ 3 px/mm, Aufdruck ≥ 6 px/mm | Re-Import-Prüfung (Vertex-Zahl UE), Texturgröße |
+| 2 | Hero-Asset nur LOD0, ca. 20.000 bis 30.000 Vertices (Qualität vor Ziel bis höchstens +30 %, (Joachim 23.10.2026, übermittelt von 3D)), Texturen 4096² (geändert 23.10.2026, vorher 2048²), ≥ 3 px/mm, Aufdruck ≥ 6 px/mm | Re-Import-Prüfung (Vertex-Zahl UE), Texturgröße |
 | 3 | +X vorne, +Z oben, cm, ohne Importoptionen korrekt | Re-Import-Prüfung: Rohdaten-BBox ok, Header Z-up, Rotation 0 |
 | 4 | Pivots auf Drehachsen (aus CAD-Zylinderachsen) | Platzierungstabelle plus Herleitung |
-| 5 | Wasserdicht: kein Durchgucken, keine sichtbaren Spalte | Ergebnis Watertight-Skript, Durchguck-Renders, Nahaufnahmen |
+| 5 | Wasserdicht: kein Durchgucken, keine Spalte, **0 Boundary-Edges je Teil** (Pflicht, sonst nicht verwertbar; (Joachim 23.10.2026, übermittelt von 3D)) | Ergebnis Watertight-Skript, Durchguck-Renders, Nahaufnahmen |
 | 6 | Richtige Teilezuordnung (bewegte Teile in ihrer Gruppe) | Teileliste je Mesh |
 | 7 | Farben, Materialien und Aufdrucke am Originalfoto geprüft (fehlende Fotos über One angefragt) | Fotoliste, Annahmen markiert |
 | 8 | Skalen und Aufdrucke positioniert | Skalen-Nahaufnahme |
@@ -22,9 +22,9 @@ Quelle: Bot 3D, 21.10.2026 (Joachim, aus dem Review v3 von Marcel Timm). Vor jed
 | 16 | Texte und Icons gerade und unverzerrt abgewickelt (Regel 16) | Orthoansicht-Renders |
 | 17 | Beschriftung nur auf Außenflächen, erhabene CAD-Schrift darunter eingeebnet (Regel 17) | Nahaufnahme-Renders |
 | 18 | Jede Beschriftung wie auf den Fotos, Logos auch auf kleinen Kappen (Regel 18) | Foto/Render-Gegenüberstellung |
-| 19 | Watertight je Teil: 0 sichtbare offene Kanten (Regel 19) | Ergebnis Watertight-Skript je Teil |
+| 19 | Watertight je Teil: **Pflicht** 0 Boundary-Edges, Löcher/offene Kanten = No-Go (Regel 19, verschärft (Joachim 23.10.2026, übermittelt von 3D)) | Ergebnis Watertight-Skript je Teil |
 | 20 | Schwarz eloxiertes Metall metallic ≤ 0,3, roughness ≥ 0,5; jedes Teil mit Referenzfotos abgeglichen (Regeln 20, 21) | Materialwerte, Fotoliste |
 | 21 | Vorher/Nachher-Vergleich (gleiche Kameras) | Renders vorher/nachher |
 | 22 | README, Checkliste und Vergleichsbilder liegen **vor** dem Export im Paketordner (sonst fehlen sie im ZIP); Paket = `<PAKET>_FBX.zip` + `<PAKET>_Texturen.zip`, keine eingebetteten Texturen (3D, 23.10.2026) | Inhalt beider ZIPs, Re-Import-Check |
 
-Punkte 15 bis 21 und Änderung Punkt 2/11: Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D. Prüfreihenfolge im Review nach Regel 15: Texturqualität, dann Skalen und Beschriftung, dann Watertight.
+Punkte 15 bis 21 und Änderung Punkt 2/11: Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D. Prüfreihenfolge im Review nach Regel 15: Texturqualität, dann Skalen und Beschriftung, dann Watertight (Widerspruch zu Watertight als Pflicht seit 23.10.2026 vermerkt, nicht aufgelöst).
