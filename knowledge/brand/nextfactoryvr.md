@@ -56,6 +56,8 @@ Footer „POWERED BY NORTHDOCKS“. Markennamen werden nicht übersetzt.
 
 ## Bildsprache
 
+- **Next Factory VR:** Reels sollen mehr Inhalt aus Playthroughs zeigen; Video sucht dafür passendes Material im Drive (Joachim 23.10.2026, 10:41, übermittelt von One).
+
 Industriehalle, Mitarbeiter mit Warnweste und VR-Headset/Controllern, gelbe Flächen.
 
 ## Offen
