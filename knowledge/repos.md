@@ -103,6 +103,16 @@ Information-HUB bleibt die Textquelle. Technik belegen: lokaler Ordner **oder** 
 - `gh` CLI fehlt auf diesem Rechner; Org-Liste über Cursor-GitHub oder die Website. Private Repos sieht die öffentliche API nicht.
 - Xing-Tippfehler `firefighervr.de` nicht zitieren.
 
+## Bot-Verzeichnis (im Aufbau)
+
+Bisher nur hier gelistet; weitere Bots (One, Video, Assets, Social, Web, 3D, Pico Native, BMA App, GodView App, Unreal Build, Wissen) werden nachgetragen.
+
+| Bot | ID | Aufgabe | Zugriff |
+|---|---|---|---|
+| **GV Render** | `4d6c85c6-839e-402a-9b0b-e1d662dc44e2` | Baut `gv-render`, einen nativen Renderer (vsgCs / VulkanSceneGraph / cesium-native) nur für GodView-Cesium-Tiles; Details [brand/godview.md](brand/godview.md) | Nur Lesezugriff auf die Cesium-Test-Organisation „ND Testlabor“ mit eigenem Viewer-Login; keine Produktivdaten. Test auf dem Video-PC, finale Renders auf dem neuen Windows-PC mit RTX 4090 |
+
+Quelle: (Joachim 23.10.2026, übermittelt von One).
+
 ## GPU-Rechner: gemeinsame Sperre (seit 18.10.2026)
 
 **Neu (Joachim im Chat mit One, 20.10.2026):** Der GodView-AI-Inspect-PC bekommt 2 GPUs mit je 96 GB VRAM. Modelle mit hohem VRAM-Bedarf werden auf diesen PC **vertagt, nicht verworfen**. Modellerstellung (Image-to-3D, CAD) macht der Bot 3D, Rendern weiter Video.
