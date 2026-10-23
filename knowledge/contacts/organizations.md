@@ -392,6 +392,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Bezug:** [projects.md](../projects.md), [accounting.md](../accounting.md); Rechnung 20250813-01 gehört zur Sensorvisualisierung, nicht zum Campus Lab (FreeAgent, Abruf 17.10.2026); [Asana](https://app.asana.com/0/0/1209567624473668), [Asana](https://app.asana.com/0/0/1211703657769012), [Asana](https://app.asana.com/0/0/1211452151930928)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
+  - 22.10.2026 · Discord (intern) · dResche: TUHH-Projekt (Campus Lab VR/AR) offiziell abgeschlossen; Details bei Moritz, noch offen
   - 27.05.2026 · Rechnung · 20260527-02 Campus Lab, 37.620 € netto, bezahlt 29.06.2026; 20260428-01 (49.500 €) per Gutschrift 20260527-03 aufgehoben (FreeAgent, Abruf 17.10.2026)
   - 15.12.2025 · Bestellung · Campus Lab, Auftrag 4600065350
   - 03.11.2025 · E-Mail · Angebot 20251103-01 Campus Lab

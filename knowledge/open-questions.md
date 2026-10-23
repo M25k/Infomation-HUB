@@ -283,3 +283,4 @@ Quelle: Bericht `/workspace/cursor-chats/abgleich-2026-10-20.md` (226 Chats 13.0
 | **SPF northdocks.com** | Laut Chat fehlte SPF (DNS bei Linode), DKIM pass. Siehe [company.md](company.md) IT | Patrick: SPF gesetzt? |
 | **firefightervr.de: /ar/brandschutz/ fehlt in der Sitemap; Web-Repos nicht gepusht** | Live-Check Web 20.10.2026 | Web |
 | **Kununu-Firmierung „NorthDocks UG“** | Bewertungshelden nicht beauftragt; Profil zeigt alte Firmierung | Social/Joachim |
+| **TUHH Campus Lab: Details zum Abschluss** | Projekt laut dResche offiziell abgeschlossen (dResche, Discord #small_talk, 22.10.2026 13:35 UTC+3, übermittelt von One). Datum, Ergebnis und Nachnutzung fehlen; auch offen, ob der Puffer 11.880 € und TwinC-360-Web damit erledigt sind | Moritz fragen |
