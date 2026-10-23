@@ -23,6 +23,10 @@ Nicht lokal, aber auf GitHub / in Asana-Repo-Karten (nicht „Lücke weil nicht 
 | `Northdocks-GmbH/TUHH-SensorVizCN` | China-Folge, Format wie TUHH |
 | State of Emergency / FFVR-Content | Remote in Asana; nicht unter `C:\Githup` |
 
+## Intranet „Sanctum“ (in Aufbau, Patrick)
+
+Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von One): Patrick baut ein lokales Intranet „Sanctum“ auf Proxmox, lokales Git als Single Point of Truth. Module: **Asgard** (CRM), **Wakanda** (MDM), **Heimdall** (Rechte), **Bifrost** (Verbindungen). Das Team in Kiel soll Zugriff bekommen. Schnittstellen zum Infomation-HUB entscheidet Joachim; bis dahin keine Kopplung.
+
 ## Produkt- und Plattformcode
 
 | Ordner | Remote | Branch | Was es belegt |

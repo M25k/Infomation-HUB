@@ -41,4 +41,11 @@ Perspektive intern: Funnel zu FirefighterVR (z. B. WebXR). Erst wenn GF Vermarkt
 ## Prüfungsmodus und Offline-App (Joachim, 21.10.2026, via BMA App)
 
 - **Prüfung** wird streng wie die Solo-Übung bewertet: Die Reihenfolge zählt, Fehler senken die Prozentzahl.
-- **Zielbild (nicht extern als umgesetzt darstellen):** Offline-App für PICO-Headsets von FirefighterVR-Kunden, nur die Modi Solo und Prüfung. Technik: WebView-APK mit gemeinsamem Logikmodul. Umsetzung durch die Bots BMA App und Pico Native. **Start wartet auf Joachims OK.**
+- **Zielbild (nicht extern als umgesetzt darstellen):** Offline-App für PICO-Headsets von FirefighterVR-Kunden, nur die Modi Solo und Prüfung. Technik: WebView-APK mit gemeinsamem Logikmodul. Umsetzung durch die Bots BMA App und Pico Native. ~~Start wartet auf Joachims OK.~~ **Entschieden (Joachim 21.10.2026 im Chat von Pico Native, übermittelt von Pico Native), Zielbild, nicht veröffentlicht:**
+  - Native Android-App: Kotlin plus WebView mit dem Offline-Bundle, ausdrücklich ohne Unity/Unreal.
+  - Zunächst nur Solo-Übung und Prüfung; Zielgruppe sind bestehende FirefighterVR-Kunden.
+  - Verteilung wie die anderen Trainings, Vorschlag PICO MDM.
+  - BMA Trainer bleibt ein eigenes Produkt, kein FirefighterVR-Modul.
+  - Prüfung streng gewertet (siehe oben).
+  - Stand: Debug-APK vorhanden, noch nicht auf einem Headset getestet; BMA PR #9 nicht gemerged.
+  - Offene Frage „BMA-Offline-App starten?“ damit erledigt.
