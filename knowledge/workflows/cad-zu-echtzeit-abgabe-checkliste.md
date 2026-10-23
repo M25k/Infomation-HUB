@@ -25,5 +25,6 @@ Quelle: Bot 3D, 21.10.2026 (Joachim, aus dem Review v3 von Marcel Timm). Vor jed
 | 19 | Watertight je Teil: 0 sichtbare offene Kanten (Regel 19) | Ergebnis Watertight-Skript je Teil |
 | 20 | Schwarz eloxiertes Metall metallic ≤ 0,3, roughness ≥ 0,5; jedes Teil mit Referenzfotos abgeglichen (Regeln 20, 21) | Materialwerte, Fotoliste |
 | 21 | Vorher/Nachher-Vergleich (gleiche Kameras) | Renders vorher/nachher |
+| 22 | README, Checkliste und Vergleichsbilder liegen **vor** dem Export im Paketordner (sonst fehlen sie im ZIP); Paket = `<PAKET>_FBX.zip` + `<PAKET>_Texturen.zip`, keine eingebetteten Texturen (3D, 23.10.2026) | Inhalt beider ZIPs, Re-Import-Check |
 
 Punkte 15 bis 21 und Änderung Punkt 2/11: Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D. Prüfreihenfolge im Review nach Regel 15: Texturqualität, dann Skalen und Beschriftung, dann Watertight.
