@@ -70,7 +70,7 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 
 ### Marken-CI und Schreibweisen (19.10.2026)
 
-Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Assets ([assets/assets.csv](assets/assets.csv), Typ CI). Entschieden ist nur: **FirefighterVR** immer zusammen, im Voiceover „Firefighter VR“ mit englisch gesprochenem „VR“ („Wi Ar“, alle Stimmen und Markennamen; Joachim 19.10. und über Video 21.10.2026). Gegenüberstellung der Varianten: [brand/README.md](brand/README.md#schreibweise).
+Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Assets ([assets/assets.csv](assets/assets.csv), Typ CI). Entschieden ist nur: **FirefighterVR** immer zusammen, im Voiceover „Firefighter VR“ mit englisch gesprochenem „VR“ („We Ar“ (Joachim 23.10.2026, übermittelt von One), alle Stimmen und Markennamen; Joachim 19.10. und über Video 21.10.2026). Gegenüberstellung der Varianten: [brand/README.md](brand/README.md#schreibweise).
 
 | Thema | Stand | In Dokumenten |
 |---|---|---|

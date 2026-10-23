@@ -88,7 +88,7 @@ Die wichtigsten Dateien je Marke im Katalog:
 
 Strahlenschutz (Joachim über One, 20.10.2026, 16:35): deutsch **StrahlenschutzVR**, englisch **RadiationProtectionVR**, zusammen wie FirefighterVR; „Radiation Protection VR“ mit Leerzeichen veraltet (historische Titel unverändert). Logo ohne Strahlenwarnzeichen.
 
-**Entschieden:** **FirefighterVR** wird immer zusammen geschrieben, nie „Firefighter VR“. Im Voiceover wird „Firefighter VR“ gesprochen, „VR“ immer englisch („Wi Ar“), bei allen Stimmen und Markennamen gleich (Joachim, 19.10.2026; Joachim über Video, 21.10.2026; [../document-rules.md](../document-rules.md)).
+**Entschieden:** **FirefighterVR** wird immer zusammen geschrieben, nie „Firefighter VR“. Im Voiceover wird „Firefighter VR“ gesprochen, „VR“ immer englisch („We Ar“ (Joachim 23.10.2026, übermittelt von One)), bei allen Stimmen und Markennamen gleich (Joachim, 19.10.2026; Joachim über Video, 21.10.2026; [../document-rules.md](../document-rules.md)).
 
 Markennamen werden nicht übersetzt ([../document-rules.md](../document-rules.md)). Marken sind Marken der Northdocks GmbH, Vertragspartnerin ist immer die GmbH. Footer auf Vertical-Material: „powered by Northdocks“ bzw. „a brand of Northdocks GmbH“ ([../websites/_shared.md](../websites/_shared.md)); die Submarken-Styleguides setzen „POWERED BY NORTHDOCKS“.
 
