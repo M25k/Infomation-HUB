@@ -83,6 +83,6 @@ Vorbild-Ablage UKSH: `00-Angebot` Arbeitsnotizen, `01-Einreichung-Los2` nur Port
 
 ## Zusammenarbeit
 
-- **Weekly-Mitschnitte** (Joachim 23.10.2026, übermittelt von One): Joachim hat One den Drive-Ordner `1E-DbLK_V2kKGMh54USucnfKNToA4fRhe` am 23.10.2026 selbst geschickt und beauftragt, die Mitschnitte zu transkribieren und das Feedback an die Bots zu verteilen. Die Transkription auf dem Video-PC hat er bestätigt; Transkripte auf der Box unter `/workspace/weeklies/`. Der Ordner bleibt tabu für Freigaben nach außen und für Assets (siehe [assets/tabu.md](assets/tabu.md)). Ins Repo kommen nur Entscheidungen mit Quelle („Weekly <Datum>“), keine Zitate.
+- **Weekly-Mitschnitte** (Joachim 23.10.2026, übermittelt von One): Joachim hat One den Drive-Ordner `1E-DbLK_V2kKGMh54USucnfKNToA4fRhe` am 23.10.2026 selbst geschickt und beauftragt, die Mitschnitte zu transkribieren und das Feedback an die Bots zu verteilen. Die Transkription auf dem Video-PC hat er bestätigt; Transkripte auf der Box unter `/workspace/weeklies/`. Der Ordner bleibt tabu für Freigaben nach außen und für Assets (siehe [assets/tabu.md](assets/tabu.md)). Ins Repo kommen nur Entscheidungen mit Quelle („Weekly <Datum>“), keine Zitate. Ablauf für Feedback-Punkte (IDs, Status, Tracker): [meetings/README.md](meetings/README.md).
 
 - Aufgaben an Patrick Reschke laufen über **Asana**. Gibt es kein passendes Projekt, kommt die Aufgabe ins Projekt „Additional Tasks“ (Joachim im Chat mit One, 20.10.2026).
