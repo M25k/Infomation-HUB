@@ -1,6 +1,6 @@
 # Feedback-Tracker (Spiegel)
 
-Spiegel von `/workspace/weeklies/feedback-tracker.md` (geführt von One), Stand der Quelle: 23.10.2026, 09:20 (UTC+2, Europe/Berlin); gespiegelt von Wissen am 23.10.2026. Ablauf und Regeln: [README.md](README.md). Ohne Zitate; Zeitstempel = Position im Mitschnitt des Weekly 21.10.2026. Status W1021-11 bis -13 von Wissen auf „erledigt“ gesetzt.
+Spiegel von `/workspace/weeklies/feedback-tracker.md` (geführt von One), Stand der Quelle: 23.10.2026, 09:20 (UTC+2, Europe/Berlin); gespiegelt von Wissen am 23.10.2026. Ablauf und Regeln: [README.md](README.md). Ohne Zitate; Zeitstempel = Position im Mitschnitt des Weekly 21.10.2026. Status W1021-11 bis -13 von Wissen auf „erledigt“ gesetzt. Status am 23.10.2026 an die README angepasst (abgestimmt mit One); W1021-21 ist eine Aufgabe (Rückmeldung an Janis), keine Entscheidung, daher „zugestellt“.
 
 | ID | Datum/Zeit | Sprecher | Thema kurz | Zuständig | Status | Repo-Verweis |
 |---|---|---|---|---|---|---|
@@ -19,16 +19,16 @@ Spiegel von `/workspace/weeklies/feedback-tracker.md` (geführt von One), Stand 
 | W1021-13 | 21.10.2026, 23:45–41:20 | Patrick | Kontext Intranet „Sanctum“/Module vermerken | Wissen | erledigt | [repos.md](../repos.md) (ddea6c4) |
 | W1021-14 | 21.10.2026, 13:46–13:50 | Unreal-Dev | Freigabe-Audit EVO-235-Drive-Ordner (nur melden) | Assets | in Arbeit (Audit 26.10.) |  |
 | W1021-15 | 21.10.2026, – | – | Highlights ins Morgen-Briefing | Morgen-Briefing | zugestellt |  |
-| W1021-16 | 21.10.2026, 04:19–09:01 | Unreal-Dev / Renke | RTW: fehlende Assets + Kollisionen abstimmen, .blend-Pfade notieren | Renke | offen (Asana) | https://app.asana.com/1/8864272155433/project/1219445393130153/task/1219808752692783 |
-| W1021-17 | 21.10.2026, 45:59–46:10 | Moritz | Feuersimulation Performance-Test auf PICO, FPS/CPU eintragen, Repo/Branch nennen | Moritz | offen (Asana) | https://app.asana.com/1/8864272155433/project/1203395601364737/task/1219808752691630 |
-| W1021-18 | 21.10.2026, 24:09–24:30 | Patrick | Intranet-Zugang Kiel vorbereiten | Patrick | offen (Asana) | https://app.asana.com/1/8864272155433/project/867396671345009/task/1219808874993829 (Entscheidung → W1021-25) |
-| W1021-19 | 21.10.2026, 37:51–38:10 | Patrick | Namensvorschläge für Module | Patrick | offen (Asana) | https://app.asana.com/1/8864272155433/project/867396671345009/task/1219808874993829 |
-| W1021-20 | 21.10.2026, 19:47–22:20 | Patrick | Follow-up „Der Klassiker“ / Karl Henkel | Patrick | offen (Asana) | https://app.asana.com/1/8864272155433/project/867396671345009/task/1219808874993829 |
-| W1021-21 | 21.10.2026, 01:51–02:50 | Unreal-Dev | Dank/Rückmeldung an Janis für Review | Joachim | offen | kein Asana-Task (extern) |
-| W1021-22 | 21.10.2026, 16:07–16:40 | – | EVO 235: weitere KI-Iteration oder manuell (Renke)? Tool für nächste Version | Joachim | Entscheidung offen | evtl. durch v6 erledigt |
-| W1021-23 | 21.10.2026, 07:28–08:24 | – | Hygiene-MVP: Zeitlimit 1/2 min; Kühlschrank-Innenreinigung, Alkohol vs. H₂O₂ jetzt oder später | Joachim | Entscheidung offen |  |
-| W1021-24 | 21.10.2026, 01:59–03:20 | – | Priorität Janis-Tickets vs. neue Szenarien | Joachim | Entscheidung offen |  |
-| W1021-25 | 21.10.2026, 24:09–24:30 | – | Intranet-Zugang Kiel: VPN oder Webserver; Verhältnis zu eigenen Systemen | Joachim | Entscheidung offen |  |
-| W1021-26 | 21.10.2026, 22:06–22:21 | – | Partnerschaft „Der Klassiker“ / Kleidungs-Integration verfolgen? | Joachim | Entscheidung offen |  |
-| W1021-27 | 21.10.2026, – | – | Freigabe Social-Posts (Kunden, Gameplay-Material) | Joachim | Entscheidung offen |  |
-| W1021-28 | 21.10.2026, 09:23–09:50 | – | Build-Pipeline auf UE 5.8 umstellen? | Joachim | Entscheidung offen |  |
+| W1021-16 | 21.10.2026, 04:19–09:01 | Unreal-Dev / Renke | RTW: fehlende Assets + Kollisionen abstimmen, .blend-Pfade notieren | Renke | in Arbeit | https://app.asana.com/1/8864272155433/project/1219445393130153/task/1219808752692783 |
+| W1021-17 | 21.10.2026, 45:59–46:10 | Moritz | Feuersimulation Performance-Test auf PICO, FPS/CPU eintragen, Repo/Branch nennen | Moritz | in Arbeit | https://app.asana.com/1/8864272155433/project/1203395601364737/task/1219808752691630 |
+| W1021-18 | 21.10.2026, 24:09–24:30 | Patrick | Intranet-Zugang Kiel vorbereiten | Patrick | in Arbeit | https://app.asana.com/1/8864272155433/project/867396671345009/task/1219808874993829 (Entscheidung → W1021-25) |
+| W1021-19 | 21.10.2026, 37:51–38:10 | Patrick | Namensvorschläge für Module | Patrick | in Arbeit | https://app.asana.com/1/8864272155433/project/867396671345009/task/1219808874993829 |
+| W1021-20 | 21.10.2026, 19:47–22:20 | Patrick | Follow-up „Der Klassiker“ / Karl Henkel | Patrick | in Arbeit | https://app.asana.com/1/8864272155433/project/867396671345009/task/1219808874993829 |
+| W1021-21 | 21.10.2026, 01:51–02:50 | Unreal-Dev | Dank/Rückmeldung an Janis für Review | Joachim | zugestellt | kein Asana-Task (extern) |
+| W1021-22 | 21.10.2026, 16:07–16:40 | – | EVO 235: weitere KI-Iteration oder manuell (Renke)? Tool für nächste Version | Joachim | Entscheidung offen (Joachim) | evtl. durch v6 erledigt |
+| W1021-23 | 21.10.2026, 07:28–08:24 | – | Hygiene-MVP: Zeitlimit 1/2 min; Kühlschrank-Innenreinigung, Alkohol vs. H₂O₂ jetzt oder später | Joachim | Entscheidung offen (Joachim) |  |
+| W1021-24 | 21.10.2026, 01:59–03:20 | – | Priorität Janis-Tickets vs. neue Szenarien | Joachim | Entscheidung offen (Joachim) |  |
+| W1021-25 | 21.10.2026, 24:09–24:30 | – | Intranet-Zugang Kiel: VPN oder Webserver; Verhältnis zu eigenen Systemen | Joachim | Entscheidung offen (Joachim) |  |
+| W1021-26 | 21.10.2026, 22:06–22:21 | – | Partnerschaft „Der Klassiker“ / Kleidungs-Integration verfolgen? | Joachim | Entscheidung offen (Joachim) |  |
+| W1021-27 | 21.10.2026, – | – | Freigabe Social-Posts (Kunden, Gameplay-Material) | Joachim | Entscheidung offen (Joachim) |  |
+| W1021-28 | 21.10.2026, 09:23–09:50 | – | Build-Pipeline auf UE 5.8 umstellen? | Joachim | Entscheidung offen (Joachim) |  |

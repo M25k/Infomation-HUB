@@ -2,6 +2,8 @@
 
 Geklärte Punkte bleiben kurz dokumentiert. Nur offene Punkte blockieren Formulierungen.
 
+**Fragen an Joachim** (Joachim 23.10.2026, übermittelt von One): Offene Fragen an Joachim kommen immer in Blöcken von 5 nummerierten Fragen. Unbeantwortetes geht zurück in die Warteschlange, die One führt. Die Bots bündeln ihre Fragen an One.
+
 ## Geklärt 2026-08-26
 
 | Thema | Entscheidung |
