@@ -86,7 +86,7 @@ Keine 3D-Quelldateien in Draeger, Drager, Dräger, Evonik, BASF, Infraserv und M
 
 ## Bot 3D: Turbo-Spritze EVO 235 Storz C (nur intern)
 
-**Regel:** AWG Turbo EVO 235: Die CAD-Daten sind geheim, bleiben intern, kein Upload an externe Dienste (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von One). Klarstellung (Joachim 23.10.2026, übermittelt von One): Die KI-Umwandlung der CAD-Daten in Meshes hat unser eigener 3D-Bot gemacht, kein externer Dienst; das zählt nicht als externer Upload. Die Regel bleibt bestehen. **Turntable:** Der vom 3D-Bot konvertierte KW-235-/EVO-235-Turntable darf verwendet werden (Joachim 23.10.2026, übermittelt von One); die CAD-Daten selbst bleiben intern. Welche Datei gemeint ist, ist offen (#129), im Katalog noch keine Kanaländerung.
+**Regel:** AWG Turbo EVO 235: Die CAD-Daten sind geheim, bleiben intern, kein Upload an externe Dienste (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von One). Klarstellung (Joachim 23.10.2026, übermittelt von One): Die KI-Umwandlung der CAD-Daten in Meshes hat unser eigener 3D-Bot gemacht, kein externer Dienst; das zählt nicht als externer Upload. Die Regel bleibt bestehen. **Korrektur 23.10.2026 (Video, übermittelt von One):** Joachims Freigabe von 09:23 gilt nur für die Strahlrohr-KW-235-B-Roll-Clips FFVR-0076–0079 (#129), nicht für die AWG EVO 235; die EVO 235 bleibt gesperrt.
 
 **Nur intern** (AWG-Herstellerdaten). 3D hat aus der AWG-STEP-Datei der Turbo-Spritze EVO 235 Storz C ein erstes Echtzeit-Modell gebaut. Joachim (20.10.2026, 18:19, Chat mit One): weitermachen, Kupplung silbern ok. Fokus: saubere Teiletrennung und Benennung, UVs, Baking CAD → LODs, Workflow dokumentieren. Kein Katalog-Eintrag mit Außenkanal.
 
