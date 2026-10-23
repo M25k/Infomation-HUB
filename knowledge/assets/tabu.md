@@ -13,7 +13,7 @@ Status: **bestätigt** von Joachim am 18.10.2026 (über One). Die Bürrig-Regel 
 
 Generelle Namensregel für spätere Runden: Ordner namens „Personal“, „Gehalt“, „FiBu“, „Buchhaltung“, „Steuer“, „Verträge“, „Bank“, „Rechnungen“, „Angebote“, „Investors“ sowie „Private“ (außerhalb von Code- und Engine-Strukturen) gelten als tabu, auch wenn sie unten fehlen; neue Funde meldet Northdocks Assets an Northdocks Wissen.
 
-Schreibvarianten (seit 22.10.2026, Runde 5): „Bürrig“, „Buerrig“, „Bürig“, „Buerig“ und „Burrig/Burig“ gelten gleich; Filter `b(ü|ue|u)r{1,2}ig` (ohne Groß-/Kleinschreibung). Bürrig-Dateien können auch außerhalb der Bürrig-Ordner liegen, deshalb gilt die Namensregel auch für Dateinamen.
+Schreibvarianten (seit 22.10.2026, Runde 5): „Bürrig“, „Buerrig“, „Bürig“, „Buerig“ und „Burrig/Burig“ gelten gleich; Filter `b(ü|ue|u)r{1,2}ig` (ohne Groß-/Kleinschreibung). Bürrig-Dateien können auch außerhalb der Bürrig-Ordner liegen, deshalb gilt die Namensregel auch für Dateinamen. Der Tabu-Filter von Assets (`tools/tabu_filter.py`) prüft das seit Runde 6 (23.10.2026) auch technisch; Runde 6 ohne Treffer.
 
 ## Tabu (bestätigt)
 

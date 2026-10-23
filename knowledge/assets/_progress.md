@@ -106,6 +106,15 @@ Summe Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge. Keine 3D-Quelldateien. 
 
 Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, Actemium, Amatik, Amatik 2, Armstrong, Azure Spatial Anchors, BAT, Bayer, Bitterfeld, DEV_Intern_Tools, DLR, Digitale Zwillinge, Dom zu Halberstadt, Gdview, INFINITY, Kiel AR, Kiel Arena, Kölner Dom, Landtag, Landtag VR, LandtagTouch, Lhoist, LWL, Marketing, Mars2020, ND CAD Explorer, ND VR Tutorial, Omexom Hochspannung, Schiffshebewerk, SIGA, Sonnen, sonnen, Strahlenschutz, Submerge, Template ×3, Tut, UKK).
 
+## Runde 6: Änderungen seit 22.10. und Projects Teilrunde 3c, erster Teil (23.10.2026)
+
+| Status | Pfad (unter Projects) | Bemerkung |
+|---|---|---|
+| fertig | Kiel AR, Kiel Arena, Landtag, Landtag VR (12 leere Unterordner), LandtagTouch (leer) | Kiel Arena #117 |
+| teilweise | Kölner Dom (Hauptebene und 19 Unterordner) | offen für Runde 7: Beauty Shots (3 Unterordner), Befliegung 20191022/1920, Befliegung 20200421/1600, Full, iPhone, iPhone Silas, iPhones Spherie, Befliegung 20210302/Full |
+
+Teil 1 (Änderungen seit 22.10.2026, 07:25): 29 neue Einträge, keine Aktualisierungen. Assets lieferte 510 Einträge; 23 davon sind Duplikate bestehender Repo-Einträge (21 PDR-Fotos zu MD-0036–0063, MD-0366/0367 zu MD-0026/0027) und wurden nicht katalogisiert, sondern am Original vermerkt. Importiert: 487. Fragen #115 bis #122, Erweiterungen #106 und #110.
+
 ## Runde 5: Änderungen seit 21.10. und Projects Teilrunde 3b (22.10.2026)
 
 | Status | Pfad (unter Projects) | Bemerkung |

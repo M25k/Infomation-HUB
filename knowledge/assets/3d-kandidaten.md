@@ -136,3 +136,34 @@ Kein Pico-Headset-Modell gefunden (Teil 1 und Projects Teilrunde 3b).
 ### Quellfotos für Bild-zu-3D (an Bot 3D)
 
 - **FFVR-0799–0832**: 34 Referenzfotos des realen AWG-Strahlrohrs TURBO-SPRITZE EVO 235 (Handyfotos vom 21.10.2026, geordnet nach Ansicht 1 bis 8). **nur intern** (Ordner INTERN, Herstellerdaten-Kontext). Passen zum laufenden Modell AWG v6.
+
+## Runde 6 (Assets, 23.10.2026): neue 3D-Quellen
+
+### Fahrzeuge
+
+In Runde 6 kam kein neues Fahrzeugmodell dazu, weder in Teil 1 noch in Projects Kiel AR bis Kölner Dom.
+
+### PICO
+
+Es wurde kein Pico-Headset-Modell gefunden.
+
+### Neue FirefighterVR-Assets (Szene Hygiene, Shared Drive FirefighterVR / Assets, angelegt 22.10.2026)
+
+| ID | Set | Inhalt | Freigabe / Hinweis |
+|---|---|---|---|
+| FFVR-0873–0876, FFVR-0882–0884 | Alcohol_Wipes | Spenderdose mit Alkohol-Desinfektionstüchern: Blend, FBX, SPP, Vorschau (gesichtet), 3 Texturen | nur intern bis #120 (Vorschlag Assets: social-video), Lizenz nicht schriftlich belegt. Auf der Dose ist ein kleines Logo, das dem Northdocks-Logo ähnelt (Textregel 23, Frage an Wissen) |
+| FFVR-0877–0880, FFVR-0885–0887 | H2O2_Wipes | Spenderdose mit H2O2-Desinfektionstüchern, Aufdruck „OXYWIPE“: Blend, FBX, SPP, Vorschau (gesichtet), 3 Texturen | nur intern bis #120 (Vorschlag Assets: social-video). Mögliche Fremdmarke und Logo, vor Verwendung neutral texturieren |
+
+### Weitere 3D-Dateien (alle nur intern)
+
+| ID | Datei | Ablage | Größe | Hinweis |
+|---|---|---|---|---|
+| ND-1353–1357 | 5 GLB-Modelle Efeutute (Gold, N’Joy, Wand- und Deckenvarianten) | flowAR / Asset Exchange / Umwelt | je 8–9 MiB | Urheber und Lizenz nicht belegt (Verbundprojekt) |
+| ND-1358–1359 | Sandbox.glb, Slide.glb (Spielplatz) | flowAR / Asset Exchange / Miteinander | 27 bzw. 17 MiB | Urheber und Lizenz nicht belegt |
+| NFVR-0189 | MerckTechnikum_v2.zip | My Drive Patrick (ohne Ordner) | 751 MiB | Kundenmodell Merck, nicht geöffnet. Linkfreigabe, Audit-Fund hoch |
+| MD-0082 | Chor_2020-03-19_Combined_v001_Model_4.fbx | Projects / Kölner Dom | 117 MiB | Photogrammetrie-Modell des Chors, Kundenprojekt Kölner Dombauhütte |
+| MD-0137, MD-0392 | test_v003_Model_3.fbx (doppelt) | Projects / Kölner Dom bzw. Renderings_RP | 42 MiB | Testexport des Dom-Modells |
+
+### Quellfotos für Bild-zu-3D (an Bot 3D)
+
+- **Kölner Dom, Photogrammetrie-Quellbilder (nur intern):** DSC-Kamerafotos aus Befliegung 20200421/20210302 und von der Hauptebene, sowie etwa 300 Handyfotos (HEIC) in Silas, „Kölner Dom“ und Befliegung 2021. Sie eignen sich nur als Referenz für Fassadendetails. Das Dom-Modell selbst existiert schon (über 2 Mrd. Polygone, Textregel 22). Die Urheberschaft ist offen (Frage 3).
