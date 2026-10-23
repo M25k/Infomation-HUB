@@ -12,7 +12,7 @@ Quelle: Joachim, 21.10.2026, aus dem Review v3 von Marcel Timm (UE 5.7 + Quest, 
 
 1. **Namensschema:** `Nozzle_[Hersteller][Produkt]` (Beispiel: `Nozzle_HerstellerProdukt`). Meshes `SM_<Name>_<Teil>`, Texturen `T_<Name>_BaseColor|Normal|ORM`, Material `M_<Name>`. Kein `_LOD0`, keine Format-Suffixe (`_DirectX`, `_OpenGL`).
 2. **Hero-Asset = nur LOD0** (Strahlrohre sind immer nah an der Kamera). Budget ca. 20.000 bis 30.000 Vertices gesamt (UE-Zählung inkl. UV- und Hartkanten-Splits). Weitere LODs nur, wenn die Config sie ausdrücklich anfordert.
-3. **Texturen 2048 × 2048**, ein Atlas, ein Material für alle Teile.
+3. **Texturen 4096 × 4096** (geändert 23.10.2026, Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D; vorher 2048 × 2048), ein Atlas, ein Material für alle Teile. Texeldichte mindestens 3 px/mm, Teile mit Aufdruck mindestens 6 px/mm.
 4. **Eine Normal-Map, nur im UE-Format** (DirectX, Grün = −Y), Name ohne Suffix. Eine zweite OpenGL-Variante führt nur zu Verwechslungen (Flip Green doppelt oder fehlend).
 5. **Achsen:** +X = vorne (Mündung bzw. Blickrichtung des Bauteils), +Z = oben, Einheit cm. Der FBX-Header entspricht dem UE-Zielsystem (Blender-Export `axis_forward='Y', axis_up='Z'`), damit ist der Import ohne Optionen korrekt. Prüfung: Rohdaten-BBox im FBX gleich Blender-BBox.
 6. **Pivots auf den echten Drehachsen**, berechnet aus den CAD-Zylinderflächen (Achse und Lage), nicht aus Bounding-Boxen: Rotationsteile exakt auf der Rohrachse, Hebel exakt auf der Scharnierachse. Statische Teile: Bezug Griff.
@@ -24,6 +24,17 @@ Quelle: Joachim, 21.10.2026, aus dem Review v3 von Marcel Timm (UE 5.7 + Quest, 
 12. **UE-5.7-Import (Interchange) ohne Altoptionen** (Uniform Scale, Convert Scene, Force Front X gibt es nicht mehr). Nur: Normals/Tangents nicht neu berechnen. Normal-Map als Normalmap (BC5/ASTC), ORM linear.
 13. **Verifikation vor Abgabe:** Re-Import jeder FBX (1 Objekt, Lage 0, Rotation 0, 1 Material, BBox, Vertex-Zahl), Vorher/Nachher-Renders mit identischen Kameras, Durchguck vorn und hinten, Skalen-Nahaufnahme. Quest/Android (ASTC, Vulkan) darf nicht brechen: ein Material, keine Spezial-Shader.
 
+14. **Abgabe als eine kombinierte FBX** für „Import Into Level“, die Texturen als zweite ZIP. Ersetzt getrennte Teil-FBX und eingebettete Texturen (siehe Changelog).
+15. **Review-Priorität:** erst Texturqualität, dann Skalen und Beschriftung, dann Watertight.
+16. **Texte und Icons gerade und unverzerrt abwickeln**; mit Orthoansicht-Renders prüfen.
+17. **Beschriftung nur auf Außenflächen**; erhabene CAD-Schrift darunter einebnen.
+18. **Jede Beschriftung auf das Teil wie auf den Fotos**; Logos auch auf kleine Kappen.
+19. **Watertight-Check je Teil**, Ziel: 0 sichtbare offene Kanten.
+20. **Schwarz eloxiertes Metall:** metallic ≤ 0,3, roughness ≥ 0,5.
+21. **Jedes Teil mit den Referenzfotos abgleichen.**
+
+Regeln 14 bis 21 und die Änderung an Regel 3: Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D.
+
 **Prozess (Joachim, 21.10.2026):**
 - Die [Abgabe-Checkliste](cad-zu-echtzeit-abgabe-checkliste.md) vor jeder Übergabe abhaken und ausgefüllt ins Exportpaket legen.
 - Jedes Review wird als **allgemeine Regel** formuliert (nicht nur für das eine Modell) und im Changelog mit Datum, Quelle und Regel eingetragen.
@@ -33,8 +44,9 @@ Quelle: Joachim, 21.10.2026, aus dem Review v3 von Marcel Timm (UE 5.7 + Quest, 
 
 | Datum | Quelle | Regel / Änderung |
 |---|---|---|
+| 23.10.2026 | Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D | Regel 3 geändert (4096², ≥ 3 px/mm, Aufdruck ≥ 6 px/mm); neu 14 bis 21: eine kombinierte FBX + Textur-ZIP, Review-Priorität, gerade Abwicklung (Ortho-Check), Beschriftung nur außen, Beschriftung wie Fotos/Logos auf Kappen, Watertight je Teil, Eloxal-Werte, Referenzfoto-Abgleich. **Überholt:** getrennte Teil-FBX mit Platzierungstabelle (v5), FBX/GLB pro LOD mit eingebetteten Texturen (Pipeline-Tabelle), Faustregel ≥ 4 px/mm (v3) |
 | 21.10.2026 | Review Marcel Timm (UE 5.7 + Quest), v3, 55/100; Joachim | Regeln 1 bis 13: Namensschema `Nozzle_`, nur LOD0, 2048er, Normal nur UE-Format ohne Suffix, +X vorne ohne Importoptionen, Pivots aus CAD-Achsen, Teilezuordnung und Solid-Split, wasserdicht mit Prüfskript, Farben am Foto, Skalen nach CAD/Foto, Texturen entrauscht, UE-5.7-Interchange-Import, Abgabe-Checkliste |
-| 20.10.2026 | UE-Importtest v5 | Teil-FBX: Objekt am Ursprung, Transform angewendet, Platzierungstabelle; LOD1/2-Export sichtbar machen (leere FBX) |
+| 20.10.2026 | UE-Importtest v5 | ~~Teil-FBX: Objekt am Ursprung, Transform angewendet, Platzierungstabelle~~ (überholt durch Regel 14, 23.10.2026); LOD1/2-Export sichtbar machen (leere FBX) |
 | 20.10.2026 | UE-Importtest v4 | cm und UnitScaleFactor 1 (v3 importierte 1:100), ein Atlas/Material für alle LODs |
 | 20.10.2026 | UE-Importtest v3 | Normal-Map: DirectX ohne Flip Green (nie beides), ORM linear |
 
@@ -98,12 +110,12 @@ export CAD2RT_PY=<VENV>/bin/python
 | Aufdrucke (v3) | `decals`: pro Teil eine RGBA-Textur, projiziert im Shader über Weltposition: `cyl` = Abwicklung um Rohrachse (u = Winkel ab +Z, v = axial über Teil-BBox, REPEAT), `planar_x` = Seitenprojektion entlang ±X (side 0 = beide Seiten, lesbar), Maske über Normale. Wirkt in BaseColor (Bildfarbe), Roughness (`rough`) und Metallic (0) | `decals[].match/type/image/y0/y1/z0/z1/side/u_sign/u_offset/v_flip/rough` |
 | Ausgabe | `T_<Name>_LOD<i>_{BaseColor, Normal (OpenGL), Normal_DirectX, ORM, AO}.png` · ORM: R = AO, G = Roughness, B = Metallic | |
 | Teile | Join pro Gruppe, Origin auf Pivot, Name `SM_<Name>_<Gruppe>_LOD<i>`, Collection `LOD<i>`, ein Material `M_<Name>_LOD<i>` pro LOD | |
-| Export | FBX pro LOD (Meter, −Z forward / Y up, Tangenten, Texturen eingebettet), GLB pro LOD | |
+| Export | FBX pro LOD (Meter, −Z forward / Y up, Tangenten, Texturen eingebettet), GLB pro LOD. **Überholt** für die Abgabe: eine kombinierte FBX + Textur-ZIP (Regel 14), Achsen nach Regel 5 | |
 
 ## Neue Schritte v3 (Kurz)
 1. **Verdeckte Flächen entfernen**: `cull_hidden` in der Config setzen. Log prüfen: `Verdeckte Flächen entfernt X von Y`. Danach visuell prüfen (Mündung/Kupplung von vorn ansehen – sichtbare Bohrungsanfänge müssen bleiben; sonst `min_visible` senken).
 2. **Aufdrucke**: Texte/Logo in `make_decals.py` (oder eigene PNGs mit Alpha) erstellen; Position in Weltmetern nach `rotate_x_deg`/Pivot-Transformation angeben (Hilfe: Teil-BBoxen aus Log/Blend). Zylindrische Skalen: Winkel 0 = Oberseite (+Z), Zahl über die Bildnaht hinweg doppelt zeichnen (u-Wrap). Testrender `detail_print_*`-Kameras in `cams.json`.
-3. **Texel-Boost** für Aufdruckträger setzen; Lesbarkeit in LOD0 prüfen (Ziel ≥ 4 px pro mm Schrifthöhe… Faustregel: Schrifthöhe 5 mm ≥ 15 px).
+3. **Texel-Boost** für Aufdruckträger setzen; Lesbarkeit in LOD0 prüfen (Ziel ≥ 4 px pro mm Schrifthöhe… Faustregel: Schrifthöhe 5 mm ≥ 15 px). **Überholt durch Regel 3 (23.10.2026):** mindestens 3 px/mm, Teile mit Aufdruck mindestens 6 px/mm.
 
 ## Unreal-Hinweise
 - Für Unreal `Normal_DirectX` verwenden, oder beim OpenGL-Map in UE „Flip Green Channel“ setzen.
