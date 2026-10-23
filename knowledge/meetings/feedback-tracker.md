@@ -1,6 +1,34 @@
 # Feedback-Tracker (Spiegel)
 
-Spiegel von `/workspace/weeklies/feedback-tracker.md` (geführt von One). Ablauf und Regeln: [README.md](README.md). Stand 23.10.2026: Die Arbeitsliste existiert noch nicht, daher leere Vorlage.
+Spiegel von `/workspace/weeklies/feedback-tracker.md` (geführt von One), Stand der Quelle: 23.10.2026, 09:20 (UTC+2, Europe/Berlin); gespiegelt von Wissen am 23.10.2026. Ablauf und Regeln: [README.md](README.md). Ohne Zitate; Zeitstempel = Position im Mitschnitt des Weekly 21.10.2026. Status W1021-11 bis -13 von Wissen auf „erledigt“ gesetzt.
 
 | ID | Datum/Zeit | Sprecher | Thema kurz | Zuständig | Status | Repo-Verweis |
 |---|---|---|---|---|---|---|
+| W1021-01 | 21.10.2026, 13:22–16:40 | Unreal-Dev | AWG EVO 235 KI-Meshes: 5 Fixpunkte zu v3 (Dichtheit, Farben, Textur, Ausrichtung/Pivots, Teiletrennung) | 3D | überholt durch v6 / wartet auf Review | v6 setzt alle 5 Punkte um; Score von Marcel ausstehend (Asana-Task 1219711295806018); Meshes vom eigenen 3D-Bot, nur intern |
+| W1021-02 | 21.10.2026, 04:19–05:15 | Unreal-Dev | RTW Hygiene: saubere Kollisionen (Monitor/EKG/Defi, Wandhalterung, Telefon, Schränke) | 3D | blockiert (Renke-Abstimmung) | 3D kann UCX-Kollisionen; braucht von Renke Aufteilung + .blend-Quellpfade → W1021-16 |
+| W1021-03 | 21.10.2026, 07:10–09:01 | Unreal-Dev / Renke | RTW Hygiene: fehlende Assets (hoher Schubschrank, Medikamenten-Kühlschrank, Desinfektionstücher-Box, Biohazard-Behälter) | 3D | blockiert (Renke-Abstimmung) | 3D kann Blockouts; wartet auf W1021-16 |
+| W1021-04 | 21.10.2026, 00:25–01:47 | Unreal-Dev | Patientenraum-Szenarien: Rauch/Dunkelheit nachjustieren, Debug vor Build aus | Unreal Build | blockiert (Build-PC, Repo-Info) | Build-PC mit Fab-Plugins fehlt; FFVR-Repo/Branch-Namen nötig |
+| W1021-05 | 21.10.2026, 01:51–03:20 | Unreal-Dev | Janis-Review FFVR v0.6: Tickets (Crashes, defektes Feuer, Löschen-Visual, Tutorial, Hotkeys, Loka) in Build-Planung | Unreal Build | blockiert (Build-PC, Repo-Info) | wie W1021-04 |
+| W1021-06 | 21.10.2026, 09:23–09:50 | Unreal-Dev | Template auf UE 5.8 / MCP: Build-Pipeline prüfen | Unreal Build | blockiert (Build-PC, Repo-Info) | 5.8 parallel installieren; Umstellung entscheidet Joachim (W1021-28) |
+| W1021-07 | 21.10.2026, 44:20–46:10 | Moritz | Unterstützung Brillen-Build Feuersimulation | Unreal Build | blockiert (Build-PC, Repo-Info) | Repo/Branch-Frage in W1021-17 |
+| W1021-08 | 21.10.2026, 45:59–46:10 | Moritz | Profiling-Tipps für PICO-Performance-Test | Pico Native | erledigt (Tipps in Moritz-Task) | Tipps in Asana-Task W1021-17 übernommen: https://app.asana.com/1/8864272155433/project/1203395601364737/task/1219808752691630 |
+| W1021-09 | 21.10.2026, 06:38 / 44:31 | Unreal-Dev / Moritz | Neues Gameplay-Material für Reels (nur nach Freigabe, kein Debug, kein EVO 235) | Video | zugestellt |  |
+| W1021-10 | 21.10.2026, 20:39–22:20 | Patrick | Story-Entwurf „Der Klassiker“ / CropEnergies (nur nach Freigabe) | Social | zugestellt |  |
+| W1021-11 | 21.10.2026, 05:32–08:20 | Unreal-Dev | Hygiene-MVP-Spielkonzept ins Wissens-Repo | Wissen | erledigt | [projects.md](../projects.md) (ddea6c4) |
+| W1021-12 | 21.10.2026, 13:38–13:40 | Unreal-Dev | Regel bestätigen: AWG/EVO-235-CAD bleibt intern | Wissen | erledigt | [assets/3d-kandidaten.md](../assets/3d-kandidaten.md) (ddea6c4, Klarstellung 25620d5) |
+| W1021-13 | 21.10.2026, 23:45–41:20 | Patrick | Kontext Intranet „Sanctum“/Module vermerken | Wissen | erledigt | [repos.md](../repos.md) (ddea6c4) |
+| W1021-14 | 21.10.2026, 13:46–13:50 | Unreal-Dev | Freigabe-Audit EVO-235-Drive-Ordner (nur melden) | Assets | in Arbeit (Audit 26.10.) |  |
+| W1021-15 | 21.10.2026, – | – | Highlights ins Morgen-Briefing | Morgen-Briefing | zugestellt |  |
+| W1021-16 | 21.10.2026, 04:19–09:01 | Unreal-Dev / Renke | RTW: fehlende Assets + Kollisionen abstimmen, .blend-Pfade notieren | Renke | offen (Asana) | https://app.asana.com/1/8864272155433/project/1219445393130153/task/1219808752692783 |
+| W1021-17 | 21.10.2026, 45:59–46:10 | Moritz | Feuersimulation Performance-Test auf PICO, FPS/CPU eintragen, Repo/Branch nennen | Moritz | offen (Asana) | https://app.asana.com/1/8864272155433/project/1203395601364737/task/1219808752691630 |
+| W1021-18 | 21.10.2026, 24:09–24:30 | Patrick | Intranet-Zugang Kiel vorbereiten | Patrick | offen (Asana) | https://app.asana.com/1/8864272155433/project/867396671345009/task/1219808874993829 (Entscheidung → W1021-25) |
+| W1021-19 | 21.10.2026, 37:51–38:10 | Patrick | Namensvorschläge für Module | Patrick | offen (Asana) | https://app.asana.com/1/8864272155433/project/867396671345009/task/1219808874993829 |
+| W1021-20 | 21.10.2026, 19:47–22:20 | Patrick | Follow-up „Der Klassiker“ / Karl Henkel | Patrick | offen (Asana) | https://app.asana.com/1/8864272155433/project/867396671345009/task/1219808874993829 |
+| W1021-21 | 21.10.2026, 01:51–02:50 | Unreal-Dev | Dank/Rückmeldung an Janis für Review | Joachim | offen | kein Asana-Task (extern) |
+| W1021-22 | 21.10.2026, 16:07–16:40 | – | EVO 235: weitere KI-Iteration oder manuell (Renke)? Tool für nächste Version | Joachim | Entscheidung offen | evtl. durch v6 erledigt |
+| W1021-23 | 21.10.2026, 07:28–08:24 | – | Hygiene-MVP: Zeitlimit 1/2 min; Kühlschrank-Innenreinigung, Alkohol vs. H₂O₂ jetzt oder später | Joachim | Entscheidung offen |  |
+| W1021-24 | 21.10.2026, 01:59–03:20 | – | Priorität Janis-Tickets vs. neue Szenarien | Joachim | Entscheidung offen |  |
+| W1021-25 | 21.10.2026, 24:09–24:30 | – | Intranet-Zugang Kiel: VPN oder Webserver; Verhältnis zu eigenen Systemen | Joachim | Entscheidung offen |  |
+| W1021-26 | 21.10.2026, 22:06–22:21 | – | Partnerschaft „Der Klassiker“ / Kleidungs-Integration verfolgen? | Joachim | Entscheidung offen |  |
+| W1021-27 | 21.10.2026, – | – | Freigabe Social-Posts (Kunden, Gameplay-Material) | Joachim | Entscheidung offen |  |
+| W1021-28 | 21.10.2026, 09:23–09:50 | – | Build-Pipeline auf UE 5.8 umstellen? | Joachim | Entscheidung offen |  |
