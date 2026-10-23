@@ -1,6 +1,6 @@
 # Feedback-Tracker (Spiegel)
 
-Spiegel von `/workspace/weeklies/feedback-tracker.md` (geführt von One), Stand der Quelle: 23.10.2026, 09:20 (UTC+2, Europe/Berlin); gespiegelt von Wissen am 23.10.2026. Ablauf und Regeln: [README.md](README.md). Ohne Zitate; Zeitstempel = Position im Mitschnitt des Weekly 21.10.2026. Status W1021-11 bis -13 von Wissen auf „erledigt“ gesetzt. Status am 23.10.2026 an die README angepasst (abgestimmt mit One); W1021-21 ist eine Aufgabe (Rückmeldung an Janis), keine Entscheidung, daher „zugestellt“.
+Spiegel von `/workspace/weeklies/feedback-tracker.md` (geführt von One), Stand der Quelle: 23.10.2026, 09:20, W1021-09/-10 nachgezogen 09:24 (UTC+2, Europe/Berlin); gespiegelt von Wissen am 23.10.2026. Ablauf und Regeln: [README.md](README.md). Ohne Zitate; Zeitstempel = Position im Mitschnitt des Weekly 21.10.2026. Status W1021-11 bis -13 von Wissen auf „erledigt“ gesetzt. Status am 23.10.2026 an die README angepasst (abgestimmt mit One); W1021-21 ist eine Aufgabe (Rückmeldung an Janis), keine Entscheidung, daher „zugestellt“.
 
 | ID | Datum/Zeit | Sprecher | Thema kurz | Zuständig | Status | Repo-Verweis |
 |---|---|---|---|---|---|---|
@@ -12,8 +12,8 @@ Spiegel von `/workspace/weeklies/feedback-tracker.md` (geführt von One), Stand 
 | W1021-06 | 21.10.2026, 09:23–09:50 | Unreal-Dev | Template auf UE 5.8 / MCP: Build-Pipeline prüfen | Unreal Build | blockiert (Build-PC, Repo-Info) | 5.8 parallel installieren; Umstellung entscheidet Joachim (W1021-28) |
 | W1021-07 | 21.10.2026, 44:20–46:10 | Moritz | Unterstützung Brillen-Build Feuersimulation | Unreal Build | blockiert (Build-PC, Repo-Info) | Repo/Branch-Frage in W1021-17 |
 | W1021-08 | 21.10.2026, 45:59–46:10 | Moritz | Profiling-Tipps für PICO-Performance-Test | Pico Native | erledigt (Tipps in Moritz-Task) | Tipps in Asana-Task W1021-17 übernommen: https://app.asana.com/1/8864272155433/project/1203395601364737/task/1219808752691630 |
-| W1021-09 | 21.10.2026, 06:38 / 44:31 | Unreal-Dev / Moritz | Neues Gameplay-Material für Reels (nur nach Freigabe, kein Debug, kein EVO 235) | Video | zugestellt |  |
-| W1021-10 | 21.10.2026, 20:39–22:20 | Patrick | Story-Entwurf „Der Klassiker“ / CropEnergies (nur nach Freigabe) | Social | zugestellt |  |
+| W1021-09 | 21.10.2026, 06:38 / 44:31 | Unreal-Dev / Moritz | Neues Gameplay-Material für Reels (nur nach Freigabe, kein Debug, kein EVO 235) | Video | blockiert (Material-Freigabe) |  |
+| W1021-10 | 21.10.2026, 20:39–22:20 | Patrick | Story-Entwurf „Der Klassiker“ / CropEnergies (nur nach Freigabe) | Social | in Arbeit |  |
 | W1021-11 | 21.10.2026, 05:32–08:20 | Unreal-Dev | Hygiene-MVP-Spielkonzept ins Wissens-Repo | Wissen | erledigt | [projects.md](../projects.md) (ddea6c4) |
 | W1021-12 | 21.10.2026, 13:38–13:40 | Unreal-Dev | Regel bestätigen: AWG/EVO-235-CAD bleibt intern | Wissen | erledigt | [assets/3d-kandidaten.md](../assets/3d-kandidaten.md) (ddea6c4, Klarstellung 25620d5) |
 | W1021-13 | 21.10.2026, 23:45–41:20 | Patrick | Kontext Intranet „Sanctum“/Module vermerken | Wissen | erledigt | [repos.md](../repos.md) (ddea6c4) |
