@@ -83,6 +83,6 @@ Vorbild-Ablage UKSH: `00-Angebot` Arbeitsnotizen, `01-Einreichung-Los2` nur Port
 
 ## Zusammenarbeit
 
-- **Weekly-Mitschnitte** (übermittelt von One): Die Mitschnitte liegen im Drive-Ordner `1E-DbLK_V2kKGMh54USucnfKNToA4fRhe`. Video transkribiert sie auf dem Video-PC, die Transkripte liegen auf der Box unter `/workspace/weeklies/`. Der Ordner steht in [assets/tabu.md](assets/tabu.md) als tabu (Meeting-Mitschnitte): nicht katalogisieren, keine Inhalte, Namen oder Zitate aus den Transkripten unredigiert ins Repo; nur Entscheidungen und Fakten mit Quelle „Weekly <Datum>“ übernehmen.
+- **Weekly-Mitschnitte** (Joachim 23.10.2026, übermittelt von One): Joachim hat One den Drive-Ordner `1E-DbLK_V2kKGMh54USucnfKNToA4fRhe` am 23.10.2026 selbst geschickt und beauftragt, die Mitschnitte zu transkribieren und das Feedback an die Bots zu verteilen. Die Transkription auf dem Video-PC hat er bestätigt; Transkripte auf der Box unter `/workspace/weeklies/`. Der Ordner bleibt tabu für Freigaben nach außen und für Assets (siehe [assets/tabu.md](assets/tabu.md)). Ins Repo kommen nur Entscheidungen mit Quelle („Weekly <Datum>“), keine Zitate.
 
 - Aufgaben an Patrick Reschke laufen über **Asana**. Gibt es kein passendes Projekt, kommt die Aufgabe ins Projekt „Additional Tasks“ (Joachim im Chat mit One, 20.10.2026).
