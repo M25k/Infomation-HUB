@@ -2,6 +2,8 @@
 
 Offene Freigabefragen zum Drive. An Joachim, sofern nicht anders vermerkt. Stand 19.10.2026 (Runde 2 ergänzt).
 
+**Vorprüfung vor Fragen an Joachim** (Joachim 25.10.2026, 15:15, übermittelt von One): Bevor eine offene Frage zu Joachim kommt, muss sie gegen das Wissen (Infomation-HUB, Bot Wissen), Google Drive (über den Bot Assets) und Asana geprüft sein. Nur Fragen, die keine dieser Quellen beantwortet, gehen an ihn, jeweils mit einem Vorschlag. Weiter gilt: gebündelt über One, in 5er-Blöcken. Ablauf und 5er-Blöcke: [../open-questions.md](../open-questions.md).
+
 | # | Frage | Kontext | Status |
 |---|---|---|---|
 | 1 | Tabu-Liste bestätigen? | Vorschläge in [tabu.md](tabu.md). Northdocks Assets beginnt erst nach Bestätigung | erledigt: bestätigt (Joachim über One, 18.10.2026), siehe [tabu.md](tabu.md) |

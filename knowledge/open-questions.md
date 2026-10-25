@@ -4,6 +4,8 @@ Geklärte Punkte bleiben kurz dokumentiert. Nur offene Punkte blockieren Formuli
 
 **Fragen an Joachim** (Joachim 23.10.2026, übermittelt von One): Offene Fragen an Joachim kommen immer in Blöcken von 5 nummerierten Fragen. Unbeantwortetes geht zurück in die Warteschlange, die One führt. Die Bots bündeln ihre Fragen an One.
 
+**Vorprüfung vor Fragen an Joachim** (Joachim 25.10.2026, 15:15, übermittelt von One): Bevor eine offene Frage zu Joachim kommt, muss sie gegen das Wissen (Infomation-HUB, Bot Wissen), Google Drive (über den Bot Assets) und Asana geprüft sein. Nur Fragen, die keine dieser Quellen beantwortet, gehen an ihn, jeweils mit einem Vorschlag. Weiter gilt: gebündelt über One, in 5er-Blöcken.
+
 ## Geklärt 2026-08-26
 
 | Thema | Entscheidung |
