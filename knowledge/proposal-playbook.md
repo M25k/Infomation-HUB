@@ -99,6 +99,8 @@ Qualitätstext muss nachprüfbar sein: Screens, Architektur, Offline-Betrieb, Op
 
 **Paket (Bielefeld 15.09.2026, künftig Standard):** gewertetes Konzept nur Call-Abschnitte, kein Briefkopf, keine PT/Preise, kein Schlusskatalog „Nicht Leistungsbestandteil“. Preis und Anschreiben im Inhaltsangebot. ~~Ausschlüsse (Hardware nicht Preisblatt, keine Pflege nach Abnahme)~~ überholt durch die Inhaltsregel 25.10.2026 (keine Negativ-Abgrenzungen; nur beschreiben, was angeboten wird). Förderprogrammnamen der AG nicht ins Anschreiben. Ausfüllhilfe eigenes intern-Doc, nicht einreichen. Personaltabelle: [offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md).
 
+**Lizenzregel NDFramework (Joachim 25.10.2026, laut UKFFM-Ticket; gleich im Meißen-Ticket):** Das NDFramework wird als vorbestehende Komponente offengelegt. Der Auftraggeber bekommt Rechte nur am neu Entwickelten; es gelten keine eigenen AGB; das Framework ist nicht Open Source. **Offen:** Eine Quellcode-Hinterlegung des Frameworks ist nicht belegt (#142).
+
 ## 7. Typische Abzüge, die wir schon kennen
 
 Aus Asana Abgelehnt/Nicht eingereicht: Preis, Unpassend, ZIM-Prototypgrenze, zu teuer (Nebra, Rahmenvertrag Visualisierung).

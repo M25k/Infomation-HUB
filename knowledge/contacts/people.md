@@ -274,6 +274,7 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 
 - **Organisation:** [Bundesamt für Strahlenschutz (BfS)](organizations.md#bundesamt-für-strahlenschutz-bfs) (bis 26.06.2025 im Projekt)
 - **Rolle:** Fachlicher Ansprechpartner StrahlenschutzVR (Physik)
+- **Funktion:** laut UKFFM-Ticket „Referent für Qualitätssicherung in der Röntgendiagnostik (MB3)“, Stand 10/2024. Im UKFFM-Ticket ([1217974085069035](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1217974085069035)) als BfS-Referenz gesetzt (25.10.2026). Projektrolle endete am 26.06.2025 (siehe Organisation).
 - **Kontaktweg:** E-Mail (Silas, Mailakte Asana)
 - **Themen:** Kostenlose App, Kongresse, XR2LEARN, gemeinsamer Artikel, Vermittlung internationaler Kontakte (KCOR, Pistoia, Bambino Gesù, Mater Misericordiae Dublin, UCD, Brest, Uni Hannover IRS)
 - **Bezug:** [projects.md](../projects.md) (RadiationProtectionVR); [meditrain.md](../meditrain.md); Fujiwara/BfS-Artikel ([open-questions.md](../open-questions.md)); [Asana](https://app.asana.com/0/0/1217847528017752), [Asana](https://app.asana.com/0/0/1208870789468398)
