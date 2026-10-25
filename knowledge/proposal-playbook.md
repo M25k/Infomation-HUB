@@ -19,6 +19,8 @@ Zum Schreiben immer [claims.md](claims.md) und [document-rules.md](document-rule
 
 **Inhaltsregel (Joachim 25.10.2026, 17:26, übermittelt von One):** Leasing war nur für eine bestimmte UKSH-Ausschreibung gedacht und gehört nicht in normale Northdocks-Inhalte (Angebote, Tickets, Dokumente), auch nicht als Abgrenzung. Allgemein keine Negativ-Abgrenzungen nach dem Muster „das ist nicht X“: Wir beschreiben nur, was wir anbieten.
 
+**Rundung (Joachim 25.10.2026, über One):** Referenzvolumen und ähnliche Zahlen in Angeboten und Ausschreibungen dürfen immer auf volle Tausend Euro gerundet werden (z. B. BfS 157.004 € → 157.000 €). Der genaue Betrag bleibt als interner Beleg.
+
 ## 1. Welches Verfahren, welche Logik
 
 | Verfahren | Was Gutachter kaufen | Northdocks-Hebel |

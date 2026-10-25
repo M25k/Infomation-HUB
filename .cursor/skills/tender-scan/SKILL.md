@@ -58,6 +58,7 @@ Nur notiert: N
 **Ticket und Paket (Joachim 25.10.2026, übermittelt von One bzw. Förderung):**
 - Eine Ausschreibung bekommt **ein** Asana-Ticket mit grobem Status. Unteraufgaben nur für Dinge, die andere Personen tun müssen.
 - Details stehen als `.md` im Drive-Ordner der Ausschreibung (inkl. Checkliste; eine Checkliste wird nie als Asana-Unteraufgaben angelegt). Die Ticketbeschreibung ist sauber gegliedert; Referenz: [UKSH-Ticket](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1217328350929037).
+- Referenzvolumen und ähnliche Zahlen dürfen auf volle Tausend Euro gerundet werden (document-rules.md Nr. 15, (Joachim 25.10.2026, über One)).
 - So schnell wie möglich bearbeiten. Joachim bekommt einen kompletten Vorschlag in **einem** Paket: Eignung/Referenzen, Umsetzungskonzept (falls gefordert) und Kalkulation.
 - Theoretische Punkte wie Konflikte bei den Mitarbeiterressourcen fallen ganz weg.
 - **Keine Bieterfragen**, weil sie Wettbewerber aufmerksam machen. Ist eine Ausschreibung uneindeutig, gilt die für Northdocks günstigere Auslegung.

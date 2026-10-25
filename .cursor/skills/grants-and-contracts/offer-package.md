@@ -10,7 +10,7 @@ Eine HTML-Datei → ein Google Doc → eine Portal-Anlage. Nichts hinten anhäng
 |---|---|---|
 | **Inhaltliches Angebot** | ja | Briefkopf aus [northdocks-briefkopf.html](../../templates/northdocks-briefkopf.html), Anschreiben, Preis, Zahlungsplan, Liste der Anlagen, Unterschrift |
 | **Projektkonzept / Lösungsbeschreibung** | ja | Nur die gewerteten Call-Abschnitte. Seitenlimit der Unterlagen (Bielefeld: 6 DIN-A4; Deckblatt/Inhaltsverzeichnis zählen nicht) |
-| **Referenzen** | ja | Nur die verlangten Slots |
+| **Referenzen** | ja | Nur die verlangten Slots. Volumen dürfen auf volle Tausend Euro gerundet werden ([document-rules.md](../../../knowledge/document-rules.md) Nr. 15) |
 | **Drittkomponenten / Lizenzen / Quellcode** | ja, wenn verlangt | **Lizenzregel NDFramework (Joachim 25.10.2026, laut UKFFM-Ticket; gleich im Meißen-Ticket):** Das NDFramework wird als vorbestehende Komponente offengelegt. Der Auftraggeber bekommt Rechte nur am neu Entwickelten; es gelten keine eigenen AGB; das Framework ist nicht Open Source. **Offen:** Eine Quellcode-Hinterlegung des Frameworks ist nicht belegt (#142). **Sprachausgabe (entschieden von One; Delegation durch Joachim 25.10.2026):** In Angeboten nur „Sprachausgabe“ nennen, ohne Anbieter; keine vertragliche Zusicherung zu ElevenLabs. Der Tarif wird erst im Auftragsfall geprüft (#141). |
 | **Datenschutz / Informationssicherheit** | ja, wenn verlangt | |
 | **Ausfüllhilfe** | **nein** | Eigenes Doc, Titel intern: PT-Kalkulation, Portal-Felder (324, 521, 533, EVB), Screenshot-Links |
