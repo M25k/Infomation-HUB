@@ -59,7 +59,9 @@ Stephan zu Münster steht in diesem Raster **nicht** in der Konzepttabelle (weit
 
 Nutzer ändert Namen im Doc → Doc gilt, nicht zurückkorrigieren.
 
-PT und Tagessatz (UKSH-Analog 1.095,89 €) nur in der **Ausfüllhilfe**.
+PT und Tagessatz nur in der **Ausfüllhilfe**. Regel (Joachim 25.10.2026; Förderung 25.10.2026): Pro Ausschreibung wird **ein fester Tagessatz nach außen** auf Gewinnen kalkuliert; Puffer, Wiederverwendung und Marge bleiben intern. Keine allgemeine Beispielzahl.
+
+Belegtes Beispiel, **nur intern**: Frankfurt 20261039, intern 900 €/PT plus 10 % Puffer (V2); Variante V3 mit 1.000 €/PT nach außen und 128 PT. Quelle: Sheet `1iDF_r_Rr1IDakNUBJgfFoZe1VRm4nolSDrSuOahG9FQ`. Frankfurt-Preis bis zur zweiten UKFFM-Ausschreibung nicht final.
 
 ## Portalformulare
 

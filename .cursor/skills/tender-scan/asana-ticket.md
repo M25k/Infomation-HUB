@@ -80,7 +80,6 @@ Nebenangebote: erlaubt / unzulässig / offen
 Lieferort vs. Kiel:
 
 RISIKEN
-Kapazität bis zur Frist:
 Preis/Budget (zu eng wie UniBw 300 k€?):
 Custom-Falle (einmalig, kein Katalog):
 Spezialhardware / Eye-Tracking:
