@@ -1,6 +1,6 @@
 # Koni Trainer
 
-Kanonisch. Stand Quellenlauf **18.09.2026** (Asana, Gmail `joachim@northdocks.com`, Drive). Keine FreeAgent-Rechnung — Forschung, kein Verkauf.
+Kanonisch. Stand Quellenlauf **18.09.2026** (Asana, Gmail Joachim, Drive). Keine FreeAgent-Rechnung — Forschung, kein Verkauf.
 
 **Koni = Konisation (LLETZ), nicht Koniotomie.** Zervix, Kolposkop, Elektroschlinge. Soft-Tissue-Cutting für operative Gynäkologie. Meditrain-Pipeline / Coming Soon, **kein Katalogmodul**, nicht als ausgeliefert behaupten.
 
@@ -32,7 +32,7 @@ Arbeitsteilung ab **18.06.2026** (Joachim an Trapp): ND liefert höchstens Textb
 | Forschungszulage | Vorschlag Trapp 14.07. an ND | [bescheinigung-forschungszulage.de](https://www.bescheinigung-forschungszulage.de/) — intern offen, kein Antrag hier |
 | VLP Plus | Nur in früher Task-Notiz | Validierung, Antrag von UKW; nicht als laufend behandeln |
 
-Ablehnung nennt außer fehlender Priorität **keinen** fachlichen Grund. Kiesel bat 16.07. um das Begründungsschreiben — **unbeantwortet**. Entweder so mitteilen oder vorher VDI TZ anrufen (`kmu-innovativ-medizintechnik@vdi.de`).
+Ablehnung nennt außer fehlender Priorität **keinen** fachlichen Grund. Kiesel bat 16.07. um das Begründungsschreiben — **unbeantwortet**. Entweder so mitteilen oder vorher VDI TZ kontaktieren (Kontakt nicht im Repo).
 
 ## Entwicklung (Asana-Projekt *Koni Trainer*)
 

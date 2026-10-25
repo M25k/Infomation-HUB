@@ -1,10 +1,10 @@
 # Team und Kompetenzen (Vergabe)
 
-Nur Namen und Rollen, die in Asana, Impressum, Drive-Vita oder dieser KB stehen. Keine privaten Adressen, Telefone, Geburtsdaten. Unbekannt bleibt **offen**.
+Nur Namen und Rollen, die in Asana, Impressum, Drive-Vita oder dieser KB stehen. Keine privaten Adressen, Telefone, Geburtsdaten. **Keine Mailadressen und Telefonnummern ins Repo; Kontakte nur ohne Mail und Telefon (Joachim; umgesetzt 25.10.2026).** Unbekannt bleibt **offen**.
 
 Für Ausschreibungen: **Eignung Teil 2** (Rollen + Referenzen) getrennt von der **Zuschlags**-Personalliste im Umsetzungskonzept. Dieselbe Person darf in beiden vorkommen, der Text nicht 1:1 kopieren.
 
-Tagessätze nicht hier als „die“ Firmenzahl. Interner Personal-Mittelwert 2020–2024: **880,24 €** je Arbeitstag (Drive `Mittelwert Tagessatz`). UKSH Los 2 nutzte **1.095 €** je Personentag im Angebot.
+Tagessätze nicht hier als „die“ Firmenzahl. Interner Personal-Mittelwert 2020–2024: **880,24 €** je Arbeitstag (Drive `Mittelwert Tagessatz`). UKSH Los 2 nutzte **1.095 €** je Personentag im Angebot. **Überholt (Förderung 25.10.2026):** 1.095 € ist UKSH-spezifisch und kein Referenz-Tagessatz mehr; es gilt ein fester Tagessatz pro Ausschreibung, kalkuliert auf Gewinnen ([offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md)).
 
 Drive-Viten (nicht ins Git kopieren): Ordner [Lebenslauf](https://drive.google.com/drive/folders/1GOzaVblxAQmr4FJ53itwGmK3ksX_OohN); UKSH-Mappe mit Urkunden Marcel/Finn/Moritz.
 
@@ -12,38 +12,38 @@ GF-Zuordnung Meißen 26.08.2026 (Joachim): Patrick PL, Finn Senior VR, Stephan 3
 
 ## Stamm (Asana-Workspace, 26.08.2026)
 
-| Name | E-Mail | Belegte Rolle / Kompetenz | Eignung Teil 2 (Meißen) |
-|---|---|---|---|
-| Joachim Perschbacher | joachim@northdocks.com | GF, Mitgründer 2009; CV V6: Managing Director & CTO, Informatik CAU Kiel, Unreal/Unity, XR-Training | **Technische Projektleitung** |
-| Patrick D. Reschke | patrick.reschke@northdocks.com | GF (nicht Gründer), Intel-Pfad; intern **Head of Sales**, lange PM-Praxis (GF 26.08.2026) | **Projektleitung** |
-| Simona Michel | Simona.michel@northdocks.com | FiBu, Versand, Ausschreibungsboard | nicht in der VR-Rollenzeile |
-| Marcel Timm | marcel@northdocks.com | Vita 18.03.2026: VR/XR Content Developer seit 07/2020; Master Multimedia Production FH Kiel; Unreal/Unity; zuvor Game Designer (Daedalic) | **Unreal-Entwickler** |
-| Finn Marquardt | finn@northdocks.com | B.Sc. Informationstechnologie / Angewandte Informatik, FH Kiel, 14.02.2019; intern **Master des VR-Frameworks** (GF 26.08.2026); TEMA-3D-Tiles zusätzlich | **Senior VR-Entwickler** |
-| Stephan zu Münster | stephan.muenster@northdocks.com | GF-Zuordnung 26.08.2026: 3D und QA. Vita/Urkunde in Drive nicht gefunden — vor Abgabe beilegen | **3D-Artist** und **QA** |
-| Seiko Foubert | seiko.foubert@northdocks.com | TUHH TwinC-360-Web; GF-Zuordnung: UX und QA | **UX/UI** und **QA** |
-| Renke Niehaus | renke.niehaus@northdocks.com | intern Multimedia Production studiert (GF 26.08.2026); Drive belegt Photogrammetrie 2024 und FFVR-Berichte 2023/24. Urkunde nicht in der UKSH-Mappe (dort liegt Marcel-Master) — vor Abgabe beilegen | **Medienpädagogik** |
-| Moritz Till | Moritz.Till@northdocks.com | Bachelor Virtual Design 10.03.2023; TUHH-App-Inhalte | 3D-Reserve, nicht Pflichtzeile Meißen |
+| Name | Belegte Rolle / Kompetenz | Eignung Teil 2 (Meißen) |
+|---|---|---|
+| Joachim Perschbacher | GF, Mitgründer 2009; CV V6: Managing Director & CTO, Informatik CAU Kiel, Unreal/Unity, XR-Training | **Technische Projektleitung** |
+| Patrick D. Reschke | GF (nicht Gründer), Intel-Pfad; intern **Head of Sales**, lange PM-Praxis (GF 26.08.2026) | **Projektleitung** |
+| Simona Michel | FiBu, Versand, Ausschreibungsboard | nicht in der VR-Rollenzeile |
+| Marcel Timm | Vita 18.03.2026: VR/XR Content Developer seit 07/2020; Master Multimedia Production FH Kiel; Unreal/Unity; zuvor Game Designer (Daedalic) | **Unreal-Entwickler** |
+| Finn Marquardt | B.Sc. Informationstechnologie / Angewandte Informatik, FH Kiel, 14.02.2019; intern **Master des VR-Frameworks** (GF 26.08.2026); TEMA-3D-Tiles zusätzlich | **Senior VR-Entwickler** |
+| Stephan zu Münster | GF-Zuordnung 26.08.2026: 3D und QA. Vita/Urkunde in Drive nicht gefunden — vor Abgabe beilegen | **3D-Artist** und **QA** |
+| Seiko Foubert | TUHH TwinC-360-Web; GF-Zuordnung: UX und QA | **UX/UI** und **QA** |
+| Renke Niehaus | intern Multimedia Production studiert (GF 26.08.2026); Drive belegt Photogrammetrie 2024 und FFVR-Berichte 2023/24. Urkunde nicht in der UKSH-Mappe (dort liegt Marcel-Master) — vor Abgabe beilegen | **Medienpädagogik** |
+| Moritz Till | Bachelor Virtual Design 10.03.2023; TUHH-App-Inhalte | 3D-Reserve, nicht Pflichtzeile Meißen |
 
-Zusätzlich in [company.md](company.md), nicht in der Asana-Userliste vom 26.08.2026: `silas@northdocks.com` / `silas.fuchs@northdocks.com`. Mail 2026: weiter CC bei TEMA BRK Pilot 2 und UniBw-Übergabe — operativ TEMA, **nicht** ungefragt als verfügbares Angebots-Personal setzen, solange GF das nicht bestätigt. TUHH Campus Lab: Silas hat den Auftrag intern Dezember 2025 eröffnet (Baldur Schröter / Erik Manke). `simona@northdocks.com` ist ein zweites Asana-Konto.
+Zusätzlich in [company.md](company.md), nicht in der Asana-Userliste vom 26.08.2026: Silas Fuchs (zwei Konten). Mail 2026: weiter CC bei TEMA BRK Pilot 2 und UniBw-Übergabe — operativ TEMA, **nicht** ungefragt als verfügbares Angebots-Personal setzen, solange GF das nicht bestätigt. TUHH Campus Lab: Silas hat den Auftrag intern Dezember 2025 eröffnet (Baldur Schröter / Erik Manke). Es gibt ein zweites Asana-Konto (Adresse nicht im Repo).
 
 Ehemalige / nicht Stamm (nur Historie, nicht in Eignungsteil 2):
 
-- `saskia.marchner@northdocks.com` — TMA MOS-Kits 2024 in CC
-- `peter.breidenbach@northdocks.com` — noch 07/2025 auf Infra-Mail (Linode); nicht als aktuelles Angebots-Personal
-- `finn@northdocks.com` ist Stamm (s. o.); 2024 ebenfalls TMA-CC
+- Saskia Marchner — TMA MOS-Kits 2024 in CC
+- Peter Breidenbach — noch 07/2025 auf Infra-Mail (Linode); nicht als aktuelles Angebots-Personal
+- Finn Marquardt ist Stamm (s. o.); 2024 ebenfalls TMA-CC
 - Sarah Wehrhahn — Spot-KI-Zwischenbericht/EA 2024 (WTSH), Alumni
 - Tim Waldron — intern weitergeleitet 2023 (Spot-KI-Umfeld), Alumni
 - Jan-Ole Weiss — Arbeitsvertrag für Spot-KI-Schlussabrechnung EA2 genannt, Alumni. 2024–25 intern Support Ainavio/Coduct-Avatar (nicht Stamm)
-- Hans-Jürgen Werner (`hans-juergen.werner@northdocks.com`) — MegaGrant-Kommunikation 2020
-- Alexandra Evdokunin (`alexandra.evdokunin@northdocks.com`) — MegaGrant-Badge-Fwd 2020
-- `michel.magens@northdocks.com` — Intel-IFA/Dome-Mails 2015, Alumni
+- Hans-Jürgen Werner — MegaGrant-Kommunikation 2020
+- Alexandra Evdokunin — MegaGrant-Badge-Fwd 2020
+- Michel Magens — Intel-IFA/Dome-Mails 2015, Alumni
 - Marcel Jackwerth — Quassum/JacPer UG i.L. (Liquidator 2018). **Nicht** Marcel Timm.
 
 Zugriff bei Bedarf, **nicht** Stamm und **nicht** Eignungsteil 2:
 
 - Julia Barenthien — **Neu (Joachim 25.10.2026, 15:13, übermittelt von One):** Julia Barenthien darf in Angeboten und Eignungstabellen weiter genannt werden, Rolle **„freiberuflich hinzuziehbar“**. Sie arbeitet inzwischen bei der F&E GmbH; Joachim kann sie jederzeit freiberuflich hinzuziehen. ~~Alte Regel (GF 28.08.2026): Arbeitgeber **F&E GmbH Kiel** unterbreitet derzeit einen Nebenjob. Deshalb **kein** offizielles ND-Team. Förder-/Pädagogik-Expertise intern nutzbar, wenn nötig. EIC-Intros von `fe-kiel.de` sind F&E, nicht Northdocks-Personal. **Ausnahme Konzept Bielefeld 702-2026-10** (Google Doc 15.09.2026, Nutzer): Didaktik-Zeile Julia Barenthien, 3D/QA Renke Niehaus. Nicht automatisch in andere Lose oder in Eignung Teil 2 kopieren.~~ (überholt 25.10.2026)
 
-Reseller-Postfach intern: `partner@northdocks.com` (z. B. Smart PSA → VG Bodenheim). Nicht als öffentlichen Firmenkontakt statt `kontakt@northdocks.com` verwenden.
+Reseller-Postfach intern: das Partner-Postfach (z. B. Smart PSA → VG Bodenheim). Nicht als öffentlichen Firmenkontakt statt der allgemeinen Firmenadresse aus [company.md](company.md) verwenden.
 
 ## Pflichtrollen Meißen (Eignung Teil 2 + Preisblatt-Tagessätze 1.1–1.9)
 
@@ -51,7 +51,7 @@ Zwei Referenzen der letzten fünf Jahre, eine davon Bildung / Training / Gesundh
 
 | Rolle laut Formular | Anzahl | Wer | Tagessatz-Hinweis |
 |---|---|---|---|
-| Projektleitung | 1 | Patrick D. Reschke | UKSH-Analog 1.095 € |
+| Projektleitung | 1 | Patrick D. Reschke | ~~UKSH-Analog 1.095 €~~ überholt, fester Tagessatz pro Ausschreibung (offer-package.md) |
 | Technische Projektleitung | 1 | Joachim Perschbacher | wie oben |
 | Senior VR-Entwickler | ≥1 | Finn Marquardt | wie oben |
 | VR/Unity-/Unreal-Entwickler | ≥1 | Marcel Timm; Stack Unreal 5.7 / OpenXR | wie oben |
@@ -79,7 +79,7 @@ Vorbild-Ablage UKSH: `00-Angebot` Arbeitsnotizen, `01-Einreichung-Los2` nur Port
 
 1. Urkunden Renke (Multimedia Production) und Stephan (3D/Ausbildung) an Teil 2 heften. ~~julia.barenthien nicht als ND-Personal beilegen.~~ Überholt (Joachim 25.10.2026, 15:13, übermittelt von One): nennbar als „freiberuflich hinzuziehbar“.
 2. Zwei Referenzen mit Freigabe vor Namensnennung.
-3. Tagessätze 1.1–1.9 in derselben Größenordnung wie die PT-Zeilen (1.095 €), keine Dekosätze.
+3. Tagessätze 1.1–1.9 in derselben Größenordnung wie die PT-Zeilen (1.095 €), keine Dekosätze. **Überholt (Förderung 25.10.2026):** 1.095 € ist UKSH-spezifisch und kein Referenz-Tagessatz mehr; es gilt ein fester Tagessatz pro Ausschreibung, kalkuliert auf Gewinnen ([offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md)).
 
 ## Zusammenarbeit
 
