@@ -72,6 +72,19 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 
 ## Noch offen
 
+### Fragen an Joachim aus dem Abgleich 25.10.2026 (Nummern fortlaufend mit [assets/open-questions.md](assets/open-questions.md))
+
+(Abgleich Asana/Drive 25.10.2026, geprüft von Wissen und Förderung)
+
+| # | Frage | Kontext und Vorschlag | Status |
+|---|---|---|---|
+| 133 | Bielefeld 702-2026-10: Nachfassen vor der Bindefrist? | Eingereicht 17.09.2026, seit dem keine Reaktion, Bindefrist 29.10.2026. Vorschlag: vor dem 29.10. bei der Vergabestelle nach dem Stand fragen bzw. auf Bindefrist-Verlängerung vorbereitet sein (Vorlage liegt in 001 Teilnahme) | offen (Joachim) |
+| 134 | NATO Rahmenvertrag: Gab es einen Auftrag? | Belegt nur Präqualifikation und Aufnahme ins Sicherheitsprogramm (09.09.2025), kein Angebot, kein Auftrag. Asana-Ticket 1211135568201755 steht auf „Zuschlag erhalten“. Vorschlag: Ticket auf „In Verhandlung“ bzw. passende Spalte setzen, in grants.md „ruhend, kein Auftrag“, wenn kein Auftrag vorliegt | offen (Joachim) |
+| 135 | Feuerwehr mit Schenker, 855-2024 (LFWS Hessen, 12/2024): Wie ging es aus? | Drive-Ordner in 001 Teilnahme ohne Asana-Ticket; Ergebnis nirgends belegt. Vorschlag: Patrick fragen, dann Ticket anlegen und Ordner nach „002 Absage“ bzw. „001 Zusage“ verschieben | offen (Joachim/Patrick) |
+| 136 | 001-Regel: Was ist der „Start“? | Regel vom 25.10.: Drive-Ordner und Ticket ab dem Start. Scan-Treffer kommen schon in „Sammlung“ ins Asana. Vorschlag: Ticket ab Scan-Treffer, Drive-Ordner ab Teilnahme-Entscheidung („In Arbeit“) | offen (Joachim) |
+| 137 | Aufräumliste von Förderung freigeben? | Abgleich 25.10. (Box: /workspace/cursor-chats/abgleich-drive-2026-10-25.md): u. a. Asana-Spalten korrigieren (ViLa, PFIF, VR4preclinicalEducation, IGA Lünen, NATO), Tickets für Berlin 2025/2026, Düsseldorf, Niedersachsen.next, Portugal, HWK im Projekt „Anträge & Ausschreibungen“ verknüpfen, erledigte Ordner (Düsseldorf, Niedersachsen.next, Berlin 2026) aus 001 Teilnahme verschieben, UKSH-Preisdateien auf 900 € nachziehen. Vorschlag: Liste freigeben, Umsetzung durch Förderung/Patrick | offen (Joachim) |
+
+
 ### Marken-CI und Schreibweisen (19.10.2026)
 
 Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Assets ([assets/assets.csv](assets/assets.csv), Typ CI). Entschieden ist nur: **FirefighterVR** immer zusammen, im Voiceover „Firefighter VR“ mit englisch gesprochenem „VR“ („We Ar“ (Joachim 23.10.2026, übermittelt von One), alle Stimmen und Markennamen; Joachim 19.10. und über Video 21.10.2026). Gegenüberstellung der Varianten: [brand/README.md](brand/README.md#schreibweise).
@@ -148,7 +161,7 @@ Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Ass
 | **Koni zweiter BMFTR-Anlauf** | koni.md: Nicht eingereicht, Frist verpasst. Mail 30.04.2026: Trapp bot Einreichung der alten Skizze an, Joachim stimmte zu, Kiesel bat den Projektträger um Aufschub ([Asana](https://app.asana.com/0/0/1218626781608081)). | Bei Trapp klären, ob eingereicht; koni.md bis dahin unverändert. |
 | **„Mit dem BfS entwickelt“ (RPVR)** | Silas schrieb 12/2024 an GIMI „developed with the Federal Office for Radiation Protection“; Philips IGT fragte 05/2024 nach dem angeblich mit dem BfS entwickelten Open-Source-Modell. Belegt ist: Anfangs-Anwendung vom BfS finanziert, BfS-Logo entfernt ([Asana](https://app.asana.com/0/0/1208966356706704), [Asana](https://app.asana.com/0/0/1208870789468398), [Asana](https://app.asana.com/0/0/1207088585730834)). | Formulierung in claims.md festlegen, z. B. „Ursprungsanwendung im Auftrag des BfS“. Stand 21.10.2026: strahlenschutzvr.de darf live (Joachim); **Erledigt (Joachim im Chat mit Wissen, 21.10.2026):** kein BfS-Logo; erlaubt nur „StrahlenschutzVR wurde im Auftrag des Bundesamts für Strahlenschutz (BfS) entwickelt.“ (claims.md, öffentlich); nicht „Gefördert vom BfS“, „BfS-validiert“, „enge Kooperation“, „Ausgezeichnet beim ECR“ ([websites/strahlenschutzvr.md](websites/strahlenschutzvr.md)). |
 | **Merck Technikum Weiterverkauf** | Silas an Actemium 01/2025: Northdocks dürfe das Merck Technikum weiterverkaufen. Kein Vertragsbeleg in der Akte ([Asana](https://app.asana.com/0/0/1217211059174498)). | Bei Joachim klären, bevor es in Angeboten steht. |
-| **NATO NOI als „In Arbeit“** | grants.md führt den Vorgang als „In Arbeit“; letzte Mail 09.09.2025 (BAFA-Meldung), kein IFIB- oder VANGARD-Angebot belegt ([Asana](https://app.asana.com/0/0/1211135568201755)). | Status bei Joachim bestätigen lassen, sonst „ruhend“. |
+| **NATO NOI als „In Arbeit“** | grants.md führt den Vorgang als „In Arbeit“; letzte Mail 09.09.2025 (BAFA-Meldung), kein IFIB- oder VANGARD-Angebot belegt ([Asana](https://app.asana.com/0/0/1211135568201755)). | Status bei Joachim bestätigen lassen, sonst „ruhend“.  → weitergeführt als #134 (Abgleich Asana/Drive 25.10.2026, geprüft von Wissen und Förderung). |
 | **ZIM icom / Bautagebuch** | grants.md führt „ZIM icom Aachener Dom“ als „In Arbeit“. Teil 2 der Mailakte: Call 29.10.2025 mit ICoM (Hendrik Morgenstern, Tessa Oberhoff), Partner Kraaft, späteste Abgabe 03.12.2025, letzte Mail 03.11.2025 ([Asana](https://app.asana.com/0/0/1203550750561004)). Teil 3 (fehlerhafte Gemini-Notizen): Institut für Baumanagement und Digitales Bauen, Startup „Kraft“, Bauwatch-Kameras, Frist „4. Dezember“ ([Asana](https://app.asana.com/0/0/1219577265516372)). Einreichung nirgends belegt; Name des Partners und Frist weichen ab. | Joachim fragen, ob eingereicht; sonst als verworfen bzw. „ruhend“ markieren. |
 | **XR2LEARN und IROS** | Einreichung des XR2LEARN-Vorhabens mit Mater Misericordiae Dublin (Frist 27.12.2024) und Teilnahme IROS 2025/2026 nicht belegt ([Asana](https://app.asana.com/0/0/1208870789468398), [Asana](https://app.asana.com/0/0/1206905601810676)). | Nicht als eingereicht/teilgenommen führen. |
 | **Tecnosylva FireSim** | Testdaten 25.03.2026 gesendet, Antwort von Northdocks nicht belegt; TEMA endet 30.11.2026 ([Asana](https://app.asana.com/0/0/1212752431387492)). | Prüfen, ob Integration erfolgt ist (expertise.md nennt GeoTIFF/KMZ). |
@@ -223,12 +236,12 @@ Kanonisch: [koni.md](koni.md). Hub-Zeilen „eingereicht/Antragspfad“ waren ve
 
 | Thema | Stand | In Dokumenten |
 |---|---|---|
-| **Bielefeld Abgabe** | Eingereicht 17.09.2026. 160 k€ / Deckel 170 k€, 50/50, PICO Space Pro, Refs UKK+BfS. Bindefrist 29.10. | Status eingereicht. Nicht Zuschlag. |
-| **UKSH Los-2 nach LV-Änderung** | Bieterinfo **v3 (21.09.)** Frist **28.09.2026**. Los-2-Angebot **abgegeben** (24.08.). Q37 nur Los 3. Los-2-LV unverändert. Q17 (360°-Video) im Konzept nicht namentlich, aber über 40 PT / Baukasten abdeckbar — **keine Pflicht zur Neuabgabe**. | Nicht „Angebot aktualisiert“. Status bleibt abgegeben. |
+| **Bielefeld Abgabe** | Eingereicht 17.09.2026. 160 k€ / Deckel 170 k€, 50/50, PICO Space Pro, Refs UKK+BfS. Bindefrist 29.10. | Status eingereicht. Nicht Zuschlag.  → Ergebnis offen, #133. |
+| **UKSH Los-2 nach LV-Änderung** | Bieterinfo **v3 (21.09.)** Frist **28.09.2026**. Los-2-Angebot **abgegeben** (24.08.). Q37 nur Los 3. Los-2-LV unverändert. Q17 (360°-Video) im Konzept nicht namentlich, aber über 40 PT / Baukasten abdeckbar — **keine Pflicht zur Neuabgabe**. | Nicht „Angebot aktualisiert“. Status bleibt abgegeben.  Stand 25.10.: Aufklärung 14.10. über das Portal abgegeben, 900 €/PT, Wertungssumme 277.200 €; Wertung offen (Abgleich Asana/Drive 25.10.2026, geprüft von Wissen und Förderung). |
 | **UniBw DPAR** | Antrag der Uni **eingereicht 18.09.2026** (Inga 21.09.). 48-Monats-Kosten 17.09. raus, Summe unverändert. | ~497 k€ nicht als bewilligt. IPR offen. |
 | **Rosenbauer / Empl** | MaBu-2026-0272. Zwei Estimates je **131.000 €** Open. Frist der Ausschreibung 02.10.2026. | Angebote, kein Auftrag. Nicht addieren. |
 | **Deconta / CBRN** | Calls 05.10.2026 mit Albert und Dehling. | Nur Pipeline. |
-| **Meißen Zusatzdokumente** | evergabe 08.09. und 11.09. weiter ungelesen. | Status eingereicht. |
+| **Meißen Zusatzdokumente** | evergabe 08.09. und 11.09. weiter ungelesen. | Status eingereicht.  **Erledigt:** Verfahren abgeschlossen, Absage (Joachim 25.10.2026). |
 | **Holcim `20260907-01`** | FA-MCP ohne Token, Betrag nicht gelesen. | Nicht als drittes Abo-Jahr. |
 | **TEMA RP2 nach BULL** | Amendment angenommen 11.09. Ob die RP2-Rate fließt, nicht belegt. KAHY TAP2 zur Prüfung, nicht akzeptiert. | Nicht „RP2 ausgezahlt“ / nicht „TAP2 fertig“. |
 | **Hannover Pressetour 10.09.** | Ausgang nicht bestätigt. | Tour nicht als öffentlich gelaufen. |
@@ -259,7 +272,7 @@ Kanonisch: [koni.md](koni.md). Hub-Zeilen „eingereicht/Antragspfad“ waren ve
 | **Trier 3 vs. 2 Rechnungen** | Summe **142.920 €** gilt. Dritte FA-Nummer fehlt. | Nur die Summe, nicht „genau zwei Belege“. |
 | **Hannover ~55 k vs. 40.600** | Bisher 15.000 + 25.600. Mappe 55 k nicht FA-vollständig. | Meißen: Auftrag + Zeitraum, **kein** 55-k€-Betrag. |
 | **TMA ~624 vs. ~726 k€** | Sechs Szenarien geklärt. Rest ~100 k€ auf weiteren der 17 Rechnungen ohne Live-Liste. | Kontakt 726 k€ = Beziehung, nicht ein Los. |
-| **Berlin 2026-199 Volumen** | Zuschlag 30.06.2026 (Mail + PDF-Anlagen Preisblatt). Mailtext ohne Euro. `20251002-01` 2.916 € ist **Oktober 2025** — anderes Los. `20260701-01` 4.302 € zeitlich passend, ohne FA-Abgleich nicht als VG-199 setzen. | Zuschlag ja. Keine Summe 7.218 €. |
+| **Berlin 2026-199 Volumen** | Zuschlag 30.06.2026 (Mail + PDF-Anlagen Preisblatt). Mailtext ohne Euro. `20251002-01` 2.916 € ist **Oktober 2025** — anderes Los. `20260701-01` 4.302 € zeitlich passend, ohne FA-Abgleich nicht als VG-199 setzen. | Zuschlag ja. Keine Summe 7.218 €.  **Erledigt:** Rechnung 20260701-01 4.302 € netto, bezahlt 09.07.2026, ist VG-199 (Abgleich Asana/Drive 25.10.2026, geprüft von Wissen und Förderung). |
 | **VITA-GUARD 27.441 vs. 30.490** | Approved 10 × 3.049 €; Rechnung 27.441 = 9 Raten. Gmail ohne Treffer. | Nur fakturiert oder nur Approved, nicht addieren. |
 | **Merck 15 vs. 12 Paid** | 401.150 € Paid / 12 Rechnungen. | Nicht 15 als Paid-Zahl. |
 | **BfS Rest über 157 k** | Kontakt ~204 k€; namentlich nur AP2+AP3. | Kontakt-Summe oder einzelne AP, nicht lückenlos addieren. |
