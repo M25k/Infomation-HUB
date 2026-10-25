@@ -39,7 +39,7 @@ Geklärte Punkte bleiben kurz dokumentiert. Nur offene Punkte blockieren Formuli
 | FlowAR iOS vs. Android | Endziel **Android und iOS**. Mac für Deployment in Beschaffung. Prototyp weiter Android. Nicht „native iOS-App live“. |
 | UKK 357k vs. 380k vs. FA | **FA gilt.** Paid **328.403 €** netto. 357 k brutto und Mappe 380 k nicht verwenden. KI 40 k€ zugesagt, noch nicht in FA. |
 | EIC-Verschiebung | Grund: **Absprachen mit der UniBw**. Kein Kurzantrag 01.09.2026, kein Vollantrag 04.11.2026. Termine: Abschnitt unten. |
-| julia.barenthien / F&E GmbH Kiel | **Nicht** offizielles ND-Team. Arbeitgeber F&E GmbH Kiel unterbreitet derzeit einen Nebenjob. Expertise intern zugänglich, wenn nötig. Nicht in Eignung Teil 2, nicht als Northdocks-Personal. EIC-Mails von `fe-kiel.de` sind F&E, nicht ND. |
+| Julia Barenthien / F&E GmbH | **Neu (Joachim 25.10.2026, 15:13, übermittelt von One):** Julia Barenthien darf in Angeboten und Eignungstabellen weiter genannt werden, Rolle **„freiberuflich hinzuziehbar“**. Sie arbeitet inzwischen bei der F&E GmbH; Joachim kann sie jederzeit freiberuflich hinzuziehen. ~~Alt: nicht offizielles ND-Team, Nebenjob, nicht in Eignung Teil 2, nicht als Northdocks-Personal.~~ EIC-Mails der F&E GmbH bleiben F&E, nicht ND. |
 
 ## Geklärt 2026-09-12 (Telefon)
 

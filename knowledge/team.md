@@ -8,7 +8,7 @@ Tagessätze nicht hier als „die“ Firmenzahl. Interner Personal-Mittelwert 20
 
 Drive-Viten (nicht ins Git kopieren): Ordner [Lebenslauf](https://drive.google.com/drive/folders/1GOzaVblxAQmr4FJ53itwGmK3ksX_OohN); UKSH-Mappe mit Urkunden Marcel/Finn/Moritz.
 
-GF-Zuordnung Meißen 26.08.2026 (Joachim): Patrick PL, Finn Senior VR, Stephan 3D + QA, Seiko UX + QA, Renke Medienpädagogik. Urkunden für Renke/Stephan vor Abgabe an das Formular heften. julia.barenthien **nicht** als ND-Personal (GF 28.08.2026).
+GF-Zuordnung Meißen 26.08.2026 (Joachim): Patrick PL, Finn Senior VR, Stephan 3D + QA, Seiko UX + QA, Renke Medienpädagogik. Urkunden für Renke/Stephan vor Abgabe an das Formular heften. ~~julia.barenthien **nicht** als ND-Personal (GF 28.08.2026).~~ Überholt: Julia Barenthien freiberuflich hinzuziehbar, in Angeboten nennbar (Joachim 25.10.2026, 15:13, übermittelt von One).
 
 ## Stamm (Asana-Workspace, 26.08.2026)
 
@@ -41,7 +41,7 @@ Ehemalige / nicht Stamm (nur Historie, nicht in Eignungsteil 2):
 
 Zugriff bei Bedarf, **nicht** Stamm und **nicht** Eignungsteil 2:
 
-- julia.barenthien (`julia.barenthien@northdocks.com` / `julia.barenthien@fe-kiel.de`) — Arbeitgeber **F&E GmbH Kiel** unterbreitet derzeit einen Nebenjob. Deshalb **kein** offizielles ND-Team. Förder-/Pädagogik-Expertise intern nutzbar, wenn nötig. EIC-Intros von `fe-kiel.de` sind F&E, nicht Northdocks-Personal. **Ausnahme Konzept Bielefeld 702-2026-10** (Google Doc 15.09.2026, Nutzer): Didaktik-Zeile Julia Barenthien, 3D/QA Renke Niehaus. Nicht automatisch in andere Lose oder in Eignung Teil 2 kopieren.
+- Julia Barenthien — **Neu (Joachim 25.10.2026, 15:13, übermittelt von One):** Julia Barenthien darf in Angeboten und Eignungstabellen weiter genannt werden, Rolle **„freiberuflich hinzuziehbar“**. Sie arbeitet inzwischen bei der F&E GmbH; Joachim kann sie jederzeit freiberuflich hinzuziehen. ~~Alte Regel (GF 28.08.2026): Arbeitgeber **F&E GmbH Kiel** unterbreitet derzeit einen Nebenjob. Deshalb **kein** offizielles ND-Team. Förder-/Pädagogik-Expertise intern nutzbar, wenn nötig. EIC-Intros von `fe-kiel.de` sind F&E, nicht Northdocks-Personal. **Ausnahme Konzept Bielefeld 702-2026-10** (Google Doc 15.09.2026, Nutzer): Didaktik-Zeile Julia Barenthien, 3D/QA Renke Niehaus. Nicht automatisch in andere Lose oder in Eignung Teil 2 kopieren.~~ (überholt 25.10.2026)
 
 Reseller-Postfach intern: `partner@northdocks.com` (z. B. Smart PSA → VG Bodenheim). Nicht als öffentlichen Firmenkontakt statt `kontakt@northdocks.com` verwenden.
 
@@ -77,7 +77,7 @@ Vorbild-Ablage UKSH: `00-Angebot` Arbeitsnotizen, `01-Einreichung-Los2` nur Port
 
 ## Vor der Abgabe
 
-1. Urkunden Renke (Multimedia Production) und Stephan (3D/Ausbildung) an Teil 2 heften. julia.barenthien nicht als ND-Personal beilegen.
+1. Urkunden Renke (Multimedia Production) und Stephan (3D/Ausbildung) an Teil 2 heften. ~~julia.barenthien nicht als ND-Personal beilegen.~~ Überholt (Joachim 25.10.2026, 15:13, übermittelt von One): nennbar als „freiberuflich hinzuziehbar“.
 2. Zwei Referenzen mit Freigabe vor Namensnennung.
 3. Tagessätze 1.1–1.9 in derselben Größenordnung wie die PT-Zeilen (1.095 €), keine Dekosätze.
 

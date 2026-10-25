@@ -46,7 +46,7 @@ Vergabe-Rollenraster und Asana-Stamm: [team.md](team.md).
 | Simona Michel | FiBu, Versand, Ausschreibungsboard |
 | silas@northdocks.com | Vergabeunterlagen (Drive-Ordner); 2026 weiter TEMA-CC |
 
-julia.barenthien ist **kein** offizielles ND-Team (Arbeitgeber F&E GmbH Kiel, derzeit Nebenjob). Expertise intern bei Bedarf; nicht in Eignung. Details: [team.md](team.md).
+~~julia.barenthien ist **kein** offizielles ND-Team (Arbeitgeber F&E GmbH Kiel, derzeit Nebenjob). Expertise intern bei Bedarf; nicht in Eignung.~~ Überholt (Joachim 25.10.2026, 15:13, übermittelt von One): Julia Barenthien (F&E GmbH) ist freiberuflich hinzuziehbar und darf in Angeboten und Eignungstabellen genannt werden. Details: [team.md](team.md).
 
 ## Wirtschaftliche Angaben (nur intern, auf Verlangen)
 

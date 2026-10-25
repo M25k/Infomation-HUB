@@ -21,7 +21,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Orientierung intern: ca. 1 Mio. € p.a. (vage) | intern | GF 2026-08-26. Nicht auf Website, nicht als exakte GJ-Zahl. FA-Verkauf 2023 ~1,31 Mio., 2024 ~0,80, 2025 ~0,58 — plus Fördermittel separat in grants.md |
 | Betriebshaftpflicht besteht; Zieldeckung 3 Mio. € Personen / 0,5 Mio. € Sache, Aufstockung nach Zuschlag falls nötig | intern | UKSH-Eignung 2026. Keine aktuelle Police-Kopie in dieser KB. |
 | 45+ Projektpartner | intern | Business Deck, nicht nachgezählt |
-| julia.barenthien als Northdocks-Mitarbeiterin / Eignungspersonal | **nicht verwenden** | GF 28.08.2026: nicht offizielles ND-Team. Arbeitgeber F&E GmbH Kiel, Nebenjob. **Zuschlagskonzept:** Nutzer hat sie 15.09.2026 in Bielefeld 702-2026-10 (Didaktik) gesetzt — Vorbild für Konzepttabellen, nicht für Eignung Teil 2 |
+| Julia Barenthien in Angeboten und Eignungstabellen | **verwenden als „freiberuflich hinzuziehbar“** (nicht als festangestellte Northdocks-Mitarbeiterin) | (Joachim 25.10.2026, 15:13, übermittelt von One); arbeitet bei der F&E GmbH, Joachim kann sie jederzeit freiberuflich hinzuziehen. ~~Alt (GF 28.08.2026): nicht verwenden, nicht offizielles ND-Team, Nebenjob; nur Zuschlagskonzept Bielefeld 702-2026-10 (Didaktik)~~ überholt |
 
 ## FirefighterVR
 
