@@ -7,7 +7,7 @@ Rolle: Meditrain-**Produktpaket** (Pflichtunterweisung Katheterlabor / Strahlens
 
 ## Status
 
-**Live-Freigabe:** strahlenschutzvr.de darf live gehen (Joachim über One, 21.10.2026). Die BfS-Texte bleiben, wenn die Förderung belegt ist.
+**Live-Freigabe:** strahlenschutzvr.de darf live gehen (Joachim über One, 21.10.2026). ~~Die BfS-Texte bleiben, wenn die Förderung belegt ist.~~ Angeglichen an die Prüfung unten: Belegt ist ein Auftrag, keine Förderung; BfS-Text nur „im Auftrag des Bundesamts für Strahlenschutz (BfS) entwickelt“ (Joachim 21.10.2026; Widerspruch aufgelöst 25.10., Hinweis von One).
 
 Prüfung Wissen 21.10.2026: Belegt ist ein **Auftrag** des BfS, keine Förderung: [claims.md](../claims.md) Z. 127 „BfS Strahlenschutz FA ca. 204 k€ | intern | Ausschreibung 3621S42350, Vertrag 08/2021“; [../open-questions.md](../open-questions.md) „Mit dem BfS entwickelt“: „Anfangs-Anwendung vom BfS finanziert, BfS-Logo entfernt“. In [grants.md](../grants.md) kein BfS-Eintrag. Live-Site (curl 21.10.2026) sagt u. a. „Gefördert vom BfS“, „BfS-validiert“, „in enger Kooperation mit dem BfS“, „Ausgezeichnet beim ECR“ (claims.md Z. 60: ECR-Auszeichnung ohne Urkunde nicht als Award) sowie „im Auftrag des Bundesamts für Strahlenschutz (Vorhaben 3621S42350)“. 
 

@@ -101,6 +101,8 @@ Qualitätstext muss nachprüfbar sein: Screens, Architektur, Offline-Betrieb, Op
 
 **Lizenzregel NDFramework (Joachim 25.10.2026, laut UKFFM-Ticket; gleich im Meißen-Ticket):** Das NDFramework wird als vorbestehende Komponente offengelegt. Der Auftraggeber bekommt Rechte nur am neu Entwickelten; es gelten keine eigenen AGB; das Framework ist nicht Open Source. **Offen:** Eine Quellcode-Hinterlegung des Frameworks ist nicht belegt (#142).
 
+**Sprachausgabe (entschieden von One nach Joachims Regeln, 25.10.2026; Joachims Bestätigung offen):** In Angeboten nur „Sprachausgabe“ nennen, ohne Anbieter; keine vertragliche Zusicherung zu ElevenLabs. Der Tarif wird erst im Auftragsfall geprüft (#141).
+
 ## 7. Typische Abzüge, die wir schon kennen
 
 Aus Asana Abgelehnt/Nicht eingereicht: Preis, Unpassend, ZIM-Prototypgrenze, zu teuer (Nebra, Rahmenvertrag Visualisierung).

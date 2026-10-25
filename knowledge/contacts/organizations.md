@@ -319,7 +319,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** DE
 - **Typ:** Bundesbehörde, Auftraggeber und Partner StrahlenschutzVR
 - **Ansprechpartner:** [Hugo de las Heras Gala](people.md#hugo-de-las-heras-gala) (bis 26.06.2025 im Projekt), Eugen Sperling (Nachfolge), Augusto Giussani, Sebastian Trinkl, Dr. Stella Winter, Judith Mantei (Presse)
-- **Themen:** StrahlenschutzVR (kostenlose PC-Version, Förderhinweis BMUV 3621S42350), Vermittlung von Kliniken, Hochschulen und Herstellern, Kongressauftritte (ECR, RÖKO, APT, ECMP, EUTERP)
+- **Themen:** StrahlenschutzVR (kostenlose PC-Version, 3621S42350; ~~Förderhinweis BMUV~~ überholt (Joachim 21.10.2026; Widerspruch aufgelöst 25.10., Hinweis von One): nur „im Auftrag des BfS entwickelt“, keine Förderung), Vermittlung von Kliniken, Hochschulen und Herstellern, Kongressauftritte (ECR, RÖKO, APT, ECMP, EUTERP)
 - **Bezug:** [projects.md](../projects.md) (RadiationProtectionVR, 3621S42350, ca. 204 k€ intern); [meditrain.md](../meditrain.md); [mailakte-silas.md](../mailakte-silas.md); Fujiwara/BfS-Artikel in [open-questions.md](../open-questions.md); [Asana](https://app.asana.com/0/0/1217847528017752)
 - **Freigabe:** Freigabe fehlt (BfS als Partner laut [websites/meditrainvr.md](../websites/meditrainvr.md) öffentlich sagbar)
 - **Historie:**
