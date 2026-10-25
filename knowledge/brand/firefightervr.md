@@ -86,6 +86,8 @@ Feuerwehrmann mit VR-Headset, Orange-Rot-Verlauf als Duotone, Schwarz/Weiß-Typo
 
 ## Regeln
 
+- **Abstandsanzeige ist kein Debug-Overlay** (Joachim 25.10.2026, übermittelt von Video über One): Die gelbe Abstandsanzeige in FirefighterVR (z. B. „2.1 m“) ist ein Feature der App, zeigt den Abstand zum Feuer und darf in Reels zu sehen sein. Echte Debug-Overlays (Unreal-Warnungen, Entwickler-Graphen, Gizmos, NetMode-/Editor-Previews) bleiben ausgeschlossen.
+
 - **Videos:** FirefighterVR-Videos tragen kein Northdocks-Branding, nur das jeweilige Vertical. Eigennamen, Produktnamen und URLs müssen richtig ausgesprochen werden. Aussprache über das ElevenLabs-Wörterbuch „Northdocks“ (siehe [websites/_shared.md](../websites/_shared.md) Regel 18) (Patrick, Discord #videos, 22.10.2026, übermittelt von One)
 
 Schutzzone, Mindestgröße, Don'ts: **nicht dokumentiert**.
