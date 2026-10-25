@@ -5,6 +5,10 @@ Quellen: EU-Evaluatorenleitfäden 2026, EIC Tips, BMFTR KMU-innovativ, § 58 VgV
 
 Zum Schreiben immer [claims.md](claims.md) und [document-rules.md](document-rules.md) einhalten.
 
+## 0. Ablage (Pflicht)
+
+**Feste Regel (Joachim 25.10.2026, übermittelt von Förderung):** Zu jeder Förderung und Ausschreibung gibt es **ab dem Start** immer (1) einen eigenen Drive-Ordner unter `01 Administration / 03 Förderungen+Ausschreibungen / 001 Teilnahme` ([Link](https://drive.google.com/drive/folders/1uHMr8flT_jj4tRFy4mxbcuk2dbTwegKU)) und (2) ein eigenes Asana-Ticket im Board [Anträge & Ausschreibungen](https://app.asana.com/1/8864272155433/project/1200346071931886). Beide werden laufend aktuell gehalten; das Ticket verlinkt den Ordner. Ablauf im Detail: Skill [grants-and-contracts](../.cursor/skills/grants-and-contracts/SKILL.md).
+
 ## 1. Welches Verfahren, welche Logik
 
 | Verfahren | Was Gutachter kaufen | Northdocks-Hebel |
