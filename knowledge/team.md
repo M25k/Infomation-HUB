@@ -10,7 +10,7 @@ Drive-Viten (nicht ins Git kopieren): Ordner [Lebenslauf](https://drive.google.c
 
 GF-Zuordnung Meißen 26.08.2026 (Joachim): Patrick PL, Finn Senior VR, Stephan 3D + QA, Seiko UX + QA, Renke Medienpädagogik. Urkunden für Renke/Stephan vor Abgabe an das Formular heften. ~~julia.barenthien **nicht** als ND-Personal (GF 28.08.2026).~~ Überholt: Julia Barenthien freiberuflich hinzuziehbar, in Angeboten nennbar (Joachim 25.10.2026, 15:13, übermittelt von One).
 
-**Renke Niehaus in Angeboten (entschieden von One nach Joachims Regeln, 25.10.2026; Joachims Bestätigung offen):** Renke steht als **3D-Integration**, Medienpädagogik nur bei Bedarf. Bei UKFFM ist Stephan zusätzlich benannt (#143). Die Meißen-Zuordnung (Medienpädagogik) bleibt als historischer Stand.
+**Renke Niehaus in Angeboten (entschieden von One; Delegation durch Joachim 25.10.2026):** Renke steht als **3D-Integration**, Medienpädagogik nur bei Bedarf. Bei UKFFM ist Stephan zusätzlich benannt (#143). Die Meißen-Zuordnung (Medienpädagogik) bleibt als historischer Stand.
 
 ## Stamm (Asana-Workspace, 26.08.2026)
 

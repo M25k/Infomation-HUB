@@ -16,6 +16,8 @@ Quelle: Joachim 23.10.2026, übermittelt von One.
 
 **Vorprüfung vor Fragen an Joachim** (Joachim 25.10.2026, 15:15, übermittelt von One): Bevor eine offene Frage zu Joachim kommt, muss sie gegen das Wissen (Infomation-HUB, Bot Wissen), Google Drive (über den Bot Assets) und Asana geprüft sein. Nur Fragen, die keine dieser Quellen beantwortet, gehen an ihn, jeweils mit einem Vorschlag. Weiter gilt: gebündelt über One, in 5er-Blöcken.
 
+**Komplette Vorschläge, Delegation an One** (Joachim 25.10.2026): Joachim will komplette Vorschläge statt Einzelfragen. Offene Punkte gehen mit Vorschlag an One. One entscheidet sie nach Joachims Regeln; das gilt als Joachims Freigabe, auch für Hochstufungen in claims.md. Vermerk bei solchen Einträgen: „(entschieden von One, Delegation Joachim 25.10.2026)“. Joachim selbst bekommt nur, was One nicht nach seinen Regeln entscheiden kann.
+
 ## Regeln für den Spiegel
 
 - Keine Zitate aus den Mitschnitten oder Transkripten, nur kurze Themen und Entscheidungen mit Quelle.
