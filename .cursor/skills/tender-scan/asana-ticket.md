@@ -11,6 +11,16 @@ Kein Task, wenn derselbe Vorgang schon im Board liegt — dann die bestehende Be
 
 Keine Portal-Passwörter, keine AVPQ-Zugangscodes in die Notes.
 
+**Ticket und Paket (Joachim 25.10.2026, übermittelt von One bzw. Förderung):**
+- Eine Ausschreibung bekommt **ein** Asana-Ticket mit grobem Status. Unteraufgaben nur für Dinge, die andere Personen tun müssen.
+- Details stehen als `.md` im Drive-Ordner der Ausschreibung (inkl. Checkliste; eine Checkliste wird nie als Asana-Unteraufgaben angelegt). Die Ticketbeschreibung ist sauber gegliedert; Referenz: [UKSH-Ticket](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1217328350929037).
+- So schnell wie möglich bearbeiten. Joachim bekommt einen kompletten Vorschlag in **einem** Paket: Eignung/Referenzen, Umsetzungskonzept (falls gefordert) und Kalkulation.
+- Theoretische Punkte wie Konflikte bei den Mitarbeiterressourcen fallen ganz weg.
+- **Keine Bieterfragen**, weil sie Wettbewerber aufmerksam machen. Ist eine Ausschreibung uneindeutig, gilt die für Northdocks günstigere Auslegung.
+- **Preise so ansetzen, dass wir gewinnen:** ein fester Tagessatz nach außen; die interne Kalkulation (Puffer, Wiederverwendung, Marge) bleibt intern.
+
+**Inhaltsregel (Joachim 25.10.2026, 17:26, übermittelt von One):** Leasing war nur für eine bestimmte UKSH-Ausschreibung gedacht und gehört nicht in normale Northdocks-Inhalte (Angebote, Tickets, Dokumente), auch nicht als Abgrenzung. Allgemein keine Negativ-Abgrenzungen nach dem Muster „das ist nicht X“: Wir beschreiben nur, was wir anbieten.
+
 ## Pflichtblöcke
 
 Jedes Feld ausfüllen. Unbekannt = `offen` (nicht weglassen). Bekanntmachung/XML/PDF lesen, bevor der Task gespeichert wird.
@@ -39,7 +49,7 @@ Art (Dienst / Liefer / Bau):
 CPV:
 Veröffentlicht:
 Angebotsfrist (Datum, Uhrzeit):
-Fragenfrist / Bieterfragen bis:
+Fragenfrist / Bieterfragen bis (nur Info, wir stellen keine Bieterfragen):
 Bindefrist:
 TED-Nr. / bund.de / Unterlagen-URL:
 Erfüllungsort:
@@ -73,7 +83,7 @@ RISIKEN
 Kapazität bis zur Frist:
 Preis/Budget (zu eng wie UniBw 300 k€?):
 Custom-Falle (einmalig, kein Katalog):
-Spezialhardware / Leasing / Eye-Tracking:
+Spezialhardware / Eye-Tracking:
 Sonstiges:
 
 NÄCHSTER SCHRITT

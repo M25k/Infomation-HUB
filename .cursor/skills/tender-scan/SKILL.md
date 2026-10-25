@@ -55,6 +55,17 @@ Nur notiert: N
 
 ## Hard rules
 
+**Ticket und Paket (Joachim 25.10.2026, übermittelt von One bzw. Förderung):**
+- Eine Ausschreibung bekommt **ein** Asana-Ticket mit grobem Status. Unteraufgaben nur für Dinge, die andere Personen tun müssen.
+- Details stehen als `.md` im Drive-Ordner der Ausschreibung (inkl. Checkliste; eine Checkliste wird nie als Asana-Unteraufgaben angelegt). Die Ticketbeschreibung ist sauber gegliedert; Referenz: [UKSH-Ticket](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1217328350929037).
+- So schnell wie möglich bearbeiten. Joachim bekommt einen kompletten Vorschlag in **einem** Paket: Eignung/Referenzen, Umsetzungskonzept (falls gefordert) und Kalkulation.
+- Theoretische Punkte wie Konflikte bei den Mitarbeiterressourcen fallen ganz weg.
+- **Keine Bieterfragen**, weil sie Wettbewerber aufmerksam machen. Ist eine Ausschreibung uneindeutig, gilt die für Northdocks günstigere Auslegung.
+- **Preise so ansetzen, dass wir gewinnen:** ein fester Tagessatz nach außen; die interne Kalkulation (Puffer, Wiederverwendung, Marge) bleibt intern.
+
+**Inhaltsregel (Joachim 25.10.2026, 17:26, übermittelt von One):** Leasing war nur für eine bestimmte UKSH-Ausschreibung gedacht und gehört nicht in normale Northdocks-Inhalte (Angebote, Tickets, Dokumente), auch nicht als Abgrenzung. Allgemein keine Negativ-Abgrenzungen nach dem Muster „das ist nicht X“: Wir beschreiben nur, was wir anbieten.
+
+
 - Kompetenzfilter vor Vollständigkeit. Lieber 2 volle Entscheidungs-Tickets als 40 Treffer.
 - GodView ist nicht die Headset-App.
 - FirefighterVR-Katalog nicht in jeden Auftrag kippen.

@@ -9,6 +9,16 @@ Zum Schreiben immer [claims.md](claims.md) und [document-rules.md](document-rule
 
 **Feste Regel (Joachim 25.10.2026, übermittelt von Förderung):** Zu jeder Förderung und Ausschreibung gibt es **ab dem Start** immer (1) einen eigenen Drive-Ordner unter `01 Administration / 03 Förderungen+Ausschreibungen / 001 Teilnahme` ([Link](https://drive.google.com/drive/folders/1uHMr8flT_jj4tRFy4mxbcuk2dbTwegKU)) und (2) ein eigenes Asana-Ticket im Board [Anträge & Ausschreibungen](https://app.asana.com/1/8864272155433/project/1200346071931886). Beide werden laufend aktuell gehalten; das Ticket verlinkt den Ordner. **Start (präzisiert (Joachim 25.10.2026, übermittelt von One), #136):** Start = Entscheidung zur Teilnahme. Ab dann eigener Ordner unter `001 Teilnahme` plus Asana-Ticket; Scan-Funde in der Sammlung bekommen nur ein Ticket. Nach Zusage wandert die Akte nach `001 Zusage`, nach Absage nach `002 Absage`. Laufende Fälle ohne Ordner werden nachgezogen: AI-Inspect, Disaster Digital Twin, KI4Energy, dtec.bw. Ablauf im Detail: Skill [grants-and-contracts](../.cursor/skills/grants-and-contracts/SKILL.md).
 
+**Ticket und Paket (Joachim 25.10.2026, übermittelt von One bzw. Förderung):**
+- Eine Ausschreibung bekommt **ein** Asana-Ticket mit grobem Status. Unteraufgaben nur für Dinge, die andere Personen tun müssen.
+- Details stehen als `.md` im Drive-Ordner der Ausschreibung (inkl. Checkliste; eine Checkliste wird nie als Asana-Unteraufgaben angelegt). Die Ticketbeschreibung ist sauber gegliedert; Referenz: [UKSH-Ticket](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1217328350929037).
+- So schnell wie möglich bearbeiten. Joachim bekommt einen kompletten Vorschlag in **einem** Paket: Eignung/Referenzen, Umsetzungskonzept (falls gefordert) und Kalkulation.
+- Theoretische Punkte wie Konflikte bei den Mitarbeiterressourcen fallen ganz weg.
+- **Keine Bieterfragen**, weil sie Wettbewerber aufmerksam machen. Ist eine Ausschreibung uneindeutig, gilt die für Northdocks günstigere Auslegung.
+- **Preise so ansetzen, dass wir gewinnen:** ein fester Tagessatz nach außen; die interne Kalkulation (Puffer, Wiederverwendung, Marge) bleibt intern.
+
+**Inhaltsregel (Joachim 25.10.2026, 17:26, übermittelt von One):** Leasing war nur für eine bestimmte UKSH-Ausschreibung gedacht und gehört nicht in normale Northdocks-Inhalte (Angebote, Tickets, Dokumente), auch nicht als Abgrenzung. Allgemein keine Negativ-Abgrenzungen nach dem Muster „das ist nicht X“: Wir beschreiben nur, was wir anbieten.
+
 ## 1. Welches Verfahren, welche Logik
 
 | Verfahren | Was Gutachter kaufen | Northdocks-Hebel |
@@ -87,7 +97,7 @@ Dieselbe Referenz nicht als „wir sind geeignet“ und nochmal als Qualitätsno
 
 Qualitätstext muss nachprüfbar sein: Screens, Architektur, Offline-Betrieb, OpenXR, Pico, CSV/JSON — nicht „hohe Immersion“.
 
-**Paket (Bielefeld 15.09.2026, künftig Standard):** gewertetes Konzept nur Call-Abschnitte, kein Briefkopf, keine PT/Preise, kein Schlusskatalog „Nicht Leistungsbestandteil“. Preis, Ausschlüsse (Hardware nicht Preisblatt, keine Pflege nach Abnahme) und Anschreiben im Inhaltsangebot. Förderprogrammnamen der AG nicht ins Anschreiben. Ausfüllhilfe eigenes intern-Doc, nicht einreichen. Personaltabelle: [offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md).
+**Paket (Bielefeld 15.09.2026, künftig Standard):** gewertetes Konzept nur Call-Abschnitte, kein Briefkopf, keine PT/Preise, kein Schlusskatalog „Nicht Leistungsbestandteil“. Preis und Anschreiben im Inhaltsangebot. ~~Ausschlüsse (Hardware nicht Preisblatt, keine Pflege nach Abnahme)~~ überholt durch die Inhaltsregel 25.10.2026 (keine Negativ-Abgrenzungen; nur beschreiben, was angeboten wird). Förderprogrammnamen der AG nicht ins Anschreiben. Ausfüllhilfe eigenes intern-Doc, nicht einreichen. Personaltabelle: [offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md).
 
 ## 7. Typische Abzüge, die wir schon kennen
 
@@ -96,12 +106,12 @@ Aus Asana Abgelehnt/Nicht eingereicht: Preis, Unpassend, ZIM-Prototypgrenze, zu 
 Schreibregeln dagegen:
 
 1. Call-Text spiegeln, bevor wir unser Portfolio spiegeln.
-2. Leistungsgrenze ehrlich (kein voller FFVR-Katalog, kein GodView-als-Headset).
+2. ~~Leistungsgrenze ehrlich (kein voller FFVR-Katalog, kein GodView-als-Headset).~~ Überholt (Inhaltsregel 25.10.2026): Nur beschreiben, was angeboten wird; keinen vollen FFVR-Katalog und kein GodView-als-Headset **anbieten**, aber auch nicht als Abgrenzung in den Text schreiben.
 3. Koordination nicht versprechen.
 4. Zahlen nur aus claims.md.
 5. Partner korrekt (Spot-KI = Transfer-Hub SH).
 6. Arbeitspakete und Budget zusammen von einer Person gegengelesen.
-7. **Nicht verwirren.** Im Zuschlagstext keine anderen Lose, Produkte oder Schulen als Analogie (UKSH Los 2, Hand aufs Herz als Schulreferenz, Quest neben festem Pico-Angebot). Einmal Leistungsgrenze reicht; nicht in jedem Abschnitt wiederholen. Gleiches für **EU-Deliverables (Dxx):** andere WPs/Partner/Produkte nicht nur zum Ausschließen nennen; kein Text „nur wo Schnittstelle zu WP5“. Siehe [reader-facing-prose.mdc](../.cursor/rules/reader-facing-prose.mdc).
+7. **Nicht verwirren.** Im Zuschlagstext keine anderen Lose, Produkte oder Schulen als Analogie (UKSH Los 2, Hand aufs Herz als Schulreferenz, Quest neben festem Pico-Angebot). ~~Einmal Leistungsgrenze reicht; nicht in jedem Abschnitt wiederholen.~~ (überholt 25.10.2026: keine Leistungsgrenzen als Negativ-Abgrenzung.) Gleiches für **EU-Deliverables (Dxx):** andere WPs/Partner/Produkte nicht nur zum Ausschließen nennen; kein Text „nur wo Schnittstelle zu WP5“. Siehe [reader-facing-prose.mdc](../.cursor/rules/reader-facing-prose.mdc).
 8. **Kein Entwurfs-Meta** in einreichungsfähigen Deliverables (kein „compared to previous version“, kein Änderungsprotokoll für Gutachter, die die alte Fassung nicht kennen).
 9. **Storyboard muss die Minuten tragen.** Beatliste allein reicht nicht für 8–12 Minuten Szenario (FAQ: Einführung extra, Gesamtdurchlauf ≤ 15). Zeitgerüst, Beispielsätze (7–10 / 11–14), Interaktionsbeispiele und Varianten in derselben Welt — kein zweites Gebäude.
 

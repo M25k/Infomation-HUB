@@ -35,7 +35,7 @@ Hardware, Architektur, Drittkomponenten-Kurz und Risiken bleiben im Konzept, sow
 
 Vollständiger Brief (Firma, AG-Adresse, Ort Datum). Custom vs. Katalog. Zielhardware. EVB/Bindefrist. Preis inkl. USt. und Skonto. Zahlungsplan, wenn das Preisblatt keine Phasen hat. Was eingereicht wird. Was nicht einschlägig ist (531/534). Unterschrift GF.
 
-Leistungsgrenzen, die den Preis erklären, gehören **hierher**: Hardwarekauf nicht Preisblattposition; keine gesonderte Pflege nach Abnahme (gesetzliche Mängelhaftung bleibt).
+~~Leistungsgrenzen, die den Preis erklären, gehören **hierher**: Hardwarekauf nicht Preisblattposition; keine gesonderte Pflege nach Abnahme (gesetzliche Mängelhaftung bleibt).~~ **Überholt** durch die Inhaltsregel (Joachim 25.10.2026, 17:26, übermittelt von One): keine Negativ-Abgrenzungen, nur beschreiben, was angeboten wird ([document-rules.md](../../../knowledge/document-rules.md) Nr. 13).
 
 Nicht ins Anschreiben: Förderprogrammnamen der AG, Internkalkulation, Portal-Feldlisten.
 
