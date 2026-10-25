@@ -168,6 +168,10 @@ def collect(days: int = 8, limit: int = 100, scope: str = "ACTIVE", query_id: st
                 try:
                     payload = ted_search(q, limit, scope, token)
                     break
+                except urllib.error.URLError as exc:
+                    # TLS EOF and timeouts are transient. HTTPError is handled
+                    # inside ted_search and re-raised as RuntimeError.
+                    last_error = f"TED network: {exc}"
                 except RuntimeError as exc:
                     last_error = str(exc)
                     if "429" not in last_error:

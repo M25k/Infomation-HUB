@@ -87,25 +87,28 @@ def merge(buckets: list[dict]) -> list[dict]:
     return rows
 
 
+def _run_source(name: str, fn, parts: list, errors: list, coverage: dict) -> None:
+    try:
+        part = fn()
+    except Exception as exc:
+        errors.append({"source": name, "id": name, "error": f"{type(exc).__name__}: {exc}"})
+        coverage[name] = 0
+        return
+    parts.append(part)
+    coverage[name] = part.get("notice_count", 0)
+    errors.extend({"source": name, **e} for e in part.get("errors") or [])
+
+
 def collect(days: int, sources: list[str]) -> dict:
     parts = []
     errors = []
     coverage = {}
     if "ted" in sources:
-        ted = ted_search.collect(days=days)
-        parts.append(ted)
-        coverage["ted"] = ted.get("notice_count", 0)
-        errors.extend({"source": "ted", **e} for e in ted.get("errors") or [])
+        _run_source("ted", lambda: ted_search.collect(days=days), parts, errors, coverage)
     if "bkms" in sources:
-        bkms = bkms_search.collect(days=days)
-        parts.append(bkms)
-        coverage["bkms"] = bkms.get("notice_count", 0)
-        errors.extend({"source": "bkms", **e} for e in bkms.get("errors") or [])
+        _run_source("bkms", lambda: bkms_search.collect(days=days), parts, errors, coverage)
     if "bund" in sources:
-        bund = bund_rss.collect(days=days)
-        parts.append(bund)
-        coverage["bund"] = bund.get("notice_count", 0)
-        errors.extend({"source": "bund", **e} for e in bund.get("errors") or [])
+        _run_source("bund", lambda: bund_rss.collect(days=days), parts, errors, coverage)
 
     rows = merge(parts)
     review = [r for r in rows if r.get("decision") == "review"]

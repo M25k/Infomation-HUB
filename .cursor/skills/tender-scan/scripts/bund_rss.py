@@ -5,6 +5,8 @@ from __future__ import annotations
 
 import html
 import re
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import date, datetime, timedelta
@@ -81,8 +83,29 @@ def flatten_item(item: ET.Element) -> dict:
 
 def collect(days: int = 8) -> dict:
     req = urllib.request.Request(FEED, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        xml = resp.read()
+    xml = b""
+    last_error = ""
+    for attempt in range(4):
+        if attempt:
+            time.sleep(4.0 * attempt)
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                xml = resp.read()
+            break
+        except urllib.error.URLError as exc:
+            last_error = f"bund RSS network: {exc}"
+    else:
+        return {
+            "generated": date.today().isoformat(),
+            "since": (date.today() - timedelta(days=days)).isoformat(),
+            "source": FEED,
+            "notice_count": 0,
+            "review": [],
+            "maybe": [],
+            "skip": [],
+            "errors": [{"id": "bund-rss", "error": last_error}],
+            "all": [],
+        }
     root = ET.fromstring(xml)
     since = date.today() - timedelta(days=days)
     rows = []

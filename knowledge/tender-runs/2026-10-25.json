@@ -1,0 +1,595 @@
+{
+  "generated": "2026-10-25",
+  "days": 12,
+  "sources_run": [
+    "ted",
+    "bkms",
+    "bund"
+  ],
+  "coverage": {
+    "ted": 43,
+    "bkms": 446,
+    "bund": 500
+  },
+  "notice_count": 898,
+  "review": [
+    {
+      "source": "bkms",
+      "id": "25969088",
+      "publication_number": "",
+      "title": "Virtual-Reality-Trainingssystems zur klinischen Triage",
+      "lot_title": "Virtual-Reality-Trainingssystems zur klinischen Triage",
+      "buyer": "Universitätsklinikum Frankfurt",
+      "publication_date": "2026-10-24",
+      "deadline": "2026-11-10",
+      "cpv": "72212900",
+      "buyer_country": "DEU",
+      "place": "DE7",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25969088",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25969088",
+      "description": "Entwicklung und Implementierung eines immersiven Virtual-Reality-Trainingssystems zur klinischen Triage bei einem Massenanfall von Verletzten.\nDie geplante VR-Anwendung soll eine solche Situation realitätsnah simulieren und insbesondere die medizinische Entscheidungsfindung unter Zeitdruck trainierbar machen. Die Anwendung soll sowohl für Personen eingesetzt werden, die im Ereignisfall tatsächlich an einer klinischen Sichtung beteiligt wären, als auch für Personen in Ausbildung und Studium.\n\nVirtual-Reality-Trainingssystems zur klinischen Triage Virtual-Reality-Trainingssystems zur klinischen Triage Entwicklung und Implementierung eines immersiven Virtual-Reality-Trainingssystems zur klinischen Triage bei einem Massenanfall von Verletzten.\nDie geplante VR-Anwendung soll eine solche Situation realitätsnah simulieren und insbesondere die medizinische Entscheidungsfindung unter Zeitdruck trainierbar machen. Die Anwendung soll sowohl für Personen eingesetzt werden, die im Ereignisfall tatsächlich an einer klinischen Sichtung beteiligt wären, als auch für Personen in Ausbildung und Studium.\n\nVirtual-Reality-Trainingssystems zur klinischen Triage",
+      "platform": "service.bund.de",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "bund-rss",
+        "xr"
+      ],
+      "sources": [
+        "bkms",
+        "bund.de"
+      ]
+    }
+  ],
+  "maybe": [
+    {
+      "source": "bkms",
+      "id": "25920178",
+      "publication_number": "",
+      "title": "VR Plattform",
+      "lot_title": "VR Plattform",
+      "buyer": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+      "publication_date": "2026-10-13",
+      "deadline": "2026-10-26",
+      "cpv": "48000000-8",
+      "buyer_country": "DEU",
+      "place": "DE4",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25920178",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25920178",
+      "description": "VR Plattform VR Plattform VR Plattform",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "xr"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "1732a990-a70e-40d0-b104-6ca8a3abe613",
+      "publication_number": "736024-2026",
+      "title": "Neubau der Notleitstelle Bexbach - Elektroinstallationsarbeiten",
+      "lot_title": "Elektroinstallationsarbeiten",
+      "buyer": "Zweckverband für Rettungsdienst und Feuerwehralarmierung Saar (ZRF Saar)",
+      "publication_date": "2026-10-23",
+      "deadline": "2026-11-02",
+      "cpv": "45311200",
+      "buyer_country": "DEU",
+      "place": "DEC05",
+      "notice_type": "cn-standard",
+      "contract_nature": "works",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/1732a990-a70e-40d0-b104-6ca8a3abe613",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/1732a990-a70e-40d0-b104-6ca8a3abe613",
+      "description": "Der Zweckverband für Rettungsdienst und Feuerwehralarmierung ZRF beabsichtigt derzeit den Neubau der Notleitstelle Bexbach. Hierzu wird die nachfolgenden Bauleistung ausgeschrieben. Die im Wesentlichen auszuführenden Leistungen beinhalten folgende Bauleistungen:\nKabel- und Leitungen\nCa. 22.000,00 m- Energiekabel NYM, NYY, NYCWY, NYSLYÖ, Ölflex, Querschnitte von 3x1,5qmm bis 1x 240qmm. Verschiedene Befestigungsarten.\nCa. 1.000,00 m, NHXCH- Funktionserhaltkabel Querschnitte von 5x16 qmm bis 4x 240/ 120 FE180. Verschiedene Befestigungsarten.\nCa. 10.000,00 m, Schwachstromkabel, IY(ST)Y 2x2x0,6mmD bis 50x2x0,8mmD. Verschiedene Befestigungsarten.\n\nGeräte- und Zubehör\nCa. 680 St.- Schalter, Steckdosen, Thermostate, Stecksysteme 230V- 400V, Aufputz- und Unterputz.\nCa. 350 St.- Abzweigdosen Aufputz und Unterputz.\n57 Stk.- KNX Geräte, wie Präsenzmelder, Bewegungsmelder.\n\nLeerrohre, Kanäle- und Zubehör\nCa. 2.000,00 m.- Isolierstoffrohr flexibel- und starr, verschiedene Größen NG16- NG40.\nCa. 250,00 m- Kabelkanäle PVC und Stahlblech, 20x 20 bis 190x 72 (mm), inkl. Formteile und Kanaleinbaudosen.\nCa. 800,m.- Kabeltrassen, Steigetrassen, 100x 60 (mm) bis 400x 60, an Wand, Decke und Bodenmontage, kpl. mit Formteilen, Wand- und Deckenstielen sowie Ausleger. U- Profilschienen (200x 35x 18 (mm) – 1000x 35x 18 (mm) imkl. Bügelschellen mit Langwanne.\nCa. 1.000,00 St.-, Sammelhalter Stahl- und Kunststoff, verschiedene Größen.\n\nSchutzmaßnahmen\n16 St..- Potentialausgleichsschienen 40x 10.\n44 St.- Erdungsbandschellen, verschiedener Größen.\nCa. 1.000,00 m- Potenzialausgleichsleitungen von 1x 6qmm- 1x16 qmm\n56 St.- Überspannungsableiter für Antennenanlagen (HF) und Schwachstromsysteme.\n\n\n\nVerteilung- und Zubehör\n1 St..- Kompaktwandlermessanlage bis 100A mit Überspannungsableitungen.\n1 St..- Wandlermessschrank kpl. mit Zählerwechselplatte und Überspannungsableiter.\n1 St. Abgabgangsverteiler AV Netz bestehend aus 100A Leistungsschalter und weiteren ca. 85 Einbauten wie ÜS- Schutz, LS Automaten, Neozedelementen zusätzlich KNX Koppler, Schaltaktoren, Taterschnittstellen, KNX Dali Gateway, Spannungsversorgung, Notstromversorgung\n4 St. Abgabgangsverteiler SV Netz bestehend aus 100A Leistungsschalter, automatischer Netzumschalter 100A, Energiemessgerät, Stromwandler und weiteren ca. 54 Einbauten wie ÜS- Schutz, LS Automaten, Neozedelementen zusätzlich KNX Koppler, Schaltaktoren, Taterschnittstellen, KNX Dali Gateway, Spannungsversorgung, Notstromversorgung.\n5 St. Abgabgangsverteiler USV Netz bestehend aus ca. 75 Einbauten wie ÜS- Schutz, LS Automaten, Neozedelementen  Energieanalysator, Erweiterungsmodule für Strommesseingänge, Betriebsstrom- und RCM- Messgeräte, Wandlermessssysteme.\n5 St. Statischer Lastumschalter, 100A, 3. Pol. 400V\n1 St. Statischer Lastumschalter, 60A, 3. Pol. 400V\n2 St. Hauptverteiler SV1+ SV2 bestehend aus, Kompaktleistungsschalter 630A, Kombi- Ableiter, Energieanalysator, Stromwandler ( 50A, 75A, 100A, 300A, 400A, 600A), NH Lasttrennern NH00 (8), NH1 (2), NH2 (2), NH3 (1), sowie weiteren 12 Einbaugeräten.\n2 St. Abgangsverteiler USV SV1+ USV SV2 bestehend aus Kompaktleistungsschalter 400A, automatischer Netzumschaltung (400A, 400V, 3P), Überspannungsschutz, NH Lasttrennern NH00 (8), NH1 (1), NH2 (1), NH3 (1), sowie weiteren 4 Einbaugeräten.\n\nBohr- und Stemmarbeiten\n21 St. Wand- und Bodendurchbrüche von 10x 5 (cm) bis 30x 20 (cm)\n390 St. Bohrungen Wand-/ Boden von 16mm- 32mm, KS- und Beton.\n32 St. Kernbohrungen von D= 50mm bis D= 150mm\n\nAnschlussarbeiten\n100 St. Anschlussarbeiten, Kabel von 3x 1,5qmm- 5x 25qmm\n6 St. Anschlussarbeiten für, Rauchmelder RWA, DKM- RWA, RWA Zentrale\n60 St. Anschlussarbeiten Jalousien und Rollladen\n42 St Anschlussarbeiten Thermostat und Fussbodenverteiler\n\n\nBrandschutzmaßnahmen\n14 St. Brandschutz, S30 Durchbruch 0,02 qmm- 0,1 qmm\n60 St. Brandschutz, S30 Durchbruch 0,02 qmm- 0,1 qmm\n16 St. Brandschutz, Rauchdicht Durchbruch 0,02 qmm- 0,04 qmm\n70 St. Brandschutz, Schottung Einzelkabel, von 3x1,5qmm- 5x 35qmm\n20 S",
+      "platform": "subreport.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/736024-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "2ef21a10-4cfe-4301-b941-3e00c65430f6",
+      "publication_number": "719565-2026",
+      "title": "Brandschutz-Installationsarbeiten (Brandschutzvorhänge)",
+      "lot_title": "Brandschutz-Installationsarbeiten (Brandschutzvorhänge)",
+      "buyer": "Artemed Klinikum München Süd GmbH & Co. KG",
+      "publication_date": "2026-10-18",
+      "deadline": "2026-11-03",
+      "cpv": "45343000",
+      "buyer_country": "DEU",
+      "place": "DE212",
+      "notice_type": "cn-standard",
+      "contract_nature": "works",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/2ef21a10-4cfe-4301-b941-3e00c65430f6",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/2ef21a10-4cfe-4301-b941-3e00c65430f6",
+      "description": "Für die Sanierung der Patientenzimmer und Bettenstationen im 1. bis 3. Obergeschoss des Artemed Klinikums München Süd werden Brandschutz Installationsarbeiten beschafft. Brandschutz-Installationsarbeiten (Brandschutzvorhänge) a) Für die Sanierung der Patientenzimmer und Bettenstationen im 1. bis 3. Obergeschoss des Artemed Klinikums München Süd werden Brandschutz Installationsarbeiten beschafft.   Die Leistungen umfassen insbesondere: 3 Stück Brandschutzvorhänge F30, Abmessungen 350 × 150 cm.  b) Für das Vorhaben wurde zum Zwecke der Verkürzung der Angebotsfrist gemäß § 12 EU Abs. 1 Nr. 2 VOB/A eine Vorinformation im Amtsblatt der Europäischen Union (TED - Tenders Electronic Daily) unter der Veröffentlichungsnummer 566614-2026 am 17. August 2026 veröffentlicht.  Gegenstand des vorliegenden Vergabeverfahrens sind die in der Vorinformation unter Ziffer 5.1. Los: LOT-0008 bezeichneten Brandschutz-Installationsarbeiten (Brandschutzvorhänge).   c) Der Auftraggeber beabsichtigt, im Rahmen der umfassenden Sanierung der Patientenzimmer und Bettenstationen im 1. bis 3. Obergeschoss des Artemed Klinikums München Süd mehrere Bauaufträge verschiedener Gewerke zu vergeben. Ziel des Vorhabens ist die Modernisierung der baulichen und technischen Infrastruktur sowie die nachhaltige Verbesserung des Patientenkomforts und der Funktionalität der Stationen.   Die auszuführenden Leistungen umfassen insbesondere die Sanierung der Patientenzimmer einschließlich der Oberflächen und Sanitärbereiche, die Erneuerung der technischen Gebäudeausrüstung - insbesondere der Elektro, Beleuchtungs-, IT und medizintechnischen Infrastruktur - sowie die Umsetzung der erforderlichen Brandschutz- und hygienetechnischen Maßnahmen.   Die Bauleistungen werden abschnittsweise unter Aufrechterhaltung des laufenden Krankenhausbetriebs ausgeführt. Hieraus ergeben sich besondere Anforderungen an die Bauablaufplanung sowie an den Lärm, Staub und Infektionsschutz während der Bauausführung.",
+      "platform": "dtvp.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/719565-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "b840cf03-500f-49de-8264-13af1d2c0efd",
+      "publication_number": "718731-2026",
+      "title": "Rohrrahmentüren und Brandschutztüren (Rohrrahmenelemente)",
+      "lot_title": "Rohrrahmentüren und Brandschutztüren (Rohrrahmenelemente)",
+      "buyer": "Artemed Klinikum München Süd GmbH & Co. KG",
+      "publication_date": "2026-10-18",
+      "deadline": "2026-11-03",
+      "cpv": "45421131",
+      "buyer_country": "DEU",
+      "place": "DE212",
+      "notice_type": "cn-standard",
+      "contract_nature": "works",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/b840cf03-500f-49de-8264-13af1d2c0efd",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/b840cf03-500f-49de-8264-13af1d2c0efd",
+      "description": "Für die Sanierung der Patientenzimmer und Bettenstationen im 1. bis 3. Obergeschoss des Artemed Klinikums München Süd werden Rohrrahmentüren und Brandschutztüren beschafft. Rohrrahmentüren und Brandschutztüren (Rohrrahmenelemente) a) Für die Sanierung der Patientenzimmer und Bettenstationen im 1. bis 3. Obergeschoss des Artemed Klinikums München Süd werden Rohrrahmentüren und Brandschutztüren beschafft.  Die Leistungen umfassen insbesondere: 33 Stück ein- und zweiflügelige Rohrrahmentüren RD und F30 einschließlich Feststellanlagen; 6 Stück Automatikantriebe; 9 Stück Festverglasungen F30.  b) Für das Vorhaben wurde zum Zwecke der Verkürzung der Angebotsfrist gemäß § 12 EU Abs. 1 Nr. 2 VOB/A eine Vorinformation im Amtsblatt der Europäischen Union (TED - Tenders Electronic Daily) unter der Veröffentlichungsnummer 566614-2026 am 17. August 2026 veröffentlicht.  Gegenstand des vorliegenden Vergabeverfahrens sind die in der Vorinformation unter Ziffer 5.1. Los: LOT-0007 Rohrrahmentüren und Brandschutztüren (Rohrrahmenelemente).  c) Der Auftraggeber beabsichtigt, im Rahmen der umfassenden Sanierung der Patientenzimmer und Bettenstationen im 1. bis 3. Obergeschoss des Artemed Klinikums München Süd mehrere Bauaufträge verschiedener Gewerke zu vergeben. Ziel des Vorhabens ist die Modernisierung der baulichen und technischen Infrastruktur sowie die nachhaltige Verbesserung des Patientenkomforts und der Funktionalität der Stationen.   Die auszuführenden Leistungen umfassen insbesondere die Sanierung der Patientenzimmer einschließlich der Oberflächen und Sanitärbereiche, die Erneuerung der technischen Gebäudeausrüstung - insbesondere der Elektro, Beleuchtungs-, IT und medizintechnischen Infrastruktur - sowie die Umsetzung der erforderlichen Brandschutz- und hygienetechnischen Maßnahmen.   Die Bauleistungen werden abschnittsweise unter Aufrechterhaltung des laufenden Krankenhausbetriebs ausgeführt. Hieraus ergeben sich besondere Anforderungen an die Bauablaufplanung sowie an den Lärm, Staub und Infektionsschutz während der Bauausführung.",
+      "platform": "dtvp.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/718731-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "549ae1a8-cf25-45cf-8f90-9aba323dab16",
+      "publication_number": "722684-2026",
+      "title": "Stahlblech- und Brandschutztüren",
+      "lot_title": "Stahlblech- und Brandschutztüren",
+      "buyer": "Artemed Klinikum München Süd GmbH & Co. KG",
+      "publication_date": "2026-10-18",
+      "deadline": "2026-11-03",
+      "cpv": "45421131",
+      "buyer_country": "DEU",
+      "place": "DE212",
+      "notice_type": "cn-standard",
+      "contract_nature": "works",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/549ae1a8-cf25-45cf-8f90-9aba323dab16",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/549ae1a8-cf25-45cf-8f90-9aba323dab16",
+      "description": "Für die Sanierung der Patientenzimmer und Bettenstationen im 1. bis 3. Obergeschoss des Artemed Klinikums München Süd werden Stahlblech- und Brandschutztüren beschafft. Stahlblech- und Brandschutztüren a) Für die Sanierung der Patientenzimmer und Bettenstationen im 1. bis 3. Obergeschoss des Artemed Klinikums München Süd werden Stahlblech- und Brandschutztüren beschafft.  Die Leistungen umfassen insbesondere: 12 Stück T30-Türen; 6 Stück T90-Schachttüren.   b) Für das Vorhaben wurde zum Zwecke der Verkürzung der Angebotsfrist gemäß § 12 EU Abs. 1 Nr. 2 VOB/A eine Vorinformation im Amtsblatt der Europäischen Union (TED - Tenders Electronic Daily) unter der Veröffentlichungsnummer 566614-2026 am 17. August 2026 veröffentlicht.  Gegenstand des vorliegenden Vergabeverfahrens sind die in der Vorinformation unter Ziffer 5.1. Los: LOT-0006 bezeichneten Stahlblech- und Brandschutztüren (Türen-Blech)  c) Der Auftraggeber beabsichtigt, im Rahmen der umfassenden Sanierung der Patientenzimmer und Bettenstationen im 1. bis 3. Obergeschoss des Artemed Klinikums München Süd mehrere Bauaufträge verschiedener Gewerke zu vergeben. Ziel des Vorhabens ist die Modernisierung der baulichen und technischen Infrastruktur sowie die nachhaltige Verbesserung des Patientenkomforts und der Funktionalität der Stationen.   Die auszuführenden Leistungen umfassen insbesondere die Sanierung der Patientenzimmer einschließlich der Oberflächen und Sanitärbereiche, die Erneuerung der technischen Gebäudeausrüstung - insbesondere der Elektro, Beleuchtungs-, IT und medizintechnischen Infrastruktur - sowie die Umsetzung der erforderlichen Brandschutz- und hygienetechnischen Maßnahmen.   Die Bauleistungen werden abschnittsweise unter Aufrechterhaltung des laufenden Krankenhausbetriebs ausgeführt. Hieraus ergeben sich besondere Anforderungen an die Bauablaufplanung sowie an den Lärm, Staub und Infektionsschutz während der Bauausführung.",
+      "platform": "dtvp.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/722684-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "ted",
+      "id": "705681-2026",
+      "publication_number": "705681-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Umnutzung des ehemaligen Alten- und Pflegeheims Josefistift an der Bahnhofstraße 3, 83646 Bad Tölz, Tragwerksplanung, gem. §§ 49 ff HOAI 2021, LPH 1-6, stufenweise Beauftragung, sowie Leistungen aus dem Bereich Brandschutzplanung",
+      "lot_title": "",
+      "buyer": "Josefispitalstiftung mit Darlapp´scher Zustiftung verwaltet durch die Stadt Bad Tölz",
+      "publication_date": "2026-10-13",
+      "deadline": "2026-11-04",
+      "cpv": "71000000 71300000 71310000 71320000 71327000 71240000 71317100 71000000 71300000 71310000 71320000 71327000 71240000 71317100",
+      "buyer_country": "DEU",
+      "place": "DE216 DEU DE216 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/705681-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/705681-2026",
+      "description": "",
+      "platform": "TED",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ],
+      "sources": [
+        "ted"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25956110",
+      "publication_number": "",
+      "title": "KITA &quot;Kinderland&quot; Innensanierung mit Teilleistung Brandschutz Heinrich-Heine-Allee 6 in Eisenhüttenstadt Los 2 - 1. BA Tischlerarbeiten (Denkmalgerechte Sanierung von Innentüren)",
+      "lot_title": "KITA &quot;Kinderland&quot; Innensanierung mit Teilleistung Brandschutz Heinrich-Heine-Allee 6 in Eisenhüttenstadt Los 2 - 1. BA Tischlerarbeiten (Denkmalgerechte Sanierung von Innentüren)",
+      "buyer": "Stadt Eisenhüttenstadt, Fachbereich Stadtentwicklung",
+      "publication_date": "2026-10-22",
+      "deadline": "2026-11-17",
+      "cpv": "45421000-4",
+      "buyer_country": "DEU",
+      "place": "DE4",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25956110",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25956110",
+      "description": "KITA &quot;Kinderland&quot; Innensanierung mit Teilleistung Brandschutz Heinrich-Heine-Allee 6 in Eisenhüttenstadt Los 2 - 1. BA Tischlerarbeiten (Denkmalgerechte Sanierung von Innentüren) KITA &quot;Kinderland&quot; Innensanierung mit Teilleistung Brandschutz Heinrich-Heine-Allee 6 in Eisenhüttenstadt Los 2 - 1. BA Tischlerarbeiten (Denkmalgerechte Sanierung von Innentüren) KITA &quot;Kinderland&quot; Innensanierung mit Teilleistung Brandschutz Heinrich-Heine-Allee 6 in Eisenhüttenstadt Los 2 - 1. BA Tischlerarbeiten (Denkmalgerechte Sanierung von Innentüren)",
+      "platform": "service.bund.de",
+      "score": 50,
+      "clusters": [
+        "firefighter",
+        "twin"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "7e6afda7-b7d3-464d-bdf5-0a302e8135f5",
+      "publication_number": "720783-2026",
+      "title": "15871 Dacharbeiten für den Neubau eines Feuerwehr- und Rettungsdienstzentrums Kreis GT",
+      "lot_title": "15871 Dacharbeiten für den Neubau eines Feuerwehr- und Rettungsdienstzentrums Kreis GT",
+      "buyer": "Kreis Gütersloh",
+      "publication_date": "2026-10-18",
+      "deadline": "2026-11-23",
+      "cpv": "45210000",
+      "buyer_country": "DEU",
+      "place": "DEA42",
+      "notice_type": "cn-standard",
+      "contract_nature": "works",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/7e6afda7-b7d3-464d-bdf5-0a302e8135f5",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/7e6afda7-b7d3-464d-bdf5-0a302e8135f5",
+      "description": "- ca. 2.780 m² Trapezprofil Stahl verz. besch. 165/250, D 1,5mm\n- ca. 6.570 m² Dampfsperre Bitumenbahn\n- ca. 3.770 m² Dachabdichtung 2-lagig, Polymerbitumenbahn, EPS-Gefälledämmung\n- ca. 2.800 m² Dachabdichtung 2-lagig, Polymerbitumenbahn, MW-Dämmung\n- ca. 960 m Attikaabdeckung Alu D 2mm beschichtet\n- ca. 12 St RWA-Lichtkuppeln\n- ca. 3.510 m² extensive Dachbegrünung\n- ca. 37 St Einbau Dachabläufe bauseits beigestellt\n- ca. 65 St Attika-Notdachabläufe\n- Inspektion, Wartung, Instandhaltung:\n- ca. 12 St RWA-Lichtkuppeln\n- ca. 3.510 m² extensive Dachbegrünung\n- ca. 37 St Einbau Dachabläufe bauseits beigestellt\n- ca. 65 St Attika-Notdachabläufe 15871 Dacharbeiten für den Neubau eines Feuerwehr- und Rettungsdienstzentrums Kreis GT - ca. 2.780 m² Trapezprofil Stahl verz. besch. 165/250, D 1,5mm\n- ca. 6.570 m² Dampfsperre Bitumenbahn\n- ca. 3.770 m² Dachabdichtung 2-lagig, Polymerbitumenbahn, EPS-Gefälledämmung\n- ca. 2.800 m² Dachabdichtung 2-lagig, Polymerbitumenbahn, MW-Dämmung\n- ca. 960 m Attikaabdeckung Alu D 2mm beschichtet\n- ca. 12 St RWA-Lichtkuppeln\n- ca. 3.510 m² extensive Dachbegrünung\n- ca. 37 St Einbau Dachabläufe bauseits beigestellt\n- ca. 65 St Attika-Notdachabläufe\n- Inspektion, Wartung, Instandhaltung:\n- ca. 12 St RWA-Lichtkuppeln\n- ca. 3.510 m² extensive Dachbegrünung\n- ca. 37 St Einbau Dachabläufe bauseits beigestellt\n- ca. 65 St Attika-Notdachabläufe",
+      "platform": "deutsche-evergabe.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/720783-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "02f5db45-054c-4952-913d-aabb7e75a503",
+      "publication_number": "",
+      "title": "Feuerwehrschutzkleidung (PSA Leasing + Wäsche) für die Feuerwehren der Samtgemeinde Elm-Asse",
+      "lot_title": "Feuerwehrschutzkleidung (PSA Leasing + Wäsche) für die Feuerwehren der Samtgemeinde Elm-Asse",
+      "buyer": "Landkreis Wolfenbüttel für die Samtgemeinde Elm-Asse",
+      "publication_date": "2026-10-20",
+      "deadline": "2026-11-24",
+      "cpv": "35113400",
+      "buyer_country": "DEU",
+      "place": "DE91B",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/02f5db45-054c-4952-913d-aabb7e75a503",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/02f5db45-054c-4952-913d-aabb7e75a503",
+      "description": "Die Samtgemeinde Elm-Asse plant die Vergabe von Feuerwehrschutzkleidung (PSA Leasing + Wäsche) für die Feuerwehren der Samtgemeinde Elm-Asse. Feuerwehrschutzkleidung (PSA Leasing + Wäsche) für die Feuerwehren der Samtgemeinde Elm-Asse Die Samtgemeinde Elm-Asse beabsichtigt die Beschaffung von ca. 200 Garnituren Feuerwehr-Einsatzbekleidung (Jacke und Hose) im Rahmen eines Leasingvertrages mit einer Grundlaufzeit von drei Jahren und einer Verlängerungsoption um zweimal ein Jahr (max. fünf Jahre). \n\nDer Leasinggeber übernimmt die fachgerechte Reinigung, Aufbereitung, Trocknung, Dokumentation sowie die termingerechte Rücklieferung von persönlicher Schutzausrüstung (PSA) für Feuerwehren und sonstige Träger. \n\nDie Leistungen sind unter Einhaltung aller einschlägigen gesetzlichen, normativen und hygienischen Vorgaben zu erbringen.\n\nDie Schutzkleidung muss den einschlägigen Normen, insbesondere EN 469:2020, Leistungsstufe 2, entsprechen. Gefordert sind zudem eine wasserdichte, wasserdampfdurchlässige Membran im Liner-System, ein nachgewiesener Beflammungstest gemäß EN 469:2020, Anhang D, sowie eine waschfeste Kennzeichnung mittels Barcodes, RFID oder NFC. Detaillierte Angaben siehe Leistungsverzeichnis.\n\nZum Vertragsende erfolgt die Übernahme der Bekleidung zum Zeitwert.\n\nIm Rahmen der Angebotswertung ist ein Trageversuch vorgesehen. Diese sind für die 50.KW 2026 vorgesehen. \n\nNäheres ist den Ausschreibungsunterlagen zu entnehmen. \n\nDie Angebotsabgabe ist ausschließlich elektronisch über das Vergabeportal zugelassen.\n\nBewerber haben sich unverzüglich über die Richtigkeit der Vergabeunterlagen zu vergewissern. Um einen ordnungsgemäßen Verlauf der Ausschreibung zu gewährleisten, wird die Frist für das letzte Stellen von Bieterfragen auf den 13.11.2026  festgesetzt. Bei einer späteren Fragestellung kann eine rechtzeitige Beantwortung nicht garantiert werden und führt nicht zwingend zu einer Fristverlängerung.\n\nSofern der Bietende in der Wertungsreihenfolge nicht Rangerster ist, behält sich der Auftraggeber gem. § 56 Abs. 2 VgV vor, fehlende, unvollständige oder fehlerhafte Unterlagen nicht nachzufordern.",
+      "platform": "deutsche-evergabe.de",
+      "score": 50,
+      "clusters": [
+        "firefighter",
+        "factory"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "97f02290-346f-44dc-9f57-e94be393b291",
+      "publication_number": "734912-2026",
+      "title": "Beschaffung eines Tanklöschfahrzeugs für die Feuerwehr in 04895 Falkenberg/Elster, Köppes Gasse 1",
+      "lot_title": "Lieferung von Beladung + Anlage 1 (Inhalt Notfallrucksack)",
+      "buyer": "Verbandsgemeinde Liebenwerda",
+      "publication_date": "2026-10-23",
+      "deadline": "2026-11-27",
+      "cpv": "34144210",
+      "buyer_country": "DEU",
+      "place": "DE407",
+      "notice_type": "cn-standard",
+      "contract_nature": "supplies",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/97f02290-346f-44dc-9f57-e94be393b291",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/97f02290-346f-44dc-9f57-e94be393b291",
+      "description": "Beschaffung eines Tanklöschfahrzeugs für die Feuerwehr in 04895 Falkenberg/Elster, Köppes Gasse 1 Lieferung Tanklöschfahrzeug 4000 Staffel Der Auftragnehmer soll ein Tanklöschfahrzeug in Anlehnung an DIN 14530-21 liefern, welches zur Aufnahme einer Besatzung bis Staffelgröße, von feuerwehrtechnischer Standardbeladung und -löschmittel sowie Zusatzbeladung und Sonderlöschmittel geeignet ist. Lieferung von Beladung + Anlage 1 (Inhalt Notfallrucksack) Der Auftragnehmer soll ein Tanklöschfahrzeug in Anlehnung an DIN 14530-21 liefern, welches zur Aufnahme einer Besatzung bis Staffelgröße, von feuerwehrtechnischer Standardbeladung und -löschmittel sowie Zusatzbeladung und Sonderlöschmittel geeignet ist.",
+      "platform": "vergabemarktplatz.brandenburg.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "bund-rss",
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/734912-2026",
+      "sources": [
+        "bkms",
+        "bund.de"
+      ]
+    }
+  ],
+  "skip_count": 887,
+  "skip_sample": [
+    {
+      "title": "Deutschland – Dienstleistungen von Sicherheitsdiensten – Sicherheitsdienst im Klinikverbund Gesundheit Nord",
+      "buyer": "Gesundheit Nord Dienstleistungen gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Bautischlerarbeiten – medizinische Festeinbauten",
+      "buyer": "Caritas-Krankenhaus Bad Mergentheim gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Vollkommissioniersystem für die Krankenhausapotheke",
+      "buyer": "Klinikum St. Georg gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "MacBook",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Linearbeschleuniger inkl. Vollwartungsvertrag für die ersten 5 Jahre",
+      "buyer": "Universitätsklinikum Aachen AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Neubau Feuerwehr Köthen - Reupziger Straße/Am Holländer Weg - Los 11 - Toranlagen",
+      "buyer": "Stadt Köthen (Anhalt)",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Lizenzen Virtual-Desktop-Infrastruktur (Omnissa Horizon)",
+      "buyer": "Universitätsklinikum Frankfurt",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Recruiting-Kampagnen",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Austausch Großraumwasserkessel Helios Dr. Horst Schmidt Kliniken Wiesbaden GmbH",
+      "buyer": "Helios Dr. Horst Schmidt Kliniken Wiesbaden GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Benachrichtigungssystem Feuerwehr",
+      "buyer": "Dataport AöR",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Beschaffung von drei Löschgruppenfahrzeugen LF 10 (Fahrgestell und Aufbau) für die Feuerwehr der Stadt Marl",
+      "buyer": "Stadt Marl - Amt für Klimaschutz und Nachhaltigkeit - Zentrale Vergabestelle",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Shirts aller Art",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Stadt Zerbst/Anhalt - Umbau , Ortsfeuerwehr Nedlitz, Heizung,Sanitär,Lüftung,Elektro",
+      "buyer": "Stadt Zerbst/Anhalt",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Lieferung Desinfektionstabletten Feuerwehr",
+      "buyer": "Stadt Bottrop",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Mannschaftstransportfahrzeuge Feuerwehr",
+      "buyer": "Stadtverwaltung Genthin",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Beschaffung für Generalplanerleistungen (GP) für das Projekt I02B2602 Modernisierung Hörsäle + Kurslabore der Medizinischen Hochschule Hannover (MHH) - Gebäude I02",
+      "buyer": "Medizinische Hochschule Hannover",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Medizinische Gase / Anlagen zur Versorgung mit medizinischen Gasen",
+      "buyer": "Artemed Klinikum München Süd GmbH & Co. KG",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Einbauarbeiten von Wandsystemen",
+      "buyer": "Artemed Klinikum München Süd GmbH & Co. KG",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Holzinnentüren",
+      "buyer": "Artemed Klinikum München Süd GmbH & Co. KG",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "medizinische Festeinbauten",
+      "buyer": "Caritas-Krankenhaus Bad Mergentheim gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Gehölzpflege AM LB 26-29",
+      "buyer": "Die Autobahn GmbH des Bundes - NL Südwest",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Augenklinikinformationssystem",
+      "buyer": "TUM Klinikum",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Rahmenvereinbarung Beschaffung von Feuerwehrdienstkleidung 2026-2029",
+      "buyer": "Stadt Schöningen",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "V0100 Baulicher Brandschutz",
+      "buyer": "Stadtbahn Entwicklung und Verkehrsinfrastrukturprojekte Frankfurt GmbH",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Beschaffung einer gekühlten Universal-Tischzentrifuge",
+      "buyer": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    }
+  ],
+  "errors": []
+}

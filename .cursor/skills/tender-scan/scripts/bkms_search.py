@@ -56,12 +56,21 @@ def _request(url: str, payload: dict | None = None, timeout: int = 60) -> dict:
         data = json.dumps(payload).encode("utf-8")
         method = "POST"
     req = urllib.request.Request(url, data=data, headers=headers, method=method)
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            return json.loads(resp.read().decode("utf-8"))
-    except urllib.error.HTTPError as exc:
-        detail = exc.read().decode("utf-8", "replace")
-        raise RuntimeError(f"BKMS HTTP {exc.code}: {detail[:1500]}") from exc
+    last_error = ""
+    for attempt in range(4):
+        if attempt:
+            time.sleep(4.0 * attempt)
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as exc:
+            detail = exc.read().decode("utf-8", "replace")
+            last_error = f"BKMS HTTP {exc.code}: {detail[:1500]}"
+            if exc.code != 429:
+                break
+        except urllib.error.URLError as exc:
+            last_error = f"BKMS network: {exc}"
+    raise RuntimeError(last_error or "BKMS request failed")
 
 
 def search_page(text: str, days: int, page: int, size: int = 50) -> dict:
