@@ -106,12 +106,26 @@ Summe Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge. Keine 3D-Quelldateien. 
 
 Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, Actemium, Amatik, Amatik 2, Armstrong, Azure Spatial Anchors, BAT, Bayer, Bitterfeld, DEV_Intern_Tools, DLR, Digitale Zwillinge, Dom zu Halberstadt, Gdview, INFINITY, Kiel AR, Kiel Arena, Kölner Dom, Landtag, Landtag VR, LandtagTouch, Lhoist, LWL, Marketing, Mars2020, ND CAD Explorer, ND VR Tutorial, Omexom Hochspannung, Schiffshebewerk, SIGA, Sonnen, sonnen, Strahlenschutz, Submerge, Template ×3, Tut, UKK).
 
+## Runde 7: Änderungen seit 23.10. und Projects Teilrunde 3c, Rest Kölner Dom (26.10.2026)
+
+| Status | Pfad (unter Projects) | Bemerkung |
+|---|---|---|
+| fertig | Kölner Dom, Rest: Befliegung 20191022/1920 (31), Befliegung 20200421/1600, Full, iPhone, iPhone Silas, iPhones Spherie (335), Befliegung 20210302/Full (57), Beauty Shots (3 Unterordner mit 7 Unterordnern, 460) | **Kölner Dom ist damit vollständig.** 883 Dateien, 0 tabu. Urheberschaft #106 |
+
+Teil 1 (Änderungen seit 23.10.2026, 06:20): 276 Treffer, 143 tabu verworfen (Tabu-Ordner `1-4L9eK91dNq0HsyT1wDUFQ2c1OmbwRDn` 137×, `1fOSSCj2H-NkrmDqvhlAW_cVrRBOattEy` 3×, `1R_HZrnWWhneDSKojvW_bhBxkzpz8CZ3y` 2×, `1RXI8eF6l9CEqe8tGzfu6DmkBDHgdfn5i` 1×), 26 neue Einträge, 3 Aktualisierungen (FFVR-0280 Größe 1,8 → 2,4 MiB; FFVR-0275 und FFVR-0873 nur neu gespeichert, unverändert).
+
+Assets lieferte 909 Einträge (MD-0534 bis MD-1416, FFVR-0909 bis 0923, ND-1377 bis 1383, MED-0086/0087, NFVR-0242/0243). 445 tragen einen DUPLIKAT-Vermerk; **118** davon sind Duplikate bestehender Repo-Einträge (Kopien in Befliegung 20191022/1920 und Beauty Shots zu 46 Originalen, u. a. PDR-Fotos MD-0036–0063 und MD-0140–0219) und wurden wie in Runde 6 **nicht katalogisiert, sondern am Original vermerkt** (Drive-Link der Kopie). Die übrigen 327 Duplikate verweisen auf Einträge dieser Runde und sind mit Vermerk übernommen. **Importiert: 791** (MD 765, FFVR 15, ND 7, MED 2, NFVR 2). Die übersprungenen MD-Nummern bleiben frei (Lücken wie in Runde 6).
+
+Prüfung Wissen (26.10.2026): Tabu-Volltest (Ahnenkette jeder Datei gegen alle 68 Tabu-IDs, Namensregeln, Bürrig-Regex, Bielefeld, Reschke, Militär/TMA, Koni-Ordner) ohne Treffer; „Koni“ erscheint nur im Namen des Shared Drives Projekte/Meetings. Keine ID-Kollisionen, alle Duplikat-Verweise auflösbar, keine Mailadressen, Telefonnummern oder Tokens. Freigaben: 791 nur intern. **FFVR-0918/0919** (neutrale Hygiene-Texturen) von Assets als social-video vorgeschlagen, nach Korrektur von Assets **nur intern**, Social-Freigabe offen (Joachim, #120).
+
+Nächste freie IDs: MD-1417, FFVR-0924, ND-1384, MED-0088, NFVR-0244, GV-0016. Nächstes Gebiet (Runde 8): Projects ab Lhoist bis UKK.
+
 ## Runde 6: Änderungen seit 22.10. und Projects Teilrunde 3c, erster Teil (23.10.2026)
 
 | Status | Pfad (unter Projects) | Bemerkung |
 |---|---|---|
 | fertig | Kiel AR, Kiel Arena, Landtag, Landtag VR (12 leere Unterordner), LandtagTouch (leer) | Kiel Arena #117 |
-| teilweise | Kölner Dom (Hauptebene und 19 Unterordner) | offen für Runde 7: Beauty Shots (3 Unterordner), Befliegung 20191022/1920, Befliegung 20200421/1600, Full, iPhone, iPhone Silas, iPhones Spherie, Befliegung 20210302/Full |
+| teilweise → fertig in Runde 7 | Kölner Dom (Hauptebene und 19 Unterordner) | in Runde 7 erledigt: Beauty Shots (3 Unterordner), Befliegung 20191022/1920, Befliegung 20200421/1600, Full, iPhone, iPhone Silas, iPhones Spherie, Befliegung 20210302/Full |
 
 Teil 1 (Änderungen seit 22.10.2026, 07:25): 29 neue Einträge, keine Aktualisierungen. Assets lieferte 510 Einträge; 23 davon sind Duplikate bestehender Repo-Einträge (21 PDR-Fotos zu MD-0036–0063, MD-0366/0367 zu MD-0026/0027) und wurden nicht katalogisiert, sondern am Original vermerkt. Importiert: 487. Fragen #115 bis #122, Erweiterungen #106 und #110.
 

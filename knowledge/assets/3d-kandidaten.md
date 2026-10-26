@@ -169,3 +169,38 @@ Es wurde kein Pico-Headset-Modell gefunden.
 ### Quellfotos für Bild-zu-3D (an Bot 3D)
 
 - **Kölner Dom, Photogrammetrie-Quellbilder (nur intern):** DSC-Kamerafotos aus Befliegung 20200421/20210302 und von der Hauptebene, sowie etwa 300 Handyfotos (HEIC) in Silas, „Kölner Dom“ und Befliegung 2021. Sie eignen sich nur als Referenz für Fassadendetails. Das Dom-Modell selbst existiert schon (über 2 Mrd. Polygone, Textregel 22). Die Urheberschaft ist offen (Frage 3).
+
+## Runde 7 (Assets, 26.10.2026): neue 3D-Quellen
+
+### Fahrzeuge
+
+In Runde 7 kam kein neues Fahrzeugmodell dazu, weder in Teil 1 noch im Rest von Kölner Dom.
+
+### PICO
+
+| ID | Datei | Ablage | Größe | Hinweis |
+|---|---|---|---|---|
+| FFVR-0909 | 20260916 Fireextinquisher_Pico4u_v13_PETGuPLA_0.2mm (3MF) | Shared Drive FirefighterVR / _3d-Printing / _export / _3D Print for Users / Feuerlöscher 2026 | 0,5 MiB | Druckdatei eines Feuerlöscher-Aufsatzes für Pico 4 Ultra (laut Dateiname und Ordner, PETG/PLA, 0,2 mm). Ein Pico-Zubehör, kein Headset-Modell. Nur intern; als Quellmodell für einen Turntable bzw. eine Produktansicht an Bot 3D |
+
+### Neue FirefighterVR-Assets (Hygiene, #120)
+
+| ID | Inhalt | Freigabe / Hinweis |
+|---|---|---|
+| FFVR-0918, FFVR-0919 | Neutrale Diffuse-Texturen T_Alcohol_Wipes_D / T_H2O2_Wipes_D (Ordner neutral_23-10) | **nur intern**, Social-Freigabe offen, Joachim (Korrektur Assets 26.10.2026; Vorschlag war social-video). Lizenz nicht schriftlich belegt (Eigenbau vermutet). Texturtausch in Unreal offen (FFVR-0881) |
+| FFVR-0911, FFVR-0913 | Vorher/Nachher-Bilder der Neutralisierung | nur intern (Arbeitsnachweis) |
+| FFVR-0910 | Alcohol_Wipes_UCX.fbx (Kollisionskörper) | nur intern |
+| FFVR-0876, FFVR-0880 (Bestand) | Substance-Projekte, noch mit Logo | altes Logo, Ersatz offen (Renke); R7-03 |
+
+### Weitere 3D-Dateien (alle nur intern)
+
+| ID | Datei | Ablage | Größe | Hinweis |
+|---|---|---|---|---|
+| FFVR-0914, FFVR-0916 | Düsenmodell v7 und v8 als FBX-ZIP | Marketing Sales / 3D / vertraulicher Herstellerordner | 7,4 bzw. 7,0 MiB | CAD-basiert, vertraulicher Herstellerdatensatz (R4-01), nur intern |
+| FFVR-0915, FFVR-0917 | Texturen v7/v8 (ZIP) | dto. | 10,8 bzw. 12,1 MiB | nur intern |
+| FFVR-0920 bis FFVR-0923 | Ortho- und Vorher/Nachher-Renders v6→v7→v8 | dto. | ≤ 0,9 MiB | nur intern |
+| ND-1379 | Landscape_01_v21.glb | flowAR / Asset Exchange / Umwelt | 2,5 MiB | Urheber und Lizenz nicht belegt (#121) |
+| ND-1382 | Sunflower_Big.glb | flowAR / Asset Exchange / Umwelt | 5,2 MiB | Urheber und Lizenz nicht belegt (#121) |
+
+### Quellfotos für Bild-zu-3D (an Bot 3D)
+
+- **Kölner Dom, Befliegung 20200421/Full und 20210302/Full** (DSC, 513,0 bzw. 627,5 MiB): Fassaden- und Turmaufnahmen, nur intern. Sie eignen sich als Detailreferenz. Das Dom-Modell existiert schon. Die Urheberschaft ist offen (#106).
