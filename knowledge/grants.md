@@ -97,32 +97,46 @@ Aufräumliste aus dem Abgleich 25.10.2026 (Abschnitt 9.4) freigegeben, Förderun
 
 Regel (Joachim 26.10.2026 (über One)), **präzisiert (Joachim 26.10.2026 17:53 (über One))**: Keine Preis- oder Kalkulationsreferenz sind **nur** Ausschreibungen und Angebote, die **Silas** nach dem UKK-Ende bearbeitet hat; gerechnet wird auf den Betrag, den Joachim vorgibt. **Stichtag bestätigt: „nach UKK-Projekt (ca. 02.08.2023, letzte Meilensteinrechnung 20230802-01)“** (entschieden von One, Delegation Joachim 25.10.2026). Joachims eigene Kalkulationen 2026 (Meißen, Bielefeld, UKFFM) gelten weiter als Preisreferenz. Details: [proposal-playbook.md](proposal-playbook.md) §0.
 
-**Begründung (Joachim 26.10.2026, 17:54, über One):** „In der Phase, in der Silas die Ausschreibungen gemacht hat, wurde aufwändig kalkuliert, gewonnen wurde aber nie etwas. Die Preise aus dieser Zeit waren offensichtlich nicht wettbewerbsfähig und taugen daher nicht als Preisreferenz, auch nicht als Untergrenze.“
+**Begründung (Joachim 26.10.2026, 17:54, über One):** „In der Phase, in der Silas die Ausschreibungen gemacht hat, wurde aufwändig kalkuliert, gewonnen wurde aber nie etwas. Die Preise aus dieser Zeit waren offensichtlich nicht wettbewerbsfähig und taugen daher nicht als Preisreferenz, auch nicht als Untergrenze.“ **Klarstellung (Joachim 26.10.2026 18:03 (über One)):** „Nie gewonnen“ bezieht sich auf die Entwicklungsausschreibungen (Custom-Software-Entwicklung). Feuerwehr Berlin 2025-311, Berliner Feuerwehr VG 2026-199, Portugal 1001/2025 und Niedersachsen.next waren Ausschreibungen für unsere Produkte (FFVR, StrahlenschutzVR); gekauft wurde das Produkt, die Ausschreibung war nur der Beschaffungsweg.
 
 Die Vorgänge bleiben als Historie und Eignungsbelege stehen; bei den ausgeschlossenen zählen nur ihre Preise und Tagessätze nicht. Prüfung je Eintrag am 26.10.2026 gegen HUB, [mailakte-silas.md](mailakte-silas.md) und Asana (nur lesend: Ersteller, Zuständige, Kommentare).
 
-| Vorgang | Vergabe-Nr. / Angebot | Datum | Status | Beleg |
-|---|---|---|---|---|
-| UKSH Notaufnahme / VR in der Lehre (verloren) | Grobschätzung, Umsetzungsvorschlag | 29.11.2023, 16.07.2024 | **ausgeschlossen (Silas)** | Asana 1204511809442504: Ersteller Silas, Schätzung und Vorschlag von Silas; [mailakte-silas.md](mailakte-silas.md) |
-| VR Polizei (abgebrochen) | – | 01/2024 | **ausgeschlossen (Silas)** | Asana 1206278557343489: Titel „m. Silas“, Silas hat das Ticket ins Projekt geholt (09.01.2024); kein Preis belegt |
-| KMU-innovativ VR4preclinicalEducation | MTI202404-2891-094 | 15.04.2024 | **ausgeschlossen (Silas)** | Asana 1203393673702771: Ersteller Silas, Einreichung/Statuswechsel durch Silas |
-| Interreg UKSH / TH Lübeck / Franzen | Kalkulation VR-Umgebung 675.000 € | 28.06.2024 | **ausgeschlossen (Silas)** | Tabelle „In Arbeit“ oben: „Kalkulation VR-Umgebung von Silas“; Asana 1205783993998886: Übernahme von Silas am 10.08.2026 |
-| XR2LEARN Open Call 2 (mit UKK) | Proposal 090 | 12/2024 | **ausgeschlossen (Silas)** | Asana 1208891786369501: Ersteller Silas, 13 von 14 Einträgen von Silas |
-| Ratingen AR-Browser-Stadtführung (mit amatik) | – | 04/2025 | **ausgeschlossen (Silas)** | Asana 1209698566366821: Ersteller Silas, Abschluss durch Silas |
-| Portugal Strahlenschutz-Training | 1001/2025 | 2025 | **ausgeschlossen (Silas)** | Asana 1209627242455252: Ersteller Silas, Kundenkontakt Silas |
-| Paderborn | Angebot 20250904-01 | 09/2025 | **ausgeschlossen (Silas)** | Asana 1210518976374809: alle Einträge von Silas (Ticket 06/2025); [open-questions.md](open-questions.md) |
-| Feuerwehr Berlin VR Training | 2025-311 | Zuschlag 12.09.2025 | **ausgeschlossen (Silas)** | Asana 1210984049833247: Ersteller Silas, Erstgespräch Silas 06.08.2025 |
-| Niedersachsen.next (XR CAMPUS) | – | 10/2025 | **ausgeschlossen (Silas)** | Asana 1211560036408255: „Eingereicht“ von Silas (07.10.2025) |
-| Berliner Feuerwehr VR Brillen Set | VG-Nr. 2026-199 | Zuschlag 30.06.2026 | **ausgeschlossen (Silas)** | Asana 1213434081622941: Ersteller Silas, Zuweisung durch Silas 16.07.2026 |
-| Landkreis Meißen | 2026-01-12.8.1.01 | eingereicht 27.08.2026, Absage | **Preisreferenz gültig – nicht Silas** | Joachim 26.10.2026 17:53 (über One); Asana 1217856433393484 nur Joachim/Patrick |
-| Uni Bielefeld VR Kinderchirurgie | 702-2026-10 | eingereicht 17.09.2026 | **Preisreferenz gültig – nicht Silas** | Joachim 26.10.2026 17:53 (über One); Asana 1218178827206839 nur Joachim/Patrick |
-| UKFFM VR-Training klinische Triage | 20261039 | in Arbeit | **Preisreferenz gültig – nicht Silas** | Joachim 26.10.2026 17:53 (über One); Asana 1217974085069035 nur Joachim |
-| LF 10 / HLF 10 Bayern (Unterangebote Rosenbauer, Empl) | MaBu-2026-0272 | 25.09.2026 | **Preisreferenz gültig – nicht Silas** | Asana 1218763550422011, 1218800642719144: Ersteller und Zuständiger Patrick |
-| Düsseldorf (keine Teilnahme) | DUS-2025-0747 | 22.09.2025 | **gültig – nicht Silas** (kein Preis abgegeben) | Asana 1211288726849113: Ersteller Patrick, Entscheidung Joachim/Patrick; Silas nur Kartenverschiebung in einem anderen Projekt |
-| feir 2.0 (Skizze, Förderantrag) | – | 02/2025 | **Preisreferenz gültig – nicht Silas** | Asana 1208996503256030: Julia; Zahlen von Joachim (Mailakte 13.02.2025) |
-| Kosovo-Los (über Kognita) | `20241220-03` | 20.12.2024 | **Preisreferenz gültig – nicht Silas** | Asana 1209021838991397, 1209022724615909: Ersteller Patrick, Zuständiger Joachim; kein Silas-Beleg |
-| Feuerwehr mit Schenker, LFWS Hessen | 855-2024, Angebot 20241203-01 | 12/2024 | **ausgeschlossen** (entschieden von One, Delegation Joachim 25.10.2026) | Asana 1219853905338080 erst 2026 angelegt (Joachim/Patrick); wer das Angebot 2024 kalkuliert und verschickt hat, ist nicht belegt |
-| UKSH Flashlight Los 2 | UKSH-Föd-2026-0001 | eingereicht 24.08.2026 | **Preisreferenz gültig – Preis von Joachim** (entschieden von One, Delegation Joachim 25.10.2026) | Angebot und Aufklärung von Joachim (Asana 1217328350929037, u. a. 900 €/PT); der Vorlauf (Kontakt Franzen, Vergabe-Infos) lief bis 10.08.2026 über Silas; in Joachims Liste vom 26.10. nicht genannt (UKSH-Einträge selbst unverändert) |
+**Zwei Kategorien (Joachim 26.10.2026 18:03 (über One)):**
+
+**(a) Produktbeschaffung** – Ausschreibung war nur der Beschaffungsweg, gekauft wurde unser Produkt (FFVR, StrahlenschutzVR). Lizenz- und Produktpreise sind Referenz **nur für Produktverkäufe**, nicht für Entwicklungsausschreibungen.
+
+| Vorgang | Vergabe-Nr. / Angebot | Datum | Status | Beleg | Kategorie-Begründung |
+|---|---|---|---|---|---|
+| Portugal Strahlenschutz-Training | 1001/2025 | 2025 | ~~ausgeschlossen (Silas)~~ → **Produktpreis: Referenz nur für Produktverkäufe** (Silas-Regel gilt hier nicht, Joachim 26.10.2026 18:03 (über One)) | Asana 1209627242455252: Ersteller Silas, Kundenkontakt Silas | Joachim 26.10.2026 18:03 (über One) |
+| Feuerwehr Berlin VR Training | 2025-311 | Zuschlag 12.09.2025 | ~~ausgeschlossen (Silas)~~ → **Produktpreis: Referenz nur für Produktverkäufe** (Silas-Regel gilt hier nicht, Joachim 26.10.2026 18:03 (über One)) | Asana 1210984049833247: Ersteller Silas, Erstgespräch Silas 06.08.2025 | Joachim 26.10.2026 18:03 (über One) |
+| Niedersachsen.next (XR CAMPUS) | – | 10/2025 | ~~ausgeschlossen (Silas)~~ → **Produktpreis: Referenz nur für Produktverkäufe** (Silas-Regel gilt hier nicht, Joachim 26.10.2026 18:03 (über One)) | Asana 1211560036408255: „Eingereicht“ von Silas (07.10.2025) | Joachim 26.10.2026 18:03 (über One) |
+| Berliner Feuerwehr VR Brillen Set | VG-Nr. 2026-199 | Zuschlag 30.06.2026 | ~~ausgeschlossen (Silas)~~ → **Produktpreis: Referenz nur für Produktverkäufe** (Silas-Regel gilt hier nicht, Joachim 26.10.2026 18:03 (über One)) | Asana 1213434081622941: Ersteller Silas, Zuweisung durch Silas 16.07.2026 | Joachim 26.10.2026 18:03 (über One) |
+| Kosovo-Los (über Kognita) | `20241220-03` | 20.12.2024 | **Preisreferenz gültig – nicht Silas** | Asana 1209021838991397, 1209022724615909: Ersteller Patrick, Zuständiger Joachim; kein Silas-Beleg | Reseller-Lieferung über Kognita (Produktverkauf, projects.md Reseller-Absatz); nicht in Joachims Vierer-Liste |
+
+**(b) Entwicklungsausschreibungen (Custom-Software-Entwicklung, auch Förder-F&E)** – hier gilt die Silas-Regel ab ca. 02.08.2023.
+
+| Vorgang | Vergabe-Nr. / Angebot | Datum | Status | Beleg | Kategorie-Begründung |
+|---|---|---|---|---|---|
+| UKSH Notaufnahme / VR in der Lehre (verloren) | Grobschätzung, Umsetzungsvorschlag | 29.11.2023, 16.07.2024 | **ausgeschlossen (Silas)** | Asana 1204511809442504: Ersteller Silas, Schätzung und Vorschlag von Silas; [mailakte-silas.md](mailakte-silas.md) | Custom-Entwicklung (Rahmensystem, neue Fälle) |
+| KMU-innovativ VR4preclinicalEducation | MTI202404-2891-094 | 15.04.2024 | **ausgeschlossen (Silas)** | Asana 1203393673702771: Ersteller Silas, Einreichung/Statuswechsel durch Silas | Förder-F&E-Vorhaben (Entwicklung) |
+| Interreg UKSH / TH Lübeck / Franzen | Kalkulation VR-Umgebung 675.000 € | 28.06.2024 | **ausgeschlossen (Silas)** | Tabelle „In Arbeit“ oben: „Kalkulation VR-Umgebung von Silas“; Asana 1205783993998886: Übernahme von Silas am 10.08.2026 | Kalkulation VR-Umgebung, Interaktion, Sprachmodul (Entwicklung) |
+| XR2LEARN Open Call 2 (mit UKK) | Proposal 090 | 12/2024 | **ausgeschlossen (Silas)** | Asana 1208891786369501: Ersteller Silas, 13 von 14 Einträgen von Silas | Open Call, Entwicklungsvorhaben |
+| Ratingen AR-Browser-Stadtführung (mit amatik) | – | 04/2025 | **ausgeschlossen (Silas)** | Asana 1209698566366821: Ersteller Silas, Abschluss durch Silas | AR-Browser-Stadtführung als Auftragsentwicklung mit amatik |
+| Uni Bielefeld VR Kinderchirurgie | 702-2026-10 | eingereicht 17.09.2026 | **Preisreferenz gültig – nicht Silas** | Joachim 26.10.2026 17:53 (über One); Asana 1218178827206839 nur Joachim/Patrick | VR Kinderchirurgie als Auftragsentwicklung |
+| UKFFM VR-Training klinische Triage | 20261039 | in Arbeit | **Preisreferenz gültig – nicht Silas** | Joachim 26.10.2026 17:53 (über One); Asana 1217974085069035 nur Joachim | VR-Training klinische Triage, Kalkulation nach PT (128 PT) |
+| LF 10 / HLF 10 Bayern (Unterangebote Rosenbauer, Empl) | MaBu-2026-0272 | 25.09.2026 | **Preisreferenz gültig – nicht Silas** | Asana 1218763550422011, 1218800642719144: Ersteller und Zuständiger Patrick | Digitaler Zwilling je Fahrzeugtyp (Entwicklung) |
+| Düsseldorf (keine Teilnahme) | DUS-2025-0747 | 22.09.2025 | **gültig – nicht Silas** (kein Preis abgegeben) | Asana 1211288726849113: Ersteller Patrick, Entscheidung Joachim/Patrick; Silas nur Kartenverschiebung in einem anderen Projekt | virtuelles Schulungssystem inkl. Hardware-Entwicklung |
+| feir 2.0 (Skizze, Förderantrag) | – | 02/2025 | **Preisreferenz gültig – nicht Silas** | Asana 1208996503256030: Julia; Zahlen von Joachim (Mailakte 13.02.2025) | Förderskizze, 72 PM Entwicklung |
+| UKSH Flashlight Los 2 | UKSH-Föd-2026-0001 | eingereicht 24.08.2026 | **Preisreferenz gültig – Preis von Joachim** (entschieden von One, Delegation Joachim 25.10.2026) | Angebot und Aufklärung von Joachim (Asana 1217328350929037, u. a. 900 €/PT); der Vorlauf (Kontakt Franzen, Vergabe-Infos) lief bis 10.08.2026 über Silas; in Joachims Liste vom 26.10. nicht genannt (UKSH-Einträge selbst unverändert) | VR-Trainingsumgebung mit 40 PT Entwicklung; enthält auch Endgeräte/Leasing |
+
+**Kategorie unklar:**
+
+| Vorgang | Vergabe-Nr. / Angebot | Datum | Status | Beleg | Kategorie-Begründung |
+|---|---|---|---|---|---|
+| VR Polizei (abgebrochen) | – | 01/2024 | **ausgeschlossen (Silas)** | Asana 1206278557343489: Titel „m. Silas“, Silas hat das Ticket ins Projekt geholt (09.01.2024); kein Preis belegt | Inhalt der Ausschreibung im HUB nicht beschrieben (abgebrochen „weil unpassend“) |
+| Paderborn | Angebot 20250904-01 | 09/2025 | **ausgeschlossen (Silas)** | Asana 1210518976374809: alle Einträge von Silas (Ticket 06/2025); [open-questions.md](open-questions.md) | Leistung im HUB nicht beschrieben, nur Angebot 20250904-01 und abweichender Kaufpreis (open-questions.md, „Paderborn Kaufpreis“) |
+| Landkreis Meißen | 2026-01-12.8.1.01 | eingereicht 27.08.2026, Absage | **Preisreferenz gültig – nicht Silas** | Joachim 26.10.2026 17:53 (über One); Asana 1217856433393484 nur Joachim/Patrick | gemischt: VR-Lernmodule (Entwicklung) plus 15 Brillen (Hardware) |
+| Feuerwehr mit Schenker, LFWS Hessen | 855-2024, Angebot 20241203-01 | 12/2024 | **ausgeschlossen** (entschieden von One, Delegation Joachim 25.10.2026) | Asana 1219853905338080 erst 2026 angelegt (Joachim/Patrick); wer das Angebot 2024 kalkuliert und verschickt hat, ist nicht belegt | Hardware-Zulieferung (umgebaute Strahlrohre), weder Produktlizenz noch Software-Entwicklung |
 
 ## Bewusst nicht einreichen / abgelehnt (Lernpunkte, keine Claims)
 
