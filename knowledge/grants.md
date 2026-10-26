@@ -121,8 +121,8 @@ Die Vorgänge bleiben als Historie und Eignungsbelege stehen; bei den ausgeschlo
 | Düsseldorf (keine Teilnahme) | DUS-2025-0747 | 22.09.2025 | **gültig – nicht Silas** (kein Preis abgegeben) | Asana 1211288726849113: Ersteller Patrick, Entscheidung Joachim/Patrick; Silas nur Kartenverschiebung in einem anderen Projekt |
 | feir 2.0 (Skizze, Förderantrag) | – | 02/2025 | **Preisreferenz gültig – nicht Silas** | Asana 1208996503256030: Julia; Zahlen von Joachim (Mailakte 13.02.2025) |
 | Kosovo-Los (über Kognita) | `20241220-03` | 20.12.2024 | **Preisreferenz gültig – nicht Silas** | Asana 1209021838991397, 1209022724615909: Ersteller Patrick, Zuständiger Joachim; kein Silas-Beleg |
-| Feuerwehr mit Schenker, LFWS Hessen | 855-2024, Angebot 20241203-01 | 12/2024 | **unklar** | Asana 1219853905338080 erst 2026 angelegt (Joachim/Patrick); wer das Angebot 2024 kalkuliert und verschickt hat, ist nicht belegt |
-| UKSH Flashlight Los 2 | UKSH-Föd-2026-0001 | eingereicht 24.08.2026 | **unklar** | Angebot und Aufklärung von Joachim (Asana 1217328350929037, u. a. 900 €/PT); der Vorlauf (Kontakt Franzen, Vergabe-Infos) lief bis 10.08.2026 über Silas; in Joachims Liste vom 26.10. nicht genannt (UKSH-Einträge selbst unverändert) |
+| Feuerwehr mit Schenker, LFWS Hessen | 855-2024, Angebot 20241203-01 | 12/2024 | **ausgeschlossen** (entschieden von One, Delegation Joachim 25.10.2026) | Asana 1219853905338080 erst 2026 angelegt (Joachim/Patrick); wer das Angebot 2024 kalkuliert und verschickt hat, ist nicht belegt |
+| UKSH Flashlight Los 2 | UKSH-Föd-2026-0001 | eingereicht 24.08.2026 | **Preisreferenz gültig – Preis von Joachim** (entschieden von One, Delegation Joachim 25.10.2026) | Angebot und Aufklärung von Joachim (Asana 1217328350929037, u. a. 900 €/PT); der Vorlauf (Kontakt Franzen, Vergabe-Infos) lief bis 10.08.2026 über Silas; in Joachims Liste vom 26.10. nicht genannt (UKSH-Einträge selbst unverändert) |
 
 ## Bewusst nicht einreichen / abgelehnt (Lernpunkte, keine Claims)
 
