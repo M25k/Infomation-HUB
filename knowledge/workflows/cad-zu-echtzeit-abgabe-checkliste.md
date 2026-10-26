@@ -5,7 +5,7 @@ Quelle: Bot 3D, 21.10.2026 (Joachim, aus dem Review v3 von Marcel Timm). Vor jed
 | # | Punkt | Prüfung / Nachweis |
 |---|---|---|
 | 1 | Namensschema `Nozzle_[Hersteller][Produkt]` (z. B. `Nozzle_HerstellerProdukt`), `SM_/T_/M_` | Dateiliste Paket |
-| 2 | Hero-Asset nur LOD0, ca. 20.000 bis 30.000 Vertices (Qualität vor Ziel bis höchstens +30 %, (Joachim 23.10.2026, übermittelt von 3D)), Texturen 4096² (geändert 23.10.2026, vorher 2048²), ≥ 3 px/mm, Aufdruck ≥ 6 px/mm | Re-Import-Prüfung (Vertex-Zahl UE), Texturgröße |
+| 2 | Hero-Asset nur LOD0; **Vertices ≤ Ziel +30 %: ab v9 Ziel 39.000 → höchstens 50.700** (UE-Zählung), Qualität vor Zahl (neu 26.10.2026, Review Marcel v8; ~~ca. 20.000 bis 30.000 Vertices, Qualität vor Ziel bis höchstens +30 % (Joachim 23.10.2026, übermittelt von 3D)~~); Texturen 4096² (geändert 23.10.2026, vorher 2048²), ≥ 3 px/mm, Aufdruck ≥ 6 px/mm, Texeldichte geloggt | Re-Import-Prüfung (Vertex-Zahl UE), Texturgröße |
 | 3 | +X vorne, +Z oben, cm, ohne Importoptionen korrekt | Re-Import-Prüfung: Rohdaten-BBox ok, Header Z-up, Rotation 0 |
 | 4 | Pivots auf Drehachsen (aus CAD-Zylinderachsen) | Platzierungstabelle plus Herleitung |
 | 5 | Wasserdicht: nach dem Re-Import exakt 0 Boundary-Edges und 0 Non-manifold-Edges je Teil (sonst nicht verwertbar); Berührkanten zwischen anliegenden, jeweils geschlossenen Solids zählen nicht als Fehler, nur als Info protokolliert (Joachim 23.10.2026, übermittelt von 3D, umgesetzt in v8) | Ergebnis Watertight-Skript nach Re-Import, Info-Liste Berührkanten, Durchguck-Renders |
@@ -26,5 +26,13 @@ Quelle: Bot 3D, 21.10.2026 (Joachim, aus dem Review v3 von Marcel Timm). Vor jed
 | 20 | Schwarz eloxiertes Metall metallic ≤ 0,3, roughness ≥ 0,5; jedes Teil mit Referenzfotos abgeglichen (Regeln 20, 21) | Materialwerte, Fotoliste |
 | 21 | Vorher/Nachher-Vergleich (gleiche Kameras) | Renders vorher/nachher |
 | 22 | README, Checkliste und Vergleichsbilder liegen **vor** dem Export im Paketordner (sonst fehlen sie im ZIP); Paket = `<PAKET>_FBX.zip` + `<PAKET>_Texturen.zip`, keine eingebetteten Texturen (3D, 23.10.2026) | Inhalt beider ZIPs, Re-Import-Check |
+| 23 | UVs fp16-fest (Regel 23): `uv_fp16_abw_px` ≤ 0,01 je Node; Nahaufnahme Blender gegen UE-Emulation (`UE_FP16=1`) gleich | Re-Import-Prüfung, Vergleichsbild |
+| 24 | Texeldichte (Regeln 24 und 25): jedes sichtbare Teil ≥ 3 px/mm, jeder Aufdruck ≥ 6 px/mm, Decal-Inseln achsparallel | `texel.json` |
+| 25 | Rundteile in Nahsicht rund (Regel 26): Kappen, Schrauben, Ringe, Bohrungen, Führungsschienen ohne Polygon-Silhouette | Nahaufnahmen vorn/seitlich |
+| 26 | Nur was am Original ist (Regeln 27 und 28): keine unsichtbaren Befestigungsteile, keine nicht vorhandenen Prägungen oder Logos | Nahaufnahmen plus Foto |
+| 27 | Aufdrucke 1:1 nach Foto (Regel 29): Text vollständig mit Umbrüchen, Ikonografie (Linienanzahl, Übergänge), Formen, Lage; Abweichungen zur Auftrags-Kurzfassung benannt | Foto/Render-Paare |
+| 28 | Jeder Review-Punkt der Vorversion einzeln abgehakt (Tabelle Review-Punkt → Maßnahme → Nachweis) | `CHANGELOG_<ver>.md` |
 
-Punkte 15 bis 21 und Änderung Punkt 2/11: Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D. Prüfreihenfolge: zuerst Watertight als hartes Ausschlusskriterium (Punkte 5 und 19; bei mehr als 0 Boundary-Edges je Teil nicht verwertbar), danach Review-Priorität nach Regel 15: Texturqualität, dann Skalen und Beschriftung (Auslegung 3D aus Joachims Regel vom 23.10.2026, von Joachim nicht ausdrücklich bestätigt). Culling nur nach Regel 22 (in v8 aus); Hole-Fill nach dem Bake ist Pflicht (Joachim 23.10.2026, übermittelt von 3D, umgesetzt in v8).
+Punkte 15 bis 21 und Änderung Punkt 2/11: Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D. Prüfreihenfolge: zuerst Watertight als hartes Ausschlusskriterium (Punkte 5 und 19; bei mehr als 0 Boundary-Edges je Teil nicht verwertbar), danach Review-Priorität nach Regel 15: Texturqualität, dann Skalen und Beschriftung (Auslegung 3D aus Joachims Regel vom 23.10.2026, von Joachim nicht ausdrücklich bestätigt). Culling nur nach Regel 22 (in v8 aus); Hole-Fill nach dem Bake ist Pflicht (Joachim 23.10.2026, übermittelt von 3D, umgesetzt in v8). Nachtrag 26.10.2026: Die Prüfreihenfolge nach Regel 15 ist bestätigt (entschieden von One, Delegation Joachim 25.10.2026, siehe Changelog in [cad-zu-echtzeit.md](cad-zu-echtzeit.md)).
+
+Punkte 23 bis 28 und Änderung Punkt 2: Review Marcel v8, 26.10.2026, 86/100, übermittelt von 3D. In der 3D-Quelldatei `ABGABE_CHECKLISTE.md` heißen diese Punkte 21 bis 26; im HUB sind 21 und 22 schon belegt (HUB hat zusätzlich Punkt 14 „Regel allgemein formulieren, Punktzahl erfragen“), deshalb hier 23 bis 28.
