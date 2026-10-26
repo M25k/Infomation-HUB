@@ -115,7 +115,7 @@ Storyboard-Struktur (Beats + Sicht) bleibt. Für 8–12 Minuten Szenario (FAQ 44
 
 ## Pass 20 — 2026-08-28 (Gmail)
 
-Erste systematische Auswertung von `joachim@northdocks.com` gegen die KB. Mailbox sehr groß (Inbox ~76k Threads); Filter auf 2026, Sternchen, Kunden-/Förderabsender, ohne Asana-/Vergabe-Newsletter.
+Erste systematische Auswertung des Gmail-Postfachs von Joachim gegen die KB. Mailbox sehr groß (Inbox ~76k Threads); Filter auf 2026, Sternchen, Kunden-/Förderabsender, ohne Asana-/Vergabe-Newsletter.
 
 Neu intern belegt und in die KB übernommen: OffTEC-Erstgespräch 27.08. (IB.SH-Intro); AMBOSS LiSA / Voice „Hey Lisa“ + LoI; Datta-Ja zu Emergency Response VR; IMS-Services-FFVR-Kauf; VG Bodenheim über Reseller Smart PSA; APG-GodView weiter aktiv; Dom-LoI (KI-SH) plus Erfassung KW35; Hannover Polish-Sprint Richtung 10.09.; TEMA BRK Pilot 2 + Hackathon 03.09.; UniBw Schalinski und Cuxhaven CBRN nur als Pipeline.
 

@@ -44,7 +44,7 @@ Vergabe-Rollenraster und Asana-Stamm: [team.md](team.md).
 | Joachim Perschbacher | Mitgründer 2009 (einer von vier Studierenden an der CAU Kiel), bis heute Geschäftsführer. Einziger der Gründer, der noch im Unternehmen ist. |
 | Patrick D. Reschke | Geschäftsführer; nicht Gründer. Kam über Arbeiten für Intel dazu. Intern **Head of Sales**, lange PM-Praxis (GF 26.08.2026). CEO-Interviews, VWA/Horizon |
 | Simona Michel | FiBu, Versand, Ausschreibungsboard |
-| silas@northdocks.com | Vergabeunterlagen (Drive-Ordner); 2026 weiter TEMA-CC |
+| – (Postfach Silas) | Vergabeunterlagen (Drive-Ordner); 2026 weiter TEMA-CC |
 
 ~~julia.barenthien ist **kein** offizielles ND-Team (Arbeitgeber F&E GmbH Kiel, derzeit Nebenjob). Expertise intern bei Bedarf; nicht in Eignung.~~ Überholt (Joachim 25.10.2026, 15:13, übermittelt von One): Julia Barenthien (F&E GmbH) ist freiberuflich hinzuziehbar und darf in Angeboten und Eignungstabellen genannt werden. Details: [team.md](team.md).
 

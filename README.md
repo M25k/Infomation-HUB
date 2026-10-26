@@ -59,7 +59,7 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 - Asana-Workspace (Projekte + Board „Anträge & Ausschreibungen“)
 - Google Drive (u. a. UKSH-Eignungsmappe, Business Deck)
 - GitHub `Northdocks-GmbH` (Cursor-Zugang); `C:\Githup` nur Teilmenge — [knowledge/repos.md](knowledge/repos.md)
-- Gmail `joachim@northdocks.com` (Pass 20–21, 2026-08-28; Tiefenpass [knowledge/gmail-pass.md](knowledge/gmail-pass.md); ohne Secrets)
+- Gmail-Postfach Joachim (Pass 20–21, 2026-08-28; Tiefenpass [knowledge/gmail-pass.md](knowledge/gmail-pass.md); ohne Secrets)
 - FreeAgent (Bücher Northdocks GmbH; live per MCP, destilliert in [knowledge/accounting.md](knowledge/accounting.md); ohne Tokens)
 
 ## Regel

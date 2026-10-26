@@ -1,6 +1,6 @@
 # Gmail-Tiefenpass (laufend)
 
-Ziel: Mailbox `joachim@northdocks.com` vollständig gegen die KB aufarbeiten. Kein Skim. Keine Secrets (Passwörter, AVPQ, Portal-Logins, Kundentelefone, private Mobilnummern) ins Git.
+Ziel: Gmail-Postfach von Joachim vollständig gegen die KB aufarbeiten. Kein Skim. Keine Secrets (Passwörter, AVPQ, Portal-Logins, Kundentelefone, private Mobilnummern) ins Git.
 
 Stand Mailbox 28.08.2026: Inbox ~76.6k Threads / ~39k ungelesen; Sent ~9.6k; Starred 22; Label `Northdocks Rechnungen` (Label_9) 34 Threads — Plugin-Suche nach `label:Label_9` lieferte bisher leere Treffer, Slice Rechnungen offen.
 
