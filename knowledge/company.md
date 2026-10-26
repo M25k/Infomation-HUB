@@ -56,7 +56,7 @@ Aus UKSH-Eignungsmappe, nicht ungeprüft öffentlich wiederholen:
 
 - Umsatz VR/Simulation: in mindestens einem der letzten drei abgeschlossenen Geschäftsjahre **über 200.000 € netto** (Eignungsformulierung).
 - Interne Orientierung GF: **ca. 1 Mio. € p.a.**, bewusst vage. Nicht als exakte GJ-Zahl, nicht auf die Website.
-- Betriebshaftpflicht besteht. Deckungssummen 3 Mio. € Personen / 0,5 Mio. € Sachen: „soweit noch nicht erreicht, nach Zuschlag aufstocken“ — das ist eine **Absichtserklärung**, kein Nachweis des aktuellen Stands.
+- Betriebshaftpflicht besteht. Deckungssummen 3 Mio. € Personen / 0,5 Mio. € Sachen: „soweit noch nicht erreicht, nach Zuschlag aufstocken“ — das ist eine **Absichtserklärung**, kein Nachweis des aktuellen Stands. Nachtrag 26.10.2026 (entschieden von One, Delegation Joachim 25.10.2026): Laut HDI-Bestätigung vom 10.08.2026 gelten 3 Mio. € pauschal; ob das auch Vermögensschäden abdeckt (UKFFM-Kriterium 4.5 verlangt 2,5 Mio. €), klärt Patrick im Asana-Ticket [1219866988473844](https://app.asana.com/0/0/1219866988473844), Police angefragt. Bis zur Klärung bleibt 4.5 „Ja“ ([grants.md](grants.md)). Die Werte oben werden erst nach der Klärung angepasst.
 
 ### KMU-Status (intern, nicht nach außen)
 
