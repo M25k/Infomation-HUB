@@ -796,7 +796,7 @@ Nur Organisationen mit belegtem Auftrag, Angebot mit Betrag, Abo oder Miete. Kon
 | Studieninstitut Westfalen-Lippe | Bielefeld | Bestellung 09.12.2025, Set mit allen Optionen (Angebot 20251126-02) | [Asana](https://app.asana.com/0/0/1212017763587824) |
 | Stadt Bad Sulza, Feuerwehr | DE | Rechnung 20251208-02 | [Asana](https://app.asana.com/0/0/1211738565809999) |
 | VITA-GUARD-Rettungsschule Tomczak | DE | Rechnung 20260128-02 (Strahlrohr) | [Asana](https://app.asana.com/0/0/1212402115191467) |
-| B-Safe Academy (Jannis Weinbach) | DE | Rechnung 20251126-01 bezahlt | [Asana](https://app.asana.com/0/0/1217274843951067) |
+| B-Safe Academy (Jannis Weinbach) | DE | Rechnung 20251126-01 bezahlt; Angebot von Jannis Weinbach: Material von seinem YouTube-Kanal, im Gegenzug Verlinkung der B-Safe Academy (Angebot, nicht vereinbart; Quelle: Discord-Check von One, 26.10.2026, nur gelesen); Bezug B-Safe-Quellvideo FFVR-0888 und Shorts 24–28 (FFVR-0889–0908, intern, #132); [Person](people.md#jannis-weinbach) | [Asana](https://app.asana.com/0/0/1217274843951067) |
 | Solveig Speckmann / Michael (RPVR) | DE | Mobile VR 2024 (20240806-01), Abo-Verlängerung Rechnung 20260206-01 | [Asana](https://app.asana.com/0/0/1207918651177991) |
 | Polizeipräsidium Potsdam | Potsdam | Bestellung 12.02.2026 (Angebot 20260212-02) | [Asana](https://app.asana.com/0/0/1212406600595659) |
 | SaVia Medical / Universitätsklinikum Jena | Jena | RPVR über SaVia bestellt 06.08.2025 (BL019343) | [Asana](https://app.asana.com/0/0/1210914769976678) |

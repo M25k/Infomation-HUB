@@ -666,6 +666,17 @@ Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnumm
 - **Historie:**
   - 20.10.2026 · E-Mail · Antwort von Joachim an Jörg Häusler, CC Florian Lotter und Louis Krätzschmar (BW-ZSA): FirefighterVR vorgestellt; Umsetzungsvorschlag Luftretter-MR-Training (Heli-Modell am Kran mit echter Seilwinde, Nahbereich real, Umgebung in VR, z. B. Felswand oder Bohrinsel); Anbindung an Kran und Winde müsste erst entwickelt werden (kein Claim); VIKO vorgeschlagen
 
+## Jannis Weinbach
+
+- **Organisation:** B-Safe Academy ([organizations.md](organizations.md), Tabelle „Kunden aus Mailakte Silas“)
+- **Rolle:** Betreiber eines YouTube-Kanals (B-Safe Academy)
+- **Kontaktweg:** Discord bzw. bestehender Kundenkontakt (keine Kontaktdaten im HUB)
+- **Themen:** FirefighterVR, Feuerlöscher-Training, Social-Material
+- **Bezug:** B-Safe-Quellvideo FFVR-0888 (Eigentümer B-Safe Academy) und daraus geschnittene Shorts 24–28 (FFVR-0889–0908, intern, [assets/open-questions.md](../assets/open-questions.md) #132); Rechnung 20251126-01
+- **Freigabe:** Freigabe fehlt
+- **Historie:**
+  - Stand 26.10.2026 (Datum der Discord-Nachricht nicht übermittelt) · Discord · Angebot: Material von seinem YouTube-Kanal, im Gegenzug wird die B-Safe Academy verlinkt. Angebot, nicht vereinbart (Quelle: Discord-Check von One, 26.10.2026, nur gelesen)
+
 ## Weitere aus grants.md
 
 Nur Name, Organisation, Quelle. Freigabe jeweils: Freigabe fehlt.

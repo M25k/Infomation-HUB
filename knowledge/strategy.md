@@ -67,3 +67,13 @@ Details: [meditrain.md](meditrain.md), [proposal-playbook.md](proposal-playbook.
 | Datum | Wettbewerber | Thema | Bezug | Quelle |
 |---|---|---|---|---|
 | 20.10.2026 | VR ZeitReise GmbH (Christoph Boyn) | VR-Stadtführung Hannover mit VR-Brille | Kein Northdocks-Bezug; Wettbewerber zur VR-Stadttour Hannover (mit amatik) | [NDR, 20.10.2026](https://www.ndr.de/kultur/gesellschaft/stadtfuehrung-mit-einer-virtual-reality-brille-macht-geschichte-erlebbar,virtualreality-100.html); Hinweis Joachim im Chat mit One, 20.10.2026 |
+
+### Markt- und Forschungslinks (Discord #firefighter_stuff)
+
+Alles **intern, ungeprüft** (Quelle: Discord-Check von One, 26.10.2026, nur gelesen). Nicht als Claim oder Beleg verwenden, bevor die Quelle geprüft ist.
+
+| Thema | Inhalt | Geteilt von |
+|---|---|---|
+| XRHQ / Spanien | 38 Mio. € für VR-Simulatoren und Digital Twins in 2.811 Berufsbildungszentren in Spanien | Patrick |
+| DGUV-Löschtraining mit VR | Bericht auf arbeitssicherheit-ki.de | Joachim |
+| Generative Trainingserstellung Feuerwehr | Paper XR4CE_paper_26.pdf auf ceur-ws.org | Joachim |

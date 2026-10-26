@@ -25,7 +25,7 @@ Quelle: Joachim, 21.10.2026, aus dem Review v3 von Marcel Timm (UE 5.7 + Quest, 
 13. **Verifikation vor Abgabe:** Re-Import jeder FBX (1 Objekt, Lage 0, Rotation 0, 1 Material, BBox, Vertex-Zahl), Vorher/Nachher-Renders mit identischen Kameras, Durchguck vorn und hinten, Skalen-Nahaufnahme. Quest/Android (ASTC, Vulkan) darf nicht brechen: ein Material, keine Spezial-Shader.
 
 14. **Abgabe als eine kombinierte FBX** für „Import Into Level“, die Texturen als zweite ZIP. Ersetzt getrennte Teil-FBX und eingebettete Texturen (siehe Changelog).
-15. **Review-Priorität:** Watertight (Regeln 8 und 19) ist ein hartes Ausschlusskriterium und wird **vor** der Review-Priorität geprüft. Danach ordnet Regel 15 nur noch: erst Texturqualität, dann Skalen und Beschriftung (Auslegung 3D aus Joachims Regel vom 23.10.2026, von Joachim nicht ausdrücklich bestätigt).
+15. **Review-Priorität:** Watertight (Regeln 8 und 19) ist ein hartes Ausschlusskriterium und wird **vor** der Review-Priorität geprüft. Danach ordnet Regel 15 nur noch: erst Texturqualität, dann Skalen und Beschriftung (bestätigt, abgeleitet aus Joachims Regel vom 23.10.2026 „über 0 nicht verwertbar“; entschieden von One, Delegation Joachim 25.10.2026).
 16. **Texte und Icons gerade und unverzerrt abwickeln**; mit Orthoansicht-Renders prüfen.
 17. **Beschriftung nur auf Außenflächen**; erhabene CAD-Schrift darunter einebnen.
 18. **Jede Beschriftung auf das Teil wie auf den Fotos**; Logos auch auf kleine Kappen.
@@ -45,6 +45,7 @@ Regeln 14 bis 21 und die Änderung an Regel 3: Review Marcel v6, 23.10.2026, 74/
 
 | Datum | Quelle | Regel / Änderung |
 |---|---|---|
+| 26.10.2026 | entschieden von One, Delegation Joachim 25.10.2026 | Regel 15 bestätigt: Watertight ist hartes Ausschlusskriterium vor dem Review, danach Texturen, Skalen und Beschriftung (abgeleitet aus Joachims Regel vom 23.10.2026, „über 0 nicht verwertbar“); Vermerk „von Joachim nicht ausdrücklich bestätigt“ ersetzt. Die Auslegung im Eintrag vom 23.10.2026 (Zeile unten) gilt damit für Regel 15 als bestätigt |
 | 23.10.2026 | Joachim 23.10.2026, übermittelt von 3D, umgesetzt in v8 | Regel 22 neu (Culling ohne offene Kanten, sonst weglassen; in v8 aus); Hole-Fill nach dem Bake als Pflichtschritt mit Pipeline-Abbruch; Checkliste 5: exakt 0 Boundary- und 0 Non-manifold-Edges nach Re-Import, Berührkanten geschlossener Solids nur Info. Ersetzt die Culling-Auslegung der Vorzeile |
 | 23.10.2026 | Auslegung 3D aus Joachims Regel vom 23.10.2026, von Joachim nicht ausdrücklich bestätigt | Widersprüche aufgelöst: Culling (v3-Schritt und Regel 8) nur mit Cap/Fill der Schnittkanten und erneutem Boundary-Check, sonst kein Culling für das Teil; Watertight als Ausschlusskriterium vor der Review-Priorität, Regel 15 ordnet nur Texturen vor Skalen/Beschriftung |
 | 23.10.2026 | Joachim, übermittelt von 3D | Regel 19 von Ziel zu Pflicht: 0 Boundary-Edges je Teil, sonst nicht verwertbar; Regel 8 verschärft (nicht nur sichtbar); Regel 2: Qualität vor Vertex-Ziel bei höchstens +30 %. **Widersprüche vermerkt:** Regel 15 (Watertight zuletzt), Culling verdeckter Flächen (v3) erzeugt offene Kanten |
