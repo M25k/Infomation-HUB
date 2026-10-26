@@ -63,7 +63,7 @@ Nur notiert: N
 - Theoretische Punkte wie Konflikte bei den Mitarbeiterressourcen fallen ganz weg.
 - **Keine Bieterfragen**, weil sie Wettbewerber aufmerksam machen. Ist eine Ausschreibung uneindeutig, gilt die für Northdocks günstigere Auslegung.
 - **Preise so ansetzen, dass wir gewinnen:** ein fester Tagessatz nach außen; die interne Kalkulation (Puffer, Wiederverwendung, Marge) bleibt intern.
-- **Keine Preisreferenz aus Ausschreibungen nach dem UKK-Projekt (ca. 08/2023)**; gerechnet wird auf den Betrag, den Joachim vorgibt (Joachim 26.10.2026 (über One); Stichtag offen, Vorschlag an One).
+- **Keine Preisreferenz aus Ausschreibungen nach dem UKK-Projekt (ca. 08/2023)**; gerechnet wird auf den Betrag, den Joachim vorgibt (Joachim 26.10.2026 (über One); Stichtag bestätigt: „nach UKK-Projekt (ca. 02.08.2023, letzte Meilensteinrechnung 20230802-01)“ (entschieden von One, Delegation Joachim 25.10.2026)). Ob Joachims eigene Kalkulationen 2026 (Meißen, Bielefeld, UKFFM) ausgenommen sind, ist offen bei Joachim (über One); bis dahin gelten sie als ausgeschlossen.
 
 **Inhaltsregel (Joachim 25.10.2026, 17:26, übermittelt von One):** Leasing war nur für eine bestimmte UKSH-Ausschreibung gedacht und gehört nicht in normale Northdocks-Inhalte (Angebote, Tickets, Dokumente), auch nicht als Abgrenzung. Allgemein keine Negativ-Abgrenzungen nach dem Muster „das ist nicht X“: Wir beschreiben nur, was wir anbieten.
 

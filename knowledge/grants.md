@@ -95,7 +95,7 @@ Aufräumliste aus dem Abgleich 25.10.2026 (Abschnitt 9.4) freigegeben, Förderun
 
 ## Keine Preisreferenz (nach UKK-Projekt, ca. 08/2023)
 
-Regel (Joachim 26.10.2026 (über One)): Ausschreibungen und Angebote nach dem UKK-Projekt (Silas hat danach die Ausschreibungen übernommen) sind **keine Preis- oder Kalkulationsreferenz**; gerechnet wird auf den Betrag, den Joachim vorgibt. Stichtag ca. 02.08.2023 (letzte UKK-Meilenstein-Rechnung), **Stichtag offen, Vorschlag an One**. Details: [proposal-playbook.md](proposal-playbook.md) §0. Die Vorgänge bleiben als Historie und Eignungsbelege stehen; nur ihre Preise und Tagessätze zählen nicht.
+Regel (Joachim 26.10.2026 (über One)): Ausschreibungen und Angebote nach dem UKK-Projekt (Silas hat danach die Ausschreibungen übernommen) sind **keine Preis- oder Kalkulationsreferenz**; gerechnet wird auf den Betrag, den Joachim vorgibt. Stichtag ca. 02.08.2023 (letzte UKK-Meilenstein-Rechnung), **Stichtag bestätigt: „nach UKK-Projekt (ca. 02.08.2023, letzte Meilensteinrechnung 20230802-01)“** (entschieden von One, Delegation Joachim 25.10.2026). Details: [proposal-playbook.md](proposal-playbook.md) §0. Die Vorgänge bleiben als Historie und Eignungsbelege stehen; nur ihre Preise und Tagessätze zählen nicht.
 
 | Vorgang | Vergabe-Nr. / Angebot | Datum | Quelle im HUB |
 |---|---|---|---|
@@ -120,7 +120,7 @@ Regel (Joachim 26.10.2026 (über One)): Ausschreibungen und Angebote nach dem UK
 | LF 10 / HLF 10 Bayern (Unterangebote Rosenbauer, Empl) | MaBu-2026-0272 | 25.09.2026 | Pipeline oben, [projects.md](projects.md) |
 | UKFFM VR-Training klinische Triage | 20261039 | in Arbeit | Tabelle „In Arbeit“ oben; Beispiel in offer-package.md mit Vermerk |
 
-Nicht aufgenommen: „VR Platform (NRW eVergabe, 2023)“, weil das Datum innerhalb 2023 nicht belegt ist. Ob Joachim seine eigenen Kalkulationen 2026 (Meißen, Bielefeld, UKFFM) von der Regel ausnimmt, ist offen; bis dahin gelten auch sie nicht als Preisreferenz.
+Nicht aufgenommen: „VR Platform (NRW eVergabe, 2023)“, weil das Datum innerhalb 2023 nicht belegt ist. Ob Joachims eigene Kalkulationen 2026 (Meißen, Bielefeld, UKFFM) ausgenommen sind, ist offen bei Joachim (über One); bis dahin gelten sie als ausgeschlossen.
 
 ## Bewusst nicht einreichen / abgelehnt (Lernpunkte, keine Claims)
 
