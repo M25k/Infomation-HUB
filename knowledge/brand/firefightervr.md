@@ -19,7 +19,7 @@ Die Werte unten unter „Farben“ und „Schriften“ waren abgeleitet; sie gel
 ## Schreibweise (Entscheidung Joachim, 19.10.2026)
 
 - Geschrieben **immer „FirefighterVR“**, zusammen. Nie „Firefighter VR“, auch nicht in Texteinblendungen, Endkarten, Titeln, Tags.
-- Im Voiceover gesprochen: „Firefighter VR“, „VR“ englisch („We Ar“ (Joachim 23.10.2026, übermittelt von One)), bei allen Stimmen gleich (Joachim über Video, 21.10.2026; gilt für alle Voiceovers und Markennamen).
+- Im Voiceover gesprochen: „Firefighter VR“, „VR“ englisch („Vi Ar“ (Joachim 26.10.2026, 15:12, über One; ersetzt „We Ar“ vom 23.10.2026)), bei allen Stimmen gleich (Joachim über Video, 21.10.2026; gilt für alle Voiceovers und Markennamen).
 - Im Logo selbst steht „FIREFIGHTER“ + „VR“ im Flammen-Badge mit Claim „The Training Experience“. Das ist Bildmarke, keine Schreibweise für Text.
 - Markenname wird nicht übersetzt (knowledge/document-rules.md). Footer: „powered by Northdocks“ / „a brand of Northdocks GmbH“.
 - BMA Trainer ist eine eigene Marke, kein FirefighterVR-Modul (knowledge/websites/bma.md).
