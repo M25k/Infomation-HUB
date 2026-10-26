@@ -58,6 +58,17 @@ Aus UKSH-Eignungsmappe, nicht ungeprüft öffentlich wiederholen:
 - Interne Orientierung GF: **ca. 1 Mio. € p.a.**, bewusst vage. Nicht als exakte GJ-Zahl, nicht auf die Website.
 - Betriebshaftpflicht besteht. Deckungssummen 3 Mio. € Personen / 0,5 Mio. € Sachen: „soweit noch nicht erreicht, nach Zuschlag aufstocken“ — das ist eine **Absichtserklärung**, kein Nachweis des aktuellen Stands.
 
+### KMU-Status (intern, nicht nach außen)
+
+Quelle: Patrick, Kommentar im Asana-Ticket [1219871709425927](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1219871709425927) vom 25.10.2026 (Zahlen aus Buchhaltung bzw. Jahresabschluss), übernommen über One 26.10.2026 (#138). **Nur intern, nicht nach außen;** in Formularen nur die jeweils verlangten Angaben, JAE statt Köpfe.
+
+- **KMU-Klasse: kleines Unternehmen** nach Anhang I AGVO bzw. KMU-Empfehlung 2003/361/EG; eigenständiges Unternehmen, keine Partner- oder verbundenen Unternehmen. Kein Kleinstunternehmen, weil die Beschäftigtenzahl in beiden Jahren nicht unter 10 JAE liegt; ein Klassenwechsel griffe ohnehin erst nach zwei aufeinanderfolgenden Jahren.
+- **GJ 2025:** 10 JAE (aus der Selbsterklärung vom 14.02.2026; keine Einzelberechnung wie für 2024); Jahresumsatz 569.637,28 € (DATEV BWA 12/2025); Bilanzsumme liegt noch nicht vor (JA 2025 nicht im Archiv; offen: bei SGB Treuhand abfragen bzw. JA 2025 abwarten).
+- **GJ 2024:** 13,23 JAE (23 Personen im Jahresverlauf, 12 aktiv zum 31.12.2024; der Anhang des JA 2024 nennt „23 Arbeitnehmer zum 31.12.2024“, das ist die Zahl im Jahresverlauf, nicht der Stichtagsstand); Jahresumsatz 810.195,24 €; Bilanzsumme 698.455,52 € (Jahresabschluss zum 31.12.2024, SGB Treuhand, erstellt 27.11.2025).
+- **GJ 2023** (falls ein Formular zwei Jahre mit festgestellter Bilanz verlangt): ca. 15 Mitarbeiter; Jahresumsatz 1.325.066,52 €; Bilanzsumme 694.870,82 € (Vorjahresspalte JA 2024).
+- **Vorlagen:** KMU-Erklärung GJ 2025 (EN, Forschungszulage) in `01 Administration`, `2026-05-29_kmu_sme_status_declaration_2025_en.pdf`; KMU-Status 2021 bis 2024: `KMU_Status_Northdocks_2024.docx` (**korrekt**, nennt die richtigen Geschäftsführer). **`KMU_Status_Northdocks_2024.pdf` ist falsch** (nennt falsche Geschäftsführer): nicht extern verwenden.
+- Hinweis: Die interne Orientierung „ca. 1 Mio. € p.a.“ oben passt nur zu 2023; 2024 und 2025 lagen darunter (Stand Patrick 25.10.2026).
+
 ## Gründungsgeschichte (intern, für Narrative in Anträgen)
 
 - 2009: Tätigkeit an der **CAU Kiel** durch **vier Studierende**. Joachim Perschbacher ist der verbliebene Gründer. Das ist die **Narrative**, nicht das Registeralter.

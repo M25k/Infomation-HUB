@@ -27,6 +27,8 @@ Nicht lokal, aber auf GitHub / in Asana-Repo-Karten (nicht „Lücke weil nicht 
 
 Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von One): Patrick baut ein lokales Intranet „Sanctum“ auf Proxmox, lokales Git als Single Point of Truth. Module: **Asgard** (CRM), **Wakanda** (MDM), **Heimdall** (Rechte), **Bifrost** (Verbindungen). Das Team in Kiel soll Zugriff bekommen. Schnittstellen zum Infomation-HUB entscheidet Joachim; bis dahin keine Kopplung.
 
+**Netzwerk Kiel** (Joachim 24.10.2026 im Asana-Ticket „W1021-18–20 Follow-ups“, über One 26.10.2026): Kiel hat Business-Leitungen mit festen IP-Adressen ohne Modem-Notwendigkeit; die **FRITZ!Box kann weg**. Das ersetzt Patricks Vorschlag vom 23.10.2026, die FRITZ!Box als Router zu behalten. Router/VPN laufen über eigene Asana-Tickets (Router VP2430e, VPN Kiel–Monheim). Keine IP-Adressen ins Repo.
+
 ## Produkt- und Plattformcode
 
 | Ordner | Remote | Branch | Was es belegt |
