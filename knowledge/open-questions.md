@@ -93,6 +93,12 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 | 143 | Renke Niehaus: welche Rolle in Angeboten? | Bielefeld-Konzept: 3D/QA (team.md Z. 68); Meißen: Medienpädagogik (team.md Z. 11, 61; Asana Meißen GF-Linie 26.08.2026). Vorprüfung 25.10.2026 (HUB, Asana): UKFFM (Joachim 25.10.2026): Team 3D Stephan zu Münster, zusätzlich oder ersatzweise Renke; Lebenslauf und Urkunde Renke offen. Die Rollen wurden je Ausschreibung vergeben, eine kanonische Rolle fehlt. Vorschlag: Rolle je Ausschreibung zulassen (3D/QA als Standard, Medienpädagogik nur wenn gefordert), Nachweise für beide Rollen beschaffen | **ENTSCHIEDEN** (entschieden von One; Delegation durch Joachim 25.10.2026): Renke in Angeboten als 3D-Integration, Medienpädagogik nur bei Bedarf; bei UKFFM Stephan zusätzlich benannt. Eingetragen in team.md |
 
 
+### GodView OSM-Stadt-Pipeline (3D, 26.10.2026)
+
+| # | Frage | Kontext und Vorschlag | Status |
+|---|---|---|---|
+| 150 | ODbL bei der OSM-Stadt-Pipeline für GodView: juristische Bestätigung der Auslegung | Auslegung 3D (26.10.2026, [brand/godview.md](brand/godview.md), Technik in Arbeit): Tiles und 3D-Modelle sind Produced Work (sichtbarer Hinweis „© OpenStreetMap contributors“ mit Link); mitgelieferte OSM-Attribute (osm_id, Adresse, Höhe) können als abgeleitete Datenbank zählen, dann Share-Alike. Vorprüfung Wissen 26.10.2026 (HUB): keine juristische Aussage vorhanden. Vorschlag: Attribution immer sichtbar; OSM-Attribute in eigener Tabelle getrennt halten; wenn GodView-Kundendaten zusammen mit OSM-Attributen weitergegeben werden, vorher rechtlich prüfen lassen | offen (One) |
+
 ### Marken-CI und Schreibweisen (19.10.2026)
 
 Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Assets ([assets/assets.csv](assets/assets.csv), Typ CI). Entschieden ist nur: **FirefighterVR** immer zusammen, im Voiceover „Firefighter VR“ mit englisch gesprochenem „VR“ („We Ar“ (Joachim 23.10.2026, übermittelt von One), alle Stimmen und Markennamen; Joachim 19.10. und über Video 21.10.2026). Gegenüberstellung der Varianten: [brand/README.md](brand/README.md#schreibweise).
