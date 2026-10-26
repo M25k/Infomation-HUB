@@ -95,7 +95,11 @@ Aufräumliste aus dem Abgleich 25.10.2026 (Abschnitt 9.4) freigegeben, Förderun
 
 ## Keine Preisreferenz (nach UKK-Projekt, ca. 08/2023)
 
-Regel (Joachim 26.10.2026 (über One)), **präzisiert (Joachim 26.10.2026 17:53 (über One))**: Keine Preis- oder Kalkulationsreferenz sind **nur** Ausschreibungen und Angebote, die **Silas** nach dem UKK-Ende bearbeitet hat; gerechnet wird auf den Betrag, den Joachim vorgibt. **Stichtag bestätigt: „nach UKK-Projekt (ca. 02.08.2023, letzte Meilensteinrechnung 20230802-01)“** (entschieden von One, Delegation Joachim 25.10.2026). Joachims eigene Kalkulationen 2026 (Meißen, Bielefeld, UKFFM) gelten weiter als Preisreferenz. Details: [proposal-playbook.md](proposal-playbook.md) §0. Die Vorgänge bleiben als Historie und Eignungsbelege stehen; bei den ausgeschlossenen zählen nur ihre Preise und Tagessätze nicht. Prüfung je Eintrag am 26.10.2026 gegen HUB, [mailakte-silas.md](mailakte-silas.md) und Asana (nur lesend: Ersteller, Zuständige, Kommentare).
+Regel (Joachim 26.10.2026 (über One)), **präzisiert (Joachim 26.10.2026 17:53 (über One))**: Keine Preis- oder Kalkulationsreferenz sind **nur** Ausschreibungen und Angebote, die **Silas** nach dem UKK-Ende bearbeitet hat; gerechnet wird auf den Betrag, den Joachim vorgibt. **Stichtag bestätigt: „nach UKK-Projekt (ca. 02.08.2023, letzte Meilensteinrechnung 20230802-01)“** (entschieden von One, Delegation Joachim 25.10.2026). Joachims eigene Kalkulationen 2026 (Meißen, Bielefeld, UKFFM) gelten weiter als Preisreferenz. Details: [proposal-playbook.md](proposal-playbook.md) §0.
+
+**Begründung (Joachim 26.10.2026, 17:54, über One):** „In der Phase, in der Silas die Ausschreibungen gemacht hat, wurde aufwändig kalkuliert, gewonnen wurde aber nie etwas. Die Preise aus dieser Zeit waren offensichtlich nicht wettbewerbsfähig und taugen daher nicht als Preisreferenz, auch nicht als Untergrenze.“
+
+Die Vorgänge bleiben als Historie und Eignungsbelege stehen; bei den ausgeschlossenen zählen nur ihre Preise und Tagessätze nicht. Prüfung je Eintrag am 26.10.2026 gegen HUB, [mailakte-silas.md](mailakte-silas.md) und Asana (nur lesend: Ersteller, Zuständige, Kommentare).
 
 | Vorgang | Vergabe-Nr. / Angebot | Datum | Status | Beleg |
 |---|---|---|---|---|
