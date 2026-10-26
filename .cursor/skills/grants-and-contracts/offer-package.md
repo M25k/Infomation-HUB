@@ -61,7 +61,9 @@ Nutzer ändert Namen im Doc → Doc gilt, nicht zurückkorrigieren.
 
 PT und Tagessatz nur in der **Ausfüllhilfe**. Regel (Joachim 25.10.2026; Förderung 25.10.2026): Pro Ausschreibung wird **ein fester Tagessatz nach außen** auf Gewinnen kalkuliert; Puffer, Wiederverwendung und Marge bleiben intern. Keine allgemeine Beispielzahl.
 
-Belegtes Beispiel, **nur intern**: Frankfurt 20261039, intern 900 €/PT plus 10 % Puffer (V2); Variante V3 mit 1.000 €/PT nach außen und 128 PT. Quelle: Sheet `1iDF_r_Rr1IDakNUBJgfFoZe1VRm4nolSDrSuOahG9FQ`. Frankfurt-Preis bis zur zweiten UKFFM-Ausschreibung nicht final.
+**Keine Preisreferenz aus der Silas-Zeit (Joachim 26.10.2026 (über One)):** Ausschreibungen und Angebote nach dem UKK-Projekt (ca. 08/2023, Stichtag offen, Vorschlag an One) sind keine Preis- oder Kalkulationsreferenz; gerechnet wird auf den von Joachim vorgegebenen Betrag. Regel und Liste: [proposal-playbook.md](../../../knowledge/proposal-playbook.md) §0, [grants.md](../../../knowledge/grants.md).
+
+Belegtes Beispiel, **nur intern** (Vermerk 26.10.2026: fällt formal unter die Regel oben, nicht als Preisreferenz für andere Ausschreibungen verwenden): Frankfurt 20261039, intern 900 €/PT plus 10 % Puffer (V2); Variante V3 mit 1.000 €/PT nach außen und 128 PT. Quelle: Sheet `1iDF_r_Rr1IDakNUBJgfFoZe1VRm4nolSDrSuOahG9FQ`. Frankfurt-Preis bis zur zweiten UKFFM-Ausschreibung nicht final.
 
 ## Portalformulare
 

@@ -27,7 +27,9 @@ Nicht lokal, aber auf GitHub / in Asana-Repo-Karten (nicht „Lücke weil nicht 
 
 Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von One): Patrick baut ein lokales Intranet „Sanctum“ auf Proxmox, lokales Git als Single Point of Truth. Module: **Asgard** (CRM), **Wakanda** (MDM), **Heimdall** (Rechte), **Bifrost** (Verbindungen). Das Team in Kiel soll Zugriff bekommen. Schnittstellen zum Infomation-HUB entscheidet Joachim; bis dahin keine Kopplung.
 
-**Netzwerk Kiel** (Joachim 24.10.2026 im Asana-Ticket „W1021-18–20 Follow-ups“, über One 26.10.2026): Kiel hat Business-Leitungen mit festen IP-Adressen ohne Modem-Notwendigkeit; die **FRITZ!Box kann weg**. Das ersetzt Patricks Vorschlag vom 23.10.2026, die FRITZ!Box als Router zu behalten. Router/VPN laufen über eigene Asana-Tickets (Router VP2430e, VPN Kiel–Monheim). Keine IP-Adressen ins Repo.
+**Headset-MDM** (Joachim 26.10.2026 (über One)): vorerst bei Pico (Business Device Manager); ein eigenes MDM ist **kein aktuelles Ziel**. Das Modul Wakanda (MDM) oben ist damit für Headsets zurückgestellt. Im Gespräch Joachim/Patrick am 26.10.2026 klang noch „Brillenverwaltung unter eigene Kontrolle“ an; es gilt die Entscheidung von 17:02.
+
+**Netzwerk Kiel** (Joachim 24.10.2026 im Asana-Ticket „W1021-18–20 Follow-ups“, über One 26.10.2026): Kiel hat Business-Leitungen mit festen IP-Adressen ohne Modem-Notwendigkeit; die **FRITZ!Box kann weg**. Das ersetzt Patricks Vorschlag vom 23.10.2026, die FRITZ!Box als Router zu behalten. Router/VPN laufen über eigene Asana-Tickets (Router VP2430e, VPN Kiel–Monheim). Keine IP-Adressen ins Repo. **Router Kiel** (Joachim 26.10.2026 (über One)): Erst im Büro Kiel nach DDR4-Teilen suchen. Gibt es welche, den Protectli VP2430e (braucht DDR5) gegen ein DDR4-Vorgängermodell tauschen; sonst den VP2430e behalten und DDR5 kaufen (Asana 1219858236498643).
 
 ## Produkt- und Plattformcode
 

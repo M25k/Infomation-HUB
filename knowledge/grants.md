@@ -93,6 +93,35 @@ Aufräumliste aus dem Abgleich 25.10.2026 (Abschnitt 9.4) freigegeben, Förderun
 - KMU-innovativ 2024 / VR4preclinicalEducation (Initiator Klaas F. Franzen; Partner u. a. Uni Lübeck, TH Lübeck, UKSH, Feuerwehr Hamburg, Behörde für Inneres und Sport Hamburg, UKK mit LOI): Skizze 15.04.2024 beim PT VDI/VDE-IT (MTI202404-2891-094), Absage 21.06.2024 (V6KMU2404054, 59 Skizzen). Zweiter Anlauf „VIRTuS“ mit der Feuerwehr Hamburg in „Anwendungen in der zivilen Sicherheit“, Modul Unternehmen, von Northdocks eingereicht 15.09.2024 (Online-Kennung 100696797), Absage 25.03.2025 (keine ausreichende Priorität). [Asana](https://app.asana.com/0/0/1203393673702771)
 - feir 2.0 (Skizze Feb. 2025, FZI): ND-Zahlen 72 PM × 6.720 € + 7.500 € Reise = **491.340 €**; VOMATEC hielt den GK-Zuschlag für falsch angesetzt. [Asana](https://app.asana.com/0/0/1208996503256030)
 
+## Keine Preisreferenz (nach UKK-Projekt, ca. 08/2023)
+
+Regel (Joachim 26.10.2026 (über One)): Ausschreibungen und Angebote nach dem UKK-Projekt (Silas hat danach die Ausschreibungen übernommen) sind **keine Preis- oder Kalkulationsreferenz**; gerechnet wird auf den Betrag, den Joachim vorgibt. Stichtag ca. 02.08.2023 (letzte UKK-Meilenstein-Rechnung), **Stichtag offen, Vorschlag an One**. Details: [proposal-playbook.md](proposal-playbook.md) §0. Die Vorgänge bleiben als Historie und Eignungsbelege stehen; nur ihre Preise und Tagessätze zählen nicht.
+
+| Vorgang | Vergabe-Nr. / Angebot | Datum | Quelle im HUB |
+|---|---|---|---|
+| UKSH Schockraum / VR in der Lehre (verloren) | Grobschätzung | 29.11.2023 | [mailakte-silas.md](mailakte-silas.md) |
+| VR Polizei (abgebrochen, „m. Silas“) | – | 01/2024 | Abschnitt „Bewusst nicht einreichen“ unten; Asana 1206278557343489 |
+| KMU-innovativ VR4preclinicalEducation | MTI202404-2891-094 | 15.04.2024 | Pipeline oben |
+| Interreg UKSH / TH Lübeck / Franzen | Kalkulation VR-Umgebung 675.000 € | 28.06.2024 | Tabelle „In Arbeit“ oben |
+| Feuerwehr mit Schenker, LFWS Hessen | 855-2024 | 12/2024 | Abschnitt „In Arbeit“ oben (#135) |
+| XR2LEARN Open Call 2 (mit UKK) | Proposal 090 | 12/2024 | unten |
+| Kosovo-Los (über Kognita) | Angebot/Rechnung `20241220-03` | 20.12.2024 | [projects.md](projects.md) (Reseller-Absatz) |
+| feir 2.0 (Skizze) | – | 02/2025 | Pipeline oben |
+| Ratingen AR-Browser-Stadtführung (mit amatik) | – | 04/2025 | [mailakte-silas.md](mailakte-silas.md), [open-questions.md](open-questions.md) |
+| Portugal Strahlenschutz-Training | 1001/2025 | 2025 | Gewonnen oben |
+| Paderborn | Angebot 20250904-01 | 09/2025 | [open-questions.md](open-questions.md) |
+| Feuerwehr Berlin VR Training | 2025-311 | Zuschlag 12.09.2025 | Gewonnen oben |
+| Düsseldorf (keine Teilnahme) | DUS-2025-0747 | 22.09.2025 | unten |
+| Niedersachsen.next (XR CAMPUS) | – | 10/2025 | Gewonnen oben |
+| Berliner Feuerwehr VR Brillen Set | VG-Nr. 2026-199 | Zuschlag 30.06.2026 | Tabelle „In Arbeit“ oben |
+| UKSH Flashlight Los 2 | UKSH-Föd-2026-0001 | eingereicht 24.08.2026 | Tabelle „In Arbeit“ oben (UKSH-Inhalte unverändert) |
+| Landkreis Meißen | 2026-01-12.8.1.01 | eingereicht 27.08.2026, Absage | Tabelle „In Arbeit“ oben |
+| Uni Bielefeld VR Kinderchirurgie | 702-2026-10 | eingereicht 17.09.2026 | Tabelle „In Arbeit“ oben |
+| LF 10 / HLF 10 Bayern (Unterangebote Rosenbauer, Empl) | MaBu-2026-0272 | 25.09.2026 | Pipeline oben, [projects.md](projects.md) |
+| UKFFM VR-Training klinische Triage | 20261039 | in Arbeit | Tabelle „In Arbeit“ oben; Beispiel in offer-package.md mit Vermerk |
+
+Nicht aufgenommen: „VR Platform (NRW eVergabe, 2023)“, weil das Datum innerhalb 2023 nicht belegt ist. Ob Joachim seine eigenen Kalkulationen 2026 (Meißen, Bielefeld, UKFFM) von der Regel ausnimmt, ist offen; bis dahin gelten auch sie nicht als Preisreferenz.
+
 ## Bewusst nicht einreichen / abgelehnt (Lernpunkte, keine Claims)
 
 Beispiele: UniBw dtec.bw VR-TrainSim 300 k€; AIVAR OFFIS Horizon; IGA Lünen App; ARbenteuer Rhein-Erft; VR Polizei; mehrere Kultur-/Stadt-AR-Vergaben; Feir 2.0; **XFEL/Fraunhofer-IWS Outreach Fusion** (Angebot Juli 2026, Konsortium 13.07. andere Produktionsfirma); **VR-Koni-Edge / KMU-innovativ Medizintechnik** (Skizze 15.04.2026, Skizzen-ID 100771908, Ablehnung 10.07.2026, keine Priorität unter 139 Skizzen; zweiter BMFTR-Anlauf 30.04. Frist verpasst). **KATKOMB Resilienz** (Skizze eingereicht, Asana Abgelehnt 22.09.2026): Vorteil gegenüber bestehenden Aufklärungsformaten und Breitenwirkung nicht erkennbar; keine zweite Resilienz-Runde. Details Koni: [koni.md](koni.md). Ablehnungsgründe wo notiert: Preis, Unpassend, ZIM-Prototypgrenze, Priorität.

@@ -5,7 +5,7 @@ alwaysApply: true
 
 # FreeAgent
 
-Bücher live in FreeAgent (MCP `freeagent-mcp-server`). Git nur destilliert: [knowledge/accounting.md](knowledge/accounting.md).
+Bücher live in FreeAgent (MCP `freeagent-mcp-server`). FreeAgent bleibt maßgeblich für Umsatz und Rechnungen, bis Patricks System Angebote und Rechnungen vollständig abdeckt und ein Komplett-Export gesichert ist (Joachim 26.10.2026 (über One)). Git nur destilliert: [knowledge/accounting.md](knowledge/accounting.md).
 
 Volumen und Rechnungsbeträge: **FreeAgent zählt und ist richtig** (Verkauf). Mail, Deck oder alte KB-Zahlen weichen → FA übernehmen, die alte Zahl nach [knowledge/open-questions.md](knowledge/open-questions.md) als verworfen. **Ausnahme Fördermittel:** nicht in FA, nur [knowledge/grants.md](knowledge/grants.md).
 

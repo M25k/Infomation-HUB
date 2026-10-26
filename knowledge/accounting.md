@@ -4,6 +4,10 @@ Live-Quelle: [FreeAgent](https://www.freeagent.com/) für **Northdocks GmbH**. G
 
 **FreeAgent-Zahlen zählen und sind richtig** (Verkauf, Rechnungen, Angebote). Weicht Mail, Deck oder eine ältere KB-Zahl ab → FreeAgent gilt. **Ausnahme: abgerufene Fördermittel sind nicht in FA** (TEMA, feir, Spot-KI, FlowAR → [grants.md](grants.md)). FA-Umsatz und Zuschüsse nicht addieren.
 
+**FreeAgent bleibt maßgeblich** für Umsatz und Rechnungen, bis Patricks System Angebote und Rechnungen vollständig abdeckt und ein Komplett-Export aus FreeAgent gesichert ist (Joachim 26.10.2026 (über One)). Erst danach wird die Regel „FreeAgent gilt“ umgestellt. Im Gespräch Joachim/Patrick am 26.10.2026 war von einer Ablösung in ca. einem Monat die Rede; das ist ein Ziel, kein Stichtag.
+
+**KI-Kosten (intern):** in Ordnung, solange die gesamten KI-Kosten unter einem Mitarbeitergehalt liegen (Joachim 26.10.2026 (über One)).
+
 MCP: `freeagent-mcp-server` in `C:\Users\joach\.cursor\mcp.json` (nicht in diesem Repo). Tokens: `~\.freeagent-mcp\tokens.json`.
 
 Stand 30.08.2026: API lesbar (OAuth). Tax-Timeline-Endpunkt 403, ignoriert. Nur list/get/report.
