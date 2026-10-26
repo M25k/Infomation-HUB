@@ -36,7 +36,7 @@ Wortmarke wirkt wie Oswald Bold. Website godview.solutions: Oswald, Inter, Space
 
 ## Reels
 
-- **Endkarte:** GodView-Reels enden nur mit der GodView-Wortmarke, ohne Northdocks-Logo. (Joachim 22.10.2026, 12:30 UTC+3, übermittelt von Video) Im Voiceover darf „von Northdocks“ gesprochen bleiben; im Bild nur die GodView-Wortmarke. (Joachim 22.10.2026, 12:47 UTC+3, übermittelt von Video) Konkretisierung von [document-rules.md](../document-rules.md) Nr. 9 (eine CI pro Reel).
+- **Endkarte:** GodView-Reels enden nur mit der GodView-Wortmarke, ohne Northdocks-Logo. (Joachim 22.10.2026, 12:30 UTC+3, übermittelt von Video) Im Voiceover darf „von Northdocks“ gesprochen bleiben; im Bild nur die GodView-Wortmarke. (Joachim 22.10.2026, 12:47 UTC+3, übermittelt von Video) **Bestätigt:** „von Northdocks“ bleibt im GodView-Voiceover; eine anderslautende Entscheidung von One ist zurückgezogen (Joachim 26.10.2026, über One). Konkretisierung von [document-rules.md](../document-rules.md) Nr. 9 (eine CI pro Reel).
 - **Freigabe:** Alle GodView-Videos sind freigegeben, auch für northdocks.com/reels/: GV-0014 (Reel 17 v4) und GV-0015 (Dom-Reel v3, Reel 16) (Joachim 22.10.2026, übermittelt von One).
 - **Notiz Kameraflüge:** ~~Ab Montag (26.10.2026) klärt der Bot GodView App das Rendern der Cesium-Tiles (Dom und andere Modelle) für neue Kameraflüge (Joachim 22.10.2026, übermittelt von One).~~ **Überholt:** Das Rendern der Cesium-Tiles für Kameraflüge übernimmt der Bot GV Render mit `gv-render` (siehe Abschnitt Renderer) (Joachim 23.10.2026, übermittelt von One). GodView App bleibt Admin der Test-Organisation.
 
@@ -48,6 +48,10 @@ Wortmarke wirkt wie Oswald Bold. Website godview.solutions: Oswald, Inter, Space
 - Kamerapfad aus der Web-POI-Tour; Feinschliff in der App.
 - Tests auf dem Video-PC; finale Renders auf dem neuen Windows-PC mit RTX 4090.
 - Daten: nur Lesezugriff auf die Test-Organisation „ND Testlabor“ (eigener Viewer-Login), keine Produktivdaten; GodView App ist dort Admin. Inhalt der Test-Org: eine Punktwolke (Actemium), ein Mesh und das Dom-Tileset.
+
+## Technik in Arbeit (intern)
+
+- **OSM-Stadt-Pipeline:** OSM → Blender → Cesium 3D Tiles → GodView. Status: in Arbeit (GodView App). Nur intern, kein Claim nach außen, bis Ergebnis und Freigabe vorliegen (Joachim 26.10.2026, über One).
 
 ## Offen
 

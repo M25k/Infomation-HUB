@@ -6,6 +6,7 @@ Zweck: Dauerhafte Fakten aus dem Postfach von Silas Fuchs, die Patrick 2026 als 
 - **Preise:** Nur interne Historie und ungültig. Es gelten die Website-Preise (Regel Joachim, 16.10.2026, siehe [websites/firefightervr.md](websites/firefightervr.md)).
 - **Widersprüche:** Abweichende Angaben sind nicht geglättet, sondern beide genannt; Klärung über [open-questions.md](open-questions.md).
 - **Quellen:** Jeder Fakt mit Asana-Mailakte. Keine Mailadressen, Telefonnummern oder Zugangsdaten.
+- **Routine pausiert:** Die Silas-Mailakten-Routine (werktags 18:00) ist pausiert, bis Patrick wieder Mailakten in Asana ablegt (entschieden von One, Delegation Joachim 25.10.2026; eingetragen 26.10.2026).
 
 ## FirefighterVR: Produkt, Technik, Kundenfeedback
 

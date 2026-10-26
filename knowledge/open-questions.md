@@ -133,6 +133,8 @@ Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Ass
 
 ### Mailakte Silas (Asana-Import Patrick, 16.10.2026)
 
+Routine (werktags 18:00) pausiert, bis Patrick wieder Mailakten in Asana ablegt (entschieden von One, Delegation Joachim 25.10.2026); Details [mailakte-silas.md](mailakte-silas.md).
+
 | Thema | Stand | In Dokumenten |
 |---|---|---|
 | **Koppenhagen Abo 2026** | Verlängerung am 18.05.2026 bestellt (499 € netto je Headset) ([Asana](https://app.asana.com/0/0/1208864434296029)). FreeAgent, Abruf 17.10.2026: Kein Estimate; Rechnungs**entwurf** `20261016-01` vom 16.10.2026, 499 € netto für **ein** Headset, Zeitraum 16.10.2026 bis 15.10.2027, Status Draft (nicht versendet). Koppenhagen hat zwei Kits (`20241129-02`, `20250317-01`); ob das zweite Headset mitverlängert wird, ist offen. Ältere Rechnungen alle bezahlt (`20200100-11`, `20241129-02`, `20250317-01`, `20250702-01`). | Entwurf prüfen (Anzahl Headsets, Beginn nach Ablauf 01.05.2026), dann versenden. Bis dahin nicht als verlängert führen. |
