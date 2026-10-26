@@ -118,7 +118,7 @@ Assets lieferte 909 Einträge (MD-0534 bis MD-1416, FFVR-0909 bis 0923, ND-1377 
 
 Prüfung Wissen (26.10.2026): Tabu-Volltest (Ahnenkette jeder Datei gegen alle 68 Tabu-IDs, Namensregeln, Bürrig-Regex, Bielefeld, Reschke, Militär/TMA, Koni-Ordner) ohne Treffer; „Koni“ erscheint nur im Namen des Shared Drives Projekte/Meetings. Keine ID-Kollisionen, alle Duplikat-Verweise auflösbar, keine Mailadressen, Telefonnummern oder Tokens. Freigaben: 791 nur intern. **FFVR-0918/0919** (neutrale Hygiene-Texturen) von Assets als social-video vorgeschlagen, nach Korrektur von Assets **nur intern**, Social-Freigabe offen (Joachim, #120).
 
-Nächste freie IDs (Stand nach Reels 29/30 und GodView-Fiale, 26.10.2026): MD-1417, FFVR-0924, ND-1385, MED-0092, NFVR-0244, GV-0026. Nächstes Gebiet (Runde 8): Projects ab Lhoist bis UKK.
+Nächste freie IDs (Stand nach Reels 29/30 und GodView-Fiale, 26.10.2026): MD-1417, FFVR-0924, ND-1385, MED-0093, NFVR-0244, GV-0026. Nächstes Gebiet (Runde 8): Projects ab Lhoist bis UKK.
 
 ## Runde 6: Änderungen seit 22.10. und Projects Teilrunde 3c, erster Teil (23.10.2026)
 
