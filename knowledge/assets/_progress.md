@@ -122,12 +122,12 @@ Prüfung Wissen (27.10.2026): 280 Zeilen, 16 Spalten, IDs lückenlos, keine Koll
 Entscheidungen One 27.10.2026 (entschieden von One, Delegation Joachim 25.10.2026; übermittelt von Assets):
 - Linkfreigabe „Feuerlöscher 2026“ und FFVR-0909 bleibt als Kundendownload, bekannte Ausnahme im Audit ([README.md](README.md)).
 - #130 deckt auch Lhoist und Hönnetal ab; die Einträge bleiben intern, bis geklärt ist, ob ND-1437 eine andere Fassung als NFVR-0213 ist.
-- STR-0003 bis STR-0012 auf „angebot“; Social erst nach Joachims OK; BfS-Logo verboten. Sichtprüfung Wissen: kein BfS-Logo in den 10 Renders. STR-0013 (Video, nicht gesichtet) bleibt nur intern.
+- STR-0003 bis STR-0012 auf „angebot“; Social erst nach Joachims OK; BfS-Logo verboten. Sichtprüfung Wissen: kein BfS-Logo in den 10 Renders. STR-0013 (Video, nicht gesichtet) bleibt nur intern; Sichtung durch Video beauftragt (One, 27.10.2026); ohne BfS-Logo → angebot.
 - SIGA-Haus, Mars2020, Submerge/Amundsen und Sonnen-Videos bleiben nur intern.
-- NFVR-0202 bleibt bis zur Bestätigung tabu bzw. intern (Currenta, Standort unklar); im Katalog von social-video auf nur intern gesetzt.
+- ~~NFVR-0202 bleibt bis zur Bestätigung tabu bzw. intern (Currenta, Standort unklar); im Katalog von social-video auf nur intern gesetzt.~~ Rücknahme der Herabstufung (entschieden von One, Delegation Joachim 25.10.2026); gilt Joachims Freigabe 23.10.2026 10:48; im Katalog wieder social-video.
 - Offen nur noch der Ablageort der PICO-SDK-Archive ND-1396/1397 ([open-questions.md](../open-questions.md) #151).
 
-Freigaben danach: 239 nur intern, 38 angebot, 3 social-video. Freigabe-Delta 27.10.2026 (Assets, 109 Objekte, 42 nach außen geöffnet, 40 vererbt und bekannt, 1 Fund „niedrig“ = Feuerlöscher 2026, kein Fund „hoch“, keine Freigabe geändert); Bericht in Drive als Google-Doc `1CqSWgZ9mBAkO3Emy6L1L1nWslmgLFuHKhdO9Wc-VT6c` (Ordner „Northdocks IT“), nicht ins Repo kopiert.
+Freigaben der neuen Einträge danach: 239 nur intern, 38 angebot, 3 social-video. Freigabe-Delta 27.10.2026 (Assets, 109 Objekte, 42 nach außen geöffnet, 40 vererbt und bekannt, 1 Fund „niedrig“ = Feuerlöscher 2026, kein Fund „hoch“, keine Freigabe geändert); Bericht in Drive als Google-Doc `1CqSWgZ9mBAkO3Emy6L1L1nWslmgLFuHKhdO9Wc-VT6c` (Ordner „Northdocks IT“), nicht ins Repo kopiert.
 
 Nächste freie IDs: MD-1417, FFVR-0960, ND-1634, STR-0014, MED-0093, NFVR-0244, GV-0026. Nächstes Gebiet (Runde 9): Template-Ordner `1nVl7YcEK_hYepnD3I3F0g1B5UInZ1qvW`, danach Tut und UKK.
 
