@@ -206,3 +206,25 @@ In Runde 7 kam kein neues Fahrzeugmodell dazu, weder in Teil 1 noch im Rest von 
 ### Quellfotos für Bild-zu-3D (an Bot 3D)
 
 - **Kölner Dom, Befliegung 20200421/Full und 20210302/Full** (DSC, 513,0 bzw. 627,5 MiB): Fassaden- und Turmaufnahmen, nur intern. Sie eignen sich als Detailreferenz. Das Dom-Modell existiert schon. Die Urheberschaft ist offen (#106).
+
+## Runde 8 (Assets, 27.10.2026): neue 3D-Quellen
+
+### Fahrzeug- und Gerätemodelle
+
+| ID | Datei | Ablage | Freigabe | Hinweis |
+|---|---|---|---|---|
+| FFVR-0951 | RTW_Inside_v012_UpperDrawer.fbx (0,2 MiB) | FirefighterVR / Playground / Feuerwehrautos / Assets / RTW / Work / Blender | social-video (wie FFVR-0599) | FAHRZEUGMODELL RTW. Die untere Schublade kam nach dem Suchstart dazu (Runde 9) |
+| FFVR-0947 bis FFVR-0949, FFVR-0952 bis FFVR-0954 | W1021-16 Phone_intern und Towel_Dispenser (.blend, .fbx, Vorschau) | FirefighterVR / Assets / … / W1021-16_bot_26-10 | Phone nur intern, Towel_Dispenser social-video, Vorschaubilder nur intern | Arbeitsstand von Bot 3D (R8-10) |
+| FFVR-0939 bis FFVR-0944, FFVR-0950 | UCX-Kollisionskörper (Corpus C3, H2O2_Wipes, RTW_Biohazard_Bin) | FirefighterVR / Assets | nur intern | nur technisch |
+| FFVR-0945, FFVR-0946 | Düsenmodell v9 (FBX- und Textur-ZIP) | Marketing Sales / 3D / vertraulicher Herstellerordner / v9 | nur intern | CAD-basiert, vertraulich (R4-01) |
+| ND-1542 | Haus_v001.fbx (19,4 MiB) | Projects / SIGA | nur intern | Photogrammetrie eines Wohnhauses, Privatgebäude, bleibt nur intern (entschieden von One, Delegation Joachim 25.10.2026; übermittelt von Assets) |
+| ND-1388 bis ND-1395, ND-1398 bis ND-1400 | 11 GLB-Modelle Spielplatz und Außenmöblierung | flowAR / Asset Exchange / Miteinander | nur intern | Urheber und Lizenz nicht belegt (#121) |
+| ND-1396, ND-1397 | PICO-SDK 5.3 (rar) | Studio-Archiv | nur intern | PICO-HEADSET, Fremdsoftware, kein Modell |
+
+### Quellfotos und Referenzen für Bild-zu-3D (an Bot 3D)
+
+- **Omexom (ND-1527 bis ND-1539):** 13 HEIC-Fotos einer Anlage, nur intern (Regel 5, Industrieanlage). Sie eignen sich als Bildserie für eine Rekonstruktion. Zuerst müssen sie nach JPG umgewandelt werden (R8-09).
+- **Schiffshebewerk (ND-1548 bis ND-1551):** 4 Fotos, nur intern. Sie sind die Referenz zu den Renders ND-1555 bis ND-1567 (angebot).
+- **Lhoist (ND-1435 Bagger, ND-1438 Truck1, ND-1436 Hoennetal_5):** Fahrzeug- und Geländebilder, nur intern (#107; #130 deckt Lhoist ab, intern bis Fassungsfrage ND-1437/NFVR-0213 geklärt (entschieden von One, Delegation Joachim 25.10.2026; übermittelt von Assets)). Sie dienen als Referenz für Fahrzeugmodelle.
+- **Strahlenschutz (STR-0003 bis STR-0012):** Renders des C-Bogens Philips BV Libra aus mehreren Winkeln; STR-0003 bis STR-0012 angebot (entschieden von One, Delegation Joachim 25.10.2026; übermittelt von Assets), Social erst nach Joachims OK, kein BfS-Logo (Sichtprüfung Wissen 27.10.2026); STR-0013 nur intern. Sie dienen als Referenz für ein Gerätemodell.
+- **Submerge / Amundsen (ND-1617 bis ND-1631):** Renders des Schiffsmodells aus 7 Winkeln, nur intern. Die Lizenz ist nicht belegt; bleibt nur intern (entschieden von One, Delegation Joachim 25.10.2026; übermittelt von Assets).

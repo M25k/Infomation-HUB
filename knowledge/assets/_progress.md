@@ -106,6 +106,31 @@ Summe Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge. Keine 3D-Quelldateien. 
 
 Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, Actemium, Amatik, Amatik 2, Armstrong, Azure Spatial Anchors, BAT, Bayer, Bitterfeld, DEV_Intern_Tools, DLR, Digitale Zwillinge, Dom zu Halberstadt, Gdview, INFINITY, Kiel AR, Kiel Arena, Kölner Dom, Landtag, Landtag VR, LandtagTouch, Lhoist, LWL, Marketing, Mars2020, ND CAD Explorer, ND VR Tutorial, Omexom Hochspannung, Schiffshebewerk, SIGA, Sonnen, sonnen, Strahlenschutz, Submerge, Template ×3, Tut, UKK).
 
+## Runde 8: Änderungen seit 26.10. und Projects Teilrunde 3c, Lhoist bis Template (27.10.2026)
+
+| Status | Pfad (unter Projects) | Bemerkung |
+|---|---|---|
+| fertig | Lhoist, Lhoist_spriteTrees (68), LWL, LWL / LWL, LWL-Zukunft (18), Marketing (3), Mars2020 (9, Lander leer), ND CAD Explorer (9), ND VR Tutorial (17), Omexom (15 von 17, 2 Textnotizen ohne Eintrag), Schiffshebewerk (39), SIGA (3), Sonnen mit Unterordner sonnen (25), Strahlenschutz (11), Submerge und Amundsen (25), Template (1) und Template (2, leer) (2) | 246 Dateien, 244 Einträge, 0 tabu |
+| offen | Nächster Template-Ordner (`1nVl7YcEK_hYepnD3I3F0g1B5UInZ1qvW`, 65 Dateien, 4 Unterordner), danach Tut und UKK | Runde 9 |
+
+Teil 1 (Änderungen seit 26.10.2026, 06:45): 112 Treffer, 5 tabu verworfen (Tabu-Ordner `1-4L9eK91dNq0HsyT1wDUFQ2c1OmbwRDn` 5×), 36 neue Einträge, 2 Aktualisierungen (FFVR-0599 Größe 4,5 → 4,7 MiB; FFVR-0912 Titel „v6.mp4“, Pfad „TurbospritzeEVO meshes“, damit R7-04 überholt). Nur neu gespeichert, unverändert: FFVR-0598 (UCX jetzt FFVR-0939 bis 0943), FFVR-0776 (UCX FFVR-0950), FFVR-0877 (UCX FFVR-0944), FFVR-0909, ND-1378 (Prüfaudios ND-1386/1387). 7 Texturen mit Jahr 3427 (R2-14) ohne Eintrag. RTW_Inside_v012_LowerDrawer.fbx (27.10.2026, 07:38) folgt in Runde 9.
+
+Assets lieferte 280 Einträge (ND-1386 bis ND-1633, FFVR-0939 bis FFVR-0959, STR-0003 bis STR-0013), alle übernommen. Duplikat: FFVR-0956 ist byte-gleich mit FFVR-0920 und FFVR-0921 (an allen drei vermerkt).
+
+Prüfung Wissen (27.10.2026): 280 Zeilen, 16 Spalten, IDs lückenlos, keine Kollision mit den 4.784 Repo-Einträgen, keine Drive-ID doppelt. Tabu-Test (alle 68 Tabu-IDs, Namensregeln, Bürrig-Regex, Bielefeld-Angebotsordner, Reschke, Militär/TMA, Koni) ohne Treffer; „Koni“ nur im Namen des Shared Drives Projekte/Meetings (FFVR-0957/0958). Keine Mailadressen, Telefonnummern, IBANs, IP-Adressen oder Tokens (Treffer nur Zeitstempel in Dateinamen und ID-Bereiche). Herstellerdatensatz der Düse (v9, FFVR-0945/0946/0955/0956/0959) wie bisher nur intern. Freigaben geprüft: 3 social-video (FFVR-0951 wie FFVR-0599, FFVR-0952/0953 wie FFVR-0793, Vorgabe Joachim 18.10.2026) und 28 angebot (LWL 11, Schiffshebewerk 17, Regel 11 Kundenmaterial) bestätigt.
+
+Entscheidungen One 27.10.2026 (entschieden von One, Delegation Joachim 25.10.2026; übermittelt von Assets):
+- Linkfreigabe „Feuerlöscher 2026“ und FFVR-0909 bleibt als Kundendownload, bekannte Ausnahme im Audit ([README.md](README.md)).
+- #130 deckt auch Lhoist und Hönnetal ab; die Einträge bleiben intern, bis geklärt ist, ob ND-1437 eine andere Fassung als NFVR-0213 ist.
+- STR-0003 bis STR-0012 auf „angebot“; Social erst nach Joachims OK; BfS-Logo verboten. Sichtprüfung Wissen: kein BfS-Logo in den 10 Renders. STR-0013 (Video, nicht gesichtet) bleibt nur intern.
+- SIGA-Haus, Mars2020, Submerge/Amundsen und Sonnen-Videos bleiben nur intern.
+- NFVR-0202 bleibt bis zur Bestätigung tabu bzw. intern (Currenta, Standort unklar); im Katalog von social-video auf nur intern gesetzt.
+- Offen nur noch der Ablageort der PICO-SDK-Archive ND-1396/1397 ([open-questions.md](../open-questions.md) #151).
+
+Freigaben danach: 239 nur intern, 38 angebot, 3 social-video. Freigabe-Delta 27.10.2026 (Assets, 109 Objekte, 42 nach außen geöffnet, 40 vererbt und bekannt, 1 Fund „niedrig“ = Feuerlöscher 2026, kein Fund „hoch“, keine Freigabe geändert); Bericht in Drive als Google-Doc `1CqSWgZ9mBAkO3Emy6L1L1nWslmgLFuHKhdO9Wc-VT6c` (Ordner „Northdocks IT“), nicht ins Repo kopiert.
+
+Nächste freie IDs: MD-1417, FFVR-0960, ND-1634, STR-0014, MED-0093, NFVR-0244, GV-0026. Nächstes Gebiet (Runde 9): Template-Ordner `1nVl7YcEK_hYepnD3I3F0g1B5UInZ1qvW`, danach Tut und UKK.
+
 ## Runde 7: Änderungen seit 23.10. und Projects Teilrunde 3c, Rest Kölner Dom (26.10.2026)
 
 | Status | Pfad (unter Projects) | Bemerkung |
@@ -118,7 +143,7 @@ Assets lieferte 909 Einträge (MD-0534 bis MD-1416, FFVR-0909 bis 0923, ND-1377 
 
 Prüfung Wissen (26.10.2026): Tabu-Volltest (Ahnenkette jeder Datei gegen alle 68 Tabu-IDs, Namensregeln, Bürrig-Regex, Bielefeld, Reschke, Militär/TMA, Koni-Ordner) ohne Treffer; „Koni“ erscheint nur im Namen des Shared Drives Projekte/Meetings. Keine ID-Kollisionen, alle Duplikat-Verweise auflösbar, keine Mailadressen, Telefonnummern oder Tokens. Freigaben: 791 nur intern. **FFVR-0918/0919** (neutrale Hygiene-Texturen) von Assets als social-video vorgeschlagen, nach Korrektur von Assets **nur intern**, Social-Freigabe offen (Joachim, #120).
 
-Nächste freie IDs (Stand nach Shorts 24–26 v2 und 28 v3, 26.10.2026): MD-1417, FFVR-0939, ND-1386, MED-0093, NFVR-0244, GV-0026. Nächstes Gebiet (Runde 8): Projects ab Lhoist bis UKK.
+~~Nächste freie IDs (Stand nach Shorts 24–26 v2 und 28 v3, 26.10.2026): MD-1417, FFVR-0939, ND-1386, MED-0093, NFVR-0244, GV-0026.~~ Überholt durch Runde 8 (oben). Nächstes Gebiet (Runde 8): Projects ab Lhoist bis UKK.
 
 ## Runde 6: Änderungen seit 22.10. und Projects Teilrunde 3c, erster Teil (23.10.2026)
 
