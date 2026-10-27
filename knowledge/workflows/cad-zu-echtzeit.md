@@ -57,8 +57,12 @@ Regeln 14 bis 21 und die Änderung an Regel 3: Review Marcel v6, 23.10.2026, 74/
 40. **Begleitgrafiken an Bezugsmarken ausrichten:** Balken und Bänder mit Anfang und Ende an den Nachbarmarken festmachen. Höhe und Verhältnis von Segment zu Lücke vom Foto übernehmen. (Präzisiert Regel 29.)
 41. **Prozedurale Muster im Bake teilbezogen berechnen:** Beim Backen werden die Teile auseinandergezogen. Diesen Versatz abziehen oder Objektkoordinaten nutzen, sonst entstehen falsche Muster (Streifen statt Rauten). Vor dem endgültigen Bake einen Testbake machen.
 42. **Datenblatt vor eigenen Grenzen:** Bewegungsbereiche und Maße zuerst gegen das Herstellerdatenblatt prüfen, bevor eigene Bewegungssperren oder Grenzen gebaut werden (3D, 27.10.2026).
+43. **Text-Relikte aus der Geometrie entfernen:** Was schon in Textur oder Decal steckt, aus Low- und Highpoly entfernen und die Fläche glatt neu vernetzen. Echte Formmerkmale bleiben. (Vgl. 17/28.)
+44. **Strichstärke messen:** Die Strichstärke der Schrift am Original messen, als Verhältnis Strich zu Versalhöhe, und bei Bedarf reduzieren, ohne Größe oder Lage zu ändern. (Präzisiert Regel 39.)
+45. **Rundungen schützen und Normalen mitliefern:** Rundungen an Hebeln und Kappen bei der Reduktion schützen, die geschützten Flächen kommen zusätzlich zum Budget. Normalen, Tangenten und Smoothing in die FBX exportieren. Im README die Import-Einstellung „Import Normals and Tangents“ nennen (Interchange: Recompute aus, MikkTSpace). Abnahme mit einem Render ohne Normal Map.
+46. **UCX-Collision für jedes Mesh:** Pflicht. Name `UCX_<Mesh>_NN`, konvex, höchstens 32 Verts. Kappen und bewegliche Teile bekommen eigene Hüllen. Prüfung in der FBX, nicht „Use Complex as Simple“.
 
-Regeln 33 bis 41: 3D, 27.10.2026, aus Marcels Review v9 (94/100). Regel 42: 3D, 27.10.2026 (Erfahrung aus einem Gerätemodell, v4).
+Regeln 33 bis 41: 3D, 27.10.2026, aus Marcels Review v9 (94/100). Regel 42: 3D, 27.10.2026 (Erfahrung aus einem Gerätemodell, v4). Regeln 43 bis 46: 3D, 27.10.2026, aus Marcels Review v10 (Asana 1219711295806018).
 
 Regeln 23 bis 31 und die Änderung an Regel 2: Review Marcel v8, 26.10.2026, 86/100, übermittelt von 3D. Regel 25 ersetzt in der Praxis das Löschen verdeckter Flächen (Culling, Regel 22).
 
@@ -71,6 +75,7 @@ Regeln 23 bis 31 und die Änderung an Regel 2: Review Marcel v8, 26.10.2026, 86/
 
 | Datum | Quelle | Regel / Änderung |
 |---|---|---|
+| 27.10.2026 | Marcel Review v10 (Asana 1219711295806018), übermittelt von 3D | Regeln 43–46 neu: Text-Relikte aus der Geometrie entfernen, Strichstärke messen, Rundungen schützen und Normalen/Tangenten mitliefern, UCX-Collision für jedes Mesh (Pflicht) |
 | 27.10.2026 | 3D, 27.10.2026 (Gerätemodell v4) | Regel 42 neu: Bewegungsbereiche und Maße zuerst gegen das Herstellerdatenblatt prüfen, bevor eigene Bewegungssperren oder Grenzen gebaut werden |
 | 27.10.2026 | Marcel Review v9, 94/100 (übermittelt von 3D) | Regeln 33–41 neu: Text zwischen Symbolen mittig, Textblöcke wie Original ausrichten, Rändelung als Rautenraster, Logos in Normal Maps in Gebrauchslage, Übergangszeichen mit Abstand zu Icons, Linienbündel getrennt, Schriftstärke vom Original, Begleitgrafiken an Bezugsmarken, prozedurale Muster im Bake teilbezogen |
 | 27.10.2026 | 3D, 27.10.2026, 10:38 | Regel 32 neu: Sind Referenzbilder Renders eines eigenen Northdocks-Modells, zuerst das Quellmodell im Drive suchen und aufbereiten, nicht per Bild-zu-3D neu bauen |
