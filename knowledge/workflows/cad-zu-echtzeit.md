@@ -56,7 +56,7 @@ Regeln 14 bis 21 und die Änderung an Regel 3: Review Marcel v6, 23.10.2026, 74/
 39. **Schriftstärke vom Original übernehmen:** Die Strichstärke am Foto prüfen, nicht pauschal Bold nehmen. Versalhöhe, Laufweite und Lage bleiben gleich. (Präzisiert Regel 29.)
 40. **Begleitgrafiken an Bezugsmarken ausrichten:** Balken und Bänder mit Anfang und Ende an den Nachbarmarken festmachen. Höhe und Verhältnis von Segment zu Lücke vom Foto übernehmen. (Präzisiert Regel 29.)
 41. **Prozedurale Muster im Bake teilbezogen berechnen:** Beim Backen werden die Teile auseinandergezogen. Diesen Versatz abziehen oder Objektkoordinaten nutzen, sonst entstehen falsche Muster (Streifen statt Rauten). Vor dem endgültigen Bake einen Testbake machen.
-42. **Bewegungsbereiche und Maße zuerst gegen das Herstellerdatenblatt prüfen:** bevor eigene Bewegungssperren oder Grenzen gebaut werden (3D, 27.10.2026).
+42. **Datenblatt vor eigenen Grenzen:** Bewegungsbereiche und Maße zuerst gegen das Herstellerdatenblatt prüfen, bevor eigene Bewegungssperren oder Grenzen gebaut werden (3D, 27.10.2026).
 
 Regeln 33 bis 41: 3D, 27.10.2026, aus Marcels Review v9 (94/100). Regel 42: 3D, 27.10.2026 (Erfahrung aus einem Gerätemodell, v4).
 
