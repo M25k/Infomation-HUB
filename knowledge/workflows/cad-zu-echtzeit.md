@@ -47,6 +47,17 @@ Regeln 14 bis 21 und die Änderung an Regel 3: Review Marcel v6, 23.10.2026, 74/
 31. **„In UE anders als in euren Bildern“ wird gemessen, nicht vermutet:** Ursache systematisch prüfen (UV-Präzision fp16, Texeldichte, UV-Verzerrung oder -Drehung, Mips/Kompression, Normal-Map, Importeinstellungen); Ergebnis und Abhilfe im README dokumentieren und als Vergleichsbild (Blender gegen UE-Emulation, alt gegen neu) ins Paket legen.
 
 32. **Eigenes Quellmodell vor Bild-zu-3D:** Wenn Referenzbilder Renders eines eigenen Northdocks-Modells sind, zuerst im Drive das Quellmodell suchen und dieses aufbereiten, statt es per Bild-zu-3D neu zu bauen (3D, 27.10.2026).
+33. **Texte zwischen Symbolen mittig setzen:** Steht ein Text zwischen zwei Symbolen, wird er auf die Mitte zwischen den Symbolen zentriert, nicht bündig an einer Nachbarzeile.
+34. **Mehrzeilige Textblöcke wie im Original ausrichten:** Die Ausrichtung je Block vom Foto übernehmen. Beim Korrigieren bleibt die Lage des Blocks gleich, nur die Zeilen werden neu ausgerichtet.
+35. **Rändelung als Rautenraster statt Streifen:** ein Raster aus kleinen Zähnen mit zwei sich kreuzenden Rillenscharen, nie nur eine Rillenrichtung. Abnahme per Nahaufnahme unter Streiflicht. Die Periode umfasst mindestens 6–8 Texel.
+36. **Logos in Normal Maps in Gebrauchslage lesbar:** Erhabene Logos auf beweglichen Teilen werden zentriert als Höhenbild in die Normal Map gesetzt, mit derselben Logo-Zeichnung wie an anderen Stellen des Assets, und so gedreht, dass sie in Gebrauchslage waagerecht lesbar sind. Die Gebrauchslage aus dem CAD ermitteln (vorhandene Prägung, Anschläge) und mit einem Render prüfen. Das Logo erst nach dem Glätten der Normal Map eintragen. Die Fläche mit dem Logo braucht mindestens 6 px/mm.
+37. **Übergangszeichen nicht in Icons ragen lassen:** Zeichen enden mit sichtbarem Abstand vor dem Icon, mindestens halbe Icon-Breite plus Sicherheitsabstand. Länge, Spreizung und Linienabstände je Zeichen am Foto messen.
+38. **Linienbündel als getrennte Linien:** Laufen die Linien am Original nicht in einem Punkt zusammen, bekommen sie am Fuß eine Lücke von mindestens 3 Texeln, damit sie in der Texturauflösung sichtbar bleibt.
+39. **Schriftstärke vom Original übernehmen:** Die Strichstärke am Foto prüfen, nicht pauschal Bold nehmen. Versalhöhe, Laufweite und Lage bleiben gleich.
+40. **Begleitgrafiken an Bezugsmarken ausrichten:** Balken und Bänder mit Anfang und Ende an den Nachbarmarken festmachen. Höhe und Verhältnis von Segment zu Lücke vom Foto übernehmen.
+41. **Prozedurale Muster im Bake teilbezogen berechnen:** Beim Backen werden die Teile auseinandergezogen. Diesen Versatz abziehen oder Objektkoordinaten nutzen, sonst entstehen falsche Muster (Streifen statt Rauten). Vor dem endgültigen Bake einen Testbake machen.
+
+Regeln 33 bis 41: 3D, 27.10.2026, aus Marcels Review v9 (94/100).
 
 Regeln 23 bis 31 und die Änderung an Regel 2: Review Marcel v8, 26.10.2026, 86/100, übermittelt von 3D. Regel 25 ersetzt in der Praxis das Löschen verdeckter Flächen (Culling, Regel 22).
 
@@ -59,6 +70,7 @@ Regeln 23 bis 31 und die Änderung an Regel 2: Review Marcel v8, 26.10.2026, 86/
 
 | Datum | Quelle | Regel / Änderung |
 |---|---|---|
+| 27.10.2026 | Marcel Review v9, 94/100 (übermittelt von 3D) | Regeln 33–41 neu: Text zwischen Symbolen mittig, Textblöcke wie Original ausrichten, Rändelung als Rautenraster, Logos in Normal Maps in Gebrauchslage, Übergangszeichen mit Abstand zu Icons, Linienbündel getrennt, Schriftstärke vom Original, Begleitgrafiken an Bezugsmarken, prozedurale Muster im Bake teilbezogen |
 | 27.10.2026 | 3D, 27.10.2026, 10:38 | Regel 32 neu: Sind Referenzbilder Renders eines eigenen Northdocks-Modells, zuerst das Quellmodell im Drive suchen und aufbereiten, nicht per Bild-zu-3D neu bauen |
 | 26.10.2026 | entschieden von One, Delegation Joachim 25.10.2026 | Regel 2 bestätigt: Zielzahl 39.000 Vertices, harte Grenze 50.700. Vorher von Joachim nicht ausdrücklich bestätigt (Anhebung durch 3D nach Review Marcel v8; Joachims Regel vom 23.10.2026 deckte nur +30 %) |
 | 26.10.2026 | Review Marcel v8, 26.10.2026, 86/100, übermittelt von 3D (Quelle: CAD_zu_Echtzeit.md und ABGABE_CHECKLISTE.md beim Bot 3D, anonymisiert übernommen) | Regel 2: Vertex-Ziel 39.000, harte Obergrenze +30 % = 50.700 (vorher Ziel 30.000, bis +30 % ≈ 39.000); Regeln 23 bis 31 neu: UVs vor dem Bake auf fp16 runden plus Export-Check (23), Aufdrucke auf eigenen achsparallelen, exakt projizierten UV-Inseln ≥ 6 px/mm (24), verdeckte Flächen klein mappen statt löschen plus Texel-Bericht ≥ 3/6 px/mm (25), kleine Rundteile feiner tessellieren und vor der Reduktion schützen (26), im Einbauzustand Unsichtbares entfernen (27), nicht am Original vorhandene Prägungen aus Geometrie und Normal-Map entfernen (28), Aufdrucke 1:1 nach Foto (29), Rändel nur auf Rippen (30), UE-Abweichungen messen und dokumentieren (31); Checkliste Punkt 2 neu und neue Punkte (in der 3D-Quelle Nr. 21 bis 26, im HUB Nr. 23 bis 28) |
