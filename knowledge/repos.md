@@ -47,6 +47,13 @@ Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von 
 | `ND-Website` | Northdocks-GmbH/ND-Website | master | ältere Website? README leer |
 | `www-ar` | Northdocks-GmbH/www-ar | main | AR-Web, kein README |
 
+### Unreal-Projekte: Ablage (Unreal Build, 27.10.2026)
+
+- Alle Unreal-Projekte liegen auf GitHub in der Org Northdocks-GmbH mit **Git LFS**; Perforce ist nicht bekannt.
+- **NDFramework:** Northdocks-GmbH/NDFramework, **UE 5.7.4**; Wechsel auf UE 5.8 geplant (bestätigt; siehe W1021-28).
+- **FFVR-Repos laut GitHub-Suche:** FFVR-InteriorAttack, FFVR-CPR2024, FVR-CalifWildfire, FVR-Firesaber, FVR-Scouting, NDFireSystemV3 (alle Northdocks-GmbH).
+- **Offen:** welches das aktuelle FFVR-Haupt-Repo bzw. die Feuersimulation ist und welcher Branch (Frage an Moritz bzw. Joachim; W1021-17, assets/open-questions #21). Für das Hygiene-Projekt wurde kein Repo gefunden.
+
 ### NDFramework Build-Setup (nur intern)
 
 Unreal Engine **5.7**, C++-Projekt. Ziel Android **Arm64**, **Vulkan**, Target API **34**, Plugin **PICOOpenXR**. Fab-Plugins: CesiumForUnreal, EOSCore, SmoothSyncPlugin, JsonXmlHelper, NodeGraphAssistant, VaRest. Offen: Bezugsweg der Fab-Plugins (Lizenzkonto), Package-Name, Rotation des Android-Keystores. Keine Keystore-Dateien oder Passwörter ins Git.
