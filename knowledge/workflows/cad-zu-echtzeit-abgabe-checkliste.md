@@ -14,7 +14,7 @@ Quelle: Bot 3D, 21.10.2026 (Joachim, aus dem Review v3 von Marcel Timm). Vor jed
 | 8 | Skalen und Aufdrucke positioniert | Skalen-Nahaufnahme |
 | 9 | UE-5.7-Import (Interchange) ohne Altoptionen | README im Paket |
 | 10 | Eine Normal-Map, nur UE-Format, ohne Suffix | `T_<Name>_Normal.png` |
-| 11 | Re-Import der FBX geprüft (seit 23.10.2026 eine kombinierte FBX, Regel 14; 1 Material) | Re-Import-Prüfung |
+| 11 | ~~Re-Import der FBX geprüft (seit 23.10.2026 eine kombinierte FBX, Regel 14; 1 Material)~~ Re-Import der FBX: Je Teil 1 Render-Mesh plus seine UCX-Hüllen, keine weiteren Objekte (Lage 0, Rot 0, 1 Material, BBox, Vert-Zahl) (Regeln 13 und 14; Klärung 3D, 27.10.2026) | Re-Import-Prüfung |
 | 12 | Quest/Android ASTC/Vulkan nicht gebrochen (1 Material, Standard-Shader) | Materialaufbau |
 | 13 | Vertraulichkeit: Herstellerdaten nur intern, keine Freigabe nach außen | Drive-Freigabe geprüft |
 | 14 | Nach dem Review: Regel allgemein formuliert, Changelog ergänzt, Punktzahl bei Marcel Timm erfragt | Changelog in [cad-zu-echtzeit.md](cad-zu-echtzeit.md) |
@@ -41,14 +41,14 @@ Quelle: Bot 3D, 21.10.2026 (Joachim, aus dem Review v3 von Marcel Timm). Vor jed
 | 35 | Begleitgrafiken (Regel 40): Balken und Bänder mit Anfang und Ende an den Nachbarmarken; Höhe und Segment-/Lückenverhältnis wie im Foto | Foto/Render-Paare |
 | 36 | Prozedurale Muster im Bake teilbezogen (Regel 41): Explosionsversatz abgezogen oder Objektkoordinaten; Testbake vor dem endgültigen Bake | Testbake-Bild, Bake-Config |
 | 37 | Bewegungsbereiche und Maße gegen das Herstellerdatenblatt geprüft, bevor eigene Sperren oder Grenzen gebaut wurden (Regel 42); Abweichungen begründet | Abgleichtabelle Datenblatt gegen Modell (Maß bzw. Grenze, Datenblattwert, Modellwert, Quelle) |
-| 38 | Collision vorhanden und benannt (Regel 46): jedes Mesh hat mindestens eine Hülle `UCX_<Mesh>_NN` | Dateiliste bzw. Node-Liste der FBX |
-| 39 | Collision konvex (Regel 46): jede UCX-Hülle konvex | Ergebnis Konvexitätsprüfung je Hülle |
-| 40 | Collision höchstens 32 Verts je Hülle (Regel 46) | Vert-Zahl je UCX-Hülle (Log oder Tabelle) |
-| 41 | Eigene Hüllen für Kappen und bewegliche Teile (Regel 46) | Zuordnung Teil → Hülle, Render der Hüllen |
-| 42 | Collision in der FBX geprüft, nicht über „Use Complex as Simple“ (Regel 46) | Re-Import-Prüfung mit angezeigter Simple Collision |
+| 38 | Collision vorhanden und benannt (Regel 46; Ablage nach Regel 14): jedes Mesh hat mindestens eine Hülle `UCX_<Mesh>_NN` | Dateiliste bzw. Node-Liste der FBX |
+| 39 | Collision konvex (Regel 46; Ablage nach Regel 14): jede UCX-Hülle konvex | Ergebnis Konvexitätsprüfung je Hülle |
+| 40 | Collision höchstens 32 Verts je Hülle (Regel 46; Ablage nach Regel 14) | Vert-Zahl je UCX-Hülle (Log oder Tabelle) |
+| 41 | Eigene Hüllen für Kappen und bewegliche Teile (Regel 46; Ablage nach Regel 14) | Zuordnung Teil → Hülle, Render der Hüllen |
+| 42 | Collision in der FBX geprüft, nicht über „Use Complex as Simple“ (Regel 46; Ablage nach Regel 14) | Re-Import-Prüfung mit angezeigter Simple Collision; Import-Optionen „Import Collision According To Mesh Name“ an, „Auto Generate Collision“ aus (Klärung 3D, 27.10.2026) |
 | 43 | Text-Relikte entfernt (Regel 43): was in Textur oder Decal steckt, ist aus Low- und Highpoly entfernt und glatt neu vernetzt; echte Formmerkmale erhalten | Nahaufnahme bzw. Wireframe vorher/nachher |
 | 44 | Strichstärke gemessen (Regel 44): Verhältnis Strich zu Versalhöhe am Original und am Modell, ggf. reduziert ohne Größe oder Lage zu ändern | Messwerte Original gegen Modell, Foto/Render-Paar |
-| 45 | Rundungen geschützt, Normalen/Tangenten/Smoothing in der FBX, README nennt „Import Normals and Tangents“ (Interchange: Recompute aus, MikkTSpace) (Regel 45) | Render ohne Normal Map, README |
+| 45 | Rundungen geschützt, Normalen/Tangenten/Smoothing in der FBX, README nennt „Import Normals and Tangents“ (Interchange: Recompute aus, MikkTSpace) (Regel 45); Gesamtzahl unter der Grenze aus Regel 2 (Klärung 3D, 27.10.2026) | Render ohne Normal Map, README, Vert-Zahl gesamt |
 
 Punkte 15 bis 21 und Änderung Punkt 2/11: Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D. Prüfreihenfolge: zuerst Watertight als hartes Ausschlusskriterium (Punkte 5 und 19; bei mehr als 0 Boundary-Edges je Teil nicht verwertbar), danach Review-Priorität nach Regel 15: Texturqualität, dann Skalen und Beschriftung (Auslegung 3D aus Joachims Regel vom 23.10.2026, von Joachim nicht ausdrücklich bestätigt). Culling nur nach Regel 22 (in v8 aus); Hole-Fill nach dem Bake ist Pflicht (Joachim 23.10.2026, übermittelt von 3D, umgesetzt in v8). Nachtrag 26.10.2026: Die Prüfreihenfolge nach Regel 15 ist bestätigt (entschieden von One, Delegation Joachim 25.10.2026, siehe Changelog in [cad-zu-echtzeit.md](cad-zu-echtzeit.md)).
 
