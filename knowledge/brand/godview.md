@@ -56,6 +56,14 @@ Wortmarke wirkt wie Oswald Bold. Website godview.solutions: Oswald, Inter, Space
   - **Werkzeuge (3D, 26.10.2026):** Blosm Base: GPL v3, kostenlos. Blosm Pro: ausgeschlossen (AGB von Google, Mapbox und ArcGIS). Urban Forge 1.19: GPL-3.0, 9,99 bzw. 29,99 $ pro Seat, nicht gekauft; „Lite“ ist nur ein Preset. OSM2World: MIT, Texturen CC0. Open Voxel Map Generator: ausgeschlossen (nur Windows, Alpha).
   - **Standard-Pipeline (3D, 26.10.2026):** eigener Python-Import in Blender 5.2.2, headless; Skripte auf der Box unter `/workspace/godview/osm-city/scripts/` (nicht im Repo). Liefert geschlossene Gebäude, Attribute als glTF-Extras, ENU Y-up, ca. 8 s pro km².
 
+## Technik-Stand und Regeln (intern; Quelle: GodView App, Stand 27.10.2026)
+
+- **Test-Uploads (Joachim, 26.10.2026):** Bei Tests höchstens ein Tileset-Upload pro 30 Minuten, weil der Server bei paralleler Last kippt. Eine Upload-Warteschlange ist als P1 geplant.
+- **Punktwolken ohne Koordinatensystem (Joachim, 26.10.2026):** bleiben im lokalen System und werden in GodView mit „Position festlegen“ bzw. Parenting platziert.
+- **Original-Punktwolken (nur intern, Kundendaten):** liegen als LAZ (ohne CRS, aus E57 konvertiert) auf ND-PC-80 im Konvertierungsordner, darunter Kölner Dom (17 Teilscans in einem gemeinsamen lokalen System) und Holcim Höver v001/v002. Intensität und Klassifikation sind leer, nur RGB ist befüllt. Kein Pfad im Repo.
+- **Code-Stand (Momentaufnahme 26.10.2026, Repo `ND-GodViewWeb`):** Joachim hat die PRs #6–8 und #17–22 nach `master` gemergt (`master` = `d6ce751`); die Produktion läuft noch auf `2ef827e`. Offen: PR #23 (Tour-Verweildauer) und PR #24 (LAS-Import mit lokalem Koordinatensystem).
+- **Rendsburg:** Höhenbezug künftig GCG2016 (entschieden von One, Delegation Joachim 25.10.2026).
+
 ## Offen
 
 - GodView.jpg ist die Pico-MDM-App-Kachel (geklärt über Fundort). Ein Markenlogo fehlt weiterhin.
