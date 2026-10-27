@@ -94,7 +94,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 
 | Claim | Stufe | Quelle |
 |---|---|---|
-| Kunden Bayer, Merck, BASF, Evonik, Henkel, Currenta, Infraserv, Vinci, Actemium | öffentlich | nextfactoryvr.com |
+| Kunden Bayer, Merck, BASF, Evonik, Henkel, Currenta, Infraserv, Vinci, Actemium | öffentlich | nextfactoryvr.com. **Offene Bedingung Actemium** (Joachim 27.10.2026 09:21 (über One), #88): Actemium erst nach Kundenfreigabe nennen; bis dahin nur Bilder ohne Namen |
 | 4× Knowledge Transfer, 75 % Retention 72h | öffentlich | nextfactoryvr.com Case-Claims — in Anträgen als Herstellerangabe/Case, nicht als Meta-Studie |
 | Offline-Training, Pico MDM | öffentlich | nextfactoryvr.com |
 | Trusted by Currenta CHEMPARK, RWE, Framatome | öffentlich (Site) | nextfactoryvr.com Security. Intern: RWE/Framatome = FFVR-Feuerlöscher; Framatome Lieferantenanlage 09/2024. RWE-Mail 03/2021 nur Probeanmeldung (Udo Moll, Werkfeuer RWE Power), **keine** PO. Factory-Randfall z. B. Sprinklerwartung, kein Twin-Vollprojekt |
