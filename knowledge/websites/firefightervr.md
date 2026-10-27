@@ -65,11 +65,14 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 - Italienisch gibt es vorerst nur als Quick Setup Guide, kein vollständiges IT-Handbuch.
 - Raumgröße im Handbuch: 3×3 m.
 - Website-Footer von firefightervr.de: „© 2026 FirefighterVR, a brand of Northdocks GmbH“ (siehe [_shared.md](_shared.md)).
-- **Vollständiges Handbuch (Web, 27.10.2026, 10:29):** liegt nur im Repo Northdocks-GmbH/www-firefightervr, nicht im Drive; Drive-ID folgt, sobald Web die PDFs nach dem Deploy für Assets bereitstellt.
+- **Vollständiges Handbuch (Web, 27.10.2026, 10:29):** liegt im Repo Northdocks-GmbH/www-firefightervr; ~~nicht im Drive; Drive-ID folgt, sobald Web die PDFs nach dem Deploy für Assets bereitstellt~~ Drive-Kopien seit 27.10.2026 (siehe unten).
   - DE-PDF (FFVR-0984): `public/handbuch/Firefighter-VR-Handbuch.pdf`, live unter https://firefightervr.de/handbuch/Firefighter-VR-Handbuch.pdf, 53 Seiten, Stand 07.10.2026; Quelle `_ref/Handbuch/Firefighter_VR_Handbuch_A4_Print_v47.html`. Neue Fassung im Draft-PR #1: 50 Seiten, „Stand: Oktober 2026“.
   - EN-PDF (FFVR-0985): `public/handbuch/Firefighter-VR-Manual.pdf`, live unter https://firefightervr.de/handbuch/Firefighter-VR-Manual.pdf, 52 Seiten; Quelle `_ref/Handbuch/Firefighter_VR_Manual_A4_Print_v1_en.html`. Neue Fassung im PR komplett neu übersetzt, 49 Seiten, „Stand: Oktober 2026“; fachliches Gegenlesen steht noch aus.
   - Web-Handbuch: je 8 HTML-Seiten unter `/handbuch/` (DE, FFVR-0986) und `/en/handbuch/` (EN, FFVR-0987).
-  - Die neuen Fassungen gehen mit dem Deploy zu #87 live (Zeit meldet Web).
+  - ~~Die neuen Fassungen gehen mit dem Deploy zu #87 live (Zeit meldet Web).~~ **Deploy #87 auf firefightervr.de 27.10.2026, 10:47:46 MEZ** (Web, 27.10.2026): live sind DE 50 Seiten und EN 49 Seiten, beide „Stand: Oktober 2026“ (vorher 53/52 Seiten, Stand 07.10.2026). EN: fachliches Gegenlesen steht weiterhin aus.
+  - Drive-Kopien der PDFs im Ordner „Firefighter VR Mobile - Infos & Docs [Public]“ (10idEtQT11vu4nmN5wwprrJFJrQsNIY5P): FFVR-0984 = 1zalu48kZgI-zB2XtWMb-L4F_Yu9ILylD, FFVR-0985 = 1l-fcENmyfV9fPNjf_2SyRq6heVp1vuD5.
+  - Web-Handbuch: https://firefightervr.de/handbuch/ (FFVR-0986), https://firefightervr.de/en/handbuch/ (FFVR-0987).
+  - Quick Setup Guides als Web-PDF (URLs laut Web): https://firefightervr.de/handbuch/FirefighterVR-Quick-Setup-Guide-DE.pdf, analog `-EN.pdf` und `-IT.pdf` (FFVR-0658 bis 0660). Angekündigt: Assets ersetzt die Drive-Dateien durch die Web-Fassungen.
   - Keine IT-Fassung; Italienisch nur als Quick Setup Guide.
   - Dateinamen bleiben trotz alter Schreibung „Firefighter-VR“, weil FAQ und QR-Codes darauf verweisen (Ausnahme zur FirefighterVR-Schreibregel in [../document-rules.md](../document-rules.md) Z. 7, wie bei historischen Titeln).
 
