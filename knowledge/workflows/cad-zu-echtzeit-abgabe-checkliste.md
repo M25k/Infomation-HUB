@@ -40,9 +40,10 @@ Quelle: Bot 3D, 21.10.2026 (Joachim, aus dem Review v3 von Marcel Timm). Vor jed
 | 34 | Schriftstärke wie im Original (Regel 39): Strichstärke am Foto geprüft, kein pauschales Bold; Versalhöhe, Laufweite und Lage unverändert | Foto/Render-Paare |
 | 35 | Begleitgrafiken (Regel 40): Balken und Bänder mit Anfang und Ende an den Nachbarmarken; Höhe und Segment-/Lückenverhältnis wie im Foto | Foto/Render-Paare |
 | 36 | Prozedurale Muster im Bake teilbezogen (Regel 41): Explosionsversatz abgezogen oder Objektkoordinaten; Testbake vor dem endgültigen Bake | Testbake-Bild, Bake-Config |
+| 37 | Bewegungsbereiche und Maße gegen das Herstellerdatenblatt geprüft, bevor eigene Sperren oder Grenzen gebaut wurden (Regel 42); Abweichungen begründet | Abgleichtabelle Datenblatt gegen Modell (Maß bzw. Grenze, Datenblattwert, Modellwert, Quelle) |
 
 Punkte 15 bis 21 und Änderung Punkt 2/11: Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D. Prüfreihenfolge: zuerst Watertight als hartes Ausschlusskriterium (Punkte 5 und 19; bei mehr als 0 Boundary-Edges je Teil nicht verwertbar), danach Review-Priorität nach Regel 15: Texturqualität, dann Skalen und Beschriftung (Auslegung 3D aus Joachims Regel vom 23.10.2026, von Joachim nicht ausdrücklich bestätigt). Culling nur nach Regel 22 (in v8 aus); Hole-Fill nach dem Bake ist Pflicht (Joachim 23.10.2026, übermittelt von 3D, umgesetzt in v8). Nachtrag 26.10.2026: Die Prüfreihenfolge nach Regel 15 ist bestätigt (entschieden von One, Delegation Joachim 25.10.2026, siehe Changelog in [cad-zu-echtzeit.md](cad-zu-echtzeit.md)).
 
 Punkte 23 bis 28 und Änderung Punkt 2: Review Marcel v8, 26.10.2026, 86/100, übermittelt von 3D. In der 3D-Quelldatei `ABGABE_CHECKLISTE.md` heißen diese Punkte 21 bis 26; im HUB sind 21 und 22 schon belegt (HUB hat zusätzlich Punkt 14 „Regel allgemein formulieren, Punktzahl erfragen“), deshalb hier 23 bis 28.
 
-Punkte 29 bis 36: Regeln 33 bis 41, 3D, 27.10.2026, aus Marcels Review v9 (94/100).
+Punkte 29 bis 36: Regeln 33 bis 41, 3D, 27.10.2026, aus Marcels Review v9 (94/100). Punkt 37: Regel 42, 3D, 27.10.2026.

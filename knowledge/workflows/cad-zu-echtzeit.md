@@ -56,8 +56,9 @@ Regeln 14 bis 21 und die Änderung an Regel 3: Review Marcel v6, 23.10.2026, 74/
 39. **Schriftstärke vom Original übernehmen:** Die Strichstärke am Foto prüfen, nicht pauschal Bold nehmen. Versalhöhe, Laufweite und Lage bleiben gleich. (Präzisiert Regel 29.)
 40. **Begleitgrafiken an Bezugsmarken ausrichten:** Balken und Bänder mit Anfang und Ende an den Nachbarmarken festmachen. Höhe und Verhältnis von Segment zu Lücke vom Foto übernehmen. (Präzisiert Regel 29.)
 41. **Prozedurale Muster im Bake teilbezogen berechnen:** Beim Backen werden die Teile auseinandergezogen. Diesen Versatz abziehen oder Objektkoordinaten nutzen, sonst entstehen falsche Muster (Streifen statt Rauten). Vor dem endgültigen Bake einen Testbake machen.
+42. **Bewegungsbereiche und Maße zuerst gegen das Herstellerdatenblatt prüfen:** bevor eigene Bewegungssperren oder Grenzen gebaut werden (3D, 27.10.2026).
 
-Regeln 33 bis 41: 3D, 27.10.2026, aus Marcels Review v9 (94/100).
+Regeln 33 bis 41: 3D, 27.10.2026, aus Marcels Review v9 (94/100). Regel 42: 3D, 27.10.2026 (Erfahrung aus einem Gerätemodell, v4).
 
 Regeln 23 bis 31 und die Änderung an Regel 2: Review Marcel v8, 26.10.2026, 86/100, übermittelt von 3D. Regel 25 ersetzt in der Praxis das Löschen verdeckter Flächen (Culling, Regel 22).
 
@@ -70,6 +71,7 @@ Regeln 23 bis 31 und die Änderung an Regel 2: Review Marcel v8, 26.10.2026, 86/
 
 | Datum | Quelle | Regel / Änderung |
 |---|---|---|
+| 27.10.2026 | 3D, 27.10.2026 (Gerätemodell v4) | Regel 42 neu: Bewegungsbereiche und Maße zuerst gegen das Herstellerdatenblatt prüfen, bevor eigene Bewegungssperren oder Grenzen gebaut werden |
 | 27.10.2026 | Marcel Review v9, 94/100 (übermittelt von 3D) | Regeln 33–41 neu: Text zwischen Symbolen mittig, Textblöcke wie Original ausrichten, Rändelung als Rautenraster, Logos in Normal Maps in Gebrauchslage, Übergangszeichen mit Abstand zu Icons, Linienbündel getrennt, Schriftstärke vom Original, Begleitgrafiken an Bezugsmarken, prozedurale Muster im Bake teilbezogen |
 | 27.10.2026 | 3D, 27.10.2026, 10:38 | Regel 32 neu: Sind Referenzbilder Renders eines eigenen Northdocks-Modells, zuerst das Quellmodell im Drive suchen und aufbereiten, nicht per Bild-zu-3D neu bauen |
 | 26.10.2026 | entschieden von One, Delegation Joachim 25.10.2026 | Regel 2 bestätigt: Zielzahl 39.000 Vertices, harte Grenze 50.700. Vorher von Joachim nicht ausdrücklich bestätigt (Anhebung durch 3D nach Review Marcel v8; Joachims Regel vom 23.10.2026 deckte nur +30 %) |
