@@ -46,6 +46,8 @@ Regeln 14 bis 21 und die Änderung an Regel 3: Review Marcel v6, 23.10.2026, 74/
 30. **Griffstruktur nur auf Funktionsflächen:** Rändel bzw. Zacken nur auf den erhabenen Rippen (`knurl` mit `r_min_mm`); Nebenringe und glatte Flächen ohne Struktur (`material_regions` mit `r_min_mm`/`r_max_mm` plus `flat_normal`).
 31. **„In UE anders als in euren Bildern“ wird gemessen, nicht vermutet:** Ursache systematisch prüfen (UV-Präzision fp16, Texeldichte, UV-Verzerrung oder -Drehung, Mips/Kompression, Normal-Map, Importeinstellungen); Ergebnis und Abhilfe im README dokumentieren und als Vergleichsbild (Blender gegen UE-Emulation, alt gegen neu) ins Paket legen.
 
+32. **Eigenes Quellmodell vor Bild-zu-3D:** Wenn Referenzbilder Renders eines eigenen Northdocks-Modells sind, zuerst im Drive das Quellmodell suchen und dieses aufbereiten, statt es per Bild-zu-3D neu zu bauen (3D, 27.10.2026).
+
 Regeln 23 bis 31 und die Änderung an Regel 2: Review Marcel v8, 26.10.2026, 86/100, übermittelt von 3D. Regel 25 ersetzt in der Praxis das Löschen verdeckter Flächen (Culling, Regel 22).
 
 **Prozess (Joachim, 21.10.2026):**
@@ -57,6 +59,7 @@ Regeln 23 bis 31 und die Änderung an Regel 2: Review Marcel v8, 26.10.2026, 86/
 
 | Datum | Quelle | Regel / Änderung |
 |---|---|---|
+| 27.10.2026 | 3D, 27.10.2026, 10:38 | Regel 32 neu: Sind Referenzbilder Renders eines eigenen Northdocks-Modells, zuerst das Quellmodell im Drive suchen und aufbereiten, nicht per Bild-zu-3D neu bauen |
 | 26.10.2026 | entschieden von One, Delegation Joachim 25.10.2026 | Regel 2 bestätigt: Zielzahl 39.000 Vertices, harte Grenze 50.700. Vorher von Joachim nicht ausdrücklich bestätigt (Anhebung durch 3D nach Review Marcel v8; Joachims Regel vom 23.10.2026 deckte nur +30 %) |
 | 26.10.2026 | Review Marcel v8, 26.10.2026, 86/100, übermittelt von 3D (Quelle: CAD_zu_Echtzeit.md und ABGABE_CHECKLISTE.md beim Bot 3D, anonymisiert übernommen) | Regel 2: Vertex-Ziel 39.000, harte Obergrenze +30 % = 50.700 (vorher Ziel 30.000, bis +30 % ≈ 39.000); Regeln 23 bis 31 neu: UVs vor dem Bake auf fp16 runden plus Export-Check (23), Aufdrucke auf eigenen achsparallelen, exakt projizierten UV-Inseln ≥ 6 px/mm (24), verdeckte Flächen klein mappen statt löschen plus Texel-Bericht ≥ 3/6 px/mm (25), kleine Rundteile feiner tessellieren und vor der Reduktion schützen (26), im Einbauzustand Unsichtbares entfernen (27), nicht am Original vorhandene Prägungen aus Geometrie und Normal-Map entfernen (28), Aufdrucke 1:1 nach Foto (29), Rändel nur auf Rippen (30), UE-Abweichungen messen und dokumentieren (31); Checkliste Punkt 2 neu und neue Punkte (in der 3D-Quelle Nr. 21 bis 26, im HUB Nr. 23 bis 28) |
 | 26.10.2026 | entschieden von One, Delegation Joachim 25.10.2026 | Regel 15 bestätigt: Watertight ist hartes Ausschlusskriterium vor dem Review, danach Texturen, Skalen und Beschriftung (abgeleitet aus Joachims Regel vom 23.10.2026, „über 0 nicht verwertbar“); Vermerk „von Joachim nicht ausdrücklich bestätigt“ ersetzt. Die Auslegung im Eintrag vom 23.10.2026 (Zeile unten) gilt damit für Regel 15 als bestätigt |
