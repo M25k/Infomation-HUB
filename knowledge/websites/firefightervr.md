@@ -58,6 +58,14 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 
 - DFV-Partnerschaft, Deck-Zahlen Spearhead, Umsatz, Eignungsvolumen Currenta/Henkel
 
+## Handbuch und Quick Setup Guide (Joachim 27.10.2026, 10:26 (über One), Kontext #87)
+
+- Der Quick Setup Guide auf Deutsch, Englisch und Italienisch (FFVR-0658 bis FFVR-0660) kommt als Download auf firefightervr.de. Web stellt ihn nach der letzten Layoutkorrektur live.
+- In den PDFs steht Northdocks nur als Textzeile „FirefighterVR ist eine Marke der Northdocks GmbH“, ohne Logo und nicht auf dem Cover.
+- Italienisch gibt es vorerst nur als Quick Setup Guide, kein vollständiges IT-Handbuch.
+- Raumgröße im Handbuch: 3×3 m.
+- Website-Footer von firefightervr.de: „© 2026 FirefighterVR, a brand of Northdocks GmbH“ (siehe [_shared.md](_shared.md)).
+
 ## Live-Stand 20.10.2026 (Web) und Abgleich Cursor-Chat ND-NB-20
 
 - Suchseiten `/tr/brandschutz/` und `/pl/brandschutz/` live und in der Sitemap, nicht verlinkt. `/ar/brandschutz/` live, aber **nicht in der Sitemap** (offen).

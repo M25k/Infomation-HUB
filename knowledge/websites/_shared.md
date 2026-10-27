@@ -16,7 +16,7 @@ Gilt für alle Northdocks-Domains, solange die Site-Datei nichts Engeres festleg
 
 Kiel, Schauenburgerstraße 116, nur wo der Standort inhaltlich vorkommt (nicht als Rechtssitz).
 
-Marken (FirefighterVR, MeditrainVR, …) sind Marken der GmbH. Footer: „powered by Northdocks“ / „a brand of Northdocks GmbH“, Vertragspartnerin immer die GmbH.
+Marken (FirefighterVR, MeditrainVR, …) sind Marken der GmbH. Footer: „powered by Northdocks“ / „a brand of Northdocks GmbH“, Vertragspartnerin immer die GmbH. **firefightervr.de** konkret: „© 2026 FirefighterVR, a brand of Northdocks GmbH“; in FirefighterVR-PDFs (Handbuch, Quick Setup Guide) steht Northdocks nur als Textzeile „FirefighterVR ist eine Marke der Northdocks GmbH“, ohne Logo und nicht auf dem Cover (Joachim 27.10.2026, 10:26 (über One)).
 
 ## Was auf Websites darf
 
