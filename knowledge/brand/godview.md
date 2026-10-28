@@ -73,6 +73,7 @@ Wortmarke wirkt wie Oswald Bold. Website godview.solutions: Oswald, Inter, Space
 - **Code-Stand `master` = `db36925`:** LAS/LAZ-Import (py3dtiles, lokales Koordinatensystem), CesiumJS 1.146, Ellipsoid-Fallback für „Position festlegen“.
 - **Produktion** läuft noch auf `2ef827e`. Deploy wartet auf den fertigen AGB-Text, weil Migration 039 jedes Konto beim nächsten Aufruf die AGB annehmen lässt.
 - **Stadt-Assets:** Import als 3D Tiles 1.1 im ZIP (`tileset.json` im Root, glb, `EXT_mesh_gpu_instancing`); Georeferenzierung per ECEF-Root-Transform, Höhenbezug GCG2016. Getestet 28.10.2026 mit Rendsburg (GodView App zusammen mit 3D).
+- **Bürrig-Punktwolke:** nur intern im GodView-Testlabor, nicht öffentlich (Bürrig-Regel, [tabu.md](../assets/tabu.md)) (Joachim 28.10.2026, über One).
 
 ## Offen
 

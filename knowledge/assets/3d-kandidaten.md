@@ -104,6 +104,7 @@ Keine 3D-Quelldateien in Draeger, Drager, Dräger, Evonik, BASF, Infraserv und M
   - nvdiffrast/nvdiffrec im Export: NC-Lizenz (nicht kommerziell).
   - TRELLIS v1 läuft ohne NC-Module auf 8 GB VRAM und ist kommerziell nutzbar (bestätigt das Ausweichmodell oben).
   - Meshy: exklusiv war nur Rigging plus Animation aus einer lizenzierten Bewegungsbibliothek.
+- **Meshy-Abo:** Wird bis 29.10.2026 im Account gekündigt (Pro läuft bis 28.11.2026). Retention-Rabatt ignorieren, kein schriftlicher Widerspruch an den Meshy-Support (Joachim 28.10.2026, über One).
 - **Vorschauen:** SF3D (Stability Community License).
 - **Ablage:** Fertige 3D-Blockouts liegen im Shared Drive „Marketing Sales“ im Ordner „3D“. Renke bekommt die .blend gepackt plus FBX und GLB.
 - **Hersteller-CAD** (z. B. AWG-STEP) bleibt **intern**.
