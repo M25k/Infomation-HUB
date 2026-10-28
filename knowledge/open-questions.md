@@ -111,6 +111,12 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 |---|---|---|---|
 | 160 | Lessons-Learned-Regelset: ein zentrales Git-Repo für alle Projekte? | Regel aus dem Weekly: In jedem Projekt ein Lessons-Learned-Regelset führen, in dem Korrekturen als Regel festgehalten und regelmäßig durchgesehen werden (Weekly 28.10.2026, 00:32:44–00:34:36, laut One; W1028-26). Offen ist, ob es zentral in einem eigenen Git-Repo liegt und die Projekte darauf verweisen oder je Projekt (bzw. im Cursor-Root) gepflegt wird. Vorschlag: zentrales Git-Repo, Projekte verweisen darauf (so im Weekly beschrieben). Nur vorgemerkt, Entscheidung Joachim. | offen (Joachim) |
 
+### Fahrzeugaufbau-CAD 2014 (Assets, 28.10.2026)
+
+| # | Frage | Kontext und Vorschlag | Status |
+|---|---|---|---|
+| 161 | Deckt der Buyout 2014 (Mail 11.09.2014, Breitbild-VFX-Auftrag) die Nutzung der Fahrzeugaufbau-CAD-Daten (VERTRAULICH/Herstellerbezug, s. [assets/3d-kandidaten.md](assets/3d-kandidaten.md)) in eigenen Trainings bzw. 3D-Assets ab, oder gibt es eine andere Herstellerfreigabe? Zusatz: Wozu wurden die Root-Kopien am 20.07.2023 angelegt, und dürfen sie weg? | An Joachim, über One, angelegt 28.10.2026 (laut Assets). Rechte im HUB nicht belegt (kein Header-Vermerk, keine NDA-Mail; Buyout betraf vermutlich die Renderings). Vorschlag: bis zur Klärung nur intern, nicht nutzen. | offen (Joachim) |
+
 ### Marken-CI und Schreibweisen (19.10.2026)
 
 Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Assets ([assets/assets.csv](assets/assets.csv), Typ CI). Entschieden ist nur: **FirefighterVR** immer zusammen, im Voiceover „Firefighter VR“ mit englisch gesprochenem „VR“ („Vi Ar“ (Joachim 26.10.2026, 15:12, über One; ersetzt „We Ar“ vom 23.10.2026), alle Stimmen und Markennamen; Joachim 19.10. und über Video 21.10.2026). Gegenüberstellung der Varianten: [brand/README.md](brand/README.md#schreibweise).

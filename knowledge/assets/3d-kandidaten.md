@@ -260,3 +260,14 @@ PICO-HEADSET: keins in Runde 9. ND-1743 (HMD.jpg) zeigt PC-VR-Headsets ohne Pico
 
 - **Strahlrohr-Controller (ND-1744 bis ND-1746):** 2 Fotos und 1 JFIF-Bild vom Tracker am Strahlrohr (Prototyp 2021), nur intern. ~~Sie eignen sich als Referenz für ein Strahlrohr-Controller-Modell. Die JFIF-Datei ist vermutlich ein Webbild, die Herkunft ist nicht belegt. Stand 28.10.2026: nur intern nutzbar (Blockout) (entschieden von One, Delegation Joachim 25.10.2026).~~ **Kein 3D-Kandidat mehr, archiviert (28.10.2026):** vertraulich wegen Herstellerbezug (wie R4-01); die JFIF-Datei ist eine Collage (CAD-Ansicht des Adapters + Foto), kein Webbild; ND-1744/1745 mit GPS im EXIF. Nicht mehr benötigt: FirefighterVR läuft nur auf Pico 4 Ultra, keine Tracker-Adapter; Strahlrohr-Controller v1 (VIVE-Tracker-Blockout) nur noch intern archiviert, keine Weiterentwicklung (Joachim 28.10.2026, laut 3D).
 - **Kappe des vertraulichen Düsenmodells (FFVR-1007):** Screenshot zur Kappen-Geometrie, nur intern (vertraulich). Er ist Arbeitsmaterial von Bot 3D selbst.
+
+## Fahrzeugaufbau-CAD 2014 (VERTRAULICH/Herstellerbezug)
+
+Stand 28.10.2026, laut Assets, nur gelesen, Konfidenz ca. 85 %.
+
+- **Root-Kopien:** Im My-Drive-Root liegen vier Kopien von Joachim vom 20.07.2023, unverändert und nicht geteilt: GERAETEAUFBAU_FF_888807553.STEP (`1jekmPW20wJVdlq8A7duK35HtOU7zAVl3`), FAHRGESTELL_888807558.STEP (`1jEtb4QZVAQ7ihNL9peNu6nXrE2V5lpY4`), EINBAUSCHEMA_888806066.STEP (`1ShUGsadCAEhj3XYVQIEz5VvXVFAo5WoY`) und EINBAUSCHEMA_888806066.obj (`1RuJOdkAaib3oU1GBZR_poDD5nCGVqWdd`).
+- **Originale:** Shared Drive „Drive“ / Breitbild VFX / [Herstellerordner] / Assets / import, hochgeladen 07.11.2017, Inhalt Mai/Juni 2014. Beispiel: Original-STEP `1Tvdmp3zlQzyTtSw-T6tuA_idNZAfe3m9`. Ein zweites Set ohne OBJ liegt in Ordner `1ewxJWKVu44RDI6ye2nCBA25RIgqGnG5u`.
+- **Herkunft:** Visualisierungsauftrag 2014 über die Partneragentur Breitbild VFX, Northdocks war Subunternehmer. Die Nummern in den Dateinamen sind Hersteller-Teilenummern.
+- **Datenklasse:** echtes B-Rep (SolidWorks 2014, STEP AP214), geprüft an einer Schwesterdatei; für GERAETEAUFBAU ist das ein Analogieschluss. Die OBJ sind Mesh-Konvertierungen von 2014.
+- **Rechte:** nicht belegt. Kein Vermerk im Header, keine NDA-Mail gefunden. Der Buyout 2014 (interne Mail 11.09.2014) betraf vermutlich die Renderings.
+- **Status:** nur intern, nicht für 3D-Assets nutzen bis zur Klärung ([open-questions.md](../open-questions.md) #161). Die Root-Kopien sind Duplikate; aufräumen nur mit Joachims OK.
