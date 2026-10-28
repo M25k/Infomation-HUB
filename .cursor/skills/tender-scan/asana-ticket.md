@@ -19,7 +19,7 @@ Keine Portal-Passwörter, keine AVPQ-Zugangscodes in die Notes.
 - **Keine Bieterfragen**, weil sie Wettbewerber aufmerksam machen. Ist eine Ausschreibung uneindeutig, gilt die für Northdocks günstigere Auslegung.
 - **Preise so ansetzen, dass wir gewinnen:** ein fester Tagessatz nach außen; die interne Kalkulation (Puffer, Wiederverwendung, Marge) bleibt intern.
 
-**Inhaltsregel (Joachim 25.10.2026, 17:26, übermittelt von One):** Leasing war nur für eine bestimmte UKSH-Ausschreibung gedacht und gehört nicht in normale Northdocks-Inhalte (Angebote, Tickets, Dokumente), auch nicht als Abgrenzung. Allgemein keine Negativ-Abgrenzungen nach dem Muster „das ist nicht X“: Wir beschreiben nur, was wir anbieten.
+**Inhaltsregel (Joachim 25.10.2026, 17:26, übermittelt von One):** Leasing war nur für eine bestimmte UKSH-Ausschreibung gedacht und gehört nicht in normale Northdocks-Inhalte (Angebote, Tickets, Dokumente), auch nicht als Abgrenzung. Allgemein keine Negativ-Abgrenzungen nach dem Muster „das ist nicht X“: Wir beschreiben nur, was wir anbieten. Ausgenommen sind Pflicht- und Abgrenzungssätze nach document-rules Nr. 16 bzw. claims Z. 42–43 (Sicherheits-/Normgrenze). (entschieden von One, Delegation Joachim 25.10.2026; am 28.10.2026)
 
 ## Pflichtblöcke
 
