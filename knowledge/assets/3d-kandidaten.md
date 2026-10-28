@@ -228,3 +228,26 @@ In Runde 7 kam kein neues Fahrzeugmodell dazu, weder in Teil 1 noch im Rest von 
 - **Lhoist (ND-1435 Bagger, ND-1438 Truck1, ND-1436 Hoennetal_5):** Fahrzeug- und Geländebilder, nur intern (#107; #130 deckt Lhoist ab, intern bis Fassungsfrage ND-1437/NFVR-0213 geklärt (entschieden von One, Delegation Joachim 25.10.2026; übermittelt von Assets)). Sie dienen als Referenz für Fahrzeugmodelle.
 - **Strahlenschutz (STR-0003 bis STR-0012):** Renders des C-Bogens Philips BV Libra aus mehreren Winkeln; STR-0003 bis STR-0012 angebot (entschieden von One, Delegation Joachim 25.10.2026; übermittelt von Assets), Social erst nach Joachims OK, kein BfS-Logo (Sichtprüfung Wissen 27.10.2026); STR-0013 nur intern. Sie dienen als Referenz für ein Gerätemodell. ~~**Interim-Regel bis #153 (One 27.10.2026, 09:53) (entschieden von One, Delegation Joachim 25.10.2026):** STR-0003 bis STR-0013 und das neue BV-Libra-Modell nur intern, also auch nicht in Angeboten und ohne Social; Renkes UKSH-Fassung (Storage/UKSH/_Asset_Library/01_3D/_manmade/BVLibra) wird nicht extern verwendet.~~ **Aufgehoben (Joachim 27.10.2026, 10:10 (über One)):** „We can use that asset freely“ – Northdocks darf das BV-Libra-Asset frei nutzen (neues Modell von 3D, Renkes Fassung 2024, STR-0003 bis STR-0013); #153 geschlossen. ~~Die Freigabe „angebot“ ist damit bis #153 ausgesetzt.~~ STR-0003 bis STR-0012 wieder angebot; STR-0013 intern bis Sichtprüfung auf mögliches BfS-Logo (One 27.10.2026). ~~**Neues Modell = STR-0015**~~ ~~**Neues Modell = STR-0015 bis STR-0025**~~ ~~**Neues Modell = STR-0015 bis STR-0036 (v3 = STR-0026 bis 0033, Vorschauen 01–03 = STR-0034 bis 0036)**~~ **Neues Modell = STR-0015 bis STR-0046 (v3 = STR-0026 bis 0033, Vorschauen 01–03 = STR-0034 bis 0036, v4 = STR-0037 bis 0046)** (Einzeleinträge nach Assets, 27.10.2026; C-Bogen mit Monitorwagen, Überarbeitung 2026 durch 3D, Marketing Sales/3D/BVLibra; angebot, Social nur nach Joachims Freigabe; 3D, 27.10.2026, 10:38); bearbeitete Videofassung STR-0014.
 - **Submerge / Amundsen (ND-1617 bis ND-1631):** Renders des Schiffsmodells aus 7 Winkeln, nur intern. Die Lizenz ist nicht belegt; bleibt nur intern (entschieden von One, Delegation Joachim 25.10.2026; übermittelt von Assets).
+
+## Runde 9 (Assets, 28.10.2026): neue 3D-Quellen
+
+### Fahrzeug- und Gerätemodelle
+
+| ID | Datei | Ablage | Freigabe | Hinweis |
+|---|---|---|---|---|
+| FFVR-1004 bis FFVR-1006 | RTW_Inside_v013.blend (5,7 MiB), RTW_Inside_v013.fbx (1,5 MiB), RTW_Inside_v013_Fridge.fbx (1,5 MiB) | FirefighterVR / Playground / Feuerwehrautos / Assets / RTW / Work / Blender | social-video (wie FFVR-0599) | FAHRZEUGMODELL RTW, neue Version v013 vom 27.10.2026 |
+| FFVR-1001 bis FFVR-1003 | RTW_Inside_v012 Fridge, InsideFrame, LowerDrawer (FBX) | dto. | social-video | FAHRZEUGMODELL RTW, Teil-Exporte aus v012 |
+| FFVR-1000, FFVR-1008 bis FFVR-1010 | RTW_Fridge.spp (28,1 MiB) und Texturen D/N/ORM | dto. / SubP / Export / RTWFridge | social-video | Texturierung des Kühlschranks |
+| FFVR-0993 | Der_Klassiker.blend (0,5 MiB) | Asset-Library / Objects / Characters / Der_Klassiker | nur intern | Neue Figur, Herkunft unklar (#155) |
+| FFVR-0994 bis FFVR-0997 | Düsenmodell v10 und v11 (FBX- und Textur-ZIP; v11 mit 94 UCX-Hüllen) | Marketing Sales / 3D / vertraulicher Herstellerordner / v10, v11 | nur intern | CAD-basiert, vertraulich (R4-01) |
+| ND-1649 bis ND-1652 | Chair_01, Lounger_01, SunSail_01, Table_01 (GLB) | flowAR / Asset Exchange / Miteinander | nur intern | Urheber und Lizenz nicht belegt (#121) |
+| ND-1747 bis ND-1793 | Renders der Werkzeugmodelle der VR-Vorlage (Taschenlampen, Handscheinwerfer, Messgerät, Rugged-Tablet, Adapter) | Projects / Template (3) / Tools | nur intern | Eigene Modelle (Prototyp). Die Modelldateien selbst liegen nicht im Ordner |
+| ND-1720 bis ND-1741 | Renders der Controller-Nachbauten HP Reverb, Valve Index, WMR | Projects / Template (3) / Controller | nur intern | Fremdhardware, Lizenz nicht schriftlich belegt; Fremd-IP, bleibt nur intern (Vermerk Runde 9) |
+| MED-0093 bis MED-0174 (Renders) | Modellansichten der Schockraum-Ausstattung UKK (Perfusor, Defibrillator, Ultraschall, Instrumente, Möbel) | Projects / UKK | 45 angebot vorbehaltlich Bestätigung (#154), Rest nur intern | MeditrainVR-Fundus. Dräger-Geräte (MED-0119, MED-0120, MED-0144, MED-0145) nur intern |
+
+PICO-HEADSET: keins in Runde 9. ND-1743 (HMD.jpg) zeigt PC-VR-Headsets ohne Pico.
+
+### Quellfotos und Referenzen für Bild-zu-3D (an Bot 3D)
+
+- **Strahlrohr-Controller (ND-1744 bis ND-1746):** 2 Fotos und 1 JFIF-Bild vom Tracker am Strahlrohr (Prototyp 2021), nur intern. Sie eignen sich als Referenz für ein Strahlrohr-Controller-Modell. Die JFIF-Datei ist vermutlich ein Webbild, die Herkunft ist nicht belegt.
+- **Kappe des vertraulichen Düsenmodells (FFVR-1007):** Screenshot zur Kappen-Geometrie, nur intern (vertraulich). Er ist Arbeitsmaterial von Bot 3D selbst.
