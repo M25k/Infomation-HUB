@@ -105,6 +105,12 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 |---|---|---|---|
 | 151 | Ablageort der PICO-SDK-Archive ND-1396/ND-1397 (PICOForOpenXR 5.3, zusammen 170,2 MiB, lose in der Wurzel des Studio-Archivs) | Fremdsoftware des Herstellers, kein eigenes Asset, Lizenz erlaubt keine Weitergabe ohne Prüfung; Aufräumvorschlag R8-01 ([assets/aufraeumen.md](assets/aufraeumen.md)). Die übrigen sieben Fragen von Assets zu Runde 8 hat One am 27.10.2026 entschieden (entschieden von One, Delegation Joachim 25.10.2026; übermittelt von Assets), siehe [assets/_progress.md](assets/_progress.md), Runde 8. Vorprüfung Wissen 27.10.2026 (HUB): keine Ablageregel für SDKs; Installer, Plugins und Lizenzen liegen im Shared Drive Software/Installer/Lizenzen (`0ADgxcEqat_S7Uk9PVA`, [assets/tabu.md](assets/tabu.md)). Vorschlag: beide Archive dorthin verschieben (Unterordner PICO-SDK 5.3), im Katalog als „verschoben, kein Asset“ vermerken; verschoben wird erst nach Joachims OK | offen (One → Joachim); an One für Joachims nächstes Fragenbündel übergeben, 27.10.2026 |
 
+### Weekly 28.10.2026 (laut One)
+
+| # | Frage | Kontext und Vorschlag | Status |
+|---|---|---|---|
+| 160 | Lessons-Learned-Regelset: ein zentrales Git-Repo für alle Projekte? | Regel aus dem Weekly: In jedem Projekt ein Lessons-Learned-Regelset führen, in dem Korrekturen als Regel festgehalten und regelmäßig durchgesehen werden (Weekly 28.10.2026, 00:32:44–00:34:36, laut One; W1028-26). Offen ist, ob es zentral in einem eigenen Git-Repo liegt und die Projekte darauf verweisen oder je Projekt (bzw. im Cursor-Root) gepflegt wird. Vorschlag: zentrales Git-Repo, Projekte verweisen darauf (so im Weekly beschrieben). Nur vorgemerkt, Entscheidung Joachim. | offen (Joachim) |
+
 ### Marken-CI und Schreibweisen (19.10.2026)
 
 Quelle: CI-Blätter von Video ([brand/](brand/README.md)) und CI-Katalog von Assets ([assets/assets.csv](assets/assets.csv), Typ CI). Entschieden ist nur: **FirefighterVR** immer zusammen, im Voiceover „Firefighter VR“ mit englisch gesprochenem „VR“ („Vi Ar“ (Joachim 26.10.2026, 15:12, über One; ersetzt „We Ar“ vom 23.10.2026), alle Stimmen und Markennamen; Joachim 19.10. und über Video 21.10.2026). Gegenüberstellung der Varianten: [brand/README.md](brand/README.md#schreibweise).

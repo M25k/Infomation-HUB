@@ -54,6 +54,11 @@ Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von 
 - **FFVR-Repos laut GitHub-Suche:** FFVR-InteriorAttack, FFVR-CPR2024, FVR-CalifWildfire, FVR-Firesaber, FVR-Scouting, NDFireSystemV3 (alle Northdocks-GmbH).
 - **Offen:** welches das aktuelle FFVR-Haupt-Repo bzw. die Feuersimulation ist und welcher Branch (Frage an Moritz bzw. Joachim; W1021-17, assets/open-questions #21). Für das Hygiene-Projekt wurde kein Repo gefunden.
 
+### Unreal-MCP: Regeln (Weekly 28.10.2026)
+
+- **Toolset-Plugins nur gezielt aktivieren** (Weekly 28.10.2026, 00:14:15–00:15:02, laut One; W1028-14): Der Unreal-MCP kann nur mit freigeschalteten Toolset-Plugins arbeiten (z. B. das Niagara-Toolset für Niagara). Nur die Toolsets einschalten, die die Aufgabe braucht, nicht alle. Stand: Testprojekt auf UE 5.8, Unreal-MCP läuft.
+- **Zuerst prüfen, ob der Unreal-MCP geladen ist** (Weekly 28.10.2026, 00:15:04–00:15:49, laut One; W1028-15): Nach dem Start von Cursor wird der MCP oft nicht erkannt, der Agent weicht dann auf Python aus. Regel: Der Agent prüft vor der Arbeit zuerst, ob der Unreal-MCP geladen ist; wenn nicht, bricht er ab. In Cursor den Unreal-MCP auf „immer an“ stellen; die Regel gehört in die Agent-MD-Datei des Projekts.
+
 ### NDFramework Build-Setup (nur intern)
 
 Unreal Engine **5.7**, C++-Projekt. Ziel Android **Arm64**, **Vulkan**, Target API **34**, Plugin **PICOOpenXR**. Fab-Plugins: CesiumForUnreal, EOSCore, SmoothSyncPlugin, JsonXmlHelper, NodeGraphAssistant, VaRest. Offen: Bezugsweg der Fab-Plugins (Lizenzkonto), Package-Name, Rotation des Android-Keystores. Keine Keystore-Dateien oder Passwörter ins Git.

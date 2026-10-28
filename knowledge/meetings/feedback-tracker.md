@@ -32,3 +32,5 @@ Spiegel des Feedback-Trackers bei One (nicht im Repo, geführt von One), Stand d
 | W1021-26 | 21.10.2026, 22:06–22:21 | – | Partnerschaft „Der Klassiker“ / Kleidungs-Integration verfolgen? | Joachim | Entscheidung offen (Joachim) |  |
 | W1021-27 | 21.10.2026, – | – | Freigabe Social-Posts (Kunden, Gameplay-Material) | Joachim | Entscheidung offen (Joachim) |  |
 | W1021-28 | 21.10.2026, 09:23–09:50 | – | Build-Pipeline auf UE 5.8 umstellen? | Joachim | Entscheidung offen (Joachim) |  |
+
+W1028 (Weekly 28.10.2026): eigener Spiegel in [weekly-2026-10-28-feedback.md](weekly-2026-10-28-feedback.md) (laut One, 28.10.2026).

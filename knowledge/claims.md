@@ -157,3 +157,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 - „Eye-Tracking und Blicksteuerung seit 2021/22 (Wilhelmshaven), fortgeführt in Trier, Hannover und ARiNeP.“ Hinweis zu ARiNeP: Eye-Tracking-Daten laut Klinik kaum verwertbar, nur als technische Umsetzung nennen ([Asana](https://app.asana.com/0/0/1216337250485610)).
 - „Produktionsengine der Trainingsanwendungen: Unreal Engine 5 mit OpenXR. GodView ist die browserbasierte Twin-Plattform mit zwei Kundentypen: Bauinspektion (z. B. Kölner Dom) und Einsatzleitung (z. B. Feuerwehr, analog Planspiel/Playground). GodView ist nicht die Headset-Trainingsanwendung.“
 - „Für den Digital Twin des Kölner Doms wurden mehr als 200.000 Fotos und 1.000 Laserscans aufgenommen. Das aktuell prozessierte 3D-Modell basiert auf rund 100.000 Fotos und hat über 2 Mrd. Polygone.“ (Aufnahme und Modellbasis immer getrennt nennen)
+
+## Interne Hinweise (Argumentation)
+
+- **DGUV Information 205-023** (intern; Weekly 28.10.2026, 00:49:50–00:50:40 und 00:57:15–00:58:14, laut One; W1028-37): Die DGUV Information 205-023 ist eine Information, keine Pflicht oder Verordnung und keine Produktzulassung. Die Befähigung liegt beim Ausbilder; der Betrieb entscheidet per Gefährdungsbeurteilung. Daraus folgt keine Zulassung oder Konformität von FirefighterVR; so nie formulieren. **Offener Widerspruch** zu Z. 42 („nach DGUV Information 205-023 muss …“) und [document-rules.md](document-rules.md) Nr. 6 („verlangt“): gemeldet, nicht aufgelöst; Z. 42 bleibt bis zur Entscheidung unverändert (Wissen 28.10.2026).

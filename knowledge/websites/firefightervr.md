@@ -93,3 +93,7 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 - Kampagnen DACH Feuerwehr, Brandschutz, Erste Hilfe; UTM-Schema `utm_source=google&utm_medium=paid&utm_campaign=dach_*_202608`; Callouts und Sitelinks erstellt.
 - Ads-CSV-Packs unter `_ref/ads/` (Repo www-firefightervr) auf firefightervr.de umgestellt; ob die Live-Anzeigen noch auf die alte Domain zeigen, prüft Social.
 - Bewertungshelden (Kununu, Google) geprüft, nicht beauftragt. Kununu zeigt noch die alte Firmierung „NorthDocks UG“ (offen).
+
+## Versand (intern)
+
+- **Versandform je Setup** (Weekly 28.10.2026, 00:20:47–00:21:10, laut One; W1028-18): Ein Feuerlöscher-Setup wird im Rucksack versendet, ein Strahlrohr-Setup im Koffer. Ein Basis-Set mit Strahlrohradapter, aber ohne Strahlrohr, gilt ebenfalls als Koffer-Setup. Nur intern (Bestellprozess), nicht für die Website.
