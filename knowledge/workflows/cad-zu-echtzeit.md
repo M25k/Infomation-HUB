@@ -2,7 +2,7 @@
 
 Quelle: Bot 3D, 20.10.2026. **v3 (20.10.2026): Aufdrucke und das Entfernen von Innenflächen enthalten.**
 
-Stand 21.10.2026 (v6), Regeln ergänzt bis v9 (26.10.2026, Review Marcel v8, 86/100) · Northdocks 3D · angewendet auf ein internes Hersteller-CAD-Modell (Strahlrohr; Herstellerdaten nur intern), v2 bis v6. Die Abschnitte ab „Setup“ beschreiben den Stand v3; bei Widersprüchen gelten die verbindlichen Regeln unten.
+Stand 21.10.2026 (v6), Regeln ergänzt bis v9 (26.10.2026, Review Marcel v8, 86/100); Regeln 47 und 48 ergänzt 28.10.2026 (Review v11, intern) · Northdocks 3D · angewendet auf ein internes Hersteller-CAD-Modell (Strahlrohr; Herstellerdaten nur intern), v2 bis v6. Die Abschnitte ab „Setup“ beschreiben den Stand v3; bei Widersprüchen gelten die verbindlichen Regeln unten.
 
 **Abgabe immer gegen die [Abgabe-Checkliste](cad-zu-echtzeit-abgabe-checkliste.md) prüfen; die ausgefüllte Kopie liegt in jedem Exportpaket.**
 
@@ -61,8 +61,10 @@ Regeln 14 bis 21 und die Änderung an Regel 3: Review Marcel v6, 23.10.2026, 74/
 44. **Strichstärke messen:** Die Strichstärke der Schrift am Original messen, als Verhältnis Strich zu Versalhöhe, und bei Bedarf reduzieren, ohne Größe oder Lage zu ändern. (Präzisiert Regel 39.)
 45. **Rundungen schützen und Normalen mitliefern:** Rundungen an Hebeln und Kappen bei der Reduktion schützen, ~~die geschützten Flächen kommen zusätzlich zum Budget.~~ Geschützte Rundungen kommen zusätzlich zum Decimate-Budget der übrigen Flächen desselben Teils, damit der Rest nicht gröber wird. Die Gesamtzahl bleibt unter der harten Obergrenze aus Regel 2 (Ziel +30 %, z. B. 50.700 Verts). Reicht das nicht, Budget aus weniger sichtbaren Teilen umverteilen (Klärung 3D, 27.10.2026). (Werkzeug: `budget_boost` bzw. `tess_fine` nach Regel 26; geschützte Flächen werden nicht vom Teilbudget abgezogen.) Normalen, Tangenten und Smoothing in die FBX exportieren. Im README die Import-Einstellung „Import Normals and Tangents“ nennen (Interchange: Recompute aus, MikkTSpace). Abnahme mit einem Render ohne Normal Map.
 46. **UCX-Collision für jedes Mesh:** Pflicht. Name `UCX_<Mesh>_NN`, konvex, höchstens 32 Verts. Kappen und bewegliche Teile bekommen eigene Hüllen. Prüfung in der FBX, nicht „Use Complex as Simple“. (Ablage und Zuordnung in der FBX: Regel 14.)
+47. **FBX für den Interchange-Import ab UE 5.7:** Runde Flächen bekommen ihre Rundung aus der Geometrie, nicht aus der Normal Map. Export mit echten Smoothing-Groups und den CAD-Normalen, nicht mit Smoothing „Face“. Die Normalen direkt in der FBX prüfen: höchstens 0,1° Abweichung, nach dem Reimport höchstens 0,5°. Beim Import „Recompute Normals“, „Recompute Tangents“ und „Compute Weighted Normals“ ausschalten. (Präzisiert Regel 45.)
+48. **UCX-Kollisionen:** Jedes `UCX_`-Objekt ist genau eine geschlossene konvexe Hülle, nummeriert ab `_00`. Höchstens 32 Vertices pro Hülle, mindestens 1 mm Punktabstand, höchstens 0,5 mm außerhalb der Box des Render-Meshes. Das Skript `ucx_check` prüft die finale FBX (Skript beim 3D-Bot, nicht im Repo). In UE „One Convex Hull Per UCX“ und „Import Collision According to Mesh Name“ einschalten. (Präzisiert Regeln 14 und 46.)
 
-Regeln 33 bis 41: 3D, 27.10.2026, aus Marcels Review v9 (94/100). Regel 42: 3D, 27.10.2026 (Erfahrung aus einem Gerätemodell, v4). Regeln 43 bis 46: 3D, 27.10.2026, aus Marcels Review v10 (Asana 1219711295806018).
+Regeln 33 bis 41: 3D, 27.10.2026, aus Marcels Review v9 (94/100). Regel 42: 3D, 27.10.2026 (Erfahrung aus einem Gerätemodell, v4). Regeln 43 bis 46: 3D, 27.10.2026, aus Marcels Review v10 (Asana 1219711295806018). Regeln 47 und 48: laut 3D, Changelog 28.10.2026; Quelle: Marcels Review v11 am Strahlrohr (Herstellerbezug, intern), CAD_zu_Echtzeit-Workflow (3D-Bot).
 
 Regeln 23 bis 31 und die Änderung an Regel 2: Review Marcel v8, 26.10.2026, 86/100, übermittelt von 3D. Regel 25 ersetzt in der Praxis das Löschen verdeckter Flächen (Culling, Regel 22).
 
@@ -70,11 +72,14 @@ Regeln 23 bis 31 und die Änderung an Regel 2: Review Marcel v8, 26.10.2026, 86/
 - Die [Abgabe-Checkliste](cad-zu-echtzeit-abgabe-checkliste.md) vor jeder Übergabe abhaken und ausgefüllt ins Exportpaket legen.
 - Jedes Review wird als **allgemeine Regel** formuliert (nicht nur für das eine Modell) und im Changelog mit Datum, Quelle und Regel eingetragen.
 - Nach jedem Review Marcel Timm um eine Punktzahl (0 bis 100) bitten und sie im Changelog vermerken.
+- **Geltungsbereich (intern)** (Weekly 28.10.2026, 00:39:56–00:40:17, laut One; W1028-30): Das Regelwerk wird am Strahlrohr fertig iteriert und gilt danach für alle CAD-Daten (z. B. Fahrzeuge).
 
 ## Changelog (Regeln)
 
 | Datum | Quelle | Regel / Änderung |
 |---|---|---|
+| 28.10.2026 | laut 3D, Changelog 28.10.2026; Quelle: Marcels Review v11 am Strahlrohr (Herstellerbezug, intern), CAD_zu_Echtzeit-Workflow (3D-Bot) | Regel 47 neu: FBX für den Interchange-Import ab UE 5.7 (Rundung aus der Geometrie, echte Smoothing-Groups und CAD-Normalen statt „Face“, Normalen in der FBX ≤ 0,1°, nach Reimport ≤ 0,5°, Recompute Normals/Tangents und Compute Weighted Normals aus); Regel 48 neu: UCX-Kollisionen (eine geschlossene konvexe Hülle je `UCX_`, ab `_00`, ≤ 32 Verts, ≥ 1 mm Punktabstand, ≤ 0,5 mm außerhalb der Render-Mesh-Box, `ucx_check` auf der finalen FBX, „One Convex Hull Per UCX“ und „Import Collision According to Mesh Name“ an); Checkliste Punkte 46 und 47 (in der 3D-Quelle Nr. 35 und 36) |
+| 28.10.2026 | Weekly 28.10.2026, 00:39:56–00:40:17, laut One (W1028-30, intern) | Geltungsbereich: Regelwerk am Strahlrohr fertig iterieren, danach für alle CAD-Daten |
 | 27.10.2026 | Klärung 3D, 27.10.2026 (zu den Konflikten aus 493d62b) | Regel 13 neu: je Teil 1 Render-Mesh plus seine UCX-Hüllen statt „1 Objekt“; Regel 14 ergänzt: UCX-Hüllen unter dem Root-Node als Geschwister der Teil-Meshes, Zuordnung über `UCX_<Mesh>_NN` (Import Collision According To Mesh Name an, Auto Generate Collision aus); Regel 45 neu: geschützte Rundungen zusätzlich zum Decimate-Budget desselben Teils, Gesamtzahl unter der harten Grenze aus Regel 2 (bleibt), sonst umverteilen. Beleg: Referenz-Asset v11, alle 94 UCX-Hüllen unter dem Root-Node; 43.736 Verts |
 | 27.10.2026 | Marcel Review v10 (Asana 1219711295806018), übermittelt von 3D | Regeln 43–46 neu: Text-Relikte aus der Geometrie entfernen, Strichstärke messen, Rundungen schützen und Normalen/Tangenten mitliefern, UCX-Collision für jedes Mesh (Pflicht) |
 | 27.10.2026 | 3D, 27.10.2026 (Gerätemodell v4) | Regel 42 neu: Bewegungsbereiche und Maße zuerst gegen das Herstellerdatenblatt prüfen, bevor eigene Bewegungssperren oder Grenzen gebaut werden |
