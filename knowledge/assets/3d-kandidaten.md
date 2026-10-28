@@ -70,6 +70,8 @@ Fahrzeug-Renders ohne Quelldatei aus dem Kundenordner Projects / Draeger (Dräge
 - leak.jpg (ND-0776): Tankwagen mit Leck, Unreal-Editor-Screenshot, **nur intern**.
 Die Quellmodelle liegen vermutlich im Shared Drive „Kundenprojekte“ / Draeger / DraegerGamingWelt / Assets / Fahrzeuge (dort auch das Notarzt-Fahrzeug ND-0545–0548). Prüfen in einer späteren Runde.
 
+**Dräger Gaming Welt, Entscheidung (Joachim 28.10.2026, laut One):** Das Unity-Paket „High Detail German Firetrucks“ und die Marketplace-Inhalte in der Dräger Gaming Welt werden ignoriert (kein 3D-Kandidat, nicht weiter sichten). Das Schlingmann-HLF20-DWG wird, falls es 3D-CAD ist, der **nächste 3D-Test** nach dem Strahlrohr (Herstellerbezug, vertraulich). Ob die DWG 3D-Geometrie enthält, ist noch nicht geprüft; Paket und DWG sind im Katalog noch ohne ID. Die Dräger-Regel (nur intern, Nr. 73) gilt weiter.
+
 ### Sonstige 3D-Quellen
 
 | ID | Datei | Drive-ID | Ablage | Größe | Was | Hinweis |
@@ -84,15 +86,15 @@ Kein Pico-Headset-Modell gefunden (Teil 1 und Projects Teilrunde 2).
 
 Keine 3D-Quelldateien in Draeger, Drager, Dräger, Evonik, BASF, Infraserv und Merck. Dort liegen nur Renders, Screenshots und Videos aus den Kundenprojekten 2019–2022.
 
-## Bot 3D: Turbo-Spritze EVO 235 Storz C (nur intern)
+## Bot 3D: Strahlrohr (Herstellerbezug, vertraulich), Storz C (nur intern)
 
-**Regel:** AWG Turbo EVO 235: Die CAD-Daten sind geheim, bleiben intern, kein Upload an externe Dienste (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von One). Klarstellung (Joachim 23.10.2026, übermittelt von One): Die KI-Umwandlung der CAD-Daten in Meshes hat unser eigener 3D-Bot gemacht, kein externer Dienst; das zählt nicht als externer Upload. Die Regel bleibt bestehen. **Korrektur 23.10.2026 (Video, übermittelt von One):** Joachims Freigabe von 09:23 gilt nur für die Strahlrohr-KW-235-B-Roll-Clips FFVR-0076–0079 (#129), nicht für die AWG EVO 235; die EVO 235 bleibt gesperrt.
+**Regel:** Strahlrohr (Herstellerbezug, vertraulich): Die CAD-Daten sind geheim, bleiben intern, kein Upload an externe Dienste (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von One). Klarstellung (Joachim 23.10.2026, übermittelt von One): Die KI-Umwandlung der CAD-Daten in Meshes hat unser eigener 3D-Bot gemacht, kein externer Dienst; das zählt nicht als externer Upload. Die Regel bleibt bestehen. **Korrektur 23.10.2026 (Video, übermittelt von One):** Joachims Freigabe von 09:23 gilt nur für die Strahlrohr-KW-235-B-Roll-Clips FFVR-0076–0079 (#129), nicht für das Strahlrohr (Herstellerbezug, vertraulich); das Strahlrohr (Herstellerbezug, vertraulich) bleibt gesperrt.
 
-**Nur intern** (AWG-Herstellerdaten). 3D hat aus der AWG-STEP-Datei der Turbo-Spritze EVO 235 Storz C ein erstes Echtzeit-Modell gebaut. Joachim (20.10.2026, 18:19, Chat mit One): weitermachen, Kupplung silbern ok. Fokus: saubere Teiletrennung und Benennung, UVs, Baking CAD → LODs, Workflow dokumentieren. Kein Katalog-Eintrag mit Außenkanal.
+**Nur intern** (Herstellerdaten (Herstellerbezug)). 3D hat aus der Hersteller-STEP-Datei des Strahlrohrs (Herstellerbezug, vertraulich, Storz C) ein erstes Echtzeit-Modell gebaut. Joachim (20.10.2026, 18:19, Chat mit One): weitermachen, Kupplung silbern ok. Fokus: saubere Teiletrennung und Benennung, UVs, Baking CAD → LODs, Workflow dokumentieren. Kein Katalog-Eintrag mit Außenkanal.
 
-**Runde 4 (21.10.2026):** Die AWG-STEP EVO 235 und alle Inhalte des 3D-Ordners AWG_TurboSpritze_EVO235_INTERN `1chKoUWUzFxOTmz28W_CT_63zWTxzBKOj` (inkl. v2–v5, Renders, Screenshots; FFVR-0661–0716) sind **nur intern** (vertraulicher Herstellerdatensatz; Ablage siehe #94/R4-01). Neu außerdem: Corpus C3 = Defibrillator/Monitor nach Vorbild corpuls C3, texturiert (FFVR-0598, 0649–0656); KI-Test Feuerlöscher Hunyuan3D (FFVR-0717–0726, nur intern).
+**Runde 4 (21.10.2026):** Die Hersteller-STEP-Datei (Herstellerbezug) und alle Inhalte des 3D-Ordners [Herstellerordner INTERN; Ordnername anonymisiert (One 28.10.2026)] `1chKoUWUzFxOTmz28W_CT_63zWTxzBKOj` (inkl. v2–v5, Renders, Screenshots; FFVR-0661–0716) sind **nur intern** (vertraulicher Herstellerdatensatz; Ablage siehe #94/R4-01). Neu außerdem: Corpus C3 = Defibrillator/Monitor nach Vorbild corpuls C3, texturiert (FFVR-0598, 0649–0656); KI-Test Feuerlöscher Hunyuan3D (FFVR-0717–0726, nur intern).
 
-**v8 (26.10.2026):** Marcel bewertet die Turbo-Spritze v8 mit **86/100** (über One, 26.10.2026; vorher v6 74/100, v3 55/100). Regeln daraus: [cad-zu-echtzeit](../workflows/cad-zu-echtzeit.md).
+**v8 (26.10.2026):** Marcel bewertet das Strahlrohr-Modell v8 (Herstellerbezug) mit **86/100** (über One, 26.10.2026; vorher v6 74/100, v3 55/100). Regeln daraus: [cad-zu-echtzeit](../workflows/cad-zu-echtzeit.md).
 
 ## 3D-Standards (Bot 3D, Joachim 20.10.2026)
 
@@ -107,7 +109,7 @@ Keine 3D-Quelldateien in Draeger, Drager, Dräger, Evonik, BASF, Infraserv und M
 - **Meshy-Abo:** Wird bis 29.10.2026 im Account gekündigt (Pro läuft bis 28.11.2026). Retention-Rabatt ignorieren, kein schriftlicher Widerspruch an den Meshy-Support (Joachim 28.10.2026, über One).
 - **Vorschauen:** SF3D (Stability Community License).
 - **Ablage:** Fertige 3D-Blockouts liegen im Shared Drive „Marketing Sales“ im Ordner „3D“. Renke bekommt die .blend gepackt plus FBX und GLB.
-- **Hersteller-CAD** (z. B. AWG-STEP) bleibt **intern**.
+- **Hersteller-CAD** (z. B. Hersteller-STEP) bleibt **intern**.
 - **Hoher VRAM-Bedarf:** Solche Modelle sind für den GodView-AI-Inspect-PC mit 2 × 96 GB VRAM vorgemerkt, siehe [../repos.md](../repos.md) (Abschnitt GPU-Rechner).
 - **Workflow CAD → Echtzeit** (STEP → LODs, UVs, Bake vom CAD-Highpoly): [../workflows/cad-zu-echtzeit.md](../workflows/cad-zu-echtzeit.md), Skripte [../workflows/cad2rt/](../workflows/cad2rt/). v3 (20.10.2026): Aufdrucke und das Entfernen von Innenflächen enthalten (Quelle: Bot 3D).
 
@@ -132,7 +134,7 @@ Kein Pico-Headset-Modell gefunden (Teil 1 und Projects Teilrunde 3b).
 | FFVR-0776–0783 | RTW_Biohazard_Bin | Kanülen-/Abwurfbehälter für infektiösen Abfall: Blend, FBX, SPP, Texturen, Render (gesichtet) | social-video |
 | FFVR-0784–0789 | RTW_WasteBin | Abfallbehälter RTW: Blend, FBX, SPP (19 MB), Texturen | social-video |
 | FFVR-0790–0798 | Towel_Dispenser | Papierhandtuchspender geschlossen/offen: Blend, FBX, SPP, Texturen, Render (gesichtet) | social-video |
-| FFVR-0833–0835 | AWG_TurboSpritze_EVO235_INTERN / v6 | ZIP Modell v6, Vergleichsbilder, Tafel vorher/nachher | **nur intern** (vertrauliche Herstellerdaten) |
+| FFVR-0833–0835 | [Herstellerordner INTERN; Ordnername anonymisiert (One 28.10.2026)] / v6 | ZIP Modell v6, Vergleichsbilder, Tafel vorher/nachher | **nur intern** (vertrauliche Herstellerdaten) |
 
 ### Projects Teilrunde 3b (alles nur intern)
 
@@ -146,7 +148,7 @@ Kein Pico-Headset-Modell gefunden (Teil 1 und Projects Teilrunde 3b).
 
 ### Quellfotos für Bild-zu-3D (an Bot 3D)
 
-- **FFVR-0799–0832**: 34 Referenzfotos des realen AWG-Strahlrohrs TURBO-SPRITZE EVO 235 (Handyfotos vom 21.10.2026, geordnet nach Ansicht 1 bis 8). **nur intern** (Ordner INTERN, Herstellerdaten-Kontext). Passen zum laufenden Modell AWG v6.
+- **FFVR-0799–0832**: 34 Referenzfotos des realen Strahlrohrs (Herstellerbezug, vertraulich) (Handyfotos vom 21.10.2026, geordnet nach Ansicht 1 bis 8). **nur intern** (Ordner INTERN, Herstellerdaten-Kontext). Passen zum laufenden Modell v6 (Herstellerbezug).
 
 ## Runde 6 (Assets, 23.10.2026): neue 3D-Quellen
 

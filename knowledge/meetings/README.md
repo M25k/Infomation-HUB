@@ -21,6 +21,6 @@ Quelle: Joachim 23.10.2026, übermittelt von One.
 ## Regeln für den Spiegel
 
 - Keine Zitate aus den Mitschnitten oder Transkripten, nur kurze Themen und Entscheidungen mit Quelle.
-- Keine Mails, Telefonnummern oder Tokens; keine AWG-Herstellerdaten.
+- Keine Mails, Telefonnummern oder Tokens; keine vertraulichen Herstellerdaten (Strahlrohr, Herstellerbezug).
 - Der Weekly-Ordner `1E-DbLK_V2kKGMh54USucnfKNToA4fRhe` bleibt tabu für Freigaben nach außen und für Assets ([../assets/tabu.md](../assets/tabu.md)).
 - Sprecher nur mit Vornamen bzw. so, wie im Repo üblich.
