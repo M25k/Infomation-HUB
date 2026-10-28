@@ -243,7 +243,7 @@ In Runde 7 kam kein neues Fahrzeugmodell dazu, weder in Teil 1 noch im Rest von 
 | ND-1649 bis ND-1652 | Chair_01, Lounger_01, SunSail_01, Table_01 (GLB) | flowAR / Asset Exchange / Miteinander | nur intern | Urheber und Lizenz nicht belegt (#121) |
 | ND-1747 bis ND-1793 | Renders der Werkzeugmodelle der VR-Vorlage (Taschenlampen, Handscheinwerfer, Messgerät, Rugged-Tablet, Adapter) | Projects / Template (3) / Tools | nur intern | Eigene Modelle (Prototyp). Die Modelldateien selbst liegen nicht im Ordner |
 | ND-1720 bis ND-1741 | Renders der Controller-Nachbauten HP Reverb, Valve Index, WMR | Projects / Template (3) / Controller | nur intern | Fremdhardware, Lizenz nicht schriftlich belegt; Fremd-IP, bleibt nur intern (Vermerk Runde 9) |
-| MED-0093 bis MED-0174 (Renders) | Modellansichten der Schockraum-Ausstattung UKK (Perfusor, Defibrillator, Ultraschall, Instrumente, Möbel) | Projects / UKK | 45 angebot vorbehaltlich Bestätigung (#154), Rest nur intern | MeditrainVR-Fundus. Dräger-Geräte (MED-0119, MED-0120, MED-0144, MED-0145) nur intern |
+| MED-0093 bis MED-0174 (Renders) | Modellansichten der Schockraum-Ausstattung UKK (Perfusor, Defibrillator, Ultraschall, Instrumente, Möbel) | Projects / UKK | 45 angebot ~~vorbehaltlich Bestätigung (#154)~~ bestätigt (#154) (entschieden von One, Delegation Joachim 25.10.2026), Rest nur intern | MeditrainVR-Fundus. Dräger-Geräte (MED-0119, MED-0120, MED-0144, MED-0145) nur intern |
 
 PICO-HEADSET: keins in Runde 9. ND-1743 (HMD.jpg) zeigt PC-VR-Headsets ohne Pico.
 
