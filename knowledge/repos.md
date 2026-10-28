@@ -51,6 +51,7 @@ Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von 
 
 - Alle Unreal-Projekte liegen auf GitHub in der Org Northdocks-GmbH mit **Git LFS**; Perforce ist nicht bekannt.
 - **NDFramework:** Northdocks-GmbH/NDFramework, **UE 5.7.4**; Wechsel auf UE 5.8 geplant (bestätigt; siehe W1021-28).
+- **Build-Engine:** Northdocks baut nicht mehr mit UE 4.27; Build-Engine auf nd-pc-25 ist UE 5.8 (Joachim 28.10.2026 17:01, laut One). Projekt-Engine-Versionen einzelner Repos (z. B. NDFramework UE 5.7.4, ND-Strahlensimulation UE 4.27 historisch) bleiben als Fakten stehen.
 - **FFVR-Repos laut GitHub-Suche:** FFVR-InteriorAttack, FFVR-CPR2024, FVR-CalifWildfire, FVR-Firesaber, FVR-Scouting, NDFireSystemV3 (alle Northdocks-GmbH).
 - **Offen:** welches das aktuelle FFVR-Haupt-Repo bzw. die Feuersimulation ist und welcher Branch (Frage an Moritz bzw. Joachim; W1021-17, assets/open-questions #21). Für das Hygiene-Projekt wurde kein Repo gefunden.
 
