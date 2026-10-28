@@ -86,6 +86,8 @@ Feuerwehrmann mit VR-Headset, Orange-Rot-Verlauf als Duotone, Schwarz/Weiß-Typo
 
 ## Regeln
 
+- **Nur Pico 4 Ultra** (Joachim 28.10.2026, laut 3D): FirefighterVR läuft ausschließlich auf Pico 4 Ultra. Adapter oder Modelle für VIVE-Tracker oder andere Headsets/Tracker werden nicht gebraucht. Der Strahlrohr-Controller v1 (VIVE-Tracker-Blockout, Fotos ND-1744 bis ND-1746) ist nur noch intern archiviert, keine Weiterentwicklung ([3d-kandidaten.md](../assets/3d-kandidaten.md)). Die Controller-Nachbauten ND-1720 bis ND-1741 laufen laut #158 noch in jedem Build; Entfernen nur per PR mit Joachims OK, bis dahin Katalog unverändert.
+
 - **Abstandsanzeige ist kein Debug-Overlay** (Joachim 25.10.2026, übermittelt von Video über One): Die gelbe Abstandsanzeige in FirefighterVR (z. B. „2.1 m“) ist ein Feature der App, zeigt den Abstand zum Feuer und darf in Reels zu sehen sein. Echte Debug-Overlays (Unreal-Warnungen, Entwickler-Graphen, Gizmos, NetMode-/Editor-Previews) bleiben ausgeschlossen.
 
 - **Videos:** FirefighterVR-Videos tragen kein Northdocks-Branding, nur das jeweilige Vertical. Eigennamen, Produktnamen und URLs müssen richtig ausgesprochen werden. Aussprache über das ElevenLabs-Wörterbuch „Northdocks“ (siehe [websites/_shared.md](../websites/_shared.md) Regel 18) (Patrick, Discord #videos, 22.10.2026, übermittelt von One)
