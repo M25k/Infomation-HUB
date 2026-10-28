@@ -361,7 +361,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / FireExtinguisher2023 | `1ZpiPhtEjRoEDmraNHqDKHdr-KMYpUhau` | 6 | 0 | 0 | 2026-02-23 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Hutewald | `1RoZqpwLJWrZpAX9PnMS79MOIB5kfLwG9` | 2 | 0 | 0 | 2023-03-08 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Sprungkissen | `1YVzEAJYpLX-kb2nG3OxtUYd7Vn3Uu4ur` | 4 | 0 | 0 | 2025-07-31 |
-| offen | 2 | Shared Drive FirefighterVR (Name vermutet) / IDEX | `1HQAnpbpdeTxGbIDSXjjMFiQVUVjHLBpq` | 0 | 1 | 0 | 2023-08-07 |
+| offen | 2 | Shared Drive FirefighterVR (Name vermutet) / [Herstellerbezug] (Ordnername anonymisiert (One 28.10.2026)) | `1HQAnpbpdeTxGbIDSXjjMFiQVUVjHLBpq` | 0 | 1 | 0 | 2023-08-07 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / Plugins | `1qefaxkpUGqKfTeOF5tXZ_7jgQT3HMEc4` | 1 | 0 | 0 | 2022-12-15 |
 | offen | 2 | Shared Drive FirefighterVR (Name vermutet) / videos | `1QF1eFmz56mVGAdcBZd0DNhNkQFuxYEIf` | 0 | 4 | 0,7 | 2022-12-22 |
 | offen | 9 | Shared Drive Marketing Sales | `0ABOEzlrOY6DqUk9PVA` | 101 | 88 | 0,6 | 2026-10-17 |
@@ -635,7 +635,7 @@ Erfasst: Anzahl Ordner/Dateien bis Ebene 2 (Inventurstand). Prio siehe [landkart
 | offen | 3 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / UKSH | `1iZOsACyxXSqC2ihynzz8nttz3VUake86` | 4 | 0 | 0 | 2023-06-22 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / BIT | `1BKzk7mY7WUQae9x_z5WQPbZJwODSYlni` | 17 | 1 | 0,0 | 2025-05-07 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Wilhelmshaven_VR | `1bzr5hYKQUmXbWZTEkvQ9cR-6V6ShuG6n` | 2 | 0 | 0 | 2024-12-05 |
-| offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Idex | `1EeYg1sZDtWf4TFloCtOoapIZrbqOnLcS` | 1 | 1 | 0 | 2022-11-07 |
+| offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / [Herstellerbezug] (Ordnername anonymisiert (One 28.10.2026)) | `1EeYg1sZDtWf4TFloCtOoapIZrbqOnLcS` | 1 | 1 | 0 | 2022-11-07 |
 | offen | 4 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Bayer | `1ETOhqkqjPlXs6N697J7BBkHXxIlJxixG` | 7 | 3 | 0,0 | 2026-04-14 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / Intel | `1BrSvugJLqmnwZYyZkiPn6P_GfuKWIrqy` | 1 | 0 | 0 | 2022-05-28 |
 | offen | 9 | Shared Drive Kundenprojekte (UKSH, BfS, Bayer, Merck, Spearhead u. a.) / 7th Space | `1wX1mAc8rd_yhYX20KBoXVp_YeLTNUvRT` | 1 | 0 | 0 | 2022-05-10 |
