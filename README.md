@@ -27,7 +27,7 @@ Dann die Wissensdateien unter [`knowledge/`](knowledge/).
 ### Arbeitsregeln für Bots
 
 - **Fail fast** (Weekly 28.10.2026, 00:25:22–00:27:02, laut One; W1028-21): Früh an Grenzen gehen, statt lange festzustecken. Bei einer Blockade das Prozesswissen (z. B. die Agent-MD-Datei) an ein anderes LLM geben und einen frischen Ansatz machen lassen; Ergebnisse vergleichen, LLMs auch gegeneinander antreten lassen. Vertraulichkeitsregeln dieses Repos gelten dabei weiter.
-- **Nur eigene oder umbaubare Tools** (Weekly 28.10.2026, 00:36:18–00:36:54, laut One; W1028-28): Nur Tools einsetzen, die wir selbst weiterentwickeln oder umbauen können.
+- **Nur eigene oder umbaubare Tools** (Weekly 28.10.2026, 00:36:18–00:36:54, laut One; W1028-28): Nur Tools einsetzen, die wir selbst weiterentwickeln oder umbauen können. Gilt für neue Tools; bestehende (ElevenLabs, Fab-Plugins) bleiben. Grundsatz Joachim (28.10.2026, laut Unreal Assets): kommerzielle und Closed-Source-Lösungen möglichst vermeiden, offene und kostenlose bevorzugen (entschieden von One, Delegation Joachim 25.10.2026; Weekly 28.10.2026).
 
 ## Inhalt
 
