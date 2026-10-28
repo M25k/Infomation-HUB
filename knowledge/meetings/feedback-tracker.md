@@ -1,6 +1,6 @@
 # Feedback-Tracker (Spiegel)
 
-Spiegel von `/workspace/weeklies/feedback-tracker.md` (geführt von One), Stand der Quelle: 23.10.2026, 09:20 (Berlin) (Europe/Berlin), neu gespiegelt 23.10.2026, 09:27; Nachtrag W1021-02, -16, -17, -25 am 27.10.2026 (Quelle: One, Runde 27.10.2026 (Asana); Stand der Quelle 27.10.2026, 09:00). Ablauf und Regeln: [README.md](README.md). Ohne Zitate; Zeitstempel = Position im Mitschnitt des Weekly 21.10.2026. Abweichend von der Quelle: W1021-11 bis -13 „erledigt“ mit Repo-Verweis (Wissen); W1021-21 ist eine Aufgabe (Rückmeldung an Janis), daher „zugestellt“; Namen nur mit Vornamen.
+Spiegel des Feedback-Trackers bei One (nicht im Repo, geführt von One), Stand der Quelle: 23.10.2026, 09:20 (Berlin) (Europe/Berlin), neu gespiegelt 23.10.2026, 09:27; Nachtrag W1021-02, -16, -17, -25 am 27.10.2026 (Quelle: One, Runde 27.10.2026 (Asana); Stand der Quelle 27.10.2026, 09:00). Ablauf und Regeln: [README.md](README.md). Ohne Zitate; Zeitstempel = Position im Mitschnitt des Weekly 21.10.2026. Abweichend von der Quelle: W1021-11 bis -13 „erledigt“ mit Repo-Verweis (Wissen); W1021-21 ist eine Aufgabe (Rückmeldung an Janis), daher „zugestellt“; Namen nur mit Vornamen.
 
 | ID | Datum/Zeit | Sprecher | Thema kurz | Zuständig | Status | Repo-Verweis |
 |---|---|---|---|---|---|---|

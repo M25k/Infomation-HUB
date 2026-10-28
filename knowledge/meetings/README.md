@@ -2,9 +2,9 @@
 
 Quelle: Joachim 23.10.2026, übermittelt von One.
 
-1. **Transkription:** Video transkribiert die Weeklies lokal auf dem Video-PC mit Sprechererkennung. Transkripte liegen auf der Box unter `/workspace/weeklies/`, nicht im Repo.
+1. **Transkription:** Video transkribiert die Weeklies lokal auf dem Video-PC mit Sprechererkennung. Transkripte liegen auf dem Bot-Rechner, nicht im Repo.
    - **Aufnahme:** Auf dem Northdocks-Discord-Server nimmt der Craig-Bot (craig.chat) Meetings auf (übermittelt von One, 23.10.2026).
-2. **Feedback-IDs:** Jeder Feedback-Punkt bekommt eine ID `W<MMDD>-NN` (z. B. `W1021-03`) mit Zeitstempel, Sprecher, Zuständigem und Status. Status: `neu`, `aktuell bestätigt`, `zugestellt`, `in Arbeit`, `erledigt`, `überholt`, `blockiert`, `Entscheidung offen (Joachim)`. „offen (Asana)“ gilt als `in Arbeit` (abgestimmt mit One, 23.10.2026). **Bedeutung „freigegeben“** (Joachim 23.10.2026, 09:23, übermittelt von One): Es gibt kein großes Problem, das Material darf raus. Kleines Feedback kann trotzdem noch kommen und fließt in spätere Versionen ein. Die Arbeitsliste führt One unter `/workspace/weeklies/feedback-tracker.md`; Wissen spiegelt sie nach [feedback-tracker.md](feedback-tracker.md).
+2. **Feedback-IDs:** Jeder Feedback-Punkt bekommt eine ID `W<MMDD>-NN` (z. B. `W1021-03`) mit Zeitstempel, Sprecher, Zuständigem und Status. Status: `neu`, `aktuell bestätigt`, `zugestellt`, `in Arbeit`, `erledigt`, `überholt`, `blockiert`, `Entscheidung offen (Joachim)`. „offen (Asana)“ gilt als `in Arbeit` (abgestimmt mit One, 23.10.2026). **Bedeutung „freigegeben“** (Joachim 23.10.2026, 09:23, übermittelt von One): Es gibt kein großes Problem, das Material darf raus. Kleines Feedback kann trotzdem noch kommen und fließt in spätere Versionen ein. Die Arbeitsliste führt One (Tracker bei One, nicht im Repo); Wissen spiegelt sie nach [feedback-tracker.md](feedback-tracker.md).
 3. **Aktualität:** Vor der Zuweisung bestätigt der zuständige Bot, dass der Punkt noch aktuell ist.
 4. **Menschen:** Punkte für Menschen werden Asana-Tasks in den ToDo-Sektionen.
 5. **Nachhaken:** Die Bot-Runde fragt dreimal täglich den Status offener IDs ab und hakt nach.

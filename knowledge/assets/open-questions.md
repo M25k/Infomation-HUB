@@ -30,7 +30,7 @@ Offene Freigabefragen zum Drive. An Joachim, sofern nicht anders vermerkt. Stand
 
 | 18 | Clip 03: Einblendung „Mit dem Deutschen Feuerwehrverband“ (12–17 s) entfernen, danach social-video | FFVR-0030, FFVR-0039 | erledigt: v3 ohne DFV katalogisiert (FFVR-0055 bis 0057, social-video); alte Stände als nicht verwenden markiert |
 
-| 19 | 3D-Suche FirefighterVR (Assets, 18.10.2026, Liste /workspace/asset-katalog/3d-suche-video-2026-10-18.md auf der Box): 355 Funde, keine Lizenz-/Readme-Datei. Offen: eigene Fotoscans (Kindsvater KW-235, Gloria KS 5 SE, Rosenbauer Selectflow)? Eigene Trackinghalterungen/Pico-Adapter? Hersteller-CAD AWG/Vetter? Fremdmaterial (Quixel-Megascans-Pflanzen, Epic City Sample, Scania „Low Poly Truck 3“, Carport, Oculus-Controller) | Joachims Generalvorgabe vom 18.10.2026 (README) erlaubt Video die Nutzung mit Discord-Kontrolle; schriftliche Belege fehlen weiter | zurückgestellt (ohne Besitzer): intern lassen (entschieden von One, Delegation Joachim 25.10.2026); bisher: offen, bei Gelegenheit klären |
+| 19 | 3D-Suche FirefighterVR (Assets, 18.10.2026, Liste `3d-suche-video-2026-10-18.md` bei Assets auf dem Bot-Rechner): 355 Funde, keine Lizenz-/Readme-Datei. Offen: eigene Fotoscans (Kindsvater KW-235, Gloria KS 5 SE, Rosenbauer Selectflow)? Eigene Trackinghalterungen/Pico-Adapter? Hersteller-CAD AWG/Vetter? Fremdmaterial (Quixel-Megascans-Pflanzen, Epic City Sample, Scania „Low Poly Truck 3“, Carport, Oculus-Controller) | Joachims Generalvorgabe vom 18.10.2026 (README) erlaubt Video die Nutzung mit Discord-Kontrolle; schriftliche Belege fehlen weiter | zurückgestellt (ohne Besitzer): intern lassen (entschieden von One, Delegation Joachim 25.10.2026); bisher: offen, bei Gelegenheit klären |
 
 ## VR-Stadttour Hannover (HVR, Lieferung Assets 18.10.2026)
 
@@ -89,7 +89,7 @@ Erledigt durch Joachims Vorgaben vom 18.10.2026: ID-Präfix (`HVR-`), Kunde/Refe
 
 ## Freigabe-Audit 19.10.2026
 
-Quelle: erster Vollaudit von Assets, 19.10.2026 (rein lesend, 23 Funde, davon 13 hoch, 7 mittel, 3 niedrig). Bericht vorerst auf der Box unter `/workspace/asset-katalog/audit/freigabe-audit-2026-10-19.md`, bis „Northdocks IT“ existiert. Hier nur Ordnernamen und IDs, keine Namen oder Adressen externer Bearbeiter. Projects (`1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN`) hat laut Audit keine Linkfreigabe mehr (Nr. 56 bestätigt).
+Quelle: erster Vollaudit von Assets, 19.10.2026 (rein lesend, 23 Funde, davon 13 hoch, 7 mittel, 3 niedrig). Bericht `freigabe-audit-2026-10-19.md` vorerst bei Assets auf dem Bot-Rechner (nicht im Repo), bis „Northdocks IT“ existiert. Hier nur Ordnernamen und IDs, keine Namen oder Adressen externer Bearbeiter. Projects (`1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN`) hat laut Audit keine Linkfreigabe mehr (Nr. 56 bestätigt).
 
 | Nr. | Frage | Kontext | Status |
 |---|---|---|---|
@@ -115,7 +115,7 @@ Hinweis: Die 85 Merck-Bilder auf angebot (Kundenreferenz) sind nur per Stichprob
 
 ## Freigabe-Audit 20.10.2026 (Delta)
 
-Quelle: Delta-Audit von Assets, 20.10.2026 (90 Objekte, rein lesend, 3 neue Funde, alle hoch). Bericht auf der Box unter `/workspace/asset-katalog/audit/freigabe-audit-2026-10-20.md`. Keine Namen oder Adressen externer Bearbeiter.
+Quelle: Delta-Audit von Assets, 20.10.2026 (90 Objekte, rein lesend, 3 neue Funde, alle hoch). Bericht `freigabe-audit-2026-10-20.md` bei Assets auf dem Bot-Rechner (nicht im Repo). Keine Namen oder Adressen externer Bearbeiter.
 
 | Nr. | Frage | Kontext | Status |
 |---|---|---|---|

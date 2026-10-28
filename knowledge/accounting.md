@@ -12,7 +12,7 @@ MCP: `freeagent-mcp-server` in `C:\Users\joach\.cursor\mcp.json` (nicht in diese
 
 Stand 30.08.2026: API lesbar (OAuth). Tax-Timeline-Endpunkt 403, ignoriert. Nur list/get/report.
 
-Stand 17.10.2026: Zusätzlich read-only Zugriff für Agents über den Python-Helper `/workspace/freeagent/fa.py` auf der Box (Regel [.cursor/rules/freeagent.mdc](../.cursor/rules/freeagent.mdc)). Im FA-Konto sind **keine Bills** (Eingangsrechnungen) erfasst; der Bankfeed zeigt nur Zahlungseingänge zu Ausgangsrechnungen. Lieferantenrechnungen, Finanzamt und Forschungszulage sind dort nicht prüfbar.
+Stand 17.10.2026: Zusätzlich read-only Zugriff für Agents über den Python-Helper auf dem Bot-Rechner (Pfad in der Regel) (Regel [.cursor/rules/freeagent.mdc](../.cursor/rules/freeagent.mdc)). Im FA-Konto sind **keine Bills** (Eingangsrechnungen) erfasst; der Bankfeed zeigt nur Zahlungseingänge zu Ausgangsrechnungen. Lieferantenrechnungen, Finanzamt und Forschungszulage sind dort nicht prüfbar.
 
 ## Schreibregel
 

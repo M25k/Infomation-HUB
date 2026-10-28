@@ -1,6 +1,6 @@
 # Landkarte Northdocks-Drive (Runde 0)
 
-Inventur vom 18.10.2026, nur Metadaten (Namen, Typen, Größen, Änderungsdaten). Keine Datei geöffnet, im Drive nichts verändert. Rohdaten liegen außerhalb des Repos auf der Box unter `/workspace/drive-inventory/`.
+Inventur vom 18.10.2026, nur Metadaten (Namen, Typen, Größen, Änderungsdaten). Keine Datei geöffnet, im Drive nichts verändert. Rohdaten liegen außerhalb des Repos bei Assets auf dem Bot-Rechner.
 
 ## Umfang und Konto
 

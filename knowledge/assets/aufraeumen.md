@@ -6,7 +6,7 @@ Gesammelt von Northdocks Assets, gebündelt von Northdocks Wissen. **Nur mit Joa
 
 ## VR-Stadttour Hannover (Hannover_VR, `1FEHljXN7eCgo3S16RXGvuAK6X5ZUTWFn`), 18.10.2026
 
-Umsetzung durch Assets am 18.10.2026, 19:17–19:22 (MESZ). Protokoll auf der Box: `/workspace/asset-katalog/aufraeumen-umsetzung-2026-10-18.md`. **71 Dateien im Drive-Papierkorb, rund 2,3 GB (2.268,8 MB), 30 Tage wiederherstellbar**; endgültig gelöscht wurde nichts. Vor jedem Schritt Metadaten geprüft, bei Duplikaten auch, ob das Original noch existiert.
+Umsetzung durch Assets am 18.10.2026, 19:17–19:22 (MESZ). Protokoll `aufraeumen-umsetzung-2026-10-18.md` bei Assets auf dem Bot-Rechner (nicht im Repo). **71 Dateien im Drive-Papierkorb, rund 2,3 GB (2.268,8 MB), 30 Tage wiederherstellbar**; endgültig gelöscht wurde nichts. Vor jedem Schritt Metadaten geprüft, bei Duplikaten auch, ob das Original noch existiert.
 
 | # | Vorschlag | Details | Status |
 |---|---|---|---|
@@ -27,7 +27,7 @@ Umsetzung durch Assets am 18.10.2026, 19:17–19:22 (MESZ). Protokoll auf der Bo
 
 ### Nachsichtung Hannover_VR: Vorschläge 10 bis 103 (offen, nur mit Joachims OK)
 
-Gesammelt von Assets am 18.10.2026 (Datei auf der Box: `/workspace/asset-katalog/hannovervr/aufraeumvorschlaege-nachtrag-2026-10-18.md`). **94 Punkte, rund 9,6 GB, alle offen.** Nichts umgesetzt. Duplikat-Kriterium: gleicher Name und gleiche Größe in Byte (kein MD5). Papierkorb statt Löschen, Umbenennen nur nach Pfadprüfung. Die Nummern 10 bis 103 gelten für die Zeilen der Tabellen unten in ihrer Reihenfolge.
+Gesammelt von Assets am 18.10.2026 (Datei `aufraeumvorschlaege-nachtrag-2026-10-18.md` bei Assets auf dem Bot-Rechner, nicht im Repo). **94 Punkte, rund 9,6 GB, alle offen.** Nichts umgesetzt. Duplikat-Kriterium: gleicher Name und gleiche Größe in Byte (kein MD5). Papierkorb statt Löschen, Umbenennen nur nach Pfadprüfung. Die Nummern 10 bis 103 gelten für die Zeilen der Tabellen unten in ihrer Reihenfolge.
 
 #### Übersicht
 
@@ -189,7 +189,7 @@ Hinweis: Fluid-Cache-Ordner wurden nicht vollständig gelistet, die echte Größ
 
 ## CI-Dateien: 499 exakte Duplikate (Assets, 19.10.2026)
 
-Gesammelt von Northdocks Assets bei der CI-Suche (Datei auf der Box: `/workspace/asset-katalog/ci/aufraeumen-ci.md`), übernommen von Wissen am 19.10.2026. **Alle Punkte offen, nur mit Joachims OK umsetzen.** Im Katalog ([assets.csv](assets.csv)) steht jeweils nur das Original; die Duplikate haben keine eigene ID. Einige Links in den Markenblättern ([../brand/](../brand/README.md)) zeigen auf Duplikate, siehe dort.
+Gesammelt von Northdocks Assets bei der CI-Suche (Datei `aufraeumen-ci.md` bei Assets auf dem Bot-Rechner, nicht im Repo), übernommen von Wissen am 19.10.2026. **Alle Punkte offen, nur mit Joachims OK umsetzen.** Im Katalog ([assets.csv](assets.csv)) steht jeweils nur das Original; die Duplikate haben keine eigene ID. Einige Links in den Markenblättern ([../brand/](../brand/README.md)) zeigen auf Duplikate, siehe dort.
 
 Stand: 2026-10-19 06:09 (Europe/Berlin, UTC+2)
 
