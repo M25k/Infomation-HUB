@@ -98,6 +98,12 @@ Keine 3D-Quelldateien in Draeger, Drager, Dräger, Evonik, BASF, Infraserv und M
 
 - **Image-to-3D-Standard:** Hunyuan3D-2. Den EU-Ausschluss in der Lizenz hat Joachim bewusst ignoriert (Entscheidung Joachim, 20.10.2026).
 - **Ausweichmodell:** TRELLIS ohne nvdiffrast und ohne Gaussian-Bausteine (kommerziell sauber).
+- **Werkzeugtest 28.10.2026 (3D):**
+  - TRELLIS.2 braucht mindestens 24 GB VRAM.
+  - DINOv3 und RMBG-2.0 sind gated; RMBG-2.0 steht zusätzlich unter CC BY-NC (nicht kommerziell).
+  - nvdiffrast/nvdiffrec im Export: NC-Lizenz (nicht kommerziell).
+  - TRELLIS v1 läuft ohne NC-Module auf 8 GB VRAM und ist kommerziell nutzbar (bestätigt das Ausweichmodell oben).
+  - Meshy: exklusiv war nur Rigging plus Animation aus einer lizenzierten Bewegungsbibliothek.
 - **Vorschauen:** SF3D (Stability Community License).
 - **Ablage:** Fertige 3D-Blockouts liegen im Shared Drive „Marketing Sales“ im Ordner „3D“. Renke bekommt die .blend gepackt plus FBX und GLB.
 - **Hersteller-CAD** (z. B. AWG-STEP) bleibt **intern**.
