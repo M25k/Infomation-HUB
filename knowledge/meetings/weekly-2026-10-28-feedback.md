@@ -48,6 +48,6 @@ Vertraulich: Strahlrohr (Herstellerbezug) und CAD-Daten bleiben intern. Personal
 | W1028-38 | 00:53:44–00:54:07 | Joachim | Patrick liefert ca. fünf Leitsätze für Joachims HFUK-Nord-Seminar (06.11.) | Patrick Reschke | neu | https://app.asana.com/1/8864272155433/project/867396671345009/task/1219983017232554 (fällig 04.11.) |
 | W1028-39 | 00:56:46–00:58:14 | Patrick | SVG Nord zweifelt wegen DGUV, Patrick antwortet mit Argumentation | Patrick Reschke | neu | bestehender Task: https://app.asana.com/0/0/1218314731092242/f |
 | W1028-40 | 00:04:37–00:05:15, 00:07:32 | Moritz / Joachim | Flashover-Vergleich (zwei Räume, Zeitraffer) als Reel-Material, nur nach Freigabe, ohne Debug | Video | neu |  |
-| W1028-41 | 00:27:50–00:29:54 | Renke / Patrick | Klassiker-Kleidung im Planspiel als gemeinsamer Post (laut Asana vereinbart), nur Entwurf, nach Freigabe | Social | neu | zu W1021-10 |
+| W1028-41 | 00:27:50–00:29:54 | Renke / Patrick | Klassiker-Kleidung im Planspiel als gemeinsamer Post (laut Asana vereinbart), nur Entwurf, nach Freigabe | Social | neu | zu W1021-10; Joachim 28.10.2026 19:15 (Chat Social): Klassiker-Post noch nicht, erst Partnerschaft klären |
 
 Stand der Quelle 28.10.2026, 16:28 (Berlin): 41 Punkte W1028, alle zugewiesen; 4 neue Asana-Tasks, 12 Punkte auf bestehende Tasks verlinkt (laut One).
