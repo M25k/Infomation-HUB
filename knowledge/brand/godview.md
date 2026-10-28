@@ -39,6 +39,7 @@ Wortmarke wirkt wie Oswald Bold. Website godview.solutions: Oswald, Inter, Space
 - **Endkarte:** GodView-Reels enden nur mit der GodView-Wortmarke, ohne Northdocks-Logo. (Joachim 22.10.2026, 12:30 UTC+3, übermittelt von Video) Im Voiceover darf „von Northdocks“ gesprochen bleiben; im Bild nur die GodView-Wortmarke. (Joachim 22.10.2026, 12:47 UTC+3, übermittelt von Video) **Bestätigt:** „von Northdocks“ bleibt im GodView-Voiceover; eine anderslautende Entscheidung von One ist zurückgezogen (Joachim 26.10.2026, über One). Konkretisierung von [document-rules.md](../document-rules.md) Nr. 9 (eine CI pro Reel).
 - **Freigabe:** Alle GodView-Videos sind freigegeben, auch für northdocks.com/reels/: GV-0014 (Reel 17 v4) und GV-0015 (Dom-Reel v3, Reel 16) (Joachim 22.10.2026, übermittelt von One).
 - **Notiz Kameraflüge:** ~~Ab Montag (26.10.2026) klärt der Bot GodView App das Rendern der Cesium-Tiles (Dom und andere Modelle) für neue Kameraflüge (Joachim 22.10.2026, übermittelt von One).~~ **Überholt:** Das Rendern der Cesium-Tiles für Kameraflüge übernimmt der Bot GV Render mit `gv-render` (siehe Abschnitt Renderer) (Joachim 23.10.2026, übermittelt von One). GodView App bleibt Admin der Test-Organisation.
+- **Dom-Flyover:** zurückgestellt (entschieden von One, Delegation Joachim 25.10.2026), 28.10.2026.
 
 ## Renderer gv-render (Bot GV Render)
 
@@ -72,6 +73,7 @@ Wortmarke wirkt wie Oswald Bold. Website godview.solutions: Oswald, Inter, Space
 
 - **Code-Stand `master` = `db36925`:** LAS/LAZ-Import (py3dtiles, lokales Koordinatensystem), CesiumJS 1.146, Ellipsoid-Fallback für „Position festlegen“.
 - **Produktion** läuft noch auf `2ef827e`. Deploy wartet auf den fertigen AGB-Text, weil Migration 039 jedes Konto beim nächsten Aufruf die AGB annehmen lässt.
+- **Deploy-Reihenfolge:** GodView-Deploy direkt nach dem fertigen AGB-Text; Joachim führt den Deploy selbst aus. Der Glockenklöppel kommt danach (entschieden von One, Delegation Joachim 25.10.2026), 28.10.2026.
 - **Stadt-Assets:** Import als 3D Tiles 1.1 im ZIP (`tileset.json` im Root, glb, `EXT_mesh_gpu_instancing`); Georeferenzierung per ECEF-Root-Transform, Höhenbezug GCG2016. Getestet 28.10.2026 mit Rendsburg (GodView App zusammen mit 3D).
 - **Bürrig-Punktwolke:** nur intern im GodView-Testlabor, nicht öffentlich (Bürrig-Regel, [tabu.md](../assets/tabu.md)) (Joachim 28.10.2026, über One).
 
