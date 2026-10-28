@@ -61,8 +61,14 @@ Wortmarke wirkt wie Oswald Bold. Website godview.solutions: Oswald, Inter, Space
 - **Test-Uploads (Joachim, 26.10.2026):** Bei Tests höchstens ein Tileset-Upload pro 30 Minuten, weil der Server bei paralleler Last kippt. Eine Upload-Warteschlange ist als P1 geplant.
 - **Punktwolken ohne Koordinatensystem (Joachim, 26.10.2026):** bleiben im lokalen System und werden in GodView mit „Position festlegen“ bzw. Parenting platziert.
 - **Original-Punktwolken (nur intern, Kundendaten):** liegen als LAZ (ohne CRS, aus E57 konvertiert) auf ND-PC-80 im Konvertierungsordner, darunter Kölner Dom (17 Teilscans in einem gemeinsamen lokalen System) und Holcim Höver v001/v002. Intensität und Klassifikation sind leer, nur RGB ist befüllt. Kein Pfad im Repo.
-- **Code-Stand (Momentaufnahme 26.10.2026, Repo `ND-GodViewWeb`):** Joachim hat die PRs #6–8 und #17–22 nach `master` gemergt (`master` = `d6ce751`); die Produktion läuft noch auf `2ef827e`. Offen: PR #23 (Tour-Verweildauer) und PR #24 (LAS-Import mit lokalem Koordinatensystem).
+- ~~**Code-Stand (Momentaufnahme 26.10.2026, Repo `ND-GodViewWeb`):** Joachim hat die PRs #6–8 und #17–22 nach `master` gemergt (`master` = `d6ce751`); die Produktion läuft noch auf `2ef827e`. Offen: PR #23 (Tour-Verweildauer) und PR #24 (LAS-Import mit lokalem Koordinatensystem).~~ **Überholt durch Stand 28.10.2026 (unten).**
 - **Rendsburg:** Höhenbezug künftig GCG2016 (entschieden von One, Delegation Joachim 25.10.2026).
+
+## Technik-Stand (intern; Quelle: GodView App, Stand 28.10.2026)
+
+- **Code-Stand `master` = `db36925`:** LAS/LAZ-Import (py3dtiles, lokales Koordinatensystem), CesiumJS 1.146, Ellipsoid-Fallback für „Position festlegen“.
+- **Produktion** läuft noch auf `2ef827e`. Deploy wartet auf den fertigen AGB-Text, weil Migration 039 jedes Konto beim nächsten Aufruf die AGB annehmen lässt.
+- **Stadt-Assets:** Import als 3D Tiles 1.1 im ZIP (`tileset.json` im Root, glb, `EXT_mesh_gpu_instancing`); Georeferenzierung per ECEF-Root-Transform, Höhenbezug GCG2016. Getestet 28.10.2026 mit Rendsburg (GodView App zusammen mit 3D).
 
 ## Offen
 
