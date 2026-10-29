@@ -23,3 +23,4 @@ Rolle: Schul-CPR auf FirefighterVR-Haptik (Puppe, offline). Launch/Warteliste 20
 
 - Stiftung-Gesprächsstand intern
 - WhatsApp/Meditrain-9996714 als Schulkontakt erfinden
+- **Freigabe Textänderungen (Joachim 29.10.2026 08:58 direkt im Chat von One; Umsetzung Web, als ein PR):** Gedankenstrich in den Seitentiteln von Impressum und Datenschutz durch „|“ ersetzen.

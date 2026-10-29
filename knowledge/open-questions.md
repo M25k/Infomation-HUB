@@ -109,7 +109,7 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 
 | # | Frage | Kontext und Vorschlag | Status |
 |---|---|---|---|
-| 160 | Lessons-Learned-Regelset: ein zentrales Git-Repo für alle Projekte? | Regel aus dem Weekly: In jedem Projekt ein Lessons-Learned-Regelset führen, in dem Korrekturen als Regel festgehalten und regelmäßig durchgesehen werden (Weekly 28.10.2026, 00:32:44–00:34:36, laut One; W1028-26). Offen ist, ob es zentral in einem eigenen Git-Repo liegt und die Projekte darauf verweisen oder je Projekt (bzw. im Cursor-Root) gepflegt wird. Vorschlag: zentrales Git-Repo, Projekte verweisen darauf (so im Weekly beschrieben). Nur vorgemerkt, Entscheidung Joachim. | offen (Joachim) |
+| 160 | Lessons-Learned-Regelset: ein zentrales Git-Repo für alle Projekte? | Regel aus dem Weekly: In jedem Projekt ein Lessons-Learned-Regelset führen, in dem Korrekturen als Regel festgehalten und regelmäßig durchgesehen werden (Weekly 28.10.2026, 00:32:44–00:34:36, laut One; W1028-26). Offen ist, ob es zentral in einem eigenen Git-Repo liegt und die Projekte darauf verweisen oder je Projekt (bzw. im Cursor-Root) gepflegt wird. Vorschlag: zentrales Git-Repo, Projekte verweisen darauf (so im Weekly beschrieben). Nur vorgemerkt, Entscheidung Joachim. Joachim 29.10.2026 08:58 direkt im Chat von One: „we can try something like this“. Versuch freigegeben, Vorschlag in Arbeit (Wissen). | offen (Versuch freigegeben, Vorschlag in Arbeit) |
 
 ### Fahrzeugaufbau-CAD 2014 (Assets, 28.10.2026)
 

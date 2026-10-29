@@ -97,3 +97,4 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 ## Versand (intern)
 
 - **Versandform je Setup** (Weekly 28.10.2026, 00:20:47–00:21:10, laut One; W1028-18): Ein Feuerlöscher-Setup wird im Rucksack versendet, ein Strahlrohr-Setup im Koffer. Ein Basis-Set mit Strahlrohradapter, aber ohne Strahlrohr, gilt ebenfalls als Koffer-Setup. Nur intern (Bestellprozess), nicht für die Website.
+- **Freigabe Textänderungen (Joachim 29.10.2026 08:58 direkt im Chat von One; Umsetzung Web, als ein PR):** DGUV-205-023-Wortlaut in FAQ, /brandschutz/, News und /ar/brandschutz/ auf „sieht vor … der Betrieb entscheidet per Gefährdungsbeurteilung“ umstellen (s. [claims.md](../claims.md), Interne Hinweise); Rucksack nur beim Feuerlöscher-Setup nennen, Basis-Set nur mit Koffer.
