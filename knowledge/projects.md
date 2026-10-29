@@ -38,6 +38,8 @@ Reseller-Kanal intern: Mailbox `partner@northdocks.com`. **Händler-Kundenschutz
 
 **Vertrieb FirefighterVR, Stand Weekly 21.10.2026 (intern belegt, nicht öffentlich)** (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von One): **CropEnergies (Südzucker)** hat 2 Setups gekauft und 3 gemietet, davon werden 2 behalten. **„Der Klassiker“** (Bekleidung/Uniformen, Kontakt über den Händler Karl Henkel) brachte 5 FirefighterVR-Leads auf der Hausmesse.
 
+**Händlernetz FirefighterVR, Stand 28.10.2026 (intern, laut One 29.10.2026; W1028-19):** Bayern nur Massong Erlangen; Berlin ohne Partner; im Norden BTN Tessin (Partnervereinbarung als Stützpunktpartner MV/SH) mit offenem Call. Nächster Schritt: eigene Partneransprache an einen Händler im Raum München, getrennt von jeder Beschaffungsanfrage.
+
 ## C. Medizin / Rescue
 
 | Vorhaben | Auftraggeber | Zeitraum | Gegenstand | Status |
