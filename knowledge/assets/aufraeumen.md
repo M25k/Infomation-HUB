@@ -697,4 +697,4 @@ Nur gesammelt, nichts umgesetzt; umsetzen nur mit Joachims OK. Quelle: Aufräumv
 - **R10-02:** Mögliche Inhaltsduplikate Events (Wurzel) und Bilder (gleiche Dateinamen 2018–2019, andere Drive-IDs). Vorschlag: Byte-Vergleich, eine Seite als Master.
 - **R10-03:** Wiederholung R2-14: 7 Texturen mit Änderungsjahr 3427, ohne Katalogeintrag. Ursache klären (Metadaten-Artefakt).
 - **R10-04:** Ergänzung zu R9-07: .blend1-Autosaves (RTW v013, WasteBin, Der_Klassiker) ohne Eintrag. Löschen oder ignorieren.
-- **R10-05:** Stand v12 (FFVR-1064/1065) liegt im vertraulichen Herstellerordner unter v11. Vorschlag: Ordner v12 anlegen (#164).
+- **R10-05:** Stand v12 (FFVR-1064/1065) liegt im vertraulichen Herstellerordner unter v11. Laut Assets 29.10.2026: kein v12-Ordner vorhanden, die ZIPs sind Nachfolger von v11 (keine Duplikate); CHANGELOG, README und Checkliste fehlen. Vorschlag: Ordner v12 anlegen und die beiden ZIPs dorthin verschieben, nur mit OK von Joachim (#164).
