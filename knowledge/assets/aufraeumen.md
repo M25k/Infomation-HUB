@@ -690,3 +690,11 @@ Nur gesammelt, nichts umgesetzt; umsetzen nur mit Joachims OK. Quelle: Aufräumv
 - **R9-08:** Ergänzung zu R4-01/R7-05: Im vertraulichen Herstellerordner liegen die Modellstände v9, v10 und v11 nebeneinander, teils byte-gleich mit älteren Ständen (FFVR-0998/0999 = FFVR-0708/0714); v10/v11: ~~FFVR-0989 bis FFVR-0999, FFVR-1007, FFVR-1011, FFVR-1012, FFVR-1014 bis FFVR-1020~~ FFVR-0989 bis FFVR-0992, FFVR-0994 bis FFVR-0999, FFVR-1007, FFVR-1011, FFVR-1012, FFVR-1014, FFVR-1015, FFVR-1017 bis FFVR-1020 (korrigiert laut Assets 28.10.2026; FFVR-0993 und FFVR-1016 gehören nicht dazu). Vorschlag: nach Abnahme von v11 ältere Stände in „_alt“ verschieben; alles bleibt vertraulich.
 - **R9-09:** Shared Drive TEMA: Word-Temporärdatei (16,8 MiB) im Deliverable-Ordner D1.4 (`1yW7fN5QcQbb-5Z8zbrNlwd2u2iHThZUj`) und 4 Pilotdaten-Pakete in Missions-2026 (zusammen 17.201,3 MiB; `1UyQ9QwzjOZgBxDjdbvCVVrZOKuz_MoJv`, `1g7wlou5Eo_kOBFk850Y9HnB62ho4l5EL`, `1Zg4ZX-5pkAn_wWRa397L62tfMNzc-GfW`, `11O-eT1tZeEmrL6zvGcBDVs6q_bscoJY8`). Vorschlag: die Temporärdatei kann weg; die Pakete gehören dem Konsortium, nur prüfen, ob sie in einem Konsortiums-Drive mit 97 externen Konten liegen sollen.
 - **R9-10:** Asset-Library / Characters: neue Figur „Der_Klassiker“ ohne Herkunftsangabe, FFVR-0993. Vorschlag: README mit Quelle und Lizenz dazulegen (#155).
+
+## Runde 10 (Assets, 29.10.2026)
+
+- **R10-01:** 4 Dateien mit Bürrig-Bezug in Shared Drive FirefighterVR / FFVR Videos (`14PysMSwucp6vYUHsD-d0aahDlurHq-7V`), außerhalb des gesperrten Bereichs: `1RD_8ExZelncTHLsC-cPtlqdgeqd-y5NJ`, `1RAait7RweXncUtxYKeAlmNdB4lqqNP1U`, `1RNM13Q_aFPM6vHddLKKSGm_T-WCo2Nd5`, `1RJbTcD5kOCxAHIhB_OUaG15SjFPbOIIX`. Tabu, nicht katalogisiert. Vorschlag: in den gesperrten Bereich verschieben (#162).
+- **R10-02:** Mögliche Inhaltsduplikate Events (Wurzel) und Bilder (gleiche Dateinamen 2018–2019, andere Drive-IDs). Vorschlag: Byte-Vergleich, eine Seite als Master.
+- **R10-03:** Wiederholung R2-14: 7 Texturen mit Änderungsjahr 3427, ohne Katalogeintrag. Ursache klären (Metadaten-Artefakt).
+- **R10-04:** Ergänzung zu R9-07: .blend1-Autosaves (RTW v013, WasteBin, Der_Klassiker) ohne Eintrag. Löschen oder ignorieren.
+- **R10-05:** Stand v12 (FFVR-1064/1065) liegt im vertraulichen Herstellerordner unter v11. Vorschlag: Ordner v12 anlegen (#164).
