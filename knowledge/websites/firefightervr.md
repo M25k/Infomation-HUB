@@ -79,6 +79,7 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 ## Live-Stand 20.10.2026 (Web) und Abgleich Cursor-Chat ND-NB-20
 
 - Suchseiten `/tr/brandschutz/` und `/pl/brandschutz/` live und in der Sitemap, nicht verlinkt. `/ar/brandschutz/` live, aber **nicht in der Sitemap** (offen).
+- **/ar/brandschutz/: arabische Fassung des DGUV-Wortlauts** (Joachim 29.10.2026 09:07 direkt im Chat von Web; live laut Web; Gegenlesung durch eine arabischsprachige Person offen): „الواقع الافتراضي يكمّل التدريب الأولي ولا يحلّ محله: تنصّ معلومات DGUV رقم 205-023 على أن يقوم كل شخص في التدريب الأولي بإطفاء لهب حقيقي بنفسه (مثل جهاز تدريب على الإطفاء يعمل بالغاز)، وتقرّر المنشأة ذلك بناءً على تقييم المخاطر.“ Rückübersetzung: „VR ergänzt die Erstausbildung und ersetzt sie nicht: Die DGUV Information 205-023 sieht vor, dass in der Erstausbildung jede Person selbst eine reale Flamme löscht (z. B. gasbetriebener Löschtrainer); der Betrieb entscheidet auf Grundlage der Gefährdungsbeurteilung.“ Steht in Zeile 529 (Absatz); Zeile 481 (Listenpunkt) trägt den ersten Satzteil.
 - FAQ-Kategorie „Standorte“ live: Vorführorte Kabelsketal (BTL), Fritz Massong, MEDIGUYS, B-Safe (Mainz), FW Werl, KFV Northeim (laut Chat 10 Orte inkl. Northdocks Monheim).
 - Basis-Set auf der Startseite: „Pico 4 Ultra Enterprise“, ohne „16 GB“.
 - Tracking: AppLovin `generate_lead` und Formspree-Formular auf `/brandschutz/` und `/ar/brandschutz/`; AppLovin steht in der Datenschutzerklärung. Kein Pixel-ID hier.
