@@ -93,6 +93,8 @@ Regeln 63 bis 70: laut 3D, 29.10.2026 (Wortlaut aus CAD_zu_Echtzeit.md). Regel 6
 Regeln 23 bis 31 und die Änderung an Regel 2: Review Marcel v8, 26.10.2026, 86/100, übermittelt von 3D. Regel 25 ersetzt in der Praxis das Löschen verdeckter Flächen (Culling, Regel 22).
 
 **Prozess (Joachim, 21.10.2026):**
+- **Ergebnis-Meldungen visuell** („This is not working I want something to see to review not numbers“ (Joachim 29.10.2026 19:02 direkt im Chat von One)): Jede Ergebnis-Meldung zu 3D-/Unreal-Assets an Joachim ist visuell: Bilder oder Videos, zuerst das Visuelle, höchstens eine Zeile Text; Noten und Messwerte bleiben intern. Bevorzugt Unreal-Renderings bzw. Turntables von Unreal Assets (Details laut One/3D 29.10.2026; nicht im Wortlaut).
+- **Sofort-Vorschau je Version** („Hm seems this takes very long maybe we did something wrong even the first version of the jet pipe was a good result and I got proper renderings of it immediately“ (Joachim 29.10.2026 19:05 direkt im Chat von One)): Der 3D-Bot rendert zu jeder Version sofort selbst Vorschauen (still_16x9 und ein kurzes Turntable-MP4, jeweils Beauty und Wireframe) und schickt sie gleich weiter. Das Review von Unreal Assets läuft parallel und blockiert die Meldung nicht. (Formate und Ablauf laut One/3D 29.10.2026; Joachims Wortlaut nennt nur die sofortigen Renderings.)
 - Die [Abgabe-Checkliste](cad-zu-echtzeit-abgabe-checkliste.md) vor jeder Übergabe abhaken und ausgefüllt ins Exportpaket legen.
 - Jedes Review wird als **allgemeine Regel** formuliert (nicht nur für das eine Modell) und im Changelog mit Datum, Quelle und Regel eingetragen.
 - Nach jedem Review Marcel Timm um eine Punktzahl (0 bis 100) bitten und sie im Changelog vermerken.
