@@ -4,10 +4,11 @@ Status: **bestätigt** von Joachim am 18.10.2026 (über One). Die Bürrig-Regel 
 
 ## Was tabu heißt
 
+- **Datenzugriff in Firmenkonten** („we need to chnage this. all company accounts are fine to acces data move and edit it.“ (Joachim 29.10.2026 09:06 direkt im Chat von One); „only thing that is imprted publik or external sharing“ (Joachim 29.10.2026 09:07 direkt im Chat von One)): Bots dürfen in allen Northdocks-Firmenkonten auf Daten zugreifen, sie verschieben und bearbeiten, ohne den Eigentümer zu fragen. Joachims OK braucht nur das Öffentlichmachen oder externe Teilen. Löschen ist im Wortlaut nicht ausdrücklich genannt; das und die Geltung für Finanz-/Personal-Ordner und den Bielefeld-Angebotsordner klärt [#169](open-questions.md). Die Tabu-Liste ([tabu.md](tabu.md)) bleibt unverändert; sie regelt Öffentlichkeit und Nutzung, nicht den Zugriff.
 - Ordner wie Finanzen, Personal und Vergleichbares sind tabu (Joachim über One, 18.10.2026).
 - Zugriff ist erlaubt, um eine konkrete Frage zu klären. Informationen daraus werden nie ohne Abstimmung mit Joachim freigegeben oder weitergegeben.
 - Northdocks Assets sichtet und rendert aus Tabu-Ordnern nichts.
-- Ausnahme Freigabe-Audit (Joachim, 19.10.2026): Assets liest bei Tabu-Ordnern rein lesend nur die Berechtigungen des Ordners selbst, keine Inhalte, und ändert keine Freigaben. Funde gehen an Joachim, Patrick und Wissen (siehe [README.md](README.md), Rollen). Schreiben darf Assets nur in „Assets Output“ und, für Audit-Berichte, in „Northdocks IT“.
+- Ausnahme Freigabe-Audit (Joachim, 19.10.2026): Assets liest bei Tabu-Ordnern rein lesend nur die Berechtigungen des Ordners selbst, keine Inhalte, und ändert keine Freigaben. Funde gehen an Joachim, Patrick und Wissen (siehe [README.md](README.md), Rollen). ~~Schreiben darf Assets nur in „Assets Output“ und, für Audit-Berichte, in „Northdocks IT“.~~ Überholt, s. Regel „Datenzugriff in Firmenkonten“ unten und im [Repo-README](../../README.md) (Arbeitsregeln für Bots).
 - Bürrig (Currenta): Bilder, Einsatzpläne und Einsatzbereitschaftsdaten sind immer tabu, der Name darf genannt werden. Andere Currenta-Standorte (Leverkusen, Dormagen, Krefeld) fallen nicht unter diese Regel (Joachim, 18.10.2026); sicherheitsrelevantes Material von dort bleibt aber nur intern.
 - **Bürrig-Punktwolke in GodView:** nur intern im GodView-Testlabor („ND Testlabor“), nie öffentlich, keine Bilder oder Renders daraus nach außen; passt zur Bürrig-Regel (Joachim 28.10.2026, über One).
 - Personen und Kundenlogos sind kein Tabu-Grund (Joachim über One, 18.10.2026).
