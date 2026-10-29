@@ -59,6 +59,14 @@ Quelle: Bot 3D, 21.10.2026 (Joachim, aus dem Review v3 von Marcel Timm). Vor jed
 | 53 | Texeldichte als Gate (R58): sichtbarer p50 außen 4–5 px/cm, Greifbereich und Schrift 12 px/cm, Innenraum ≥ 3 px/cm; Lack über Tiling/Trim-Sheet (= 3D Nr. 42) | `texel.json` |
 | 54 | Budget nach Objektart (R61): Fahrzeug LOD0 außen ≤ 200k UE-Verts (+30 % nur belegt), Innenraum und Geräteräume extra ≤ 50k; LODn nur aus eingefrorenem LOD0, 0 % Rückseiten (R56); Fahrzeug Z = 0 je Aufstandspunkt (R57) (= 3D Nr. 43) | `reimport_check.json`, Budgettabelle |
 | 55 | Aussagen belegt (R59), Marken aus Fremd-CAD nur intern; nach einer Unterbrechung Gates erneut durchlaufen (R60) (= 3D Nr. 44) | README mit Belegen, Gate-Status im Zwischenstand |
+| 56 | **Build Nanite AUS (R63)**: README und jede weitergegebene Import-Einstellung nennen „Build Nanite: AUS“ (`build_nanite`); UE-Review nur mit Build Nanite aus (= 3D Nr. 45) | README_Unreal.md, Asana-Entwurf |
+| 57 | **UCX robust (R64)**: `ucx_check.py` (v13, `robust:*`) auf .blend und FBX-Rohdaten 0 Fehler, Selftest alle Fälle erkannt, Vorversion zeigt die Fehler; Volumenverlust je Hülle dokumentiert; README: One Convex Hull Per UCX an und Zählkontrolle (Convex-Elemente = UCX-Zahl je Mesh) (= 3D Nr. 46) | `ucx_check_<ver>_*.json`, `ucx_rebuild_*.json`, README |
+| 58 | **UV-Zonen L/R (R65)**: gespiegelte UVs nur je Insel; `cad2rt/uv_zonen_check_fbx.py` auf den ausgelieferten FBX L/R Exit 0 (Band-/Logo-Farbe L ≈ R und im Soll, 0 fremde Inseln, 0 Überlappungen) (= 3D Nr. 47) | `Pruefung/uv_zonen_check_fbx.json` |
+| 59 | **Material-Slots (R66)**: FBX-Re-Import zeigt die Soll-Slots, Polygone je Slot im README belegt (= 3D Nr. 48) | `Pruefung/fbx_slots.json`, README §Materialien |
+| 60 | **Glas (R67)**: eigener Slot, opak #0B0B0C, Roughness 0,06; transluzent nur nach Gerätetest (= 3D Nr. 49) | README §Materialien |
+| 61 | **UE 5.8 Python-Import (R68)**: README nennt die Asset-Korrektur Nanite AUS, Recompute N/T AUS, Remove Degenerates AN (= 3D Nr. 50) | README §Import |
+| 62 | **Tex-Sichtung L/R (R69)**: Vergleichsbild L und R nebeneinander mit Zoom auf Band/Schrift/Logos im Paket, Befund in der SELBSTPRÜFUNG (= 3D Nr. 51) | `renders/VERGLEICH_Tex_L_R_<v>.png` |
+| 63 | **Formtreue Blechteile (R70)**: `normal_check.py --blech-mm 3` (md5 7c631088…), ausgenommener Anteil ≤ 5 %, Wert ohne Option zusätzlich berichtet (= 3D Nr. 52) | `nc*.json` |
 
 Punkte 15 bis 21 und Änderung Punkt 2/11: Review Marcel v6, 23.10.2026, 74/100, übermittelt von 3D. Prüfreihenfolge: zuerst Watertight als hartes Ausschlusskriterium (Punkte 5 und 19; bei mehr als 0 Boundary-Edges je Teil nicht verwertbar), danach Review-Priorität nach Regel 15: Texturqualität, dann Skalen und Beschriftung (Auslegung 3D aus Joachims Regel vom 23.10.2026, von Joachim nicht ausdrücklich bestätigt). Culling nur nach Regel 22 (in v8 aus); Hole-Fill nach dem Bake ist Pflicht (Joachim 23.10.2026, übermittelt von 3D, umgesetzt in v8). Nachtrag 26.10.2026: Die Prüfreihenfolge nach Regel 15 ist bestätigt (entschieden von One, Delegation Joachim 25.10.2026, siehe Changelog in [cad-zu-echtzeit.md](cad-zu-echtzeit.md)).
 
@@ -69,3 +77,6 @@ Punkte 29 bis 36: Regeln 33 bis 41, 3D, 27.10.2026, aus Marcels Review v9 (94/10
 Punkte 46 und 47: Regeln 47 und 48, laut 3D, Changelog 28.10.2026; Quelle: Marcels Review v11 am Strahlrohr (Herstellerbezug, intern), CAD_zu_Echtzeit-Workflow (3D-Bot). In der 3D-Quelle heißen sie Punkte 35 und 36; im HUB sind 35 und 36 schon belegt (Regeln 40 und 41), deshalb hier 46 und 47.
 
 Punkte 48 bis 55 (= 3D Nr. 37 bis 44): Regeln 49 bis 62; Grundlage: HLF20-Ursachenanalyse 3D/Unreal Assets; Joachim 28.10.2026 19:36 direkt im Chat mit One (Antworten F1–F10: Prozess, Marcel nur an Meilensteinen, Texeldichte, 200k+50k, Marken nur intern, Quelldaten-Gate aus F1); Regelwortlaut laut 3D. Stufe 0 gilt vor dem Bau, die Gates je Bauteil vor jedem Paket.
+
+
+Punkte 56 bis 63 (= 3D Nr. 45 bis 52): Regeln 63 bis 70, laut 3D, 29.10.2026 (Wortlaut aus ABGABE_CHECKLISTE.md); Punkt 56: Marcel und Finn; Punkte 58 bis 63: UA-Reviews Crew-Tür v01–v03.
