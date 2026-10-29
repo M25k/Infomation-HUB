@@ -128,6 +128,7 @@ Bisher nur hier gelistet; weitere Bots (One, Video, Assets, Social, Web, 3D, Pic
 |---|---|---|---|
 | **IT** | `49ab7f47-f3d5-473c-8086-c5bd4b36dd8a` | Seit 26.10.2026 aktiv. Reine Lese-Health-Checks der Grok-Bot-Rechner ND-PC-80, Video-PC und ND-NB-20; ab 27.10.2026 in Ones Runde | Nur lesend; keine Änderungen an den Rechnern. Keine Adressen und Zugangsdaten im Repo |
 | **GV Render** | `4d6c85c6-839e-402a-9b0b-e1d662dc44e2` | Baut `gv-render`, einen nativen Renderer (vsgCs / VulkanSceneGraph / cesium-native) nur für GodView-Cesium-Tiles; Details [brand/godview.md](brand/godview.md) | Nur Lesezugriff auf die Cesium-Test-Organisation „ND Testlabor“ mit eigenem Viewer-Login; keine Produktivdaten. Test auf dem Video-PC, finale Renders auf dem neuen Windows-PC mit RTX 4090 |
+| **Unreal Assets** | `d9294990-a368-4b30-a42f-e1d54092f7d6` | Seit 28.10.2026: lädt und prüft 3D-Assets in Unreal 5.8 für Mobile VR (Pico 4 Ultra), Reviews z. B. HLF20, keine App- oder Funktionsentwicklung | laut One 29.10.2026 |
 
 Quelle: GV Render (Joachim 23.10.2026, übermittelt von One); IT (One, Runde 27.10.2026).
 

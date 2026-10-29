@@ -270,4 +270,4 @@ Stand 28.10.2026, laut Assets, nur gelesen, Konfidenz ca. 85 %.
 - **Herkunft:** Visualisierungsauftrag 2014 über die Partneragentur Breitbild VFX, Northdocks war Subunternehmer. Die Nummern in den Dateinamen sind Hersteller-Teilenummern.
 - **Datenklasse:** echtes B-Rep (SolidWorks 2014, STEP AP214), geprüft an einer Schwesterdatei; für GERAETEAUFBAU ist das ein Analogieschluss. Die OBJ sind Mesh-Konvertierungen von 2014.
 - **Rechte:** nicht belegt. Kein Vermerk im Header, keine NDA-Mail gefunden. Der Buyout 2014 (interne Mail 11.09.2014) betraf vermutlich die Renderings.
-- **Status:** nur intern, nicht für 3D-Assets nutzen bis zur Klärung ([open-questions.md](../open-questions.md) #161). Die Root-Kopien sind Duplikate; aufräumen nur mit Joachims OK.
+- **Status:** nur intern, nicht für 3D-Assets nutzen bis zur Klärung ([open-questions.md](../open-questions.md) #161). Die Root-Kopien sind Duplikate; aufräumen nur mit Joachims OK. Laut One (29.10.2026): nicht für das HLF20 nutzen, bis Assets die Herkunft geklärt hat (Entscheidung Joachim 28.10. laut One, im Transcript nicht als eigene Aussage belegt).

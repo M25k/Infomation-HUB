@@ -115,7 +115,7 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 
 | # | Frage | Kontext und Vorschlag | Status |
 |---|---|---|---|
-| 161 | Deckt der Buyout 2014 (Mail 11.09.2014, Breitbild-VFX-Auftrag) die Nutzung der Fahrzeugaufbau-CAD-Daten (VERTRAULICH/Herstellerbezug, s. [assets/3d-kandidaten.md](assets/3d-kandidaten.md)) in eigenen Trainings bzw. 3D-Assets ab, oder gibt es eine andere Herstellerfreigabe? Zusatz: Wozu wurden die Root-Kopien am 20.07.2023 angelegt, und dürfen sie weg? | An Joachim, über One, angelegt 28.10.2026 (laut Assets). Rechte im HUB nicht belegt (kein Header-Vermerk, keine NDA-Mail; Buyout betraf vermutlich die Renderings). Vorschlag: bis zur Klärung nur intern, nicht nutzen. | offen (Joachim) |
+| 161 | Deckt der Buyout 2014 (Mail 11.09.2014, Breitbild-VFX-Auftrag) die Nutzung der Fahrzeugaufbau-CAD-Daten (VERTRAULICH/Herstellerbezug, s. [assets/3d-kandidaten.md](assets/3d-kandidaten.md)) in eigenen Trainings bzw. 3D-Assets ab, oder gibt es eine andere Herstellerfreigabe? Zusatz: Wozu wurden die Root-Kopien am 20.07.2023 angelegt, und dürfen sie weg? | An Joachim, über One, angelegt 28.10.2026 (laut Assets). Rechte im HUB nicht belegt (kein Header-Vermerk, keine NDA-Mail; Buyout betraf vermutlich die Renderings). Vorschlag: bis zur Klärung nur intern, nicht nutzen. Laut One (29.10.2026): Joachim habe am 28.10. entschieden, dass die GERAETEAUFBAU-STEP-Dateien nicht für das HLF20 genutzt werden, bis Assets die Herkunft geklärt hat; in Ones Transcript ist dazu keine eigene Aussage Joachims belegt (Prüfung Wissen 29.10.2026). | offen (Joachim) |
 
 ### Marken-CI und Schreibweisen (19.10.2026)
 
