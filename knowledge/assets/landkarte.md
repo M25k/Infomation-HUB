@@ -18,6 +18,7 @@ Inventur vom 18.10.2026, nur Metadaten (Namen, Typen, Größen, Änderungsdaten)
 | FirefighterVR | Shared Drive FirefighterVR: Play-Throughs, Bilder, Events, Szenarien, Simulation MVP 1 bis 4, WFVD Workshop, Vorträge, Logos, Rollup | Größter Produktbestand (rund 41 GB bis Ebene 2) |
 | MeditrainVR / StrahlenschutzVR | Kundenprojekte: UKSH - Strahlenschutz, BfS, UKK_VR, Uniklinik Köln, HNE; Projekte/Meetings: MediTrain VR - Plattform; Pitchdecks / MediTrain | Meist noch Ebene 3 und tiefer |
 | Next Factory VR / SpearheadVR | Shared Drive Industrie-VR-Trainings (Achema, Actemium, Cable Safety, 5 Sicherheitsregeln), _ND_Projects / Merck Technikum, Henkel; Kundenprojekte / Spearhead; Projekte / SpearheadVR - Launch und Playground | |
+| Repo-Kopien (nicht mehr auf GitHub) | Repos/Builds / Repos_Alt (`1OnU8sDqDMPVyViekb7LbBw_3RrNSCfeW`) | Projektkopien von Repos, die nicht mehr auf GitHub sind (Joachim 30.10.2026 08:53 direkt im Chat von One); Liste in [repos.md](../repos.md) |
 | GodView / Meta-dom | Repos/Builds / GodviewVR und GodviewWeb, Shared Drive Demo-Data/Pilots/TEMA, „Der Digitale Zwilling des Kölner Domes“, _ND_Projects / Koelner Dom, Drohne/Photogrammetrie, Mapping, Geodaten | |
 | Messe, Events, Drehs | BilsterBerg 2026-07-04 (166 GB Footage), 0624 Bilster Berg, My Drive / Fotos, _ND_Best Of / Staff (140 datierte Dreh- und Eventordner), FirefighterVR / Events | |
 | 3D-Assets | Studio-Archiv (Texturen, Vray_materials, HDRI, QuixelMegascans, Scenes, Demos), Asset-Library, Unreal-Projekte, 3D Modelle | Stock und Megascans: Lizenz prüfen |
