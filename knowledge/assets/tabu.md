@@ -93,7 +93,7 @@ Schreibvarianten (seit 22.10.2026, Runde 5): „Bürrig“, „Buerrig“, „B�
 
 ## Nur intern (Regel, kein Tabu)
 
-Diese Ordner darf Northdocks Assets sichten. Material daraus bleibt intern, Freigaberegeln siehe [README.md](README.md).
+Diese Ordner darf Northdocks Assets sichten. Material daraus bleibt intern, Freigaberegeln siehe [README.md](README.md). Ausnahme Dräger: **Dräger-Port-Freigabe** („alle daten die mit draeger zusammen hanegen sind fuer den gesammten port der gamingwelt freigegeben“ (Joachim 30.10.2026 09:02 direkt im Chat von One, Antwort auf Ones Punkt 2 zu Dräger-Fremd-Content und CAD-Daten)): Alle Daten mit Dräger-Bezug sind für den gesamten Port der Dräger Gaming Welt freigegeben, laut One ausdrücklich auch Fremd-Content (laut One 339 Assets, 1,37 GB) und CAD-Daten. Die Freigabe gilt nur für den **internen Port** (Arbeit in Repo, Drive und auf den Arbeitsrechnern); Veröffentlichen oder externes Teilen braucht weiter Joachims OK (Regel „Datenzugriff in Firmenkonten“, Joachim 29.10.2026 09:06/09:07, [README](../../README.md)). Bestehende Dräger-Einschränkungen (nur intern, Regel 11, #73) bleiben für alle anderen Zwecke bestehen. Details: [README.md](README.md) Regel 11.
 
 | Ordner | ID | Regel |
 |---|---|---|

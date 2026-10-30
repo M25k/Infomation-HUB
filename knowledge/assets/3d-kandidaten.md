@@ -20,7 +20,7 @@ Beste Kandidaten für Video aus Runde 1: keine echten Turntable-Kandidaten. Rend
 
 Alle Einträge: „Lizenz nicht schriftlich belegt“, Freigabevorschlag von Assets `social-video` nach Vorgabe Joachim 18.10.2026 an Video. Größen laut Drive-Metadaten.
 
-**Korrekturen Wissen 19.10.2026:** Dräger-Texturen ND-0545 bis 0548 nur intern (Regel 11, Produktionsdateien aus Kundenprojekt). Holmatro-Renders (Pentheon FFVR-0490 bis 0516, 0518 bis 0522; SPU 16 BC FFVR-0419 bis 0430, 0475, 0557) und HPS3500 FFVR-0467 nur intern, bis Kooperation oder Nachbau geklärt ist ([open-questions.md](open-questions.md) Nr. 51). Playground-Modelle bleiben social-video, Produktname „Playground“ nicht nennen (Nr. 53). Maßgeblich ist die Spalte `freigabe` in [assets.csv](assets.csv).
+**Korrekturen Wissen 19.10.2026:** Dräger-Texturen ND-0545 bis 0548 nur intern (Regel 11, Produktionsdateien aus Kundenprojekt) → für den internen Dräger-Port freigegeben (Joachim 30.10.2026 09:02 direkt im Chat von One; Veröffentlichung weiter nur mit Joachims OK; [README](README.md) Regel 11). Holmatro-Renders (Pentheon FFVR-0490 bis 0516, 0518 bis 0522; SPU 16 BC FFVR-0419 bis 0430, 0475, 0557) und HPS3500 FFVR-0467 nur intern, bis Kooperation oder Nachbau geklärt ist ([open-questions.md](open-questions.md) Nr. 51). Playground-Modelle bleiben social-video, Produktname „Playground“ nicht nennen (Nr. 53). Maßgeblich ist die Spalte `freigabe` in [assets.csv](assets.csv).
 
 ### FAHRZEUGE (gesucht für FirefighterVR)
 
@@ -63,8 +63,8 @@ Keine 3D-Quelldateien in Feuerwehrassets, Firefighter VR, Brandcontainer und CPR
 | FFVR-0600 | RTW_Inside_v012.fbx | `1OwsxDrXLS4XVnggLMzGD7Lm0yNL9NXry` | dto. | 1,3 MB | FBX | RTW v012 Export | ja | neuer als Out/RTW_with_Inside.fbx (FFVR-0262, Stand v011) |
 
 Fahrzeug-Renders ohne Quelldatei aus dem Kundenordner Projects / Draeger (Dräger-Kundenprojekt GamingWelt 2020, keine 3D-Dateien im Ordner):
-- Render_TRT_01–04 (ND-0737–0742, davon 2 Dubletten) und draegerTRT.png (ND-0775): Dräger-Trainingsanlage TRT auf Fahrgestell, **nur intern** (Dräger-Regel; Assets schlug angebot vor, Nr. 73).
-- Fahrzeuge_01–03 (ND-0684–0686): Fahrzeuge der GamingWelt, **nur intern** (Dräger-Regel, Nr. 73).
+- Render_TRT_01–04 (ND-0737–0742, davon 2 Dubletten) und draegerTRT.png (ND-0775): Dräger-Trainingsanlage TRT auf Fahrgestell, **nur intern** (Dräger-Regel; Assets schlug angebot vor, Nr. 73) → für den internen Dräger-Port freigegeben (Joachim 30.10.2026 09:02 direkt im Chat von One; Veröffentlichung weiter nur mit Joachims OK; [README](README.md) Regel 11).
+- Fahrzeuge_01–03 (ND-0684–0686): Fahrzeuge der GamingWelt, **nur intern** (Dräger-Regel, Nr. 73) → für den internen Dräger-Port freigegeben (Joachim 30.10.2026 09:02 direkt im Chat von One; Veröffentlichung weiter nur mit Joachims OK; [README](README.md) Regel 11).
 - Cartrainer.JPG, Cartrainerv2.JPG (ND-0648/0649): ausgebranntes Übungsauto, Einzelmodell-Render, **nur intern**.
 - LKW_Kippbar_01/02 (ND-0720/0721): kippbarer LKW-Aufbau, Einzelmodell-Render, **nur intern**.
 - leak.jpg (ND-0776): Tankwagen mit Leck, Unreal-Editor-Screenshot, **nur intern**.
