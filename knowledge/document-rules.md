@@ -55,7 +55,7 @@ Vor Namensnennung externer Personen: Freigabe einholen, wenn `projects.md` das v
 
 ## Technik in Leistungsbeschreibungen
 
-- Engine: Unreal Engine 5.7 in den Framework-Repos (lokal oder GitHub/Cursor), OpenXR, Pico OpenXR.
+- Engine: Unreal Engine 5.7 in den Framework-Repos (lokal oder GitHub/Cursor), OpenXR, Pico OpenXR. Drittkomponenten: Pulse Physiology Engine und Unreal Engine („Dritte componenten sind die pulse engine und unreal“ (Joachim 30.10.2026 15:37 direkt im Chat von One)). **Pulse Physiology Engine** (Kitware), Lizenz Apache 2.0 (laut Förderung 30.10.2026; auf der Startseite nicht ausdrücklich genannt, dort Verweis auf NOTICE-Datei), Quelle https://pulse.kitware.com.
 - GodView: SvelteKit, Cesium, Hosting in Deutschland.
 - Photogrammetrie: RealityCapture-Pipeline (`ND-Processing`), Potree/3D Tiles, Drohnenbefliegung. Dom: mehr als 200.000 Fotos und 1.000 Laserscans aufgenommen; aktuelles Modell aus rund 100.000 Fotos, über 2 Mrd. Polygone (claims.md, Joachim 21.10.2026).
 - Keine Engine erfinden (kein Unity als Standard-Stack, außer ein konkretes Altprojekt das belegt).

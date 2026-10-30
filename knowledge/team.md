@@ -23,7 +23,7 @@ GF-Zuordnung Meißen 26.08.2026 (Joachim): Patrick PL, Finn Senior VR, Stephan 3
 | Finn Marquardt | B.Sc. Informationstechnologie / Angewandte Informatik, FH Kiel, 14.02.2019; intern **Master des VR-Frameworks** (GF 26.08.2026); TEMA-3D-Tiles zusätzlich | **Senior VR-Entwickler** |
 | Stephan zu Münster | GF-Zuordnung 26.08.2026: 3D und QA. Vita/Urkunde in Drive nicht gefunden — vor Abgabe beilegen | **3D-Artist** und **QA** |
 | Seiko Foubert | TUHH TwinC-360-Web; GF-Zuordnung: UX und QA | **UX/UI** und **QA** |
-| Renke Niehaus | intern Multimedia Production studiert (GF 26.08.2026); Drive belegt Photogrammetrie 2024 und FFVR-Berichte 2023/24. Urkunde nicht in der UKSH-Mappe (dort liegt Marcel-Master) — vor Abgabe beilegen | **Medienpädagogik** |
+| Renke Niehaus | ~~intern Multimedia Production studiert (GF 26.08.2026)~~ **kein Studienabschluss**, Qualifikation aus der Erfahrung bei Northdocks („renke hat außer der Erfahrung bei uns keinen Studien Abschluss“ (Joachim 30.10.2026 15:54 direkt im Chat von One)); Drive belegt Photogrammetrie 2024 und FFVR-Berichte 2023/24. ~~Urkunde nicht in der UKSH-Mappe (dort liegt Marcel-Master) — vor Abgabe beilegen~~ (entfällt, kein Abschluss) | **Medienpädagogik** |
 | Moritz Till | Bachelor Virtual Design 10.03.2023; TUHH-App-Inhalte | 3D-Reserve, nicht Pflichtzeile Meißen |
 
 Zusätzlich in [company.md](company.md), nicht in der Asana-Userliste vom 26.08.2026: Silas Fuchs (zwei Konten). Mail 2026: weiter CC bei TEMA BRK Pilot 2 und UniBw-Übergabe — operativ TEMA, **nicht** ungefragt als verfügbares Angebots-Personal setzen, solange GF das nicht bestätigt. TUHH Campus Lab: Silas hat den Auftrag intern Dezember 2025 eröffnet (Baldur Schröter / Erik Manke). Es gibt ein zweites Asana-Konto (Adresse nicht im Repo).
@@ -79,7 +79,7 @@ Vorbild-Ablage UKSH: `00-Angebot` Arbeitsnotizen, `01-Einreichung-Los2` nur Port
 
 ## Vor der Abgabe
 
-1. Urkunden Renke (Multimedia Production) und Stephan (3D/Ausbildung) an Teil 2 heften. ~~julia.barenthien nicht als ND-Personal beilegen.~~ Überholt (Joachim 25.10.2026, 15:13, übermittelt von One): nennbar als „freiberuflich hinzuziehbar“.
+1. ~~Urkunden Renke (Multimedia Production) und~~ Urkunde Stephan (3D/Ausbildung) an Teil 2 heften. ~~julia.barenthien nicht als ND-Personal beilegen.~~ Überholt (Joachim 25.10.2026, 15:13, übermittelt von One): nennbar als „freiberuflich hinzuziehbar“.
 2. Zwei Referenzen mit Freigabe vor Namensnennung.
 3. Tagessätze 1.1–1.9 in derselben Größenordnung wie die PT-Zeilen (1.095 €), keine Dekosätze. **Überholt (Förderung 25.10.2026):** 1.095 € ist UKSH-spezifisch und kein Referenz-Tagessatz mehr; es gilt ein fester Tagessatz pro Ausschreibung, kalkuliert auf Gewinnen ([offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md)).
 
