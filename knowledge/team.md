@@ -56,7 +56,7 @@ Zwei Referenzen der letzten fünf Jahre, eine davon Bildung / Training / Gesundh
 | Projektleitung | 1 | Patrick D. Reschke | ~~UKSH-Analog 1.095 €~~ überholt, fester Tagessatz pro Ausschreibung (offer-package.md) |
 | Technische Projektleitung | 1 | Joachim Perschbacher | wie oben |
 | Senior VR-Entwickler | ≥1 | Finn Marquardt | wie oben |
-| VR/Unity-/Unreal-Entwickler | ≥1 | Marcel Timm; Stack Unreal 5.7 / OpenXR | wie oben |
+| VR/Unity-/Unreal-Entwickler | ≥1 | Marcel Timm; Stack ~~Unreal 5.7~~ Unreal 5.8 / OpenXR (UE 5.8 als Produktions-/Build-Engine: entschieden von One, Delegation Joachim 25.10.2026; laut One bestätigte Joachim am 30.10.2026 15:46 mit „Passt so“ die Änderung 5.7 → 5.8 in den Frankfurt-Unterlagen, im Transcript von Ones Chat nicht als eigene Nachricht gefunden) | wie oben |
 | 3D-Artist / 3D-Designer | ≥1 | Stephan zu Münster (Moritz Reserve) | |
 | UX-/UI-Designer | ≥1 | Seiko Foubert | |
 | Softwaretester / QA | ≥1 | Seiko Foubert und Stephan zu Münster | |
@@ -71,7 +71,7 @@ Nicht dieselbe Tabelle wie Eignung Teil 2. Vorbild Google Doc Projektkonzept `70
 
 ## Kompetenzen Firma (nicht Lebenslauf)
 
-Aus [expertise.md](expertise.md) und [claims.md](claims.md): Unreal 5.7, OpenXR, Pico Enterprise, Offline-Standalone, Brandschutz-Didaktik (FirefighterVR, >100 Kunden nur in der Eignung), schulische VR (Hand aufs Herz — Zielgruppe, nicht Meißen-Liefergegenstand).
+Aus [expertise.md](expertise.md) und [claims.md](claims.md): ~~Unreal 5.7~~ Unreal 5.8 (UE 5.8 als Produktions-/Build-Engine: entschieden von One, Delegation Joachim 25.10.2026; laut One bestätigte Joachim am 30.10.2026 15:46 mit „Passt so“ die Änderung 5.7 → 5.8 in den Frankfurt-Unterlagen, im Transcript von Ones Chat nicht als eigene Nachricht gefunden), OpenXR, Pico Enterprise, Offline-Standalone, Brandschutz-Didaktik (FirefighterVR, >100 Kunden nur in der Eignung), schulische VR (Hand aufs Herz — Zielgruppe, nicht Meißen-Liefergegenstand).
 
 **Positionierung wie UKSH Los 2** ([Drive UKSH-Föd-2026-0001](https://drive.google.com/drive/folders/1Q86IOygT2-5bP_gCB7YypLX20-B3RmMA)): Leistung = für diesen Auftrag **eigens entwickelte** Module plus ausdrücklich eingesetzte Northdocks-Komponenten (NDFramework). FirefighterVR ist **Eignungsreferenz**, nicht Katalogzugang. Intern: Assets hier bauen, später **angepasste** Produktversion — das steht nicht im Angebot. Ausschließliche Rechte des AG gelten nur am **Neuen** (FAQ 2); Framework bleibt vorbestehend. Roh-Assets aus Meißen nicht ungeprüft in den FFVR-Katalog kippen.
 

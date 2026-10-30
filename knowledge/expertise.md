@@ -7,7 +7,7 @@ Nur Fähigkeiten, die durch Produkt, Repo oder dokumentierte Referenz gedeckt si
 ### Spatial Computing / XR-Training
 
 - Native VR-Anwendungen auf Standalone-Headsets (OpenXR), ohne lokale VR-PC-Farm im aktuellen FirefighterVR-/UKSH-Ansatz.
-- Unreal Engine 5.7 als Produktionsengine (`NDFramework`, `NDVRActemium`).
+- ~~Unreal Engine 5.7~~ Unreal Engine 5.8 (UE 5.8 als Produktions-/Build-Engine: entschieden von One, Delegation Joachim 25.10.2026; laut One bestätigte Joachim am 30.10.2026 15:46 mit „Passt so“ die Änderung 5.7 → 5.8 in den Frankfurt-Unterlagen, im Transcript von Ones Chat nicht als eigene Nachricht gefunden) als Produktionsengine (`NDFramework`, `NDVRActemium`).
 - OpenXR und PICO OpenXR aktiv in `NDFramework.uproject`. Plugins `OpenXREyeTracker` und `OpenXRHandTracking` liegen im Projekt, sind dort aktuell **disabled**. Blicksteuerung/Eye-Tracking daher über Storywalx (Wilhelmshaven 2021/22) und ARiNeP belegen, nicht über diese beiden Häkchen.
 - Eigene Plugins u. a. `NDVRCore`, `NDFire`, `NDGeo`; `NDAuth` liegt im Framework, ist in `NDFramework.uproject` derzeit **disabled**. Plus CesiumForUnreal, Advanced Sessions, EOSCore, SmoothSync, PICOOpenXR, OpenXR. `GoogleARCore`/`ARUtilities` sind im uproject aktiv — nicht als ausgeliefertes AR-Produkt behaupten. TargetPlatforms: Android und Windows. Weitere Plugin-Ordner (NDWidgets, NDCommonAssets, ND_LookDev, NDEditorTools, CharacterSetup) existieren lokal, sind aber nicht automatisch Produktionsfeatures. `NDGeo` nutzt Unreal GeoReferencing + WebBrowserWidget.
 - Multiplayer / Sessions (Advanced Sessions, EOSCore; Planspiel-Peak intern 16 gleichzeitige Nutzer).
@@ -53,7 +53,7 @@ Nur Fähigkeiten, die durch Produkt, Repo oder dokumentierte Referenz gedeckt si
 
 | Schicht | Beleg |
 |---|---|
-| Unreal Engine 5.7, OpenXR, Pico, NDFire/NDGeo/NDVRCore, CesiumForUnreal | `NDFramework.uproject` (EyeTracker/HandTracking-Plugins dort disabled) |
+| ~~Unreal Engine 5.7~~ Unreal Engine 5.8 (Build-Engine, s. o.; Projekt-Stand NDFramework 5.7.4 laut repos.md), OpenXR, Pico, NDFire/NDGeo/NDVRCore, CesiumForUnreal | `NDFramework.uproject` (EyeTracker/HandTracking-Plugins dort disabled) |
 | Factory/Infinity, PICOOpenXR (nicht Legacy-PicoXR), ElevenVoice (TTS intern) | `NDVRActemium.uproject`; Plugin-Dateien nicht im Checkout |
 | Cesium / SvelteKit / Postgres / MinIO / Docker; App-Hosts `app.godview.solutions` = `godview.nd-apps.de` | `ND-GodViewWeb` (deploy.sh, kein GitHub-Actions-Deploy) |
 | Potree / Express / LAS-LAZ-Export | `www-pointclouds` |

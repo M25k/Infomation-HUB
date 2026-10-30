@@ -100,6 +100,6 @@ Technisch: Cesium, 3D Tiles, Punktwolken, Drohnenfotos, Messung, VR-Export, Host
 
 ## Querschnitt (kein Vertical, aber für Anträge zentral)
 
-- **NDFramework**: Unreal-5.7-Trainingsframework (OpenXR, Pico, Multiplayer/Advanced Sessions).
+- **NDFramework**: ~~Unreal-5.7-Trainingsframework~~ Unreal-Trainingsframework, Build-Engine UE 5.8 (UE 5.8 als Produktions-/Build-Engine: entschieden von One, Delegation Joachim 25.10.2026; laut One bestätigte Joachim am 30.10.2026 15:46 mit „Passt so“ die Änderung 5.7 → 5.8 in den Frankfurt-Unterlagen, im Transcript von Ones Chat nicht als eigene Nachricht gefunden); Projekt-Stand 5.7.4, Umstellung geplant (repos.md) (OpenXR, Pico, Multiplayer/Advanced Sessions).
 - **ND-Processing**: Photogrammetrie-Pipeline RealityCapture → 3D Tiles.
 - **White Label / Launcher / XR Viewer**: interne Plattformprojekte in Asana.
