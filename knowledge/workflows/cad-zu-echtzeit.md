@@ -213,7 +213,7 @@ export CAD2RT_PY=<VENV>/bin/python
 - [ ] Log: `UV gepackt … Texeldichte px/m`; Richtwert VR-Handobjekt LOD0 ≥ 1500 px/m
 - [ ] Keine WARNUNG zu UV-Pack oder Padding
 - [ ] Nahaufnahmen (Rohr, Kupplung, Hebel): keine Flecken, keine Wellen auf Zylindern, keine Naht-Kanten, kein Z-Fighting
-- [ ] Wireframe: gleichmäßige Facettierung der Rundteile, keine Dreiecksfächer, die die Silhouette zerstören
+- [ ] ~~Wireframe: gleichmäßige Facettierung der Rundteile, keine Dreiecksfächer, die die Silhouette zerstören~~ (für Dräger-Gaming-Welt-Reduktionen kein Kriterium mehr, siehe Abschnitt „Dräger-Gaming-Welt“ unten; laut 3D 02.11.2026)
 - [ ] UV-Bild: Inseln ohne Überlappung, Padding sichtbar, keine stark verzerrten Inseln
 - [ ] GLB im Viewer und FBX in UE geprüft (Normal-Map-Konvention!)
 - [ ] Vertraulichkeit: Herstellerdaten nur intern ablegen, nichts veröffentlichen
@@ -233,3 +233,27 @@ export CAD2RT_PY=<VENV>/bin/python
 | Aufdruck an Fasen verzerrt | Projektion trifft schräge Flächen | Normalen-Maske (`planar_x` hat |n.x| > 0,6), Fläche verkleinern |
 | Sichtbare Löcher nach Culling | `min_visible` zu hoch / zu wenige Strahlen | `min_visible` 0,01–0,02, `rays` 96 |
 | Blender `uv.export_layout` schlägt headless fehl | braucht GPU-Kontext | `uvshot.py` (PIL) |
+
+## Dräger-Gaming-Welt: Reduktion statt Neubau (02.11.2026)
+
+Freigabe: Auf Ones Frage, ob 3D das PSS4000 als Reduktion mit etwa 6.000 Verts und Bake bauen darf und ob das Budget je Größe gilt, antwortete Joachim „Ja machen wir do“ (Joachim 02.11.2026 21:16 direkt im Chat von One). Ablauf und Werte im Einzelnen laut 3D (über One).
+
+**Regel:** Gaming-Welt-Assets werden **reduziert, nicht neu modelliert**; sie sehen optisch aus wie das Original.
+
+1. **Aufräumen:** Merge by Distance, Löcher schließen, verdeckte Flächen per Raycast entfernen.
+2. **Reduzieren:** Limited Dissolve 1°, dann Decimate mit Budget nach sichtbarer Fläche plus Silhouetten-Zuschlag.
+3. **Normalen:** Smooth by Angle 30°, harte Kanten über 60–75° als UV-Naht, Weighted Normal.
+4. **UV:** xatlas, gleichmäßige Texeldichte.
+5. **Bake:** Normal und AO aus dem Original mit Cage; BaseColor/ORM aus den Original-Texturen.
+6. **Abnahme:** Bildvergleich mit dem Original inkl. Textur aus 1 m und 35 cm; 0 offene Kanten; Formtreue p95 ≤ 2 mm. ~~Facetten-Grenzwerte~~ sind kein Kriterium mehr.
+7. **Vorschau:** Still und Turntable nebeneinander (Original/Reduktion), mit Textur.
+
+**Budget** (Schätzung 3D, auf Pico 4 Ultra nachzumessen):
+
+| Größe | Verts | Textur |
+|---|---|---|
+| klein (< 15 cm) | 300–1.500 | 512–1k |
+| mittel (15–80 cm) | 4.000–8.000 | 2k |
+| groß (> 80 cm, Fahrzeuge) | 20.000–200.000 | 4k |
+
+**Changelog PSS4000 (laut 3D):** v02–v04 verworfen (neu modelliert statt reduziert; Auslöser eine eigene, unerfüllbare Facetten-Vorgabe von 3D); v05 als Reduktion von v01, ca. 6.000 Verts.
