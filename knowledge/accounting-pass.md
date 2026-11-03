@@ -58,7 +58,7 @@ Start 30.08.2026. Inventar: **854** Rechnungen, **991** Estimates, **665** Konta
 | Schiffshebewerk LWL | `20211124-03` 37.250,30 + Nachtrag 500; Sept nicht addieren | 55 |
 | APG Wien | 86.350 € sechs Rechnungen; Teil-2-Option 66 k€ nicht beauftragt | 56 |
 | Axians Office | `20240221-03` 9.980 € an Cegelec West; nicht Infinity | 57 |
-| Kindswater | Katalog 1/3 6.943,33 + Kit 2.965,34; Rest 20.830 offen | 57 |
+| [Herstellerbezug] | Katalog 1/3 6.943,33 + Kit 2.965,34; Rest 20.830 offen | 57 |
 | Ainavio | auslesbar 13.700,99 €; Rahmen 04.06.2024; `20240902-04` ohne OCR | 58 |
 | Controlmatic Mitte | `20240408-01` 42.369 € PO 930104619 Demonstrator-VR | 59 |
 | Atos / Coloplast | 6.650 + 4.400 = 11.050 €; nicht TEMA-ATOS | 60 |

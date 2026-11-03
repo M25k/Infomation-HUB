@@ -329,11 +329,11 @@ Drei AGs, nicht addieren. **Berlin** `20230123-01` Armstrong **13.440 €** nett
 
 **Austrian Power Grid AG:** Lieferant 143081, §13b. `20221215-02` **33.000 €** PoC PO 4500317974 (Teil 2 66 k€ ausdrücklich nicht). `20230524-03` **33.000 €** Real-Erprobung. `20230614-02` / `20230831-01` je **4.800 €** (POs 4500320239 / 4500320883). Pico `20240603-09` **1.000 €** PO 4500401865. `20260724-01` **9.750 €** PO 4500412134 Paid 21.08.2026. Summe **86.350 €**. Keine Telefone. Kein Eignungsslot.
 
-## Pass 57 — 2026-08-31 (Gmail-Loop Axians / Kindswater)
+## Pass 57 — 2026-08-31 (Gmail-Loop Axians / [Herstellerbezug])
 
 **Axians Office VR:** Legal **Actemium Cegelec West GmbH**, PO **941230778** 28.11.2023, Projekt G.015612.798.02. `20240221-03` **9.980 €**. Asana `Axians_ArchViz` complete 08.03.2024. Nicht Infinity. Keine Telefone.
 
-**Kindswater AG:** Katalog **20.830 €**, belegt `20210927-01` **6.943,33 €** (1/3). Kit `20250703-03` **2.965,34 €**. Rest Katalog nicht in Drive. 2024 Hohlstrahlrohr = Einkauf stephanzm, kein Umsatz.
+**[Herstellerbezug]:** Katalog **20.830 €**, belegt `20210927-01` **6.943,33 €** (1/3). Kit `20250703-03` **2.965,34 €**. Rest Katalog nicht in Drive. 2024 Hohlstrahlrohr = Einkauf stephanzm, kein Umsatz.
 
 ## Pass 58 — 2026-08-31 (Gmail-Loop Ainavio)
 

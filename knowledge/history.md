@@ -167,7 +167,7 @@ Mail-Lücken ohne Asana-Board (Details in projects.md): **Traumzauberbaum** HO3R
 | 1Komma5 - Generelles | 2022 | 130 | 2022 Aufbau: Angebot 51.520 € in drei Abschlägen vollständig (`20220223-01`/`20220607-03`/`20220807-04`) + Videos; 2023 Tagespakete; 2024+ monatlich. FA ~214 k€ |
 | egeb - Itzehoe | 2022 | 29 | AG EG Westholstein mbH; Video-FFB 20.490 nur 1/3 belegt (6.830) + Flyer 557 |
 | KiWi - Strandort | 2022 | 25 | Legal KiWi / Kieler Wirtschaftsförderungs- und Strukturentwicklungs GmbH; Angebot 25.02.2022 32.540 €; drei Teilrechnungen 2022–24. Board-Name mit i/I-Tipp |
-| Kindswater Online 3D Viewer | 2021 | 7 | Katalog 20.830 nur 1/3 belegt (`20210927-01` 6.943,33); Kit 2025 separat |
+| [Herstellerbezug] Online 3D Viewer | 2021 | 7 | Katalog 20.830 nur 1/3 belegt (`20210927-01` 6.943,33); Kit 2025 separat |
 | Axians_ArchViz | 2023 | 24 | Complete 08.03.2024; Rechnung an Actemium Cegelec West `20240221-03` 9.980 € |
 | APG - Drone Controller | 2022 | 45 | zusätzlich zum laufenden GodView-KML-Auftrag |
 | John Deere | 2022 | 1 | **kein** Referenzprojekt |

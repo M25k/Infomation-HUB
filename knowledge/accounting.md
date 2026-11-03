@@ -231,7 +231,7 @@ Ohne Fördermittel. Paid/Refund, Drafts raus.
 
 **Axians Office:** `20240221-03` **9.980 €** an Actemium Cegelec West (PO 941230778). Nicht Infinity.
 
-**Kindswater AG:** Katalog 20.830 €, belegt 1/3 `20210927-01` **6.943,33 €**. Kit `20250703-03` **2.965,34 €**. Rest Katalog offen.
+**[Herstellerbezug]:** Katalog 20.830 €, belegt 1/3 `20210927-01` **6.943,33 €**. Kit `20250703-03` **2.965,34 €**. Rest Katalog offen.
 
 **Ainavio:** Rahmen 04.06.2024, Jan-Ole Legal-Assistant. Auslesbar **13.700,99 €** (Juni–Feb inkl. `20240701-02` 6.926,99). `20240902-04` ohne OCR-Betrag. Nicht Eignung.
 
