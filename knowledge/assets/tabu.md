@@ -98,7 +98,7 @@ Diese Ordner darf Northdocks Assets sichten. Material daraus bleibt intern, Frei
 | Ordner | ID | Regel |
 |---|---|---|
 | Shared Drive Projekte 2022 bis 2024 (Army VR, DLR, Draeger, LWL u. a.) / Army VR | `1HWpOEhzMQoLdNdSaR67jyMHGp-ASnTHa` | Militär (Army VR): sicherheitsrelevant, nur intern |
-| Shared Drive Marketing Sales / Projektentwicklung / TMA | `1dSlGUiNxO2IsFj248ZDKChUk9p_Qi3ys` | Militär/TMA: nur intern |
+| Shared Drive Marketing Sales / Projektentwicklung / TMA | `1dSlGUiNxO2IsFj248ZDKChUk9p_Qi3ys` | Militär/TMA: nur intern. **Ausnahme 03.11.2026:** Philips-Material (Sound, Visual Patient, CDS) in diesem Ordner ist als Medizin-Referenz freigegeben; TMA und der Militärteil bleiben tabu (Ones Vorschlag: „Tabu bleibt nur der militärische Teil, also Army VR, National Guard, Kosovo und Urban Tank. Philips (Sound, Visual Patient, CDS) wird als Medizin-Referenz freigegeben und kommt in die UKFFM-Abgabe als Stephans Referenz. Passt das so?“ – Antwort „Passt“ (Joachim 03.11.2026 08:53 direkt im Chat von One)) |
 | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / Projekte / XXX Reschke | `1-1XX1x3iYhwvH44pOyIHaN1oZAs5ov4A` | Reschke: nie als Kunde/Referenz, nur intern |
 | Shared Drive Projekte/Meetings (MediTrain, Spearhead, Koni u. a.) / Projekte / Koni Trainer | `1Lzfox8prZwJxsgzgkbgqnO9snxO-ppTN` | Koni Trainer: nie als ausgeliefert/klinisch validiert |
 | WFVD Digital Future - Shared Folder (extern geteilt) | `1XHw_PHfIJoonFPsHXBBEGfTCz2SOQqtQ` | Werkfeuerwehr-Verband, extern geteilt: nur intern |
