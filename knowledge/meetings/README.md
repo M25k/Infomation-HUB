@@ -21,6 +21,6 @@ Quelle: Joachim 23.10.2026, übermittelt von One.
 ## Regeln für den Spiegel
 
 - Keine Zitate aus den Mitschnitten oder Transkripten, nur kurze Themen und Entscheidungen mit Quelle.
-- Keine Mails, Telefonnummern oder Tokens; keine vertraulichen Herstellerdaten (Strahlrohr, Herstellerbezug).
+- Keine Mails, Telefonnummern oder Tokens; keine vertraulichen Herstellerdaten (Strahlrohr, Herstellerbezug). **Ausnahme knowledge/contacts/** (entschieden von One, Delegation Joachim 25.10.2026, 04.11.2026): Die Regel zu Strahlrohr-Herstellerdaten (keine Herstellernamen, Typnummern oder Dateinamen, stattdessen „[Herstellerbezug]“) gilt nicht in [knowledge/contacts/](../contacts/README.md); dort dürfen Hersteller und Ansprechpartner namentlich stehen (der Herstellereintrag in organizations.md stammt von Joachim und bleibt). Außerhalb von contacts/ bleibt „[Herstellerbezug]“.
 - Der Weekly-Ordner `1E-DbLK_V2kKGMh54USucnfKNToA4fRhe` bleibt tabu für Freigaben nach außen und für Assets ([../assets/tabu.md](../assets/tabu.md)).
 - Sprecher nur mit Vornamen bzw. so, wie im Repo üblich.

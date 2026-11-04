@@ -19,7 +19,7 @@ Je Eintrag ein Abschnitt `## Name` mit diesen Feldern:
 
 ## Regeln
 
-- Keine privaten Anschriften, keine Zugangsdaten.
+- Keine privaten Anschriften, keine Zugangsdaten. **Strahlrohr-Herstellerdaten (entschieden von One, Delegation Joachim 25.10.2026, 04.11.2026):** In contacts/ dürfen Hersteller (Strahlrohr) mit Namen, Ansprechpartnern und Produktbezeichnungen stehen; die Regel „[Herstellerbezug]“ ([document-rules.md](../document-rules.md) Nr. 5) gilt hier nicht. Außerhalb von contacts/ bleibt „[Herstellerbezug]“.
 - **Freigabe** ist einer von drei Werten: **nennbar** (darf in Angeboten und Anträgen namentlich genannt werden), **nur intern**, **Freigabe fehlt** (Default für neue Einträge).
 - Vor Namensnennung externer Personen gilt die Namensregel in [document-rules.md](../document-rules.md) (Abschnitt „Referenzen“).
 - Volumen und Rechnungen nicht hier pflegen, sondern in [accounting.md](../accounting.md) (FreeAgent gilt).
