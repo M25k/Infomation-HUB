@@ -68,7 +68,7 @@ Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von 
 - **Toolset-Plugins nur gezielt aktivieren** (Weekly 28.10.2026, 00:14:15–00:15:02, laut One; W1028-14): Der Unreal-MCP kann nur mit freigeschalteten Toolset-Plugins arbeiten (z. B. das Niagara-Toolset für Niagara). Nur die Toolsets einschalten, die die Aufgabe braucht, nicht alle. Stand: Testprojekt auf UE 5.8, Unreal-MCP läuft.
 - **Zuerst prüfen, ob der Unreal-MCP geladen ist** (Weekly 28.10.2026, 00:15:04–00:15:49, laut One; W1028-15): Nach dem Start von Cursor wird der MCP oft nicht erkannt, der Agent weicht dann auf Python aus. Regel: Der Agent prüft vor der Arbeit zuerst, ob der Unreal-MCP geladen ist; wenn nicht, bricht er ab. In Cursor den Unreal-MCP auf „immer an“ stellen; die Regel gehört in die Agent-MD-Datei des Projekts.
 - **Thumbnails in UE 5.8 (Hinweis)** (Weekly 28.10.2026, 00:30:00–00:30:50, laut One; W1028-24): Das Thumbnail-Creator-Plugin gibt es für 5.8 nicht; Finn hat eine eigene Lösung im Common-Assets-Plugin gebaut (Render Target → Create Texture). Auf die invertierte Alpha-Map achten.
-- **Beispiel-Blueprints als Layout-Vorlage** (Weekly 04.11.2026, 00:16:26–00:17:14, Marcel, Joachim, laut One; W1104-15): Für die Blueprint-Erzeugung per Unreal-MCP aufgeräumte Beispiel-Blueprints als Layout-Vorlage mitgeben.
+- **Beispiel-Blueprints als Layout-Vorlage** (Weekly 04.11.2026, 00:16:26–00:17:14, Marcel (automatisch zugeordnet), laut One; W1104-15): Für die Blueprint-Erzeugung per Unreal-MCP aufgeräumte Beispiel-Blueprints als Layout-Vorlage mitgeben.
 
 ### NDFramework Build-Setup (nur intern)
 
