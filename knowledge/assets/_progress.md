@@ -10,6 +10,7 @@ Status je Ordner: offen / in Arbeit / fertig / tabu. Vorschläge aus Runde 0 ste
 | Runde 1 (Prio 1: fertige Clips und Reels) | 18.10.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 14 Ordner, 603 Dateien per Metadaten, 233 Einträge in [assets.csv](assets.csv). 10 Ordner fertig, 4 in Arbeit (siehe unten) |
 | Runde 2 (Änderungen seit 12.10. und _ND_Best Of / Projects, Teilrunde 1) | 19.10.2026 (Assets 07:16 bis 07:37 MESZ) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 406 geänderte/neue Dateien seit 12.10. geprüft (90 neue Einträge ND-0544 bis 0593, FFVR-0254 bis 0293; 8 Titelkorrekturen FFVR-0059 bis 0066). Projects: 25 Ordner, 273 Dateien, 271 Einträge (FFVR-0294 bis 0564). Zusammen 361 Einträge: 265 nur intern, 96 social-video |
 | Runde 4 (Änderungen seit 20.10. und _ND_Best Of / Projects, Teilrunde 3a) | 21.10.2026 (Assets bis 08:50 Athen, UTC+3) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 181 Treffer seit 20.10.2026, 08:50 (20 tabu verworfen; 88 neue Einträge ND-0903 bis 0905, FFVR-0649 bis 0732, MED-0060; 3 Aktualisierungen FFVR-0275, 0280, 0598). Projects Teilrunde 3a: 4 Ordner, 294 Dateien, 294 Einträge (NFVR-0132 bis 0174, ND-0906 bis 1138, SW-0025 bis 0042). Zusammen 382 Einträge: 299 nur intern, 69 angebot, 14 social-video. ElevenLabs-Nachweis von ND-0903 auf ND-1139 umnummeriert |
+| Runde 11 (Änderungen seit 29.10. und FirefighterVR / Events) | 03.11. und 04.11.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 465 Einträge, siehe Abschnitt Runde 11 |
 | Runde 3 (Änderungen seit 19.10. und _ND_Best Of / Projects, Teilrunde 2) | 20.10.2026 (Assets 07:40 bis 08:50 Athen, UTC+3) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 90 Treffer seit 19.10.2026, 08:37 (25 neue Einträge ND-0600 bis 0617, FFVR-0598 bis 0604; 3 Aktualisierungen FFVR-0266, 0291, 0292). Projects Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge (ND-0618 bis 0895, NFVR-0027 bis 0131). Zusammen 408 Einträge nach Korrektur Wissen: 320 nur intern, 85 angebot, 3 social-video |
 
 ## Runde 1: Stand je Ordner (18.10.2026)
@@ -105,6 +106,97 @@ Projects (`1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN`) gesamt: **in Arbeit**. Geprüft u
 Summe Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge. Keine 3D-Quelldateien. Tabu und nicht geöffnet: Bürrig, Currenta; nur Metadaten: _Wasserwerk, ???.
 
 Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, Actemium, Amatik, Amatik 2, Armstrong, Azure Spatial Anchors, BAT, Bayer, Bitterfeld, DEV_Intern_Tools, DLR, Digitale Zwillinge, Dom zu Halberstadt, Gdview, INFINITY, Kiel AR, Kiel Arena, Kölner Dom, Landtag, Landtag VR, LandtagTouch, Lhoist, LWL, Marketing, Mars2020, ND CAD Explorer, ND VR Tutorial, Omexom Hochspannung, Schiffshebewerk, SIGA, Sonnen, sonnen, Strahlenschutz, Submerge, Template ×3, Tut, UKK).
+
+## Runde 11: Änderungen seit 29.10. und FirefighterVR / Events (03.11. und 04.11.2026)
+
+**Prüfung Wissen (04.11.2026):** 465 Einträge, 16 Spalten, keine Doppel, keine Kollision mit dem Repo (auch nicht mit FFVR-1223), IDs lückenlos: FFVR-1224–1581 (358), ND-1803–1895 (93), GV-0056–0067 (12), NFVR-0293–0294 (2). Tabu-Suche (Bürrig, Militär, Herstellerdaten Strahlrohr, Pfade, Mailadressen, Tokens) ohne Treffer. Freigaben stimmen mit freigabe-begruendungen.csv überein (1.395 Zeilen); Abweichung: die 6 Event-Fotos DRK Karrierestart (FFVR-1268–1273) schlug Assets als `angebot` vor, übernommen als „nur intern“ bis Sichtung (#166). 47 Größen in MiB korrigiert (aenderungen.md). Fragen 10–13 als #180–#183 in [open-questions.md](open-questions.md); Aufräumvorschläge R11-01 bis R11-11 in [aufraeumen.md](aufraeumen.md).
+
+**Freigabe-Audit 04.11.2026 (laut Assets; ohne Links, die Dateien öffentlich machen würden):** TEMA-Datei mit Bearbeitungsrecht für die Domäne (mittel); Campuslab-ZIP (ND-1832) für jeden mit Link lesbar (niedrig); Link der TEMA-Trials-Tabelle besteht weiterhin, Asana [1219964652911814](https://app.asana.com/0/0/1219964652911814). Kein Fund „hoch“.
+
+~~Nächste freie IDs: FFVR-1224, ND-1803, GV-0056, NFVR-0293~~ Nächste freie IDs: **FFVR-1582, ND-1896, GV-0068, NFVR-0295** (unverändert: MED-0211, MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
+
+<details><summary>Bericht Assets (progress.md, Runde 11)</summary>
+
+Lauf: begonnen am 03.11.2026 ab etwa 07:25, unvollständig abgebrochen; abgeschlossen am 04.11.2026 zwischen etwa 06:40 und 08:15 (Europe/Berlin, UTC+1). Die Dateien vom 03.11. habe ich weiterverwendet und ergänzt, nicht neu erzeugt.
+
+### Schritt 0
+
+- Repo M25k/Infomation-HUB nur gelesen (eigener Klon, HUB-Arbeitsklon nicht angefasst). Stand main: **Commit 067e967** vom 03.11.2026, 09:21 (Europe/Berlin). assets.csv: 5.723 Zeilen.
+- Repo-Maxima: ND-1802, FFVR-1223, MD-1416, GV-0055, MED-0210, NFVR-0292, HVR-0587, SPVR-0039, SW-0042, IMP-0022, KCI-0137, STR-0046.
+- Kollision: Wissen hat am 03.11. FFVR-1219 bis FFVR-1223 und ND-1802 selbst vergeben. Eine Runde-11-Zeile (B-Roll Düsen-Drehung v002) ist inzwischen FFVR-1223 im Repo und entfällt. Alle Runde-11-Einträge sind neu nummeriert (Zuordnung alt → neu in work/r11_final.json, Schlüssel „mapping“). Gesperrte IDs (FFVR-1170, -1172, -1180, -1183, -1209, -1210) liegen unterhalb und wurden nicht berührt.
+- tabu.md aus dem Repo übernommen (Änderung: TMA-Ordner mit Philips-Ausnahme), `tabu_filter.py refresh`: 68 Tabu-IDs, 1 Ausnahme, 11 Namensregeln. Drei bekannte Shared-Drive-Wurzeln (Import/Export/Work, Repos/Builds, Campuslab) als unbedenklich im Cache ergänzt.
+- Benennung nach Repo-Stand: Herstellerbezug anonymisiert (Pfad „FirefighterVR / Assets / [Herstellerbezug] / Strahlrohr-Modell / Out / v002“), „Düse“ statt „Mundstück“, Review-Ordner als „[Review-Ordner Herstellerbezug]“.
+
+### Teil 1: Änderungen seit 29.10.2026, 07:00 bis 04.11.2026, 07:00 (Europe/Berlin)
+
+Die Suche vom 03.11. war unvollständig (Seitenende nicht erreicht, 157 Treffer ohne Elternordner). Ich habe sie heute vollständig wiederholt: geändert seit 03.11., 06:52, Lücke 29.10., 07:00–08:45, neu angelegt seit 03.11., 06:00, jeweils bis zur letzten Seite. Der neueste Treffer ist vom 04.11.2026, 00:46 (Europe/Berlin).
+
+| Schritt | Anzahl |
+|---|---|
+| Treffer (Dateien und Ordner, Unique, 03.11. und 04.11. zusammen) | 1.074 |
+| Tabu verworfen | 42 (Ordner-IDs `1-4L9eK91dNq0HsyT1wDUFQ2c1OmbwRDn` ×21, `1R_HZrnWWhneDSKojvW_bhBxkzpz8CZ3y` ×14, `1fOSSCj2H-NkrmDqvhlAW_cVrRBOattEy` ×6, `1PQf_ZqtUkmOF3rWrsuvSDptqPswkAMtF` ×1) |
+| Ohne sicheren Elternordner, vorsichtshalber verworfen | 138 (meist Docs/Tabellen/PDF/DOCX, keine Medien) |
+| Behalten | 894 |
+| davon Ordner | 159 |
+| davon schon katalogisiert | 85 (47 Feldänderungen in aenderungen.md) |
+| davon ohne Eintrag (Arbeitsdokumente, TEMA, Autosaves, Status-Dateien, APK, Doppel) | 481 |
+| Neue Einträge Teil 1 | 169 (129 vom 03.11., 40 heute) |
+
+Neue Einträge heute (Ergänzung bis 04.11.):
+
+- Planspiel-Platten (Bot 3D): 25 Einträge, FFVR-1555–FFVR-1579, nur intern
+- Strahlrohr-Controller-Modell: 9 Einträge, ND-1886–ND-1894, nur intern
+- Planspiel-Meeting, Baustellenbilder (Fahrzeug-Bezug): ND-1895, nur intern
+- Jacke PBI Alpha Texturset: FFVR-1554, nur intern (#155)
+- Hygiene-Meeting Video: FFVR-1580; Review-Video v14: FFVR-1581 (VERTRAULICH/Herstellerbezug)
+- Kontaktbögen Reel 22 v3 und 23 v4: NFVR-0293, NFVR-0294, nur intern
+
+Ohne Eintrag geblieben sind unter anderem TEMA-Deliverables und Handbücher, Status- und Metrik-Dateien, das Team-Update-PDF vom 04.11., ein APK, 2 IT-Dokumente in „Northdocks IT“, 2 Substance-Autosaves (R11-09) und JSON/MD-Begleitdateien der Planspiel-Platten.
+
+### Teil 2: Bestand (vom 03.11., nicht wiederholt)
+
+Gebiet: FirefighterVR / Events, Rest nach Runde 10. 296 Einträge, damit ist die Mindestmenge von 150 erreicht und es gab heute keine zweite Bestandsrunde. Events ist jetzt vollständig katalogisiert.
+
+| Ordner | Einträge |
+|---|---|
+| Events / Import | 190 |
+| Events / 201809 Bad Dürkheim (Unterordner) | 64 |
+| Events / Export | 24 |
+| Events / _alt | 8 |
+| Events / 202001 DRK Karrierestart | 7 |
+| Events / 201912 Infraserv Wacker FF, 201909 WFVD Bad Dürkheim, 202001 Berlin WFVD | je 1 |
+
+Tabu: 1 Datei per Namensregel verworfen (Dateiname, nicht gespeichert).
+
+### IDs Runde 11
+
+| Präfix | Bereich | Anzahl |
+|---|---|---|
+| FFVR | FFVR-1224 bis FFVR-1581 | 358 |
+| ND | ND-1803 bis ND-1895 | 93 |
+| GV | GV-0056 bis GV-0067 | 12 |
+| NFVR | NFVR-0293 bis NFVR-0294 | 2 |
+
+Zusammen 465 Einträge, 1.395 Zeilen in freigabe-begruendungen.csv. Nächste freie IDs: FFVR-1582, ND-1896, GV-0068, NFVR-0295, MD-1417, MED-0211, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047.
+
+### Teil 3: Ordnung
+
+11 Aufräumvorschläge (R11-01 bis R11-11), nichts umgesetzt. Neu heute: R11-08 bis R11-11.
+
+### Teil 4: Freigabe-Audit
+
+Delta 04.11. plus nachgeholte Wurzel- und Ebene-1-Prüfung vom Montag. 805 Objekte geprüft, 15 nicht prüfbar, 60 nach außen geöffnet. **2 neue Öffnungen (1 × mittel, 1 × niedrig), kein Fund „hoch“.** Bericht: Northdocks IT / „Freigabe-Delta 2026-11-04 (Assets)“ (Google-Doc 1oEJ_2kiZvJTH1url-yWMMe0Hb2pWLV3YINt0ncUdLDI). TEMA Trials Technologies.xlsx: Link besteht weiterhin. Baseline: +221 Objekte, 24 aktualisiert, jetzt 1.640. Korrektur: Das Einleseskript las Domänenfreigaben bisher ohne Domänennamen; die 42 betroffenen Objekte habe ich heute neu abgefragt.
+
+### Nächste Runde (12)
+
+Teil 1: Änderungen seit 04.11.2026, 07:00 (Europe/Berlin). Teil 2: FirefighterVR / Assets (`1r5GptSkbpFkq46Chi_EYyKSJX3zxvZDx`) ohne Engine/Binaries/Saved/Config, danach _assets (`1U8f8w_4JUX3bTS4hd_NUBs8UYjQXNrnF`) und GlobalAssets.
+
+### Abschluss 04.11.2026 ca. 08:20 (Europe/Berlin)
+- state.json aktualisiert (Backup work/state_vor_0411.json).
+- Tabu-Check über alle Ausgaben: Einträge, Begründungen, Notizen, 3D-Liste und Bericht sind sauber. In den Audit-Arbeitsdateien (delta_analyse) Titel und Pfade von 68 Tabu-/Tabu-Wurzelobjekten entfernt, sodass nur IDs bleiben. aufraeumvorschlaege_0311.md.bak gelöscht, weil die alte Formulierung darin stand.
+- Rohdaten in der Arbeitsumgebung von Assets gelöscht; Dateien anderer Bots unangetastet.
+
+</details>
 
 ## Runde 9: Änderungen seit 27.10. und Projects letzte Teilrunde, Template (3), Tut und UKK (28.10.2026)
 
