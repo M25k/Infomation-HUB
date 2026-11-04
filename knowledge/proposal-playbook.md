@@ -128,6 +128,7 @@ Schreibregeln dagegen:
 7. **Nicht verwirren.** Im Zuschlagstext keine anderen Lose, Produkte oder Schulen als Analogie (UKSH Los 2, Hand aufs Herz als Schulreferenz, Quest neben festem Pico-Angebot). ~~Einmal Leistungsgrenze reicht; nicht in jedem Abschnitt wiederholen.~~ (überholt 25.10.2026: keine Leistungsgrenzen als Negativ-Abgrenzung.) Gleiches für **EU-Deliverables (Dxx):** andere WPs/Partner/Produkte nicht nur zum Ausschließen nennen; kein Text „nur wo Schnittstelle zu WP5“. Siehe [reader-facing-prose.mdc](../.cursor/rules/reader-facing-prose.mdc).
 8. **Kein Entwurfs-Meta** in einreichungsfähigen Deliverables (kein „compared to previous version“, kein Änderungsprotokoll für Gutachter, die die alte Fassung nicht kennen).
 9. **Storyboard muss die Minuten tragen.** Beatliste allein reicht nicht für 8–12 Minuten Szenario (FAQ: Einführung extra, Gesamtdurchlauf ≤ 15). Zeitgerüst, Beispielsätze (7–10 / 11–14), Interaktionsbeispiele und Varianten in derselben Welt — kein zweites Gebäude.
+- **Vertrieb: Wir legen fest, wie gekauft wird** (Weekly 04.11.2026, 00:47:19–00:48:38, Patrick, Joachim, laut One; W1104-38): Kundenspezifische Sonderverfahren bei Kleinaufträgen dürfen abgelehnt werden.
 
 ## 8. Meditrain / Medizin (nach FFVR-Produkt)
 

@@ -34,3 +34,5 @@ Spiegel des Feedback-Trackers bei One (nicht im Repo, geführt von One), Stand d
 | W1021-28 | 21.10.2026, 09:23–09:50 | – | Build-Pipeline auf UE 5.8 umstellen? | Joachim | Entscheidung offen (Joachim) | Build-Engine auf nd-pc-25 ist UE 5.8, Northdocks baut nicht mehr mit 4.27 (Joachim 28.10.2026 17:01, laut One). Ob NDFramework von 5.7.4 auf 5.8 wechselt, ist noch offen. |
 
 W1028 (Weekly 28.10.2026): eigener Spiegel in [weekly-2026-10-28-feedback.md](weekly-2026-10-28-feedback.md) (laut One, 28.10.2026).
+
+W1104 (Weekly 04.11.2026): eigener Spiegel in [weekly-2026-11-04-feedback.md](weekly-2026-11-04-feedback.md) (laut One, 04.11.2026).
