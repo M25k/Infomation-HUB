@@ -1,6 +1,6 @@
 # Personen
 
-Format und Regeln: [README.md](README.md). Keine Mailadressen, keine Telefonnummern.
+Format und Regeln: [README.md](README.md).
 
 ## Klaus Loesmann
 
