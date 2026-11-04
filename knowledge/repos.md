@@ -37,7 +37,7 @@ Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von 
 |---|---|---|---|
 | `NDFramework` | Northdocks-GmbH/NDFramework | main | Unreal 5.7: OpenXR + PICOOpenXR aktiv; Plugins NDVRCore, NDFire, NDGeo, CesiumForUnreal, AdvancedSessions, EOSCore, SmoothSync. OpenXREyeTracker/HandTracking im uproject **disabled**. Im Plugins-Ordner zusätzlich NDWidgets, NDCommonAssets, ND_LookDev, NDEditorTools, CharacterSetup, NDVRTutorial (uproject disabled), NDAuth (disabled), VaRest, **VRSpectatorUtilities** (Ordner lokal, **nicht** im uproject — nicht als Feature). `NDGeo` hängt an GeoReferencing + WebBrowserWidget. |
 | `NDVRActemium` | Northdocks-GmbH/NDVRActemium | 5.7_update | Factory/Infinity, Unreal 5.7; `PICOOpenXR` aktiv, Legacy-`PicoXR` **disabled**. `ElevenVoice` im uproject enabled (intern Standard-TTS der meisten XR-Sprachen; nicht Fulldome, nicht Stadttouren). Plugin-Dateien **nicht** im Checkout. `McpAutomationBridge` im uproject **enabled** — interne Editor-/Agent-Brücke, **kein** Kundenfeature. TargetPlatforms: Android. README leer. |
-| `ND-GodViewWeb` | Northdocks-GmbH/ND-GodViewWeb | master | GodView SvelteKit+Cesium, pnpm/Lerna, Docker, Node 20+. Dieselbe App unter `https://app.godview.solutions` **und** `https://godview.nd-apps.de` (kein Redirect). Deploy per `deploy.sh`, nicht GitHub Actions. Tokens/.env nicht zitieren. **AGB 1.0 (laut GodView App, 03.11.2026):** AGB 1.0 mit AVV und Zustimmungshistorie (Routen /agb, /avv, /zustimmung) seit 02.11.2026 in master (PR #27/#28, Head `5e306b3`); **noch nicht live**: Live bleibt `2ef827e`, bis Joachim selbst deployt. |
+| `ND-GodViewWeb` | Northdocks-GmbH/ND-GodViewWeb | master | GodView SvelteKit+Cesium, pnpm/Lerna, Docker, Node 20+. Dieselbe App unter `https://app.godview.solutions` **und** `https://godview.nd-apps.de` (kein Redirect). Deploy per `deploy.sh`, nicht GitHub Actions. Tokens/.env nicht zitieren. **AGB 1.0 (laut GodView App, 03.11.2026):** AGB 1.0 mit AVV und Zustimmungshistorie (Routen /agb, /avv, /zustimmung) seit 02.11.2026 in master (PR #27/#28, Head ~~`5e306b3`~~); **noch nicht live**: Live bleibt `2ef827e`, bis Joachim selbst deployt. **Stand 04.11.2026 (laut One):** PR #32 (Port-Bindung, s. Regel lokale Testaufbauten) und PR #33 (Cesium 1.147.0) mit Joachims OK gemergt; master jetzt `8754aeb` (~~`5e306b3`~~); Produktion nicht deployt. |
 | `www-pointclouds` | Northdocks-GmbH/www-pointclouds | main | Zweite GodView-Schicht: Potree-Viewer + Express (:3001), LAS/LAZ-Extraktion. Szenen u. a. Kölner Dom, Holcim Höver, Currenta Bürrig. Punktdaten nicht im Git (R2/lokal). Öffentlicher Viewer-Host intern `pointclouds.nd-apps.de`. |
 | `ND-Processing` | Northdocks-GmbH/ND-Processing | Standalone | Photogrammetrie RealityCapture → 3D Tiles, Cesium-Viewer |
 | `ND-Strahlensimulation` | Northdocks-GmbH/ND-Strahlensimulation | **nicht lokal** — GitHub/Cursor | Unreal **4.27**-Projekt `NDRaySimulation.uproject`, Plugin `RaySimulation`. Historische Dosimetrie-Linie für StrahlenschutzVR — **nicht** die aktuelle UE-5.7-Produktionsengine |
@@ -46,6 +46,7 @@ Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von 
 | `XLR-Punktwolken-Converter` | Northdocks-GmbH/XLR-Punktwolken-Converter | main | Konverter (README fehlt) |
 | `ND-Website` | Northdocks-GmbH/ND-Website | master | ältere Website? README leer |
 | `www-ar` | Northdocks-GmbH/www-ar | main | AR-Web, kein README |
+| `3D-Asset-Manager` | Northdocks-GmbH/3D-Asset-Manager | – | Repo des Bots 3D Asset Manager (Ersatz für Composer) (laut One 04.11.). |
 
 ### Unreal-Projekte: Ablage (Unreal Build, 27.10.2026)
 
@@ -129,13 +130,14 @@ Information-HUB bleibt die Textquelle. Technik belegen: lokaler Ordner **oder** 
 
 ## Bot-Verzeichnis (im Aufbau)
 
-Bisher nur hier gelistet; weitere Bots (One, Video, Assets, Social, Web, 3D, Pico Native, BMA App, GodView App, Unreal Build, Wissen) werden nachgetragen.
+Bisher nur hier gelistet; weitere Bots (One, Video, Assets, Social, Web, 3D, Pico Native, BMA App, GodView App, Unreal Build, Wissen) werden nachgetragen. Neu: **3D Asset Manager** (laut One 04.11.).
 
 | Bot | ID | Aufgabe | Zugriff |
 |---|---|---|---|
 | **IT** | `49ab7f47-f3d5-473c-8086-c5bd4b36dd8a` | Seit 26.10.2026 aktiv. Reine Lese-Health-Checks der Grok-Bot-Rechner ND-PC-80, Video-PC und ND-NB-20; ab 27.10.2026 in Ones Runde | Nur lesend; keine Änderungen an den Rechnern. Keine Adressen und Zugangsdaten im Repo |
 | **GV Render** | `4d6c85c6-839e-402a-9b0b-e1d662dc44e2` | Baut `gv-render`, einen nativen Renderer (vsgCs / VulkanSceneGraph / cesium-native) nur für GodView-Cesium-Tiles; Details [brand/godview.md](brand/godview.md) | Nur Lesezugriff auf die Cesium-Test-Organisation „ND Testlabor“ mit eigenem Viewer-Login; keine Produktivdaten. Test auf dem Video-PC, finale Renders auf dem neuen Windows-PC mit RTX 4090 |
 | **Unreal Assets** | `d9294990-a368-4b30-a42f-e1d54092f7d6` | Seit 28.10.2026: lädt und prüft 3D-Assets in Unreal 5.8 für Mobile VR (Pico 4 Ultra), Reviews z. B. HLF20, keine App- oder Funktionsentwicklung | laut One 29.10.2026 |
+| **3D Asset Manager** | – | Neuer Bot, ersetzt Composer; Repo [Northdocks-GmbH/3D-Asset-Manager](https://github.com/Northdocks-GmbH/3D-Asset-Manager) (laut One 04.11.) | – |
 
 Quelle: GV Render (Joachim 23.10.2026, übermittelt von One); IT (One, Runde 27.10.2026).
 
