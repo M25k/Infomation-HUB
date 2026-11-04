@@ -113,7 +113,7 @@ Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, 
 
 **Freigabe-Audit 04.11.2026 (laut Assets; ohne Links, die Dateien öffentlich machen würden):** TEMA-Datei mit Bearbeitungsrecht für die Domäne (mittel); Campuslab-ZIP (ND-1832) für jeden mit Link lesbar (niedrig); Link der TEMA-Trials-Tabelle besteht weiterhin, Asana [1219964652911814](https://app.asana.com/0/0/1219964652911814). Kein Fund „hoch“.
 
-~~Nächste freie IDs: FFVR-1224, ND-1803, GV-0056, NFVR-0293~~ Nächste freie IDs: **FFVR-1582, ND-1896, GV-0068, NFVR-0295** (unverändert: MED-0211, MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
+~~Nächste freie IDs: FFVR-1224, ND-1803, GV-0056, NFVR-0293~~ ~~Nächste freie IDs: FFVR-1582, ND-1896, GV-0068, NFVR-0295~~ Nächste freie IDs nach Video-Lieferung 04.11.2026 (Reel 41 GV-0068–0071, Rosette GV-0072–0079, Reel 42 NFVR-0295–0298, Taschenlampe NFVR-0299–0303, MUSIK_LIZENZEN_v37 ND-1896): **FFVR-1582, ND-1897, GV-0080, NFVR-0304** (unverändert: MED-0211, MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
 
 <details><summary>Bericht Assets (progress.md, Runde 11)</summary>
 
