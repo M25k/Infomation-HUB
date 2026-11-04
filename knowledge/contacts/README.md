@@ -19,7 +19,7 @@ Je Eintrag ein Abschnitt `## Name` mit diesen Feldern:
 
 ## Regeln
 
-- Keine Mailadressen, keine Telefonnummern, keine privaten Anschriften, keine Zugangsdaten.
+- Keine privaten Anschriften, keine Zugangsdaten.
 - **Freigabe** ist einer von drei Werten: **nennbar** (darf in Angeboten und Anträgen namentlich genannt werden), **nur intern**, **Freigabe fehlt** (Default für neue Einträge).
 - Vor Namensnennung externer Personen gilt die Namensregel in [document-rules.md](../document-rules.md) (Abschnitt „Referenzen“).
 - Volumen und Rechnungen nicht hier pflegen, sondern in [accounting.md](../accounting.md) (FreeAgent gilt).
