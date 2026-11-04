@@ -29,7 +29,7 @@ Hosting-Aussage auf der Site: Deutschland, DSGVO. Intern Linode / DLR-On-Prem **
 4. VR-Export und 3D Tiles (auch kundeneigene Tilesets, analog FFVR-FAQ) sind Produktfeatures, kein FirefighterVR-Katalog.
 5. Englisch: entweder vollwertige EN-Texte oder klarer Umschalter; keine halben Strings.
 6. Kontakt: kontakt@northdocks.com, Telefon Hub **+49 (0) 2173 9996715**. `godview@…` nicht zum Firmenstandard machen.
-7. **AGB:** Die GodView-AGB stellt Joachim selbst am Wochenende online, nicht automatisch über den GodView-Bot (Joachim, 21.10.2026, Discord #small_talk, via One). Bis dahin keine AGB-Seite durch Bots anlegen oder veröffentlichen.
+7. **AGB:** Die GodView-AGB stellt Joachim selbst am Wochenende online, nicht automatisch über den GodView-Bot (Joachim, 21.10.2026, Discord #small_talk, via One). ~~Bis dahin keine AGB-Seite durch Bots anlegen oder veröffentlichen.~~ Erledigt: AGB 1.0 und AVV live seit 03.11.2026 abends (laut GodView App 04.11.2026), Details unten.
 
 ## Öffentlich sagbar
 
@@ -62,3 +62,10 @@ Hosting-Aussage auf der Site: Deutschland, DSGVO. Intern Linode / DLR-On-Prem **
 - App-Hilfe `/help`: 21 Themen; als Export ist nur PDF aus der Orthogonal-Ansicht dokumentiert. VR-Export daher nicht als dokumentierte Funktion nennen, bis die Hilfe ihn beschreibt.
 - Roadmap auf der Landingpage: 5 Module (Smarte Inspektion, Baulogistik und Kranplanung, Mobiles Fototagging, 2D-Abwicklung zylindrischer Bauwerke, Photogrammetrie). Roadmap ist kein Lieferumfang.
 - Preise live: 119 €/Monat, Module Inspect und Bautagebuch je +49 €, Feuerwehr auf Anfrage.
+
+## App-Stand 04.11.2026 (laut GodView App)
+
+- AGB 1.0 und AVV live seit dem Deploy am Abend des 03.11.2026 auf app.godview.solutions und godview.nd-apps.de (laut GodView App 04.11.2026).
+- AGB-Zustimmung bei der Registrierung Pflicht, ohne Ablehnen-Option (#31); Bestandsnutzer können unter /zustimmung weiterhin ablehnen (laut GodView App 04.11.2026).
+- master nutzt CesiumJS 1.147 (#33), noch nicht in Produktion (laut GodView App 04.11.2026).
+- Lokale Docker-Ports an `127.0.0.1` gebunden, Port 80 per `HTTP_BIND_ADDRESS` freischaltbar (#32; Arbeitsregel lokale Testaufbauten in [README.md](../../README.md)) (laut GodView App 04.11.2026).
