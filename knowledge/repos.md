@@ -153,7 +153,7 @@ Der GPU-Rechner (MSI, Ubuntu, RTX 4070 Laptop 8 GB) wird von mehreren Bots genut
 
 Vorschlag Northdocks Video, übernommen 18.10.2026.
 
-## Lokale Testaufbauten auf Joachims Rechnern
+## Lokale Testaufbauten auf Entwicklungsrechnern
 
-- **Bind-Adresse:** In lokalen Testaufbauten auf Joachims Rechnern (z. B. ND-NB-20) werden Docker- und Dev-Server-Ports standardmäßig an `127.0.0.1` gebunden. Zugriff aus dem LAN nur per Schalter, d. h. über eine Umgebungsvariable für die Bind-Adresse (z. B. GodView auf Port 80 für Tests auf Tablet, Handy oder Headset). Produktive Aufbauten (z. B. der BMA-Compose auf Linode) sind nicht betroffen. (Joachim 04.11.2026 08:21, laut IT/One)
+- **Bind-Adresse:** In lokalen Testaufbauten ~~auf Joachims Rechnern~~ auf allen Rechnern, die für Entwicklung genutzt werden (z. B. ND-NB-20), werden Docker- und Dev-Server-Ports standardmäßig an `127.0.0.1` gebunden. Zugriff aus dem LAN nur per Schalter, d. h. über eine Umgebungsvariable für die Bind-Adresse (z. B. GodView auf Port 80 für Tests auf Tablet, Handy oder Headset). Produktive Aufbauten (z. B. der BMA-Compose auf Linode) sind nicht betroffen. ~~(Joachim 04.11.2026 08:21, laut IT/One)~~ (Joachim 04.11.2026 08:21/08:22, laut IT/One; gilt für alle Entwicklungsrechner, nicht nur Joachims)
 - Arbeitsregel in [README.md](../README.md) (Arbeitsregeln für Bots).
