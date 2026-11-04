@@ -1,0 +1,498 @@
+{
+  "generated": "2026-11-02",
+  "days": 20,
+  "sources_run": [
+    "ted",
+    "bkms",
+    "bund"
+  ],
+  "coverage": {
+    "ted": 83,
+    "bkms": 420,
+    "bund": 500
+  },
+  "notice_count": 918,
+  "review": [
+    {
+      "source": "bkms",
+      "id": "25969088",
+      "publication_number": "",
+      "title": "Virtual-Reality-Trainingssystems zur klinischen Triage",
+      "lot_title": "Virtual-Reality-Trainingssystems zur klinischen Triage",
+      "buyer": "Universitätsklinikum Frankfurt",
+      "publication_date": "2026-10-24",
+      "deadline": "2026-11-10",
+      "cpv": "72212900",
+      "buyer_country": "DEU",
+      "place": "DE7",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25969088",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25969088",
+      "description": "Entwicklung und Implementierung eines immersiven Virtual-Reality-Trainingssystems zur klinischen Triage bei einem Massenanfall von Verletzten.\nDie geplante VR-Anwendung soll eine solche Situation realitätsnah simulieren und insbesondere die medizinische Entscheidungsfindung unter Zeitdruck trainierbar machen. Die Anwendung soll sowohl für Personen eingesetzt werden, die im Ereignisfall tatsächlich an einer klinischen Sichtung beteiligt wären, als auch für Personen in Ausbildung und Studium.\n\nVirtual-Reality-Trainingssystems zur klinischen Triage Virtual-Reality-Trainingssystems zur klinischen Triage Entwicklung und Implementierung eines immersiven Virtual-Reality-Trainingssystems zur klinischen Triage bei einem Massenanfall von Verletzten.\nDie geplante VR-Anwendung soll eine solche Situation realitätsnah simulieren und insbesondere die medizinische Entscheidungsfindung unter Zeitdruck trainierbar machen. Die Anwendung soll sowohl für Personen eingesetzt werden, die im Ereignisfall tatsächlich an einer klinischen Sichtung beteiligt wären, als auch für Personen in Ausbildung und Studium.\n\nVirtual-Reality-Trainingssystems zur klinischen Triage",
+      "platform": "service.bund.de",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "xr"
+      ],
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "25992064",
+      "publication_number": "",
+      "title": "Virtual-Reality-Trainingssystems zur interprofessionellen Schockraumversorgung",
+      "lot_title": "Virtual-Reality-Trainingssystems zur interprofessionellen Schockraumversorgung",
+      "buyer": "Universitätsklinikum Frankfurt",
+      "publication_date": "2026-10-31",
+      "deadline": "2026-11-17",
+      "cpv": "72212900",
+      "buyer_country": "DEU",
+      "place": "DE7",
+      "notice_type": "cn-standard",
+      "contract_nature": "",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/25992064",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/25992064",
+      "description": "Entwicklung und Implementierung eines immersiven Virtual-Reality-Trainingssystems zur interprofessionellen Schockraumversorgung.\nZiel ist die Entwicklung einer realitätsnahen Single- und Multiplayer-Simulation, die den Schockraum der Universitätsmedizin Frankfurt als digitalen Zwilling abbildet und die Versorgung von der präklinischen Übergabe über Primary und Secondary Survey sowie Diagnostik und Therapie bis zur Entscheidung über die weitere Versorgung simuliert.\n\nVirtual-Reality-Trainingssystems zur interprofessionellen Schockraumversorgung Virtual-Reality-Trainingssystems zur interprofessionellen Schockraumversorgung Entwicklung und Implementierung eines immersiven Virtual-Reality-Trainingssystems zur interprofessionellen Schockraumversorgung.\nZiel ist die Entwicklung einer realitätsnahen Single- und Multiplayer-Simulation, die den Schockraum der Universitätsmedizin Frankfurt als digitalen Zwilling abbildet und die Versorgung von der präklinischen Übergabe über Primary und Secondary Survey sowie Diagnostik und Therapie bis zur Entscheidung über die weitere Versorgung simuliert.\n\nVirtual-Reality-Trainingssystems zur interprofessionellen Schockraumversorgung",
+      "platform": "service.bund.de",
+      "score": 70,
+      "clusters": [
+        "xr",
+        "meditrain"
+      ],
+      "decision": "review",
+      "skip_reasons": [],
+      "query_id": "xr",
+      "matched_queries": [
+        "bund-rss",
+        "med",
+        "twin",
+        "xr"
+      ],
+      "sources": [
+        "bkms",
+        "bund.de"
+      ]
+    }
+  ],
+  "maybe": [
+    {
+      "source": "ted",
+      "id": "705681-2026",
+      "publication_number": "705681-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Umnutzung des ehemaligen Alten- und Pflegeheims Josefistift an der Bahnhofstraße 3, 83646 Bad Tölz, Tragwerksplanung, gem. §§ 49 ff HOAI 2021, LPH 1-6, stufenweise Beauftragung, sowie Leistungen aus dem Bereich Brandschutzplanung",
+      "lot_title": "",
+      "buyer": "Josefispitalstiftung mit Darlapp´scher Zustiftung verwaltet durch die Stadt Bad Tölz",
+      "publication_date": "2026-10-13",
+      "deadline": "2026-11-04",
+      "cpv": "71000000 71300000 71310000 71320000 71327000 71240000 71317100 71000000 71300000 71310000 71320000 71327000 71240000 71317100",
+      "buyer_country": "DEU",
+      "place": "DE216 DEU DE216 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://ted.europa.eu/de/notice/-/detail/705681-2026",
+      "url_de": "https://ted.europa.eu/de/notice/-/detail/705681-2026",
+      "description": "",
+      "platform": "TED",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire-de"
+      ],
+      "sources": [
+        "ted"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "92e37bff-7279-4df5-9a84-92c36f0ab690",
+      "publication_number": "746682-2026",
+      "title": "Neubau der Notleitstelle Bexbach - Tischlerarbeiten - Innentüren",
+      "lot_title": "Neubau der Notleitstelle Bexbach - Tischlerarbeiten - Innentüren",
+      "buyer": "Zweckverband für Rettungsdienst und Feuerwehralarmierung \nSaar (ZRF Saar)",
+      "publication_date": "2026-10-28",
+      "deadline": "2026-11-17",
+      "cpv": "45421131",
+      "buyer_country": "DEU",
+      "place": "DEC05",
+      "notice_type": "cn-standard",
+      "contract_nature": "works",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/92e37bff-7279-4df5-9a84-92c36f0ab690",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/92e37bff-7279-4df5-9a84-92c36f0ab690",
+      "description": "Der Zweckverband für Rettungsdienst und Feuerwehralarmierung ZRF\nbeabsichtigt derzeit\nden Neubau der Notleitstelle Bexbach. Hierzu wird die nachfolgenden Bauleistung\nausgeschrieben.\nDie im Wesentlichen auszuführenden Leistungen beinhalten folgende Bauleistungen:\n\nInnentüren auf 4 Geschossen (EG bis 3.OG)\nInnentüren ohne Brandschutz, Stahlzarge mit Holztürblatt ca. 30 Stk.\nInnentüren mit Anforderung, Alu ca. 8 Stk\nInnentüren mit Anforderungen, Stahlblech ca. 19 Stk.\nInnentüren Hochsicherheitstüren, RC3, schusssicher FB3, Stahl 2 Stk.\n4 Stk. Fluchttürsteuerung Neubau der Notleitstelle Bexbach - Tischlerarbeiten - Innentüren Der Zweckverband für Rettungsdienst und Feuerwehralarmierung ZRF\nbeabsichtigt derzeit\nden Neubau der Notleitstelle Bexbach. Hierzu wird die nachfolgenden Bauleistung\nausgeschrieben.\nDie im Wesentlichen auszuführenden Leistungen beinhalten folgende Bauleistungen:\n\nInnentüren auf 4 Geschossen (EG bis 3.OG)\nInnentüren ohne Brandschutz, Stahlzarge mit Holztürblatt ca. 30 Stk.\nInnentüren mit Anforderung, Alu ca. 8 Stk\nInnentüren mit Anforderungen, Stahlblech ca. 19 Stk.\nInnentüren Hochsicherheitstüren, RC3, schusssicher FB3, Stahl 2 Stk.\n4 Stk. Fluchttürsteuerung",
+      "platform": "subreport.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/746682-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "ted",
+      "id": "754201-2026",
+      "publication_number": "754201-2026",
+      "title": "Deutschland – Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen – Projektsteuerung für den Neubau einer Leitstelle für Rettungsdienst und Brandschutz",
+      "lot_title": "",
+      "buyer": "Integrierte Regionalleitstelle Lüneburger Heide AöR",
+      "publication_date": "2026-10-30",
+      "deadline": "2026-11-19",
+      "cpv": "71000000 71541000 71000000 71541000",
+      "buyer_country": "DEU",
+      "place": "DE937 DEU DE937 DEU",
+      "notice_type": "cn-standard",
+      "contract_nature": "services services",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/cbb9164d-41de-4bb5-b370-f2063c51d7dc",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/cbb9164d-41de-4bb5-b370-f2063c51d7dc",
+      "description": "Der Auftraggeber beabsichtigt, in diesem Verfahren einen Auftrag über Projektsteuerungsleistungen bzgl. sämtlicher Handlungsbereiche und Projektstufen gemäß AHO-Heft 9 (\"Projektmanagement in der Bau- und Immobilienwirtschaft\") zu vergeben. Projektsteuerung für den Neubau einer Leitstelle für Rettungsdienst und Brandschutz Seit 2006 arbeiten die Landkreise Rotenburg (Wümme), Harburg und Heidekreis im Rettungsdienst und Brandschutz in Form eines virtuellen Leitstellenverbundes zusammen, um Servicelevel und Ausfallsicherheit zu verbessern. Im Oktober 2024 beschlossen die drei Landkreise gemeinsam mit dem Landkreis Lüneburg die Gründung einer gemeinsamen integrierten Leitstelle des Rettungsdienstes und Brandschutzes als kommunale Anstalt des öffentlichen Rechts (Integrierte Regionalleitstelle Lüneburger Heide AöR). Sie wurde durch die gemeinsame Satzung am 18. Februar 2025 rechtskräftig. Die AöR hat nach ihrer Gründung zunächst die Aufgabe, eine neue gemeinsame Leitstelle zu planen, zu errichten und betriebsbereit zu machen. Für dieses Vorhaben soll eine externe Projektsteuerung beauftragt werden.",
+      "platform": "TED",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire-de",
+      "matched_queries": [
+        "fire",
+        "fire-de",
+        "xr"
+      ],
+      "sources": [
+        "bkms",
+        "ted"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "0dcddc0f-fdf0-4590-b622-8db8a441cd97",
+      "publication_number": "757593-2026",
+      "title": "Generalunternehmerleistungen Neubau Rettungswache 50 und Gerätehaus der Freiwilligen Feuerwehr Kalkum in Düsseldorf",
+      "lot_title": "Generalunternehmerleistungen Neubau Rettungswache 50 und Gerätehaus der Freiwilligen Feuerwehr Kalkum in Düsseldorf",
+      "buyer": "Immobilien Projekt Management Düsseldorf GmbH",
+      "publication_date": "2026-11-01",
+      "deadline": "2026-11-30",
+      "cpv": "45210000",
+      "buyer_country": "DEU",
+      "place": "DEA11",
+      "notice_type": "cn-standard",
+      "contract_nature": "works",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/0dcddc0f-fdf0-4590-b622-8db8a441cd97",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/0dcddc0f-fdf0-4590-b622-8db8a441cd97",
+      "description": "Die IPM GmbH plant, den Neubau der Rettungswache 50 in Kombination mit dem Gerätehaus der Freiwilligen Feuerwehr in Kalkum im Rahmen einer ganzheitlichen Vergabe schlüsselfertig errichten zu lassen. Der Leistungsumfang umfasst Planungs-  und Bauleistungen für den neuen Standort auf einem unbebauten Grundstück an den Straßenzügen Zeppenheimer Straße / Kalkumer Schlossallee in 40489 Düsseldorf. Generalunternehmerleistungen Neubau Rettungswache 50 und Gerätehaus der Freiwilligen Feuerwehr Kalkum in Düsseldorf Der zu vergebende Auftrag betrifft Planungs- und Bauleistungen für den Neubau der Rettungswache 50 in Kombination mit dem Gerätehaus der Freiwilligen Feuerwehr in Kalkum an den Straßenzügen Zeppenheimer Straße / Kalkumer Schlossallee in 40489 Düsseldorf. Der Auftragnehmer muss den Neubau der beiden Nutzungsbereiche errichten: Neubau Gebäudeabschnitt R mit 2.812 m² BGF und Neubau Gebäudeabschnitt S mit 73 m² BGF ergeben in Summe 2.885 m² BGF. Der Auftrag wird an einen Generalunternehmer vergeben, der auch die Planung ab Lph 5 übernimmt. Vorlaufende Maßnahmen wie Erschließungsmaßnahmen, Kampfmitteluntersuchungen und Erdbauarbeiten sowie die Herstellung der Außenanlagen werden bauseits ausgeführt. Die Erneuerung ist aufgrund der baulichen Situation beider bisheriger Standorte zwingend erforderlich. Aufgrund wirtschaftlicher Vorteile werden die Standorte zusammengelegt.  Das betroffene Flurstück ist im Flächennutzungsplan einerseits als Grünflächen und Dauerkleingärten, andererseits als Flächen für die Landwirtschaft ausgewiesen. Die überplante Fläche ist ausschließlich als Grünflächen mit der Zweckbestimmung Kleingärten ausgewiesen. Die Straßenzüge der Zeppenheimer Straße / Kalkumer Schloßallee sind von geschützten Baumalleen gesäumt und wurden um einzelne junge Bäume ergänzt. Das Flurstück weist keinen signifikanten Höhenversprung zum Straßenniveau auf und kann über die Kalkumer Schloßallee bzw. Zeppenheimer Straße erschlossen werden. Das Flurstück wird derzeit ausschließlich landwirtschaftlich genutzt und die überplante Fläche zurzeit als artenarme Intensivwiese bewirtschaftet. Im weiteren Höhenverlauf liegt das Grundstück bis zu 1,20 m tiefer als die angrenzenden Straßen. Aufgrund der Höhenlage des Grundstücks ist in Anbetracht der in Zukunft zu erwartenden Starkregenereignisse ein Oberflächenstau zu erwarten. Durch die Festlegung der OK FFB auf die Höhe von +37,50 m ü. NHN 2016 wird ein höheres Geländeniveau erzeugt, welches das Überflutungsrisiko verringert. Die beiden Nutzungen der Freiwillige Feuerwehr und der Rettungswache teilen sich das Baugrundstück, werden aber unabhängig voneinander über separate Gebäudezugänge erschlossen. Der Baukörper wird entsprechend seiner Nutzungen in zwei Gebäudeabschnitte unterteilt:  In den Bereich der Rettungswache (RW) und den Bereich der Freiwilligen Feuerwehr (FF). Die tragende Konstruktion der Freiwilligen Feuerwehr und Rettungswache besteht aus Stahlbeton und Kalksandstein-Mauerwerk. Die Dämmung wird auf die tragende Konstruktion aufgebracht und besteht aus einer druckfesten XPS-Dämmung im Sockelbereich sowie einer Mineralwolldämmung in den übrigen Fassadenflächen. Diese wird außen durch die Sichtbeton-Fertigteile im Erdgeschoss sowie durch die vorgehängte, hinterlüftete Holzfassade in den oberen Geschossen geschützt und verkleidet. Die Dachdecken der jeweiligen Nutzungseinheiten sind konstruktiv ins Gefälle gebracht. So kann auf eine Gefälledämmung verzichtet werden.  Die Dachdecken der beiden Fahrzeughallen (und in weiteren Teilbereichen der Freiwilligen Feuerwehr) werden als Spannbetondecken ausgeführt. Somit kommen die Fahrzeughallen ohne Unterzüge aus und Räume mit großen Raumgeometrien im Bereich der Freiwilligen Feuerwehr können stützenfrei ausgebildet werden.  Das Gebäude wird im Effizienzgebäude-40-Standard errichtet. Der Auftraggeber legt besonderen Wert auf eine partnerschaftliche Zusammenarbeit, sowohl mit den Bietern im Verfahren als auch mit dem späteren Auftragnehmer.",
+      "platform": "dtvp.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/757593-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "f44d0311-49ea-40cb-8a96-4e16cdc81df9",
+      "publication_number": "751087-2026",
+      "title": "Instandhaltung Medizingeräte Dräger",
+      "lot_title": "Instandhaltung Medizingeräte Dräger",
+      "buyer": "Berliner Feuerwehr",
+      "publication_date": "2026-10-29",
+      "deadline": "2026-12-01",
+      "cpv": "50400000",
+      "buyer_country": "DEU",
+      "place": "DE300",
+      "notice_type": "cn-standard",
+      "contract_nature": "services",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/f44d0311-49ea-40cb-8a96-4e16cdc81df9",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/f44d0311-49ea-40cb-8a96-4e16cdc81df9",
+      "description": "Rahmenvereinbarung mit der Berliner Feuerwehr über die Wartung und Reparatur von Medizingeräten des Herstellers Dräger Instandhaltung Medizingeräte Dräger Rahmenvereinbarung mit der Berliner Feuerwehr über die Wartung und Reparatur von Medizingeräten des Herstellers Dräger",
+      "platform": "my.vergabeplattform.berlin.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/751087-2026",
+      "sources": [
+        "bkms"
+      ]
+    },
+    {
+      "source": "bkms",
+      "id": "55667f07-0e29-442c-a2d6-dfb708bd23fb",
+      "publication_number": "751224-2026",
+      "title": "Instandhaltung Medizingeräte Weinmann und B. Braun",
+      "lot_title": "Instandhaltung Medizingeräte Weinmann und B. Braun",
+      "buyer": "Berliner Feuerwehr",
+      "publication_date": "2026-10-29",
+      "deadline": "2026-12-01",
+      "cpv": "50400000",
+      "buyer_country": "DEU",
+      "place": "DE300",
+      "notice_type": "cn-standard",
+      "contract_nature": "services",
+      "url": "https://oeffentlichevergabe.de/ui/de/notices/55667f07-0e29-442c-a2d6-dfb708bd23fb",
+      "url_de": "https://oeffentlichevergabe.de/ui/de/notices/55667f07-0e29-442c-a2d6-dfb708bd23fb",
+      "description": "Rahmenvereinbarung mit der Berliner Feuerwehr über die Wartung und Reparatur von Medizingeräten des Herstellers Weinmann und B. Braun. Instandhaltung Medizingeräte Weinmann und B. Braun Rahmenvereinbarung mit der Berliner Feuerwehr über die Wartung und Reparatur von Medizingeräten des Herstellers Weinmann und B. Braun.",
+      "platform": "my.vergabeplattform.berlin.de",
+      "score": 50,
+      "clusters": [
+        "meditrain",
+        "firefighter"
+      ],
+      "decision": "maybe",
+      "skip_reasons": [],
+      "query_id": "fire",
+      "matched_queries": [
+        "fire"
+      ],
+      "url_ted": "https://ted.europa.eu/de/notice/-/detail/751224-2026",
+      "sources": [
+        "bkms"
+      ]
+    }
+  ],
+  "skip_count": 910,
+  "skip_sample": [
+    {
+      "title": "Deutschland – Dienstleistungen von Sicherheitsdiensten – Sicherheitsdienst im Klinikverbund Gesundheit Nord",
+      "buyer": "Gesundheit Nord Dienstleistungen gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Sicherheitsdiensten – Sicherheitsdienst im Klinikverbund Gesundheit Nord",
+      "buyer": "Gesundheit Nord Dienstleistungen gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Luftbildvermessung – Airborne Laserscanbefliegung 2027",
+      "buyer": "Landesamt für Geoinformation und Landentwicklung",
+      "score": 30,
+      "clusters": [
+        "twin"
+      ]
+    },
+    {
+      "title": "Deutschland – Bautischlerarbeiten – medizinische Festeinbauten",
+      "buyer": "Caritas-Krankenhaus Bad Mergentheim gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Gerät zur Durchfühung eines intermittierenden Hypoxie-Hyperoxie-Trainings einschließlich Patientenmonitoring, Steuerung und Erstausstattung  entsprechend LV",
+      "buyer": "Universitätsklinikum Magdeburg A.ö.R",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Benachrichtigungssystem Feuerwehr",
+      "buyer": "Dataport AöR",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "medizinische Festeinbauten",
+      "buyer": "Caritas-Krankenhaus Bad Mergentheim gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Airborne Laserscanbefliegung 2027",
+      "buyer": "Landesamt für Geoinformation und Landentwicklung",
+      "score": 30,
+      "clusters": [
+        "twin"
+      ]
+    },
+    {
+      "title": "Augenklinikinformationssystem",
+      "buyer": "TUM Klinikum",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Digitales Klinik-Infotainment",
+      "buyer": "Klinikum Main-Spessart",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Zentralisierung Nuklearmedizin in Haus 3 - Los 303 Außenfenster und -türen",
+      "buyer": "Universitätsklinikum Leipzig AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Medizinische Geräte – Radionuklidlabor",
+      "buyer": "Klinikum der Stadt Ludwigshafen am Rhein gGmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Development of Training Courses for the European Raw Materials Sector",
+      "buyer": "EIT RawMaterials GmbH",
+      "score": 30,
+      "clusters": [
+        "twin"
+      ]
+    },
+    {
+      "title": "Prueftechnik fuer E-Fahrzeuge",
+      "buyer": "Berliner Feuerwehr",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur- und Ingenieurbüros sowie Vermessungsdienste – Neubau eines Feuerwehrgerätehauses in Waurichen - Objektplanung",
+      "buyer": "Stadt Geilenkirchen - Der Bürgermeister -",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur- und Ingenieurbüros sowie Vermessungsdienste – Neubau eines Feuerwehrgerätehauses in Waurichen - Objektplanung",
+      "buyer": "Stadt Geilenkirchen - Der Bürgermeister -",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen von Architektur- und Ingenieurbüros sowie Vermessungsdienste – Neubau eines Feuerwehrgerätehauses in Waurichen - Objektplanung",
+      "buyer": "Stadt Geilenkirchen - Der Bürgermeister -",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "Deutschland – Dienstleistungen im Gartenbau – Rahmenvertrag Jahrespflege 2027-2030",
+      "buyer": "Kommunalbetrieb Krefeld AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Deutschland – Baumpflege – Rahmenvertrag Jahrespflege 2027-2030",
+      "buyer": "Kommunalbetrieb Krefeld AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Besetzung eines Rettungswagens und Stellung eines Rettungswagenstandortes in Lüttringhausen",
+      "buyer": "Stadt Remscheid, Fachdienst Recht und Vergabe, Abteilung Zentrale Vergabestelle",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "OP-Mikroskop Harzklinikum neu",
+      "buyer": "Harzklinikum Dorothea- Christiane Erxleben GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Überlassung und Inbetriebnahme einer Software zur Archivgutverwaltung inkl. Einrichtung, Migration, Schnittstellen, Schulung der Mitarbeitenden sowie Pflege und Support",
+      "buyer": "Wismut GmbH",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "Elektroinstallationsarbeiten, Feuerwehr Kappel",
+      "buyer": "Stadt Freiburg i. Br. - Vergabemanagement",
+      "score": 30,
+      "clusters": [
+        "firefighter"
+      ]
+    },
+    {
+      "title": "2 (zwei) Linearbeschleuniger Gesamtsysteme für die Strahlentherapie",
+      "buyer": "Universitätsklinikum Halle (Saale) AöR",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    },
+    {
+      "title": "3626S62541 - Prüfung des Einsatzes von KI-Verfahren im radiologischen Notfallmanagementsystem durch KI-unterstützte Trend- und Plausibilitätsanalyse im ODL-Messnetz",
+      "buyer": "Bundesamt für Strahlenschutz (BfS)",
+      "score": 30,
+      "clusters": [
+        "meditrain"
+      ]
+    }
+  ],
+  "errors": []
+}
