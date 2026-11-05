@@ -7,6 +7,8 @@ description: Weekly public-tender scan for Northdocks. Finds VgV/TED/service.bun
 
 Find **öffentliche Ausschreibungen** that fit Northdocks. Not a dump of every VR mention.
 
+**Zuständiger Bot:** **Ausschreibungen** (vormals „Förderung“). Förderprogramme und Ideen gehen an den Bot **Förderung** (Joachim 05.11.2026, laut One).
+
 ## Start
 
 1. Read this file, then [match.md](match.md).
@@ -55,7 +57,7 @@ Nur notiert: N
 
 ## Hard rules
 
-**Ticket und Paket (Joachim 25.10.2026, übermittelt von One bzw. Förderung):**
+**Ticket und Paket (Joachim 25.10.2026, übermittelt von One bzw. Förderung; Bot heißt seit 05.11.2026 „Ausschreibungen“ (Joachim 05.11.2026, laut One)):**
 - Eine Ausschreibung bekommt **ein** Asana-Ticket mit grobem Status. Unteraufgaben nur für Dinge, die andere Personen tun müssen.
 - Details stehen als `.md` im Drive-Ordner der Ausschreibung (inkl. Checkliste; eine Checkliste wird nie als Asana-Unteraufgaben angelegt). Die Ticketbeschreibung ist sauber gegliedert; Referenz: [UKSH-Ticket](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1217328350929037).
 - Referenzvolumen und ähnliche Zahlen dürfen auf volle Tausend Euro gerundet werden (document-rules.md Nr. 15, (Joachim 25.10.2026, über One)).

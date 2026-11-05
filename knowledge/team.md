@@ -4,7 +4,7 @@ Nur Namen und Rollen, die in Asana, Impressum, Drive-Vita oder dieser KB stehen.
 
 Für Ausschreibungen: **Eignung Teil 2** (Rollen + Referenzen) getrennt von der **Zuschlags**-Personalliste im Umsetzungskonzept. Dieselbe Person darf in beiden vorkommen, der Text nicht 1:1 kopieren.
 
-Tagessätze nicht hier als „die“ Firmenzahl. Interner Personal-Mittelwert 2020–2024: **880,24 €** je Arbeitstag (Drive `Mittelwert Tagessatz`). UKSH Los 2 nutzte **1.095 €** je Personentag im Angebot. **Überholt (Förderung 25.10.2026):** 1.095 € ist UKSH-spezifisch und kein Referenz-Tagessatz mehr; es gilt ein fester Tagessatz pro Ausschreibung, kalkuliert auf Gewinnen ([offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md)).
+Tagessätze nicht hier als „die“ Firmenzahl. Interner Personal-Mittelwert 2020–2024: **880,24 €** je Arbeitstag (Drive `Mittelwert Tagessatz`). UKSH Los 2 nutzte **1.095 €** je Personentag im Angebot. **Überholt (Förderung 25.10.2026; heute Bot Ausschreibungen (Joachim 05.11.2026, laut One)):** 1.095 € ist UKSH-spezifisch und kein Referenz-Tagessatz mehr; es gilt ein fester Tagessatz pro Ausschreibung, kalkuliert auf Gewinnen ([offer-package.md](../.cursor/skills/grants-and-contracts/offer-package.md)).
 
 Drive-Viten (nicht ins Git kopieren): Ordner [Lebenslauf](https://drive.google.com/drive/folders/1GOzaVblxAQmr4FJ53itwGmK3ksX_OohN); UKSH-Mappe mit Urkunden Marcel/Finn/Moritz.
 

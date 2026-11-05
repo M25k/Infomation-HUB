@@ -11,7 +11,7 @@ Kein Task, wenn derselbe Vorgang schon im Board liegt — dann die bestehende Be
 
 Keine Portal-Passwörter, keine AVPQ-Zugangscodes in die Notes.
 
-**Ticket und Paket (Joachim 25.10.2026, übermittelt von One bzw. Förderung):**
+**Ticket und Paket (Joachim 25.10.2026, übermittelt von One bzw. Förderung; Bot heißt seit 05.11.2026 „Ausschreibungen“ (Joachim 05.11.2026, laut One)):**
 - Eine Ausschreibung bekommt **ein** Asana-Ticket mit grobem Status. Unteraufgaben nur für Dinge, die andere Personen tun müssen.
 - Details stehen als `.md` im Drive-Ordner der Ausschreibung (inkl. Checkliste; eine Checkliste wird nie als Asana-Unteraufgaben angelegt). Die Ticketbeschreibung ist sauber gegliedert; Referenz: [UKSH-Ticket](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1217328350929037).
 - So schnell wie möglich bearbeiten. Joachim bekommt einen kompletten Vorschlag in **einem** Paket: Eignung/Referenzen, Umsetzungskonzept (falls gefordert) und Kalkulation.

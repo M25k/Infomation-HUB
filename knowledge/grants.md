@@ -1,5 +1,7 @@
 # Förderungen, Ausschreibungen, Verträge
 
+**Zuständigkeit (Joachim 05.11.2026, laut One):** Vergaben/Ausschreibungen: Bot **Ausschreibungen** (vormals Bot „Förderung“). Förderanträge und Ideen: Bot **Förderung** (neu). Historische Vermerke „(Förderung …)“ / „geprüft von Wissen und Förderung“ vor dem 05.11.2026 meinen den heutigen Bot Ausschreibungen.
+
 Quelle vor allem Asana-Projekt [Anträge & Ausschreibungen](https://app.asana.com/1/8864272155433/project/1200346071931886) (88 Tasks, Stand 2026-08-26) und northdocks.com/funding.html.
 
 **Feste Regel (Joachim 25.10.2026, übermittelt von Förderung):** Zu jeder Förderung und Ausschreibung gibt es **ab dem Start** immer (1) einen eigenen Drive-Ordner unter `01 Administration / 03 Förderungen+Ausschreibungen / 001 Teilnahme` ([Link](https://drive.google.com/drive/folders/1uHMr8flT_jj4tRFy4mxbcuk2dbTwegKU)) und (2) ein eigenes Asana-Ticket im Board [Anträge & Ausschreibungen](https://app.asana.com/1/8864272155433/project/1200346071931886). Beide werden laufend aktuell gehalten; das Ticket verlinkt den Ordner. Hier im Repo nur die Kurzzeile mit Asana- und Drive-Link.
@@ -66,7 +68,7 @@ Deck ergänzt: RadiationProtectionVR am European Congress of Radiology — **Pr�
 
 Feuerwehr mit Schenker, 855-2024 (LFWS Hessen, 12/2024): Drive-Ordner bleibt in `001 Teilnahme` (Ergebnis offen); Ticket für Patrick, Ergebnis offen. **Ergebnis (über One, 26.10.2026, aus Asana): kein Zuschlag** (#135); Ordnerverschiebung nach „002 Absage“ durch Förderung. Asana [1219853905338080](https://app.asana.com/1/8864272155433/project/1200346071931886/task/1219853905338080) (Förderung 25.10.2026) (Joachim 25.10.2026, übermittelt von One) (#135).
 
-Aufräumliste aus dem Abgleich 25.10.2026 (Abschnitt 9.4) freigegeben, Förderung setzt um (Joachim 25.10.2026, übermittelt von One) (#137). Ordnerpfade hier erst nach Rückmeldung von Förderung ändern.
+Aufräumliste aus dem Abgleich 25.10.2026 (Abschnitt 9.4) freigegeben, Förderung setzt um (Joachim 25.10.2026, übermittelt von One) (#137). Ordnerpfade hier erst nach Rückmeldung von Förderung ändern. **Hinweis (Joachim 05.11.2026, laut One):** Bot-Aufteilung; Umsetzung und Rückmeldung zu Vergabe-Ordnern jetzt durch Bot **Ausschreibungen**, zu Förderanträgen durch Bot **Förderung**.
 
 ## Pipeline / Sammlung
 

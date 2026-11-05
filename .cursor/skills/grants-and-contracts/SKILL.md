@@ -5,6 +5,8 @@ description: Writes Northdocks grant applications, tenders, eligibility sections
 
 # Grants and contracts
 
+**Zuständige Bots (Joachim 05.11.2026, laut One):** Ausschreibungen/Vergaben → Bot **Ausschreibungen**; Förderanträge und Ideen → Bot **Förderung**.
+
 ## Pflichtreihenfolge
 
 1. Dieses Skill lesen.
