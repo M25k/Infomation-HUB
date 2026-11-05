@@ -271,3 +271,23 @@ Stand 28.10.2026, laut Assets, nur gelesen, Konfidenz ca. 85 %.
 - **Datenklasse:** echtes B-Rep (SolidWorks 2014, STEP AP214), geprüft an einer Schwesterdatei; für GERAETEAUFBAU ist das ein Analogieschluss. Die OBJ sind Mesh-Konvertierungen von 2014.
 - **Rechte:** nicht belegt. Kein Vermerk im Header, keine NDA-Mail gefunden. Der Buyout 2014 (interne Mail 11.09.2014) betraf vermutlich die Renderings.
 - **Status:** nur intern, nicht für 3D-Assets nutzen bis zur Klärung ([open-questions.md](../open-questions.md) #161). Die Root-Kopien sind Duplikate; aufräumen nur mit Joachims OK. Laut One (29.10.2026): nicht für das HLF20 nutzen, bis Assets die Herkunft geklärt hat (Entscheidung Joachim 28.10. laut One, im Transcript nicht als eigene Aussage belegt).
+
+## Runde 12 (05.11.2026, IDs gegen Repo-Commit 62f599f)
+
+### Fahrzeug- und Gerätemodelle (FirefighterVR / Assets)
+- **FAHRZEUGMODELL Unfallwagen V1** (Unfall-Pkw, kein Feuerwehrfahrzeug): Unfallwagen.blend/.fbx, UE-Stände v002/v003 inkl. Dach und Fahrertür, Parts-Blends, CrashCar.spp, 8 Vorschau-Renders und Texturset (FFVR-1624–FFVR-1646, FFVR-1719). ~~social-video nach Vorgabe 18.10.~~ nur intern bis zur Klärung (Wissen 05.11.2026), Lizenz nicht schriftlich belegt. Eigenbau bitte bestätigen (#201).
+- **FAHRZEUGMODELL Unfallwagen V2 / CrashCar V2**: Blend, Texturing-.spp, Bake-Szenen, Mesh-Export (12 FBX für UE), Texturset, PSD-Bakes und UE-Android-Vorschau (FFVR-1599–FFVR-1607, FFVR-1713–FFVR-1715). Grundmodell vermutlich Epic City Sample (FFVR-1604), deshalb nur intern (#198).
+- **FAHRZEUGMODELL Lkw Scania**: ScaniaTruck V001–V006 (Blend/FBX), Substance-Dateien, Texturen und Original-Download „Low Poly Truck 3“ (FFVR-1689–FFVR-1704, FFVR-1729–FFVR-1732). Fremdmaterial, nur intern (#197).
+- Rettungsgeräte für die VU-Szene: Rettungsschere, Spreizer, Kompressor, Hydraulikaggregat und Schwelleraufsatz (FFVR-1647–FFVR-1670, FFVR-1720–FFVR-1724), Blechaufreißer (FFVR-1676–FFVR-1679, FFVR-1726), Unterschiebeblock (FFVR-1680–FFVR-1684, FFVR-1727), Airbag-Sicherung (FFVR-1685–FFVR-1688, FFVR-1728), Sicherheits-Federkörner (FFVR-1671–FFVR-1675, FFVR-1725). Alle mit Blend, FBX, .spp, Vorschau-Render und Texturset. social-video, Lizenz nicht schriftlich belegt.
+- Umgebung: Handbrandmelder (FFVR-1595–FFVR-1598, FFVR-1712), Leitpfosten (FFVR-1705–FFVR-1711, FFVR-1733), Pfützen 2/4/8 m in 3 Farben (FFVR-1616–FFVR-1619, FFVR-1716, FFVR-1717), öffentlicher Mülleimer (FFVR-1620–FFVR-1623, FFVR-1718) und Krankenhaus-Patientenzimmer (FFVR-1608–FFVR-1612). social-video, Lizenz nicht schriftlich belegt.
+- Planspiel-Platten v5.2c: Rendsburg Altstadt GLB mit und ohne Fassaden (FFVR-1587, FFVR-1588), Flug-Videos Erlensee, Neuburg an der Kammel und Rendsburg (FFVR-1582, FFVR-1584, FFVR-1585), Vergleichsbilder (FFVR-1583, FFVR-1586). Prototyp, nur intern.
+- Der Klassiker: Hosen-Mesh S_Pants_Alpha_PBI.fbx (FFVR-1589) und Sand-Variante aus dem Meeting (FFVR-1594), nur intern (#155, #163).
+
+### Quellfotos und Referenzen für Bild-zu-3D (an Bot 3D)
+- Leitpfosten-Referenzzeichnung (FFVR-1705, Fremdmaterial, nur als Vorlage).
+- Für Bild-zu-3D gibt es in Runde 12 keine neuen Quellfotos. Die Vorschau-Renders der Rettungsgeräte (z. B. FFVR-1649, FFVR-1653, FFVR-1658) eignen sich als Turntable-Vorlage für Video.
+
+PICO-HEADSET: In Runde 12 ist kein neues Headset-Modell dazugekommen, weder in Teil 1 noch in FirefighterVR / Assets. Bekannt ist weiterhin nur die Druckvorlage für den Feuerlöscher-Adapter Pico 4 Ultra (FFVR-0909).
+
+### FYI A320 (laut Renke via One, 05.11.2026)
+- Projects_FFVR / Flughafen / Assets / A320 / A320 / A320_Outside_V002.fbx: nur Außenhülle, kein Innenraum. Noch kein Katalogeintrag.

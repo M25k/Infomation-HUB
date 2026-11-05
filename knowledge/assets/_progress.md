@@ -10,6 +10,7 @@ Status je Ordner: offen / in Arbeit / fertig / tabu. Vorschläge aus Runde 0 ste
 | Runde 1 (Prio 1: fertige Clips und Reels) | 18.10.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 14 Ordner, 603 Dateien per Metadaten, 233 Einträge in [assets.csv](assets.csv). 10 Ordner fertig, 4 in Arbeit (siehe unten) |
 | Runde 2 (Änderungen seit 12.10. und _ND_Best Of / Projects, Teilrunde 1) | 19.10.2026 (Assets 07:16 bis 07:37 MESZ) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 406 geänderte/neue Dateien seit 12.10. geprüft (90 neue Einträge ND-0544 bis 0593, FFVR-0254 bis 0293; 8 Titelkorrekturen FFVR-0059 bis 0066). Projects: 25 Ordner, 273 Dateien, 271 Einträge (FFVR-0294 bis 0564). Zusammen 361 Einträge: 265 nur intern, 96 social-video |
 | Runde 4 (Änderungen seit 20.10. und _ND_Best Of / Projects, Teilrunde 3a) | 21.10.2026 (Assets bis 08:50 Athen, UTC+3) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 181 Treffer seit 20.10.2026, 08:50 (20 tabu verworfen; 88 neue Einträge ND-0903 bis 0905, FFVR-0649 bis 0732, MED-0060; 3 Aktualisierungen FFVR-0275, 0280, 0598). Projects Teilrunde 3a: 4 Ordner, 294 Dateien, 294 Einträge (NFVR-0132 bis 0174, ND-0906 bis 1138, SW-0025 bis 0042). Zusammen 382 Einträge: 299 nur intern, 69 angebot, 14 social-video. ElevenLabs-Nachweis von ND-0903 auf ND-1139 umnummeriert |
+| Runde 12 (Änderungen seit 04.11. und FirefighterVR / Assets) | 05.11.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 161 Einträge, 4 Updates, siehe Abschnitt Runde 12 |
 | Runde 11 (Änderungen seit 29.10. und FirefighterVR / Events) | 03.11. und 04.11.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 465 Einträge, siehe Abschnitt Runde 11 |
 | Runde 3 (Änderungen seit 19.10. und _ND_Best Of / Projects, Teilrunde 2) | 20.10.2026 (Assets 07:40 bis 08:50 Athen, UTC+3) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 90 Treffer seit 19.10.2026, 08:37 (25 neue Einträge ND-0600 bis 0617, FFVR-0598 bis 0604; 3 Aktualisierungen FFVR-0266, 0291, 0292). Projects Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge (ND-0618 bis 0895, NFVR-0027 bis 0131). Zusammen 408 Einträge nach Korrektur Wissen: 320 nur intern, 85 angebot, 3 social-video |
 
@@ -106,6 +107,72 @@ Projects (`1wu-j12vbatAtiQCspYdpsi6wJlgYPJtN`) gesamt: **in Arbeit**. Geprüft u
 Summe Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge. Keine 3D-Quelldateien. Tabu und nicht geöffnet: Bürrig, Currenta; nur Metadaten: _Wasserwerk, ???.
 
 Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, Actemium, Amatik, Amatik 2, Armstrong, Azure Spatial Anchors, BAT, Bayer, Bitterfeld, DEV_Intern_Tools, DLR, Digitale Zwillinge, Dom zu Halberstadt, Gdview, INFINITY, Kiel AR, Kiel Arena, Kölner Dom, Landtag, Landtag VR, LandtagTouch, Lhoist, LWL, Marketing, Mars2020, ND CAD Explorer, ND VR Tutorial, Omexom Hochspannung, Schiffshebewerk, SIGA, Sonnen, sonnen, Strahlenschutz, Submerge, Template ×3, Tut, UKK).
+
+## Runde 12: Änderungen seit 04.11. und FirefighterVR / Assets (05.11.2026)
+
+**Prüfung Wissen (05.11.2026):** 161 Einträge, 16 Spalten, keine Doppel, keine Kollision mit dem Repo (IDs und Drive-IDs), IDs lückenlos: FFVR-1582–1733 (152), GV-0080–0087 (8), ND-1897 (1). Tabu-Suche (Bürrig, Currenta, Militär, TMA, Finanz/Personal, Herstellerdaten Strahlrohr, Pfade, IPs, Tokens, GPS) in eintraege.csv ohne Treffer. Freigaben stimmen mit freigabe-begruendungen.csv überein (483 Zeilen). Abweichung: Unfallwagen V1 (FFVR-1624–1646, FFVR-1719; 24 Einträge) schlug Assets als social-video vor, übernommen als „nur intern“ bis zur Klärung Eigenbau (#201). 4 Updates (FFVR-1061, FFVR-0993 Größe/Datum; GV-0064/GV-0065 Titel). Fragen als #197–#203 in [open-questions.md](open-questions.md); Aufräumvorschläge R12-01 bis R12-08 in [aufraeumen.md](aufraeumen.md). Im Bericht von Assets anonymisiert: Herstellerordner und zwei Herstellerordnernamen ([Herstellerbezug]); Pfade und Bericht-ID entfernt.
+
+**Freigabe-Audit 05.11.2026 (Delta, laut Assets; ohne Links):** hoch: Google-Tabelle „Backlog FlowAR“ (Shared Drive flowAR / flowAR Exchange / 001_Organisatorisches) per Link mit Bearbeitungsrecht für jeden; Vorschlag Link entfernen oder auf Leser. mittel: TEMA-Pilotbericht BRK_Pilot 1 (WP6 / T6.4) per Link lesbar; im Konsortium klären, sonst entfernen. Keine Freigabe geändert; entscheiden Joachim und Patrick.
+
+~~Nächste freie IDs: FFVR-1582, ND-1897, GV-0080, NFVR-0304~~ Nächste freie IDs: **FFVR-1734, GV-0088, ND-1898, NFVR-0304** (unverändert: MED-0211, MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
+
+<details><summary>Bericht Assets (progress.md, Runde 12)</summary>
+
+Lauf: 05.11.2026 von etwa 06:50 bis 08:10 (Europe/Berlin, UTC+1), in einem Zug.
+
+### Schritt 0
+
+- Repo M25k/Infomation-HUB nur gelesen (eigener Klon, HUB-Arbeitsklon nicht angefasst). Stand main: **Commit 62f599f** vom 04.11.2026, 16:38 (Europe/Berlin). assets.csv: 6.211 Zeilen.
+- Repo-Maxima: ND-1896, FFVR-1581, MD-1416, GV-0079, MED-0210, NFVR-0303, HVR-0587, SPVR-0039, SW-0042, IMP-0022, KCI-0137, STR-0046. Die Runde-11-Einträge sind also vollständig im Repo. Gesperrte IDs (FFVR-1170, -1172, -1180, -1183, -1209, -1210) liegen darunter.
+- tabu.md frisch aus dem Repo, Cache aktualisiert: 68 Tabu-Ordner, 1 Ausnahme, 20 Nur-intern-Ordner, 11 Namensregeln, 3 Sonderregeln.
+
+### Teil 1: Änderungen seit 04.11.2026, 07:00 (Europe/Berlin)
+
+- Drive-weite Suche nach geänderten und neu angelegten Dateien und Ordnern: **130 Treffer**. Jeder Treffer wurde vor dem Speichern über die Elternkette geprüft. Alle 130 ließen sich auflösen, 0 wurden wegen unklarer Herkunft verworfen.
+- **38 Treffer tabu und verworfen**, nur gezählt: 31 im Herstellerordner [Herstellerbezug] (`1-4L9eK91dNq0HsyT1wDUFQ2c1OmbwRDn`), 5 in `1fOSSCj2H-NkrmDqvhlAW_cVrRBOattEy`, je 1 in `1Vn7YzLD1YfuHXoOfCAHJ3n3jE93e47tW` und `1E-DbLK_V2kKGMh54USucnfKNToA4fRhe`. Keine Tabu-Ordner geöffnet.
+- 92 Treffer behalten. Davon 26 schon im Katalog: 4 Änderungen (FFVR-1061 und FFVR-0993 Größe, GV-0064 und GV-0065 Titel nach Umbenennung), 22 unverändert (siehe aenderungen.md).
+- **22 neue Einträge**: 8 Kölner-Dom-Turntables (GV-0080–GV-0087), 7 Planspiel-Platten v5.2c (FFVR-1582–FFVR-1588), die Hose von Der Klassiker (FFVR-1589) und 6 aus der Meeting-Ablage 04.11.2026 (ND-1897, FFVR-1590–FFVR-1594).
+- Ohne Eintrag: 9 TEMA-Dokumente und -Tabellen, 1 flowAR-APK, 1 flowAR-Tabelle (keine Assets, nur im Audit geprüft), der eigene Bericht vom 04.11., tileset.json und METRIKEN.md (Rendsburg), 3 Hilfsdateien von Der Klassiker (R12-07), die Neuzelle-Kopie im Meeting-Ordner (R12-06), 7 Rennstrecke-Texturen mit Jahr 3427 (R2-14) und 11 neue oder geänderte Ordner. Leer sind die neuen Ordner neuzelle / v5.2c / _alt und Meetings / 11.11.2026.
+
+### Teil 2: Bestand FirefighterVR / Assets
+
+- Ordner `1r5GptSkbpFkq46Chi_EYyKSJX3zxvZDx`, gelistet über die Drive-Suche je Elternordner (mit Größe), Tabu-Prüfung je Datei: keine Treffer.
+- **291 Dateien** in 15 Objektordnern und der Wurzel: Airbag_SecureSystem, Blechaufreisser, Handbrandmelder, KK_Patientenzimmer, Leitpfosten, Puddles, RescueHydraulik (Kompressor, RescueCutter, RescueSpreader, RescurHydraulic, Schwelleraufsatz), SicherheitsFederkörner, Trashbin_Public, ffvrmobile_page_screens (nur die 3 Bilder), scania-truck, Unfallwagen, Unfallwagen_V2, Unterschiebeblock und scania-truck.zip in der Wurzel.
+- **139 neue Einträge** (FFVR-1595–FFVR-1733). Texturen, Bakes, Mesh-Exporte, GLB-Varianten und der Original-Download sind als Gruppeneinträge mit Ordnerlink erfasst. 33 Hilfsdateien ohne Eintrag (25 .blend1, 7 Autosaves, 1 Sperrdatei, siehe R12-01/R12-02).
+- Schon katalogisiert und übersprungen: Corpus C3, RTW_Biohazard_Bin, RTW_WasteBin, Towel_Dispenser, Alcohol_Wipes, H2O2_Wipes, Phone_intern.
+- Noch nicht gelistet, für Runde 13: ND_Graffiti, Strassenschild_beton, WoodenCarport, Strahlrohr-Select-Flow, [Herstellerbezug] (2 Ordner, Herstellermaterial, anonymisieren) und ffvrmobile_page_screens / Trainings (23 Unterordner). _assets und GlobalAssets folgen danach.
+- **FAHRZEUGMODELLE:** Unfallwagen V1 (24 Einträge, social-video), Unfallwagen V2 / CrashCar V2 (12, nur intern, Basis vermutlich Epic City Sample) und Lkw Scania (20, nur intern, Download „Low Poly Truck 3“). Details in 3d-kandidaten.md.
+- **PICO-HEADSET:** kein neues Modell.
+
+### IDs Runde 12
+
+- Vergeben: FFVR-1582–FFVR-1733 (152), GV-0080–GV-0087 (8), ND-1897 (1). NFVR keine.
+- Nächste: FFVR-1734, GV-0088, ND-1898, NFVR-0304. Die anderen Präfixe sind unverändert (MD-1417, MED-0211, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
+
+### Summen
+
+- 161 neue Einträge: 103 social-video (alle in FirefighterVR / Assets, Vorgabe Joachim 18.10.2026, Lizenz nicht schriftlich belegt), 58 nur intern. website und angebot gibt es in dieser Runde nicht.
+- Typen: 114 × 3D, 33 × Render, 7 × Screenshot, 2 × Video, 2 × Paket, je 1 × Doku, Textur, Bild.
+- freigabe-begruendungen.csv: 483 Zeilen (je Eintrag social-video, website, angebot).
+
+### Teil 3: Ordnung
+
+8 Vorschläge R12-01 bis R12-08 (aufraeumvorschlaege.md). Die wichtigsten sind 2,3 GiB Substance-Autosaves, 2,2 GiB PSD-Bakes und die mehrfachen Scania-Texturen und -Pakete.
+
+### Teil 4: Freigabe-Audit (Donnerstag, Delta)
+
+99 Objekte geprüft (92 aus Teil 1, 3 Tabu-Ordner nur als Ordner, 4 Elternordner), 15 nach außen geöffnet. **2 neue Öffnungen: 1 × hoch (Linkfreigabe mit Bearbeitungsrecht auf einer flowAR-Tabelle), 1 × mittel (Linkfreigabe Leser auf einem TEMA-Pilotbericht).** Bericht im Ordner „Northdocks IT“. baseline.json ist nachgeführt (80 neu, 19 aktualisiert). Keine Freigabe geändert.
+
+### Technische Hinweise
+
+- Die Rohdateien der Drive-Abfragen im Werkzeug-Speicher lassen sich nicht löschen (Ressource gesperrt). Ausgewertet wurden sie nur gefiltert.
+- Fünf TEMA-Unterordner erscheinen im Pfad nur als Ordner-ID, weil ihr Name nicht bekannt ist. Für den Katalog spielt das keine Rolle (keine Einträge).
+
+### Nächste Runde (13)
+
+Teil-1-Basis: Änderungen seit 05.11.2026, 07:00 (Europe/Berlin) = 2026-11-05T06:00:00Z. Teil 2: die restlichen Unterordner von FirefighterVR / Assets (siehe oben), danach _assets (`1U8f8w_4JUX3bTS4hd_NUBs8UYjQXNrnF`) und GlobalAssets. Montag 09.11. ist Vollaudit.
+
+</details>
 
 ## Runde 11: Änderungen seit 29.10. und FirefighterVR / Events (03.11. und 04.11.2026)
 
