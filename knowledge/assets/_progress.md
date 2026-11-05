@@ -114,7 +114,7 @@ Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, 
 
 **Freigabe-Audit 05.11.2026 (Delta, laut Assets; ohne Links):** hoch: Google-Tabelle „Backlog FlowAR“ (Shared Drive flowAR / flowAR Exchange / 001_Organisatorisches) per Link mit Bearbeitungsrecht für jeden; Vorschlag Link entfernen oder auf Leser. mittel: TEMA-Pilotbericht BRK_Pilot 1 (WP6 / T6.4) per Link lesbar; im Konsortium klären, sonst entfernen. Keine Freigabe geändert; entscheiden Joachim und Patrick.
 
-~~Nächste freie IDs: FFVR-1582, ND-1897, GV-0080, NFVR-0304~~ Nächste freie IDs: **FFVR-1734, GV-0088, ND-1898, NFVR-0304** (unverändert: MED-0211, MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
+~~Nächste freie IDs: FFVR-1582, ND-1897, GV-0080, NFVR-0304~~ ~~Nächste freie IDs: FFVR-1734, GV-0088, ND-1898, NFVR-0304~~ Nächste freie IDs nach Video-Lieferung 05.11.2026 (Reel 43 MED-0211–0214, Reel 44 FFVR-1734–1737, Infusionsbeutel MED-0215–0219, MUSIK_LIZENZEN_v38 ND-1898): **FFVR-1738, GV-0088, ND-1899, NFVR-0304, MED-0220** (unverändert: MED-0211, MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
 
 <details><summary>Bericht Assets (progress.md, Runde 12)</summary>
 
