@@ -291,3 +291,24 @@ PICO-HEADSET: In Runde 12 ist kein neues Headset-Modell dazugekommen, weder in T
 
 ### FYI A320 (laut Renke via One, 05.11.2026)
 - Projects_FFVR / Flughafen / Assets / A320 / A320 / A320_Outside_V002.fbx: nur Außenhülle, kein Innenraum. Noch kein Katalogeintrag.
+
+## Runde 13 (06.11.2026, IDs gegen Repo-Commit 066e0ca)
+
+### Fahrzeug- und Gerätemodelle
+- **FAHRZEUGMODELL HLF20 v3** (FFVR-1743–1746): Feuerwehrfahrzeug unter Dräger GamingWelt / HLF20 / v3_reduktion – **nur intern** (Dräger-Bezug). Komplett-FBX, 22 Mesh-Teile, 56 Texturen, Vergleichs-/Turntable-Renderings. Freigabe jenseits Dräger-Port offen (#205).
+- **Strahlrohr-Select-Flow:** Referenzfotos (FFVR-1763, social-video) und Fusion OBJ/MTL (FFVR-1796/1797, social-video); Abgrenzung zum Strahlrohr-Controller (#180 nur intern) offen (#209).
+- **Herstellerbezug (vertraulich):** Strahlrohr-Mesh/Texturen/Vergleich (FFVR-1747–1749) und zwei [Herstellerbezug]-Ordner unter FirefighterVR / Assets (FFVR-1774/1775) – anonymisiert, nur intern.
+
+### Quellmodelle / Bild-zu-3D
+- ND_Graffiti: lambda_nd_graffiti_v001/v002.blend (FFVR-1794/1795) plus Out-Masken (FFVR-1776–1778) – social-video, Lizenz nicht schriftlich belegt.
+- Strassenschild_beton: Out-FBX und Import-Schilder (FFVR-1780–1791) – social-video, Lizenz nicht schriftlich belegt.
+- WoodenCarport: Import-ZIPs (FFVR-1792/1793) – social-video, Lizenz nicht schriftlich belegt; Work nur leere Tool-Ordner (R13-07).
+- Buildify-Neuzelle: neuzelle_buildify_demo_rect.blend und Vergleichsbilder (FFVR-1738/1739) – nur intern, Prototyp (#207).
+- Der Klassiker: Pants_Alpha_PBI.spp (FFVR-1742) – nur intern (#155, #163).
+
+### Pico-Headset
+- Keine neuen Modelle in Runde 13.
+
+### FYI A320
+- Weiterhin kein Katalogeintrag; in den Assets-Unterordnern von Runde 13 nicht gefunden. Nächste Runde: _assets und GlobalAssets (#208).
+

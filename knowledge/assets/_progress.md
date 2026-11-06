@@ -10,6 +10,7 @@ Status je Ordner: offen / in Arbeit / fertig / tabu. Vorschläge aus Runde 0 ste
 | Runde 1 (Prio 1: fertige Clips und Reels) | 18.10.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 14 Ordner, 603 Dateien per Metadaten, 233 Einträge in [assets.csv](assets.csv). 10 Ordner fertig, 4 in Arbeit (siehe unten) |
 | Runde 2 (Änderungen seit 12.10. und _ND_Best Of / Projects, Teilrunde 1) | 19.10.2026 (Assets 07:16 bis 07:37 MESZ) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 406 geänderte/neue Dateien seit 12.10. geprüft (90 neue Einträge ND-0544 bis 0593, FFVR-0254 bis 0293; 8 Titelkorrekturen FFVR-0059 bis 0066). Projects: 25 Ordner, 273 Dateien, 271 Einträge (FFVR-0294 bis 0564). Zusammen 361 Einträge: 265 nur intern, 96 social-video |
 | Runde 4 (Änderungen seit 20.10. und _ND_Best Of / Projects, Teilrunde 3a) | 21.10.2026 (Assets bis 08:50 Athen, UTC+3) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 181 Treffer seit 20.10.2026, 08:50 (20 tabu verworfen; 88 neue Einträge ND-0903 bis 0905, FFVR-0649 bis 0732, MED-0060; 3 Aktualisierungen FFVR-0275, 0280, 0598). Projects Teilrunde 3a: 4 Ordner, 294 Dateien, 294 Einträge (NFVR-0132 bis 0174, ND-0906 bis 1138, SW-0025 bis 0042). Zusammen 382 Einträge: 299 nur intern, 69 angebot, 14 social-video. ElevenLabs-Nachweis von ND-0903 auf ND-1139 umnummeriert |
+| Runde 13 (Änderungen seit 05.11. und FirefighterVR / Assets Rest) | 06.11.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 60 Einträge, siehe Abschnitt Runde 13 |
 | Runde 12 (Änderungen seit 04.11. und FirefighterVR / Assets) | 05.11.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 161 Einträge, 4 Updates, siehe Abschnitt Runde 12 |
 | Runde 11 (Änderungen seit 29.10. und FirefighterVR / Events) | 03.11. und 04.11.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 465 Einträge, siehe Abschnitt Runde 11 |
 | Runde 3 (Änderungen seit 19.10. und _ND_Best Of / Projects, Teilrunde 2) | 20.10.2026 (Assets 07:40 bis 08:50 Athen, UTC+3) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 90 Treffer seit 19.10.2026, 08:37 (25 neue Einträge ND-0600 bis 0617, FFVR-0598 bis 0604; 3 Aktualisierungen FFVR-0266, 0291, 0292). Projects Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge (ND-0618 bis 0895, NFVR-0027 bis 0131). Zusammen 408 Einträge nach Korrektur Wissen: 320 nur intern, 85 angebot, 3 social-video |
@@ -108,13 +109,71 @@ Summe Teilrunde 2: 9 Ordner, 383 Dateien, 383 Einträge. Keine 3D-Quelldateien. 
 
 Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, Actemium, Amatik, Amatik 2, Armstrong, Azure Spatial Anchors, BAT, Bayer, Bitterfeld, DEV_Intern_Tools, DLR, Digitale Zwillinge, Dom zu Halberstadt, Gdview, INFINITY, Kiel AR, Kiel Arena, Kölner Dom, Landtag, Landtag VR, LandtagTouch, Lhoist, LWL, Marketing, Mars2020, ND CAD Explorer, ND VR Tutorial, Omexom Hochspannung, Schiffshebewerk, SIGA, Sonnen, sonnen, Strahlenschutz, Submerge, Template ×3, Tut, UKK).
 
+## Runde 13: Änderungen seit 05.11. und FirefighterVR / Assets Rest (06.11.2026)
+
+**Prüfung Wissen (06.11.2026):** 60 Einträge, 16 Spalten, keine Doppel, keine Kollision mit dem Repo (IDs und Drive-IDs), IDs lückenlos: FFVR-1738–1797 (60). Tabu-Suche (Bürrig, Currenta, Militär, TMA, Finanz/Personal, Herstellerdaten Strahlrohr, Pfade, IPs, Tokens, GPS) in eintraege.csv: zwei Titelnamen und eine Einschränkung mit Herstellerordnernamen → anonymisiert als [Herstellerbezug] (FFVR-1774, FFVR-1775); keine weiteren Treffer. Freigaben stimmen mit freigabe-begruendungen.csv überein (180 Zeilen, je Eintrag × 3 Kanäle). Keine Website-/Angebot-Freigaben. 23 social-video (Graffiti, Strassenschild, WoodenCarport, Strahlrohr-Select-Flow), 37 nur intern (u. a. HLF20 v3 Dräger, ffvrmobile Trainings, Herstellerbezug, Buildify, Meeting). Fragen als #205–#209 in [open-questions.md](open-questions.md); Aufräumvorschläge R13-01 bis R13-08 in [aufraeumen.md](aufraeumen.md). Freigabe-Delta 06.11.: 16 geprüft, **0 neue Öffnungen**, deshalb kein Audit-Bericht (laut Assets).
+
+~~Nächste freie IDs: FFVR-1738, ND-1899, GV-0088, MED-0220~~ Nächste freie IDs: **FFVR-1798, ND-1899, GV-0088, MED-0220, NFVR-0304** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
+
+<details><summary>Bericht Assets (progress.md, Runde 13)</summary>
+
+Lauf: 06.11.2026 ab etwa 07:19 (Europe/Berlin, UTC+1), in einem Zug.
+
+## Schritt 0
+
+- Repo M25k/Infomation-HUB nur gelesen (Spiegel unter [lokal] [lokal] nicht angefasst). Stand main: **Commit 066e0ca** vom 05.11.2026. assets.csv: 6.386 Zeilen (6.385 Datenzeilen).
+- Repo-Maxima: FFVR-1737, ND-1898, GV-0087, MED-0219, NFVR-0303, HVR-0587, MD-1416, SPVR-0039, SW-0042, IMP-0022, KCI-0137, STR-0046. Gesperrte IDs unberührt.
+- tabu.md / Cache: 68 Tabu-IDs (bereits refreshed).
+
+## Teil 1: Änderungen seit 05.11.2026, 07:00 (Europe/Berlin)
+
+- Drive-weite Suche: **236 Treffer** (5 Seiten). 7× Jahr 3427 ignoriert.
+- Tabu verworfen: **15** (11× Tabu-Ordner-A, 3× Tabu-Ordner-B, 1× Tabu-Ordner-C). Zusätzlich 39 unaufgelöst verworfen.
+- 175 Treffer behalten. Reel 44 + Musiklizenz (FFVR-1734–1737, ND-1898) schon im Repo, unverändert.
+- **12 neue Einträge** Teil 1: Buildify/Neuzelle, Firefighting-Meeting, Der Klassiker Pants, HLF20 v3 (4 Gruppen/Einträge, Dräger → nur intern), Herstellerbezug Strahlrohr (3 Gruppen).
+
+## Teil 2: Bestand FirefighterVR / Assets (Rest)
+
+- Offene Ordner gelistet: ND_Graffiti, Strassenschild_beton, WoodenCarport, Strahlrohr-Select-Flow, zwei [Herstellerbezug]-Ordner, ffvrmobile_page_screens/Trainings (23 Unterordner).
+- **211 Dateien** unter Assets (nach Tabu/Größenfilter), davon katalogisiert als **48 Einträge** (viele Trainings als Gruppen).
+- Schon katalogisierte (Corpus C3, RTW_*, Towel/Alcohol/H2O2, Phone_intern, Unfallwagen, scania, …) übersprungen.
+- Zwei [Herstellerbezug]-Ordner unter Assets als Herstellerbezug anonymisiert.
+- A320: in diesen Ordnern **nicht** gefunden → weiterhin offen (Runde 14).
+- **FAHRZEUGMODELLE:** HLF20 v3 (Teil 1, Dräger, nur intern). Pico: keines neu.
+- social-video: Graffiti, Strassenschild, WoodenCarport, Strahlrohr-Select-Flow (Joachim 18.10.2026, Lizenz nicht schriftlich belegt). Trainings-Screens und Hersteller nur intern.
+
+## IDs Runde 13
+
+- Vergeben: FFVR-1738–FFVR-1797 (60).
+- Nächste: FFVR-1798, ND-1899, GV-0088, MED-0220, NFVR-0304, HVR-0588, MD-1417, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047.
+
+## Summen
+
+- 60 neue Einträge: 23 social-video, 37 nur intern.
+- Typen: 24× Screenshot, 16× 3D, 13× Render, 3× Doku, 2× Textur, 1× Video, 1× Foto.
+- freigabe-begruendungen.csv: 180 Zeilen (je Eintrag × 3 Kanäle).
+
+## Teil 3: Ordnung
+
+8 Vorschläge R13-01 bis R13-08 (aufraeumvorschlaege.md). R12-01..08 unberührt.
+
+## Teil 4: Freigabe-Audit (Freitag, Delta)
+
+16 Objekte stichprobenartig geprüft (Elternordner Teil 1, Tabu-Ordner nur als Ordner, HLF/Nozzle/Assets-Ordner, TEMA-Eltern). Öffnungen nach außen: TEMA-Mitgliedschaft (vererbt, bekannt) und stephanzm.com auf FirefighterVR/Assets (vererbt, 99× in Baseline). **Keine neuen Öffnungen.** Kein Delta-Bericht angelegt. baseline.json nachgeführt (+10 / 6 aktualisiert, jetzt 1730).
+
+## Nächste Runde (14)
+
+Teil-1-Basis: Änderungen seit 06.11.2026, 07:00 Europe/Berlin. Teil 2: `_assets` (`1U8f8w_4JUX3bTS4hd_NUBs8UYjQXNrnF`) und GlobalAssets; A320; Montag 09.11. Vollaudit.
+
+</details>
+
 ## Runde 12: Änderungen seit 04.11. und FirefighterVR / Assets (05.11.2026)
 
 **Prüfung Wissen (05.11.2026):** 161 Einträge, 16 Spalten, keine Doppel, keine Kollision mit dem Repo (IDs und Drive-IDs), IDs lückenlos: FFVR-1582–1733 (152), GV-0080–0087 (8), ND-1897 (1). Tabu-Suche (Tabu-Liste und Namensregeln aus tabu.md, Finanz/Personal, Herstellerdaten Strahlrohr, Pfade, IPs, Tokens, GPS) in eintraege.csv ohne Treffer. Freigaben stimmen mit freigabe-begruendungen.csv überein (483 Zeilen). Abweichung: Unfallwagen V1 (FFVR-1624–1646, FFVR-1719; 24 Einträge) schlug Assets als social-video vor, übernommen als „nur intern“ bis zur Klärung Eigenbau (#201). 4 Updates (FFVR-1061, FFVR-0993 Größe/Datum; GV-0064/GV-0065 Titel). Fragen als #197–#203 in [open-questions.md](open-questions.md); Aufräumvorschläge R12-01 bis R12-08 in [aufraeumen.md](aufraeumen.md). Im Bericht von Assets anonymisiert: Herstellerordner und zwei Herstellerordnernamen ([Herstellerbezug]); Pfade und Bericht-ID entfernt.
 
 **Freigabe-Audit 05.11.2026 (Delta, laut Assets; ohne Links):** hoch: Google-Tabelle „Backlog FlowAR“ (Shared Drive flowAR / flowAR Exchange / 001_Organisatorisches) per Link mit Bearbeitungsrecht für jeden; Vorschlag Link entfernen oder auf Leser. mittel: TEMA-Pilotbericht BRK_Pilot 1 (WP6 / T6.4) per Link lesbar; im Konsortium klären, sonst entfernen. Keine Freigabe geändert; entscheiden Joachim und Patrick.
 
-~~Nächste freie IDs: FFVR-1582, ND-1897, GV-0080, NFVR-0304~~ ~~Nächste freie IDs: FFVR-1734, GV-0088, ND-1898, NFVR-0304~~ Nächste freie IDs nach Video-Lieferung 05.11.2026 (Reel 43 MED-0211–0214, Reel 44 FFVR-1734–1737, Infusionsbeutel MED-0215–0219, MUSIK_LIZENZEN_v38 ND-1898): **FFVR-1738, GV-0088, ND-1899, NFVR-0304, MED-0220** (unverändert: MED-0211, MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
+~~Nächste freie IDs: FFVR-1582, ND-1897, GV-0080, NFVR-0304~~ ~~Nächste freie IDs: FFVR-1734, GV-0088, ND-1898, NFVR-0304~~ ~~Nächste freie IDs nach Video-Lieferung 05.11.2026 (Reel 43 MED-0211–0214, Reel 44 FFVR-1734–1737, Infusionsbeutel MED-0215–0219, MUSIK_LIZENZEN_v38 ND-1898): **FFVR-1738, GV-0088, ND-1899, NFVR-0304, MED-0220** (unverändert: MED-0211, MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).~~ Nächste freie IDs nach Runde 13: **FFVR-1798, GV-0088, ND-1899, NFVR-0304, MED-0220** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
 
 <details><summary>Bericht Assets (progress.md, Runde 12)</summary>
 

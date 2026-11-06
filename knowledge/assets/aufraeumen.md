@@ -727,3 +727,16 @@ Nur Vorschläge, nichts gelöscht oder verschoben.
 - **R12-06 (Kopie des Neuzelle-Flugvideos im Meeting-Ordner):** Unter Projekte/Meetings / 04.11.2026 / Godview liegt „neuzelle_v52b_flug (1).mp4“ (`1uMSYN1xFD8ZgU1R4xyBPlzrvFaJJao3I`, 4,5 MiB). Das ist eine gleich große Kopie von FFVR-1565 aus den Planspiel-Platten. Kein eigener Eintrag. Vorschlag: nach dem Meeting in den Papierkorb, wie bei R5-09.
 - **R12-07 (Ergänzung zu R9-07 und R11-09 (Der Klassiker)):** Unter Asset-Library / Objects / Characters / Der_Klassiker gibt es neue Hilfsdateien ohne Eintrag: - Der_Klassiker.blend1 mit neuer Drive-ID (`1r4ekLHWaTV8REXumPCptWafB-Ym5JyNF`, 4,7 MiB), am 04.11. neu gespeichert - Jacket_Alpha_PBI.spp.painter_lock (`1I9CaYr_a7Z_BBZqnbqKxDNwEvqtFt-db`), am 05.11. angelegt - Jacket_Alpha_PBI_autosave_0.spp, am 05.11. neu gespeichert (347 MiB), schon in R11-09 genannt Vorschlag: wie in R11-09 nach dem nächsten regulären Speichern in den Papierkorb. Die Sperrdatei zeigt, dass die Jacke gerade geöffnet ist. Deshalb jetzt nichts anfassen.
 - **R12-08 (Leerer Ordner in den Planspiel-Platten):** Unter planspielplatten / neuzelle / v5.2c ist am 04.11. ein leerer Unterordner „_alt“ entstanden (`1iwImxtnrGpW0cUP5Om3zTAFcbWg-RNef`). Hinweis an Bot 3D: Die Neuzelle-Kopie aus R11-08 könnte dorthin verschoben werden, sonst kann der Ordner weg.
+
+## Runde 13 (Assets, 06.11.2026)
+
+Nur Vorschläge, nichts gelöscht oder verschoben. R12-01 bis R12-08 bleiben unberührt (Renke Asana 1220239778700167).
+
+- **R13-01 (Graffiti: Blender-Autosaves .blend1):** Neben den Originalen liegen `lambda_nd_graffiti_v001.blend1` und `v002.blend1` – Autosave-Duplikate, Papierkorb-Kandidat (nach Rückfrage).
+- **R13-02 (Der Klassiker: Jacket_Alpha Autosaves):** Jacket_Alpha_PBI_autosave_*.spp – Autosaves, Papierkorb-Kandidat (Ergänzung zu R11-09/R12-07).
+- **R13-03 (HLF20 v3: doppelte Vergleichsbilder):** seite0/seite1 je zweimal unter Vergleich – Dubletten prüfen und eine Variante behalten.
+- **R13-04 ([Herstellerbezug]-Ordner unter FirefighterVR / Assets):** Zwei Herstellerordner liegen mit Herstellernamen im Ordnernamen – für externe Freigaben anonymisieren bzw. nur intern halten (Katalog bereits anonymisiert, FFVR-1774/1775).
+- **R13-05 (ffvrmobile Trainings-Screens):** 23 Unterordner mit je wenigen Screenshots – Struktur ok, Dateinamen sind lange UE-Screenshot-Strings; ggf. später einheitlich benennen (kein Muss). Freigabe Website offen (#206).
+- **R13-06 (Strahlrohr-Select-Flow: OBJ-Export):** `Fusion_1.obj` (~36,6 MiB) + `Fusion_1.mtl` neben Bilder/ – OBJ-Export ggf. durch FBX/GLB ersetzen und OBJ als Zwischenstand kennzeichnen.
+- **R13-07 (WoodenCarport/Work leere Tool-Ordner):** Work enthält nur leere Tool-Ordner (Blender/Houdini/Max/…) ohne Dateien in dieser Sichtung – leere Ordner prüfen oder füllen.
+- **R13-08 (Buildify-Test Meta-Dateien):** Buildify-Test unter planspielplatten/neuzelle: Manual/STATUS/README neben Assets – Meta-Dateien von Lieferartefakten trennen.
