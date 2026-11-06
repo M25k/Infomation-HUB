@@ -47,5 +47,13 @@ Perspektive intern: Funnel zu FirefighterVR (z. B. WebXR). Erst wenn GF Vermarkt
   - Verteilung wie die anderen Trainings, Vorschlag PICO MDM.
   - BMA Trainer bleibt ein eigenes Produkt, kein FirefighterVR-Modul.
   - Prüfung streng gewertet (siehe oben).
-  - Stand: Debug-APK vorhanden, noch nicht auf einem Headset getestet; BMA PR #9 nicht gemerged.
+  - Stand: Debug-APK vorhanden, noch nicht auf einem Headset getestet; ~~BMA PR #9 nicht gemerged.~~ **PR #9 nicht gemerged (Stand 06.11.2026 weiterhin Draft).**
   - Offene Frage „BMA-Offline-App starten?“ damit erledigt.
+
+### Verifizierter Stand 06.11.2026 (Bot BMA App, agent-intern; keine Marketing-/FFVR-Claims ableiten)
+
+- **PR #9** „Solo und Prüfung: gemeinsames Logikmodul und Offline-Bundle“ ([Northdocks-GmbH/www-bma-Trainer-App#9](https://github.com/Northdocks-GmbH/www-bma-Trainer-App/pull/9)): per privatem Cursor-Worker ND-NB-20 mit Composer 2.5 aktualisiert; HEAD `804fcdf`, `main` `c18e039` integriert. Agent-Tests: 20 Unit + 303 Playwright sowie Builds grün; GitHub-CI-Run `42219712289` beide Checks direkt für HEAD grün. PR bleibt Draft, kein Merge, kein Deploy.
+- Native `window.BmaResults`-Brücke und Headsettest sind durch die Web-/JS-Mock-Tests **nicht** belegt: JS-Mock-Webkonvention ≠ native Android-/PICO-Integration.
+- Offizieller möglicher PICO-Weg für später: PICO OS 6 kann installfreie PWA/Web App per HTTPS + Manifest nutzen (PICO-Doku `/document/web/web-app/` und `/document/web/manifest/`). Emulator-Debug gegen lokalen Dev-Server, Standard-Port 5173, ist erlaubt. **Keine** Aussage zu PICO 4 / OS 5 und **keine** Aussage zu `file://`-Offline-APK.
+- Generische Android-Basistest-APK auf PC80: startet WebView offline. **Korrigiert nach gezielter Prüfung durch den Bot Pico Native (06.11.2026):** Die ursprüngliche BMA-Meldung „keine native BmaResults-Brücke in der PC80-APK“ war falsch und gilt nicht. Statisch in `classes3.dex` der Original-APK (`sha962e…`) belegt: `ExamResultsBridge` mit `saveResult`/`readResult`/`listResults`/`deleteResult` sowie `MainActivity` mit `BmaResults` + `addJavascriptInterface` und `blockNetworkLoads`. **Weiter offen:** Laufzeit Save/List/Read/Delete, Persistenz nach Neustart, Test auf PICO-Hardware; Web-Mock ≠ Runtime. Korrektur ist in PR und Asana wahrheitsgemäß ergänzt (PR-Review `5800360452`).
+- Zuständigkeiten: Pico Native bleibt für Hülle/Bridge zuständig. Die bisherige Dokumentation liegt agent-intern; bitte keine Marketing-/FFVR-Claims daraus ableiten (Abschnitt „Vorgabe“ / „keine Vermarktung“ bleibt).
