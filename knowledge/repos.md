@@ -47,6 +47,7 @@ Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von 
 | `ND-Website` | Northdocks-GmbH/ND-Website | master | ältere Website? README leer |
 | `www-ar` | Northdocks-GmbH/www-ar | main | AR-Web, kein README |
 | `3D-Asset-Manager` | Northdocks-GmbH/3D-Asset-Manager | – | Repo des Bots 3D Asset Manager (Ersatz für Composer) (laut One 04.11.). |
+| `Skills` (geplant) | Northdocks-GmbH/Skills (Name ggf. final) | – | **Geplant, noch nicht angelegt:** privates gemeinsames Skills-Repo (u. a. ue5-blueprint-layout); Pflege IT und Unreal Build; Verweis aus Agent.md (Joachim 06.11.2026 09:34, laut One; #204). |
 
 ### Unreal-Projekte: Ablage (Unreal Build, 27.10.2026)
 
@@ -69,7 +70,7 @@ Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von 
 - **Zuerst prüfen, ob der Unreal-MCP geladen ist** (Weekly 28.10.2026, 00:15:04–00:15:49, laut One; W1028-15): Nach dem Start von Cursor wird der MCP oft nicht erkannt, der Agent weicht dann auf Python aus. Regel: Der Agent prüft vor der Arbeit zuerst, ob der Unreal-MCP geladen ist; wenn nicht, bricht er ab. In Cursor den Unreal-MCP auf „immer an“ stellen; die Regel gehört in die Agent-MD-Datei des Projekts.
 - **Thumbnails in UE 5.8 (Hinweis)** (Weekly 28.10.2026, 00:30:00–00:30:50, laut One; W1028-24): Das Thumbnail-Creator-Plugin gibt es für 5.8 nicht; Finn hat eine eigene Lösung im Common-Assets-Plugin gebaut (Render Target → Create Texture). Auf die invertierte Alpha-Map achten.
 - **UE 5.8 Packaging = SDK/NDK/Android wie 5.7** (laut One, 05.11.2026) (Discord #development, laut One gelesen): Packaging in UE 5.8 nutzt dieselben SDK-, NDK- und Android-Einstellungen wie 5.7.
-- **Skill ue5-blueprint-layout** (laut One, 05.11.2026) (Discord #development, laut One gelesen): liegt unter Shared drives / Resources / Skills. Joachim schlägt ein gemeinsames Skills-Repo mit Verweis aus der Agent.md vor → offen, siehe [open-questions.md](open-questions.md) #204.
+- **Skill ue5-blueprint-layout** (laut One, 05.11.2026) (Discord #development, laut One gelesen): liegt unter Shared drives / Resources / Skills. ~~Joachim schlägt ein gemeinsames Skills-Repo mit Verweis aus der Agent.md vor → offen, siehe [open-questions.md](open-questions.md) #204.~~ **Entschieden (Joachim 06.11.2026 09:34, laut One; #204 geschlossen):** privates gemeinsames Skills-Repo unter GitHub-Organisation Northdocks-GmbH; Pflege durch die Bots IT und Unreal Build; Verweis aus der Agent.md. **Noch anzulegen** durch IT/Unreal Build (Repo existiert noch nicht).
 - **Beispiel-Blueprints als Layout-Vorlage** (Weekly 04.11.2026, 00:16:26–00:17:14, Marcel (automatisch zugeordnet), laut One; W1104-15): Für die Blueprint-Erzeugung per Unreal-MCP aufgeräumte Beispiel-Blueprints als Layout-Vorlage mitgeben.
 
 ### NDFramework Build-Setup (nur intern)
