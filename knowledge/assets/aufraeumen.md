@@ -740,3 +740,16 @@ Nur Vorschläge, nichts gelöscht oder verschoben. R12-01 bis R12-08 bleiben unb
 - **R13-06 (Strahlrohr-Select-Flow: OBJ-Export):** `Fusion_1.obj` (~36,6 MiB) + `Fusion_1.mtl` neben Bilder/ – OBJ-Export ggf. durch FBX/GLB ersetzen und OBJ als Zwischenstand kennzeichnen.
 - **R13-07 (WoodenCarport/Work leere Tool-Ordner):** Work enthält nur leere Tool-Ordner (Blender/Houdini/Max/…) ohne Dateien in dieser Sichtung – leere Ordner prüfen oder füllen.
 - **R13-08 (Buildify-Test Meta-Dateien):** Buildify-Test unter planspielplatten/neuzelle: Manual/STATUS/README neben Assets – Meta-Dateien von Lieferartefakten trennen.
+
+## Runde 14 (Assets, 09.11.2026)
+
+Nur Vorschläge, nichts gelöscht oder verschoben. R12-01 bis R12-08 bleiben unberührt (Renke Asana 1220239778700167).
+
+- **R14-01 (Angebots-PDFs im [Public]-Ordner (mittel)):** FFVR-1809–1813 mit Preisen und Konditionen liegen im Ordner mit Link-Freigabe. Vorschlag: in einen nicht freigegebenen Angebotsordner verschieben oder bestätigen, dass gewollt. Siehe #211.
+- **R14-02 (Press Kit):** neue Struktur seit 06.11.2026; Pfade der Einträge FFVR-0574–0580 prüfen und aktualisieren. Link-Freigabe auf dem Press Kit dokumentieren. Siehe #210.
+- **R14-03 (A320-Dubletten):** Textur- und .fbm-Ordner existieren als Stand 2024 und 2026 (FFVR-1826–1828). Vorschlag: neuere Fassung behalten, ältere in "_alt".
+- **R14-04 (Events unsorted):** 6,7 GiB MOV, Fotos und Transkripte unsortiert (ND-1900–1902), mit Link-Freigabe. Vorschlag: nach Veranstaltung sortieren, Personenclips prüfen, Freigabe einschränken. Siehe #213.
+- **R14-05 (PICO-/Oculus-Strap-Druckdaten FFVR-1836/1837):** liegen im Legacy-Bereich von _assets; Vorschlag: eigener Hardware-/Zubehörordner (Prototypen).
+- **R14-06 (TEMA-Teilnehmerliste ND-1907):** Personenbezug in einem Lieferordner; Vorschlag: in Tabu/Projektordner mit eingeschränktem Zugriff.
+- **R14-07 (Ordnername "Firefighter VR" vs. "FirefighterVR"):** Schreibweise vereinheitlichen (Kennzeichnung nach Regel "ein Wort").
+- **R14-08 (Autosave-Dubletten in Safety-Glasses- und Herstellerordner FFVR-1820/1821):** .blend1/Autosave-Dateien entfernen oder in "_backup" ablegen.
