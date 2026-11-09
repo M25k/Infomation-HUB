@@ -310,13 +310,13 @@ PICO-HEADSET: In Runde 12 ist kein neues Headset-Modell dazugekommen, weder in T
 - Keine neuen Modelle in Runde 13.
 
 ### FYI A320
-- ~~Weiterhin kein Katalogeintrag; in den Assets-Unterordnern von Runde 13 nicht gefunden. Nächste Runde: _assets und GlobalAssets (#208).~~ ~~**Runde 14:** katalogisiert FFVR-1823–1828, nur intern; Herkunft/Lizenz → #214.~~ **#214 geschlossen (09.11.2026):** FFVR-1823–1827 Northdocks-Nachbau, `social-video` (Vorgabe Joachim 18.10.2026); FFVR-1828 nur intern (Referenzfotos ggf. fremd). Blendswap prüft Assets in Runde 15.
+- ~~Weiterhin kein Katalogeintrag; in den Assets-Unterordnern von Runde 13 nicht gefunden. Nächste Runde: _assets und GlobalAssets (#208).~~ ~~**Runde 14:** katalogisiert FFVR-1823–1828, nur intern; Herkunft/Lizenz → #214.~~ **#214 geschlossen (09.11.2026):** FFVR-1823–1828 gesamtes A320-Material Northdocks-Eigenmodell ohne weitere Prüfung, `social-video` (Vorgabe Joachim 18.10.2026; Nachtrag Joachim 09.11.2026 09:01, laut One (über Assets), auch 1828). Blendswap prüft Assets in Runde 15.
 
 
 ## Runde 14 (09.11.2026)
 
 ### FAHRZEUGMODELLE
-- **A320 (FFVR-1823–1825):** AirbusA320_v06.fbx, S_A320_Plane.fbx, S_A320Cockpit.fbx (2020, Flughafen/Assets/A320). Herkunft **Northdocks-Nachbau** (Joachim 09.11.2026 08:58, laut One), `social-video` (Vorgabe Joachim 18.10.2026 an Video). Texturen FFVR-1826/1827 ebenfalls Northdocks-Nachbau, `social-video`. FFVR-1828 (Cockpit-Referenzbilder) nur intern. Blendswap-Unterordner: Assets Runde 15. (#214 geschlossen).
+- **A320 (FFVR-1823–1828):** AirbusA320_v06.fbx, S_A320_Plane.fbx, S_A320Cockpit.fbx, Texturen und Cockpit-Referenzbilder (2020, Flughafen/Assets/A320). Gesamtes Material **Northdocks-Eigenmodell** ohne weitere Prüfung (Joachim 09.11.2026 08:58/09:01, laut One); `social-video` (Vorgabe Joachim 18.10.2026 an Video). Blendswap-Unterordner: Assets Runde 15. (#214 geschlossen).
 - Keine neuen Feuerwehrfahrzeug-Modelle. HLF20 unverändert nur intern.
 
 ### Pico-Headset
