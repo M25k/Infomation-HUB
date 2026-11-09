@@ -130,10 +130,10 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Typ:** Verein, Northdocks ist Mitglied
 - **Ansprechpartner:** Indirekt über Patrick
 - **Themen:** AI-Inspect, Innovation Hub
-- **Bezug:** LoI AI-Inspect 14.07.2026; Angebot Innovation Hub 100 k€ netto, noch nicht beauftragt; kein eigenes DRZ-Förderprojekt ([grants.md](../grants.md))
+- **Bezug:** LoI AI-Inspect datiert 10.07.2026 (LoI-PDFs im Drive-Ordner „Versenden“ geprüft, Wissen 09.11.2026; Hinweis Förderung/One); Angebot Innovation Hub 100 k€ netto, noch nicht beauftragt; kein eigenes DRZ-Förderprojekt ([grants.md](../grants.md))
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
-  - 14.07.2026 · Dokument · LoI AI-Inspect unterzeichnet
+  - 10.07.2026 · Dokument · LoI AI-Inspect (Datum im Dokument; ~~14.07.2026~~)
 
 ## Feuerwehr Werl
 
