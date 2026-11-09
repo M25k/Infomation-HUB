@@ -10,6 +10,7 @@ Status je Ordner: offen / in Arbeit / fertig / tabu. Vorschläge aus Runde 0 ste
 | Runde 1 (Prio 1: fertige Clips und Reels) | 18.10.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 14 Ordner, 603 Dateien per Metadaten, 233 Einträge in [assets.csv](assets.csv). 10 Ordner fertig, 4 in Arbeit (siehe unten) |
 | Runde 2 (Änderungen seit 12.10. und _ND_Best Of / Projects, Teilrunde 1) | 19.10.2026 (Assets 07:16 bis 07:37 MESZ) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 406 geänderte/neue Dateien seit 12.10. geprüft (90 neue Einträge ND-0544 bis 0593, FFVR-0254 bis 0293; 8 Titelkorrekturen FFVR-0059 bis 0066). Projects: 25 Ordner, 273 Dateien, 271 Einträge (FFVR-0294 bis 0564). Zusammen 361 Einträge: 265 nur intern, 96 social-video |
 | Runde 4 (Änderungen seit 20.10. und _ND_Best Of / Projects, Teilrunde 3a) | 21.10.2026 (Assets bis 08:50 Athen, UTC+3) | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 181 Treffer seit 20.10.2026, 08:50 (20 tabu verworfen; 88 neue Einträge ND-0903 bis 0905, FFVR-0649 bis 0732, MED-0060; 3 Aktualisierungen FFVR-0275, 0280, 0598). Projects Teilrunde 3a: 4 Ordner, 294 Dateien, 294 Einträge (NFVR-0132 bis 0174, ND-0906 bis 1138, SW-0025 bis 0042). Zusammen 382 Einträge: 299 nur intern, 69 angebot, 14 social-video. ElevenLabs-Nachweis von ND-0903 auf ND-1139 umnummeriert |
+| Video-Lieferung 09.11.2026 (Reel 47/48, Beatmungsbeutel, MUSIK v40) | 09.11.2026 | Northdocks Wissen (Katalog) | 14 Einträge MED-0220–0228, FFVR-1839–1842, ND-1908 |
 | Runde 14 (Änderungen seit 06.11. und Press Kit / _assets / Reels 45–46) | 09.11.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 58 Einträge, siehe Abschnitt Runde 14 |
 | Runde 13 (Änderungen seit 05.11. und FirefighterVR / Assets Rest) | 06.11.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 60 Einträge, siehe Abschnitt Runde 13 |
 | Runde 12 (Änderungen seit 04.11. und FirefighterVR / Assets) | 05.11.2026 | Northdocks Assets (Sichtung), Northdocks Wissen (Prüfung, Eintrag) | 161 Einträge, 4 Updates, siehe Abschnitt Runde 12 |
@@ -116,7 +117,12 @@ Nächstes Gebiet (Teilrunde 3): übrige Projects-Ordner alphabetisch ab AR (AR, 
 
 **Freigabe-Audit 09.11.2026 (Vollaudit Teilumfang, laut Assets; Bericht in Northdocks IT):** 57 Wurzeln, 58 Tabu-Ordner, 30 neue Ordner. Neue Öffnungen: (1) Events (unsorted) Link-Freigabe Leser — **hoch** (#213/R14-04); (2) FirefighterVR Press Kit Link-Freigabe Leser — **mittel** (#210/R14-02); (3) Asset Exchange zusätzliche externe Adresse — **niedrig**. Bekannte gewollte Ausnahmen unverändert (u. a. [Public]-Quick-Setup-Ordner, TEMA-Partner). Ebene-1-Rest offen für Runde 15.
 
-Nächste freie IDs: **FFVR-1839, ND-1908, GV-0092, NFVR-0308, MED-0220** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
+~~Nächste freie IDs: **FFVR-1839, ND-1908, GV-0092, NFVR-0308, MED-0220** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).~~ Nächste freie IDs nach Video-Lieferung 09.11.2026 (Reel 47 MED-0220–0223, Reel 48 FFVR-1839–1842, Beatmungsbeutel MED-0224–0228, MUSIK_LIZENZEN_v40 ND-1908): **FFVR-1843, ND-1909, GV-0092, NFVR-0308, MED-0229** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
+
+## Video-Lieferung 09.11.2026 (Reel 47/48, Beatmungsbeutel, MUSIK v40)
+
+**Prüfung Wissen (09.11.2026):** 14 neue Einträge aus Bot Video (Drive-Metadaten gelesen, nichts in Drive geändert). IDs: MED-0220–0223 (Reel 47), FFVR-1839–1842 (Reel 48), ND-1908 (MUSIK_LIZENZEN_v40), MED-0224–0228 (Turntable Beatmungsbeutel). Keine Doppel-IDs/Drive-IDs. **Freigaben:** Reel 47/48 MP4/VTT/Poster `social-video` mit Entwurf-Vermerk, Postplan-Freigabe Joachim offen (Video: noch nicht freigegeben); Kontaktbögen und MUSIK v40 nur intern; Beatmungsbeutel-Turntables `social-video` nur mit Kennzeichnung „3D-Modell“ (Eigenbau laut Video, nicht belegt). **Claims:** Reel 47 Zielbild (Trainingsplattform nach Vorbild FirefighterVR); Reel 48 Standalone/Strahlrohr/23 Module/Atemschutz-Übungsstrecken öffentlich. **Hinweis Todo 11 v8:** FFVR-1045–1048 bereits im Katalog (`social-video`, Joachim 28.10.2026 19:16). Frage #217 in [open-questions.md](open-questions.md).
+
 
 <details><summary>Bericht Assets (progress.md, Runde 14)</summary>
 
@@ -127,7 +133,7 @@ Lauf: 09.11.2026 (Europe/Berlin).
 - Teil 3 Aufräumvorschläge R14-01..08.
 - Teil 4 Vollaudit (Teilumfang): 57 Wurzeln, 58 Tabu-Ordner, 30 neue Ordner; 2 neue Link-Freigaben (hoch/mittel), 1 niedrig; Bericht in Northdocks IT.
 - Ausgabe Assets: 58 Einträge (FFVR-1798–1838, NFVR-0304–0307, GV-0088–0091, ND-1899–1907), Freigabe-Vorschlag {'nur intern': 42, 'social-video;angebot': 1, 'angebot': 3, 'social-video': 12}.
-- Nächste IDs: FFVR-1839, ND-1908, NFVR-0308, GV-0092. Nächstes Gebiet Runde 15: Ebene-1-Audit-Rest, A320-Unterordner, Gloria _OUT/.fbm, Press-Kit-Inhalt nach Entscheidung.
+- Nächste IDs (Stand vor Video-Lieferung 09.11.): FFVR-1839, ND-1908, NFVR-0308, GV-0092; danach Video-Lieferung siehe oben. Nächstes Gebiet Runde 15: Ebene-1-Audit-Rest, A320-Unterordner, Gloria _OUT/.fbm, Press-Kit-Inhalt nach Entscheidung.
 
 </details>
 
@@ -137,7 +143,7 @@ Lauf: 09.11.2026 (Europe/Berlin).
 
 **Freigaben Joachim 06.11.2026 09:34 (laut One; Wissen):** #205 HLF20 v3 FFVR-1743–1746 bleibt `nur intern`, interne Demos jenseits Dräger-Port erlaubt (nicht extern). #206 Trainings-Screens FFVR-1750–1762 und FFVR-1764–1773 (23, inkl. Kreiselpumpen FFVR-1773) → `website` (nur firefightervr.de; kein Social/Angebot); FFVR-1763 Select-Flow unverändert. #199 GV-0080–0087 → `social-video;website` (kein Angebot); #185 bleibt offen. #197 Scania: Beleg von Joachim zugesagt, weiter offen/intern. #204 Skills-Repo entschieden (privat Northdocks-GmbH, Pflege IT/Unreal Build). 3D-Arbeitswissen: Regeln 72–73 in workflows/cad-zu-echtzeit.md; #207/#209/#198/#201 ergänzt (Bot 3D, 06.11.2026).
 
-~~Nächste freie IDs: FFVR-1738, ND-1899, GV-0088, MED-0220~~ ~~Nächste freie IDs: **FFVR-1798, ND-1899, GV-0088, MED-0220, NFVR-0304** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).~~ Nächste freie IDs nach Runde 14: **FFVR-1839, ND-1908, GV-0092, NFVR-0308, MED-0220** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
+~~Nächste freie IDs: FFVR-1738, ND-1899, GV-0088, MED-0220~~ ~~Nächste freie IDs: **FFVR-1798, ND-1899, GV-0088, MED-0220, NFVR-0304** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).~~ ~~Nächste freie IDs nach Runde 14: **FFVR-1839, ND-1908, GV-0092, NFVR-0308, MED-0220** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).~~ Nächste freie IDs nach Video-Lieferung 09.11.2026: **FFVR-1843, ND-1909, GV-0092, NFVR-0308, MED-0229** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
 
 <details><summary>Bericht Assets (progress.md, Runde 13)</summary>
 
@@ -197,7 +203,7 @@ Teil-1-Basis: Änderungen seit 06.11.2026, 07:00 Europe/Berlin. Teil 2: `_assets
 
 **Freigabe-Audit 05.11.2026 (Delta, laut Assets; ohne Links):** hoch: Google-Tabelle „Backlog FlowAR“ (Shared Drive flowAR / flowAR Exchange / 001_Organisatorisches) per Link mit Bearbeitungsrecht für jeden; Vorschlag Link entfernen oder auf Leser. mittel: TEMA-Pilotbericht BRK_Pilot 1 (WP6 / T6.4) per Link lesbar; im Konsortium klären, sonst entfernen. Keine Freigabe geändert; entscheiden Joachim und Patrick.
 
-~~Nächste freie IDs: FFVR-1582, ND-1897, GV-0080, NFVR-0304~~ ~~Nächste freie IDs: FFVR-1734, GV-0088, ND-1898, NFVR-0304~~ ~~Nächste freie IDs nach Video-Lieferung 05.11.2026 (Reel 43 MED-0211–0214, Reel 44 FFVR-1734–1737, Infusionsbeutel MED-0215–0219, MUSIK_LIZENZEN_v38 ND-1898): **FFVR-1738, GV-0088, ND-1899, NFVR-0304, MED-0220** (unverändert: MED-0211, MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).~~ ~~Nächste freie IDs nach Runde 13: **FFVR-1798, GV-0088, ND-1899, NFVR-0304, MED-0220** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).~~ Nächste freie IDs nach Runde 14: **FFVR-1839, GV-0092, ND-1908, NFVR-0308, MED-0220** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
+~~Nächste freie IDs: FFVR-1582, ND-1897, GV-0080, NFVR-0304~~ ~~Nächste freie IDs: FFVR-1734, GV-0088, ND-1898, NFVR-0304~~ ~~Nächste freie IDs nach Video-Lieferung 05.11.2026 (Reel 43 MED-0211–0214, Reel 44 FFVR-1734–1737, Infusionsbeutel MED-0215–0219, MUSIK_LIZENZEN_v38 ND-1898): **FFVR-1738, GV-0088, ND-1899, NFVR-0304, MED-0220** (unverändert: MED-0211, MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).~~ ~~Nächste freie IDs nach Runde 13: **FFVR-1798, GV-0088, ND-1899, NFVR-0304, MED-0220** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).~~ ~~Nächste freie IDs nach Runde 14: **FFVR-1839, GV-0092, ND-1908, NFVR-0308, MED-0220** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).~~ Nächste freie IDs nach Video-Lieferung 09.11.2026 (Reel 47 MED-0220–0223, Reel 48 FFVR-1839–1842, Beatmungsbeutel MED-0224–0228, MUSIK_LIZENZEN_v40 ND-1908): **FFVR-1843, GV-0092, ND-1909, NFVR-0308, MED-0229** (unverändert: MD-1417, HVR-0588, SPVR-0040, SW-0043, IMP-0023, KCI-0138, STR-0047).
 
 <details><summary>Bericht Assets (progress.md, Runde 12)</summary>
 
