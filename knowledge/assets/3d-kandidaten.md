@@ -310,20 +310,20 @@ PICO-HEADSET: In Runde 12 ist kein neues Headset-Modell dazugekommen, weder in T
 - Keine neuen Modelle in Runde 13.
 
 ### FYI A320
-- ~~Weiterhin kein Katalogeintrag; in den Assets-Unterordnern von Runde 13 nicht gefunden. Nächste Runde: _assets und GlobalAssets (#208).~~ **Runde 14:** katalogisiert FFVR-1823–1828, nur intern; Herkunft/Lizenz → #214.
+- ~~Weiterhin kein Katalogeintrag; in den Assets-Unterordnern von Runde 13 nicht gefunden. Nächste Runde: _assets und GlobalAssets (#208).~~ ~~**Runde 14:** katalogisiert FFVR-1823–1828, nur intern; Herkunft/Lizenz → #214.~~ **#214 geschlossen (09.11.2026):** FFVR-1823–1827 Northdocks-Nachbau, `social-video` (Vorgabe Joachim 18.10.2026); FFVR-1828 nur intern (Referenzfotos ggf. fremd). Blendswap prüft Assets in Runde 15.
 
 
 ## Runde 14 (09.11.2026)
 
 ### FAHRZEUGMODELLE
-- **A320 (FFVR-1823–1825):** AirbusA320_v06.fbx, S_A320_Plane.fbx, S_A320Cockpit.fbx (2020, Flughafen/Assets/A320). Herkunft vermutlich Fremdmodell, **nur intern**. Texturen FFVR-1826–1828. Herkunft/Lizenz offen (#214).
+- **A320 (FFVR-1823–1825):** AirbusA320_v06.fbx, S_A320_Plane.fbx, S_A320Cockpit.fbx (2020, Flughafen/Assets/A320). Herkunft **Northdocks-Nachbau** (Joachim 09.11.2026 08:58, laut One), `social-video` (Vorgabe Joachim 18.10.2026 an Video). Texturen FFVR-1826/1827 ebenfalls Northdocks-Nachbau, `social-video`. FFVR-1828 (Cockpit-Referenzbilder) nur intern. Blendswap-Unterordner: Assets Runde 15. (#214 geschlossen).
 - Keine neuen Feuerwehrfahrzeug-Modelle. HLF20 unverändert nur intern.
 
 ### Pico-Headset
 - Kein neues Headset-Modell. Zubehör: PICO-/Oculus-Strap-Druckdaten FFVR-1836/1837 (Prototypen, nur intern).
 
 ### Quellmodelle
-- **Gloria KS 5 SE (FFVR-1831–1834):** 3ds-Max V001–V008, Blender/FBX, _OUT-FBX, RealityCapture-Export. Assets schlug social-video vor (Lizenz nicht schriftlich belegt); **Wissen 09.11.2026: nur intern** (#215). Bestehende Turntables FFVR-0061 ff. unverändert social-video;angebot.
-- **Carport S_Carport.fbx (FFVR-1829):** wie WoodenCarport; Assets social-video → **nur intern** (#215).
+- **Gloria KS 5 SE (FFVR-1831–1834):** 3ds-Max V001–V008, Blender/FBX, _OUT-FBX, RealityCapture-Export. ~~Assets schlug social-video vor; Wissen 09.11.2026: nur intern (#215).~~ **geschlossen #215:** `social-video` (Joachim 09.11.2026 08:58, laut One). Bestehende Turntables FFVR-0061 ff. unverändert social-video;angebot. Herstellerregel (Commit 16700bf) gilt weiter für Texte.
+- **Carport S_Carport.fbx (FFVR-1829):** wie WoodenCarport; ~~Assets social-video → nur intern (#215).~~ **geschlossen #215:** `social-video` (Joachim 09.11.2026 08:58, laut One).
 - **Safety Glasses (FFVR-1820):** social-video, Lizenz nicht schriftlich belegt (Vorgabe 18.10.).
 - **VERTRAULICH/Herstellerbezug Wipes-Spender (FFVR-1821):** nur intern (#216).

@@ -745,7 +745,7 @@ Nur Vorschläge, nichts gelöscht oder verschoben. R12-01 bis R12-08 bleiben unb
 
 Nur Vorschläge, nichts gelöscht oder verschoben. R12-01 bis R12-08 bleiben unberührt (Renke Asana 1220239778700167).
 
-- **R14-01 (Angebots-PDFs im [Public]-Ordner (mittel)):** FFVR-1809–1813 mit Preisen und Konditionen liegen im Ordner mit Link-Freigabe. Vorschlag: in einen nicht freigegebenen Angebotsordner verschieben oder bestätigen, dass gewollt. Siehe #211.
+- ~~**R14-01 (Angebots-PDFs im [Public]-Ordner (mittel)):** FFVR-1809–1813 mit Preisen und Konditionen liegen im Ordner mit Link-Freigabe. Vorschlag: in einen nicht freigegebenen Angebotsordner verschieben oder bestätigen, dass gewollt. Siehe #211.~~ **entfallen:** Linkfreigabe gewollt (Joachim 09.11.2026 08:58, laut One); Katalog `angebot` mit Vermerk „öffentlich verlinkt, gewollt“ (#211 geschlossen).
 - **R14-02 (Press Kit):** neue Struktur seit 06.11.2026; Pfade der Einträge FFVR-0574–0580 prüfen und aktualisieren. Link-Freigabe auf dem Press Kit dokumentieren. Siehe #210.
 - **R14-03 (A320-Dubletten):** Textur- und .fbm-Ordner existieren als Stand 2024 und 2026 (FFVR-1826–1828). Vorschlag: neuere Fassung behalten, ältere in "_alt".
 - **R14-04 (Events unsorted):** 6,7 GiB MOV, Fotos und Transkripte unsortiert (ND-1900–1902), mit Link-Freigabe. Vorschlag: nach Veranstaltung sortieren, Personenclips prüfen, Freigabe einschränken. Siehe #213.
