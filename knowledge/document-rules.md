@@ -21,6 +21,8 @@
 
 Produktnummern: FirefighterVR **9996713**, MeditrainVR/StrahlenschutzVR **9996714**. Erreichbarkeit Mo.–Fr. 9:00–13:00. Nicht 6713 als GmbH-Standard.
 
+**USt-IdNr. in Dokumenten** (Joachim 09.11.2026, laut Ausschreibungen): Die USt-IdNr. ist kein Steuerdatum im Sinne der Regel „Keine Bank- und Steuerdaten“. Sie steht öffentlich auf der Website und gehört in alle Dokumente, auch in den Footer. Bankdaten und die Steuernummer bleiben ausgeschlossen.
+
 Kiel (Schauenburgerstraße 116, 24118 Kiel) ist **Umsetzungsstandort**, nicht der Rechtssitz. Nur nennen, wenn der Auftrag dort erbracht wird.
 
 Vertical-Mails (`info@handaufsherz-vr.de`, `info@northdocks.de`, `godview@…`) sind **kein** Firmenstandard. Immer **kontakt@northdocks.com**.
@@ -66,7 +68,9 @@ Live in **FreeAgent**. Verkaufszahlen aus FA **sind richtig** und zählen. Mail/
 
 ## Briefkopf
 
-Default für von uns erzeugte HTML-Docs: [.cursor/templates/northdocks-briefkopf.html](../.cursor/templates/northdocks-briefkopf.html) (Wortmarke quer, Haarlinien, vierspaltiger Footer, Telefon **6715**). Ablauf in [.cursor/rules/google-docs-html.mdc](../.cursor/rules/google-docs-html.mdc). Gewertetes Konzept und Portal-Formulare **ohne** Briefkopf.
+Default für von uns erzeugte HTML-Docs: [.cursor/templates/northdocks-briefkopf.html](../.cursor/templates/northdocks-briefkopf.html) (Wortmarke quer, Haarlinien, vierspaltiger Footer, Telefon **6715**, USt-IdNr. in der Footer-Spalte Register). Ablauf in [.cursor/rules/google-docs-html.mdc](../.cursor/rules/google-docs-html.mdc). Gewertetes Konzept und Portal-Formulare **ohne** Briefkopf.
+
+**UKSH-Aufklärungsantwort, nur dieser Vorgang** (Joachim 09.11.2026, laut Ausschreibungen): Der Absender ist Kiel, wie im eingereichten Angebot. Welche Adresse allgemein im Briefkopf steht (Monheim oder Kiel), bleibt offen (siehe [open-questions.md](open-questions.md) #220).
 
 ## Angebots-Paket
 
@@ -84,6 +88,7 @@ Details und Agent-Checkliste: [.cursor/rules/reader-facing-prose.mdc](../.cursor
 ## Verbote
 
 - Keine AVPQ-Zugangscodes, Passwörter, Mailbox-Zugänge, FreeAgent-Tokens.
+- **Keine Bankdaten und keine Steuernummer** in Dokumenten oder im Footer. Die USt-IdNr. gehört nicht dazu: Sie ist öffentlich und steht in allen Dokumenten einschließlich Footer (Joachim 09.11.2026, laut Ausschreibungen; s. Abschnitt „Was immer gleich bleibt“).
 - Keine Unteraufträge/Eignungsleihe erfinden.
 - Keine Bietergemeinschaft unterstellen.
 - Keine „100 %“-Sätze aus Landingpages (z. B. Meditrain-Statistiken, die im HTML als 0 gerendert wurden), solange sie nicht in `claims.md` stehen.

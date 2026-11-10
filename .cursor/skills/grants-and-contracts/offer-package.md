@@ -67,6 +67,8 @@ Nur beschreiben, was angeboten wird. Keine Negativ-Abgrenzungen ([document-rules
 
 Nicht ins Anschreiben: Förderprogrammnamen der AG, Internkalkulation, Portal-Feldlisten.
 
+**UKSH-Aufklärungsantwort (nur dieser Vorgang, Joachim 09.11.2026, laut Ausschreibungen):** Absender Kiel, wie im eingereichten Angebot. Die allgemeine Absenderadresse im Briefkopf bleibt offen ([open-questions.md](../../../knowledge/open-questions.md) #220).
+
 ## Personaltabelle im Konzept
 
 Zuschlag = Rollen **dieses** Auftrags, nicht 1:1 Eignung Teil 2 ([team.md](../../../knowledge/team.md)).
