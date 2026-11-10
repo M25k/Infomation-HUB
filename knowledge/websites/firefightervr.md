@@ -76,6 +76,7 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
   - Quick Setup Guides als Web-PDF (URLs laut Web): https://firefightervr.de/handbuch/FirefighterVR-Quick-Setup-Guide-DE.pdf, analog `-EN.pdf` und `-IT.pdf` (FFVR-0658 bis 0660). Angekündigt: Assets ersetzt die Drive-Dateien durch die Web-Fassungen.
   - Keine IT-Fassung; Italienisch nur als Quick Setup Guide.
   - Dateinamen bleiben trotz alter Schreibung „Firefighter-VR“, weil FAQ und QR-Codes darauf verweisen (Ausnahme zur FirefighterVR-Schreibregel in [../document-rules.md](../document-rules.md) Z. 7, wie bei historischen Titeln).
+  - **Tastaturbelegung / Screenshot** (Joachim 10.11.2026 09:15, laut One): P bleibt die Haupttaste für Screenshot, F10 ist die Alternative. Für Kundenhandbuch und Website, nicht Social, gelten die v2-Grafiken ohne Desktop-VR (FFVR-1869–1872). Die Fassungen vom 09.11. (FFVR-1861–1865) bleiben nur intern.
 
 ## Live-Stand 20.10.2026 (Web) und Abgleich Cursor-Chat ND-NB-20
 

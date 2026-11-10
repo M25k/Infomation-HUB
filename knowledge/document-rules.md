@@ -74,7 +74,7 @@ Vorlage für Gestalt und Footer: [.cursor/templates/northdocks-briefkopf.html](.
 
 **Kalkulationsauszüge** (Joachim 10.11.2026 08:58, laut One, #222): Bekommen den Vermerk „Vertraulich“, mindestens wenn sie nach außen gehen.
 
-**Alte Drive-Vorlage „Briefkopf_Northdocks“** (Joachim 10.11.2026 08:58, laut One, #223): Die UG-Fassung von 2015 mit Kieler Adresse wird archiviert, nicht gelöscht und nicht mehr verwendet.
+**Alte Drive-Vorlage „Briefkopf_Northdocks“** (Joachim 10.11.2026 08:58, laut One, #223): Die UG-Fassung von 2015 mit Kieler Adresse wird archiviert, nicht gelöscht und nicht mehr verwendet. Am 10.11.2026 hat Assets die Vorlage (Google Doc `1wfj37KTG86HaewjZ2TI3zh1Oxrw10K7OUvepXrauSvM`) in Drive von My Drive (Joachim) / Dokumente nach My Drive (Joachim) / Dokumente / Archiv (`138tzMGeaSW6Vx2v5FMwqffP0sMjU_6Tk`) verschoben; gelöscht wurde nichts (laut One).
 
 ## Angebots-Paket
 
