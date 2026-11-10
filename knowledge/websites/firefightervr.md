@@ -53,6 +53,7 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 - 23 Module, Basis-Set plus optionale Übungsgeräte, Offline, Pico, OpenXR
 - Mitgliedschaften WFVD/vfdb/DRZ/DIBT
 - Haptik (Strahlrohr, Löscher, CPR-Puppe)
+- AWG-Logo (freigegeben, [claims.md](../claims.md)): darf auf der Site stehen (Website, auch Social, Präsentationen, Angebote). Nicht den Satz „zusammen mit AWG entwickelt“. Der Wortlaut „AWG unterstützt FirefighterVR“ ist nicht gesondert als Claim freigegeben.
 
 ## Nicht auf diese Site
 

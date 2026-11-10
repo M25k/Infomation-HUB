@@ -17,11 +17,13 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 
 - **Ort/Land:** Ballendorf, DE (Teil von IDEX Fire & Safety)
 - **Typ:** Hersteller Strahlrohre / Turbospritze (u. a. EVO 235); Partneranbahnung FirefighterVR
-- **Ansprechpartner:** Michael Tham (Regional Sales Manager); Freigabe Kooperation/Logo bei Chef Marcel (Name laut Asana)
-- **Themen:** Turbospritze in FirefighterVR-Sets; Umstellung 2235 → EVO 235; angestrebt kommunikative Kooperation „AWG unterstützt FirefighterVR“ inkl. Logo auf firefightervr.de (kostenlos)
+- **Ansprechpartner:** Michael Tham (Regional Sales Manager); [Jessica Forster](people.md#jessica-forster) (AWG-Kontakt zur Logo-Freigabe); Chef Marcel (Name laut Asana, frühere Freigabe-Stelle)
+- **Themen:** Turbospritze in FirefighterVR-Sets; Umstellung 2235 → EVO 235; angestrebt kommunikative Kooperation „AWG unterstützt FirefighterVR“ inkl. Logo auf firefightervr.de (kostenlos). Das Logo ist freigegeben ([claims.md](../claims.md)); der Wortlaut „AWG unterstützt FirefighterVR“ ist als öffentlicher Claim nicht gesondert freigegeben.
 - **Bezug:** FirefighterVR Hardware; Asana [Partnerverwaltung](https://app.asana.com/1/8864272155433/project/1217274761762432/task/1219708346834945)
-- **Freigabe:** Freigabe fehlt (Logo-Website und offizielle Kooperation bei AWG ausstehend; Stand Asana 31.10.2026, WV 13.11.2026). Reel 05: Herstellerlogo am Gerät im Bild ok, Herstellernamen nicht im Reel-Text (Joachim 02.11.2026, #171)
+- **Freigabe:** ~~Freigabe fehlt (Logo-Website und offizielle Kooperation bei AWG ausstehend; Stand Asana 31.10.2026, WV 13.11.2026).~~ **Logo überall freigegeben** (Website, Social, Präsentationen, Angebote; auch in Videos einbaubar). Quellen: Jessica Forster (AWG), Mail 09.11.2026 16:48 an kontakt@northdocks.com, Betreff „AWG Logo Northdocks Website“: „Natürlich könnt ihr das AWG Logo für eure Website verwenden.“ Joachim 10.11.2026 08:07, laut One. Der Wortlaut „AWG unterstützt FirefighterVR“ bleibt ohne gesonderte Claim-Freigabe. Reel 05: Herstellerlogo am Gerät im Bild ok; Herstellernamen nicht im Reel-Text (Joachim 02.11.2026, #171) bleibt für Textclaims, nicht für das jetzt freigegebene Logo.
 - **Historie:**
+  - 10.11.2026 · Entscheidung · Joachim 10.11.2026 08:07, laut One: AWG-Logo überall freigegeben (Website, Social, Präsentationen, Angebote; auch in Videos einbaubar)
+  - 09.11.2026 · E-Mail · Jessica Forster (AWG) an kontakt@northdocks.com, Betreff „AWG Logo Northdocks Website“: „Natürlich könnt ihr das AWG Logo für eure Website verwenden.“
   - 31.10.2026 · Asana · Patrick: keine Mail vorziehen; Marcel eine Woche nach Urlaubsende Zeit geben; WV 13.11. Freigabe prüfen
   - 28.10.2026 · Mail · Michael Tham: „Ich werde das klären und melden uns dann wieder“
   - 27.10.2026 · Call · Patrick / Michael Tham (~45 min): Michael unterstützt Vorschlag, Freigabe durch Chef Marcel; Zusammenfassung an Michael zum Weiterleiten

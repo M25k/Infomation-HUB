@@ -677,6 +677,17 @@ Format und Regeln: [README.md](README.md).
 - **Historie:**
   - Stand 26.10.2026 (Datum der Discord-Nachricht nicht übermittelt) · Discord · Angebot: Material von seinem YouTube-Kanal, im Gegenzug wird die B-Safe Academy verlinkt. Angebot, nicht vereinbart (Quelle: Discord-Check von One, 26.10.2026, nur gelesen)
 
+## Jessica Forster
+
+- **Organisation:** [AWG Fittings GmbH](organizations.md#awg-fittings-gmbh-idex-fire--safety)
+- **Rolle:** Offen (AWG-Kontakt zur Logo-Freigabe)
+- **Kontaktweg:** E-Mail (an kontakt@northdocks.com)
+- **Themen:** Freigabe des AWG-Logos
+- **Bezug:** [organizations.md](organizations.md#awg-fittings-gmbh-idex-fire--safety), [claims.md](../claims.md)
+- **Freigabe:** Freigabe fehlt (die Person ist nicht zur öffentlichen Namensnennung freigegeben; freigegeben ist nur das AWG-Logo)
+- **Historie:**
+  - 09.11.2026 · E-Mail · An kontakt@northdocks.com, Betreff „AWG Logo Northdocks Website“: „Natürlich könnt ihr das AWG Logo für eure Website verwenden.“
+
 ## Weitere aus grants.md
 
 Nur Name, Organisation, Quelle. Freigabe jeweils: Freigabe fehlt.
