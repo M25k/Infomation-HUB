@@ -134,16 +134,16 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 
 ### Dokument- und Briefkopfregeln (Ausschreibungen, 09.11.2026)
 
-Quelle: Ausschreibungen 09.11.2026 (Joachim). #218-#220 entschieden (Joachim 10.11.2026 07:38, laut Ausschreibungen). #221-#223 bleiben offen.
+Quelle: Ausschreibungen 09.11.2026 (Joachim). #218-#220 entschieden (Joachim 10.11.2026 07:38, laut Ausschreibungen). #221-#223 entschieden (Joachim 10.11.2026 08:58, laut One).
 
 | # | Frage | Kontext und Vorschlag | Status |
 |---|---|---|---|
 | 218 | Gilt für Angebote der Briefkopf (`northdocks-briefkopf.html`) oder das Format ohne Briefkopf wie die eingereichten Vorbilder (UKSH 14.10., UKSH-Angebot, Bielefeld laut offer-package.md)? | offer-package.md sieht für das inhaltliche Angebot den Briefkopf vor, für das gewertete Konzept keinen. Ältere Einreichungen ohne Briefkopf gelten für das Format nicht mehr als Maßstab. | **geschlossen** (Joachim 10.11.2026 07:38, laut Ausschreibungen): Der Briefkopf (`northdocks-briefkopf.html`) ist Standard, auch für Angebote. Eingetragen in document-rules.md, offer-package.md und google-docs-html.mdc (dieser Commit). |
 | 219 | Antworten auf Aufklärungsersuchen und Bieterfragen: Mit oder ohne Briefkopf? | Unentschieden, bis zur Entscheidung 10.11.2026. | **geschlossen** (Joachim 10.11.2026 07:38, laut Ausschreibungen): Antworten auf Aufklärungsersuchen und Bieterfragen ebenfalls mit Briefkopf. Eingetragen wie #218 (dieser Commit). |
 | 220 | Allgemeine Absenderadresse im Briefkopf: Monheim am Rhein (mit 02173-Nummer) oder Kiel (Schauenburgerstr. 116)? | Für die UKSH-Aufklärungsantwort gilt Kiel als Anwendungsfall der Nähe-Regel. | **geschlossen** (Joachim 10.11.2026 07:38, laut Ausschreibungen): Als Absender Monheim am Rhein oder Kiel wählen, je nachdem, welcher Standort näher am Auftraggeber bzw. an der Ausschreibung liegt. Der frühere Vermerk zur UKSH-Aufklärungsantwort (Absender Kiel) bleibt als Anwendungsfall. Eingetragen in document-rules.md, offer-package.md und google-docs-html.mdc (dieser Commit). |
-| 221 | Bot-Weg statt Browser-Copy/Paste aus google-docs-html.mdc: Ist der Weg über eine DOCX mit Kopf- und Fußzeile und anschließender Konvertierung in ein Google Doc als Standard okay? | Aktuell gilt der HTML-Weg mit Einfügen im Browser. | offen |
-| 222 | Kennzeichnung „Vertraulich“ für Kalkulationsauszüge einführen? | Unentschieden. | offen |
-| 223 | Das Drive-Doc „Briefkopf_Northdocks“ ist eine veraltete UG-Vorlage von 2015 mit Kieler Adresse. In den Papierkorb, archivieren oder ersetzen? | Nicht als aktuelle Vorlage verwenden, bis entschieden. | offen |
+| 221 | Bot-Weg statt Browser-Copy/Paste aus google-docs-html.mdc: Ist der Weg über eine DOCX mit Kopf- und Fußzeile und anschließender Konvertierung in ein Google Doc als Standard okay? | Aktuell galt der HTML-Weg mit Einfügen im Browser. | **geschlossen** (Joachim 10.11.2026 08:58, laut One): Dokumente mit Briefkopf werden standardmäßig als DOCX mit Kopf- und Fußzeile gebaut und dann in ein Google Doc umgewandelt. HTML per Copy/Paste bleibt nur der Rückfall. Eingetragen in document-rules.md, offer-package.md und google-docs-html.mdc (dieser Commit). |
+| 222 | Kennzeichnung „Vertraulich“ für Kalkulationsauszüge einführen? | Unentschieden, bis zur Entscheidung 10.11.2026. | **geschlossen** (Joachim 10.11.2026 08:58, laut One): Kalkulationsauszüge bekommen den Vermerk „Vertraulich“, mindestens wenn sie nach außen gehen. Eingetragen in document-rules.md und offer-package.md (dieser Commit). |
+| 223 | Das Drive-Doc „Briefkopf_Northdocks“ ist eine veraltete UG-Vorlage von 2015 mit Kieler Adresse. In den Papierkorb, archivieren oder ersetzen? | Nicht als aktuelle Vorlage verwenden. Die Archivierung in Drive selbst steht noch aus. | **geschlossen** (Joachim 10.11.2026 08:58, laut One): Die Vorlage wird archiviert, nicht gelöscht und nicht mehr verwendet. Regel in document-rules.md (dieser Commit). |
 
 ### Marken-CI und Schreibweisen (19.10.2026)
 

@@ -1,25 +1,25 @@
 ---
-description: Google Docs als lokale HTML mit Northdocks-Briefkopf, nie über Drive-API
+description: Google Docs aus DOCX mit Northdocks-Briefkopf (Kopf- und Fußzeile); HTML-Copy/Paste nur als Rückfall
 alwaysApply: true
 ---
 
-# Google Docs über lokale HTML
+# Google Docs mit Briefkopf
 
-Google-Docs-API und Drive-Konvertierung (`create_file` als `application/vnd.google-apps.document`) nicht verwenden. Formatierung geht verloren oder das Doc bleibt leer.
+**Ablauf, wenn ein Google Doc mit Briefkopf gebraucht wird** (Joachim 10.11.2026 08:58, laut One, #221):
 
-**Ablauf, wenn ein Google Doc gebraucht wird:**
+1. Standard: Dokument als DOCX mit Kopf- und Fußzeile bauen (Gestalt und Footer wie in [`.cursor/templates/northdocks-briefkopf.html`](../templates/northdocks-briefkopf.html), Logo `northdocks_Logo_quer.png` aus demselben Templates-Ordner; Drive-Quelle: *Messe-Material / Bilder / Logos / Northdocks Logos PNG*). Anschließend die DOCX in ein Google Doc umwandeln.
+2. Rückfall, nur wenn der DOCX-Weg nicht greift: Vorlage HTML nach `C:\Users\joach\Downloads\{Klarer-Dateiname}.html` kopieren, Logo mitkopieren, Inhalt einsetzen, Browser öffnen (`Start-Process`), **Strg+A / Strg+C** ins leere Google Doc (**Strg+V**). PDF über **Datei → Herunterladen → PDF**.
 
-1. Vorlage [`.cursor/templates/northdocks-briefkopf.html`](../templates/northdocks-briefkopf.html) nach `C:\Users\joach\Downloads\{Klarer-Dateiname}.html` kopieren. Logo `northdocks_Logo_quer.png` aus demselben Templates-Ordner **mitkopieren** (Drive-Quelle: *Messe-Material / Bilder / Logos / Northdocks Logos PNG*).
-2. Inhalt einsetzen. Browser öffnen (`Start-Process`).
-3. Nutzer: **Strg+A / Strg+C** ins leere Google Doc (**Strg+V**). PDF über **Datei → Herunterladen → PDF**.
+Die frühere HTML-Konvertierung über die Drive-API (`create_file` als `application/vnd.google-apps.document` aus HTML) bleibt falsch: Formatierung geht verloren oder das Doc bleibt leer.
 
 ```text
 # falsch
-Drive create_file → Google Doc / HTML-Konvertierung
+Drive create_file aus HTML → Google Doc
 zentrierter Drei-Spalten-Kopf, Rahmen-Tabellen, Footer absolut
 
 # richtig
-Templates → Downloads\{Name}.html + Logo → Browser → in Google Doc einfügen
+DOCX mit Kopf- und Fußzeile → in ein Google Doc umwandeln
+Rückfall: Templates → Downloads\{Name}.html + Logo → Browser → in Google Doc einfügen
 ```
 
 **Briefkopf (Default für von uns erzeugte Docs):** Helvetica; Wortmarke quer; Haarlinie `#C8C6BE`; Text `#3D3C39`; Überschriften `#1A1A1A`; A4, Seitenränder 20 mm. Tabellen ohne Rahmen, nur Haarlinien. Footer **im Fluss** (Flex, `margin-top: auto`), nie `position: absolute`, sonst läuft er in den Text. Fließtext in HTML: [.cursor/rules/german-prose.mdc](german-prose.mdc) (Doppelpunkt, keine Gedankenstriche). Vier Spalten: Anschrift, Kontakt **+49 2173 9996715** / `kontakt@northdocks.com`, Geschäftsführung, Register (inkl. USt-IdNr.). Die USt-IdNr. gehört in den Footer. Bankdaten und die Steuernummer bleiben ausgeschlossen (Joachim 09.11.2026, laut Ausschreibungen). Zentrierter Titelblock nur bei Memo/Kosten/LOI-Begleit. Anschreiben: Empfänger und Betreff unter dem Kopf, nicht zentriert. Der Briefkopf ist Standard, auch für Angebote und für Antworten auf Aufklärungsersuchen und Bieterfragen (Joachim 10.11.2026 07:38, laut Ausschreibungen, #218/#219). Eingereichte Fassungen ohne Briefkopf gelten für das Format nicht mehr als Maßstab. Als Absender Monheim am Rhein oder Kiel wählen, je nachdem, welcher Standort näher am Auftraggeber bzw. an der Ausschreibung liegt (Joachim 10.11.2026 07:38, laut Ausschreibungen, #220).

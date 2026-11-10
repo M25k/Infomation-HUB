@@ -2,7 +2,7 @@
 
 **Basis für alle zukünftigen Ausschreibungen.** Vorbilder: Uni Bielefeld `702-2026-10` (Inhalts- und Dateischnitt) und UKFFM `20261039` / `20261040` (Drive-Ordnerstruktur, Abgabe vs. Intern). Entscheidung Joachim 02.11.2026. In Bot-Nachrichten auch als Northdocks-Textregel 44 bezeichnet (laut One 05.11.2026 08:22). Gemeint ist die Ordnerstruktur unten, mit `03-Abgabe` nur für abgabefähige Dokumente.
 
-Google Docs im Drive gelten vor HTML-Erstentwürfen. Nutzer redigiert im Doc; das Doc nicht zurück in HTML schreiben. Nichts aus dem Angebotsordner ins Git.
+Dokumente mit Briefkopf werden standardmäßig als DOCX mit Kopf- und Fußzeile gebaut und dann in ein Google Doc umgewandelt. HTML per Copy/Paste bleibt nur der Rückfall (Joachim 10.11.2026 08:58, laut One, #221). Das Google Doc im Drive gilt vor dem Entwurfsfile. Nutzer redigiert im Doc. Nichts aus dem Angebotsordner ins Git. Ablauf: [.cursor/rules/google-docs-html.mdc](../../rules/google-docs-html.mdc).
 
 ## Drive-Ordner je Verfahren
 
@@ -67,9 +67,11 @@ Nur beschreiben, was angeboten wird. Keine Negativ-Abgrenzungen ([document-rules
 
 Nicht ins Anschreiben: Förderprogrammnamen der AG, Internkalkulation, Portal-Feldlisten.
 
-Der Briefkopf aus [northdocks-briefkopf.html](../../templates/northdocks-briefkopf.html) ist Standard, auch für Angebote und für Antworten auf Aufklärungsersuchen und Bieterfragen (Joachim 10.11.2026 07:38, laut Ausschreibungen, #218/#219). Eingereichte Fassungen ohne Briefkopf gelten für das Format nicht mehr als Maßstab. Gewertetes Konzept und Portal-Formulare bleiben ohne Briefkopf.
+Der Briefkopf aus [northdocks-briefkopf.html](../../templates/northdocks-briefkopf.html) ist Standard, auch für Angebote und für Antworten auf Aufklärungsersuchen und Bieterfragen (Joachim 10.11.2026 07:38, laut Ausschreibungen, #218/#219). Eingereichte Fassungen ohne Briefkopf gelten für das Format nicht mehr als Maßstab. Gewertetes Konzept und Portal-Formulare bleiben ohne Briefkopf. Dokumente mit Briefkopf entstehen als DOCX mit Kopf- und Fußzeile und werden in ein Google Doc umgewandelt; HTML per Copy/Paste ist nur der Rückfall (Joachim 10.11.2026 08:58, laut One, #221).
 
 **Absenderadresse** (Joachim 10.11.2026 07:38, laut Ausschreibungen, #220): Als Absender Monheim am Rhein oder Kiel wählen, je nachdem, welcher Standort näher am Auftraggeber bzw. an der Ausschreibung liegt. Die UKSH-Aufklärungsantwort mit Absender Kiel (Joachim 09.11.2026, laut Ausschreibungen) ist ein Anwendungsfall dieser Regel.
+
+**Kalkulationsauszüge** (Joachim 10.11.2026 08:58, laut One, #222): Bekommen den Vermerk „Vertraulich“, mindestens wenn sie nach außen gehen. Sie liegen in `01-Angebot` bzw. intern, nicht in `03-Abgabe`.
 
 ## Personaltabelle im Konzept
 

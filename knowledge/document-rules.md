@@ -68,9 +68,13 @@ Live in **FreeAgent**. Verkaufszahlen aus FA **sind richtig** und zählen. Mail/
 
 ## Briefkopf
 
-Default für von uns erzeugte HTML-Docs: [.cursor/templates/northdocks-briefkopf.html](../.cursor/templates/northdocks-briefkopf.html) (Wortmarke quer, Haarlinien, vierspaltiger Footer, Telefon **6715**, USt-IdNr. in der Footer-Spalte Register). Ablauf in [.cursor/rules/google-docs-html.mdc](../.cursor/rules/google-docs-html.mdc). Der Briefkopf ist Standard, auch für Angebote und für Antworten auf Aufklärungsersuchen und Bieterfragen (Joachim 10.11.2026 07:38, laut Ausschreibungen, #218/#219). Eingereichte Fassungen ohne Briefkopf gelten für das Format nicht mehr als Maßstab. Gewertetes Konzept und Portal-Formulare **ohne** Briefkopf.
+Vorlage für Gestalt und Footer: [.cursor/templates/northdocks-briefkopf.html](../.cursor/templates/northdocks-briefkopf.html) (Wortmarke quer, Haarlinien, vierspaltiger Footer, Telefon **6715**, USt-IdNr. in der Footer-Spalte Register). Ablauf in [.cursor/rules/google-docs-html.mdc](../.cursor/rules/google-docs-html.mdc). Dokumente mit Briefkopf werden standardmäßig als DOCX mit Kopf- und Fußzeile gebaut und dann in ein Google Doc umgewandelt. HTML per Copy/Paste bleibt nur der Rückfall (Joachim 10.11.2026 08:58, laut One, #221). Der Briefkopf ist Standard, auch für Angebote und für Antworten auf Aufklärungsersuchen und Bieterfragen (Joachim 10.11.2026 07:38, laut Ausschreibungen, #218/#219). Eingereichte Fassungen ohne Briefkopf gelten für das Format nicht mehr als Maßstab. Gewertetes Konzept und Portal-Formulare **ohne** Briefkopf.
 
 **Absenderadresse** (Joachim 10.11.2026 07:38, laut Ausschreibungen, #220): Als Absender Monheim am Rhein oder Kiel wählen, je nachdem, welcher Standort näher am Auftraggeber bzw. an der Ausschreibung liegt. Die UKSH-Aufklärungsantwort mit Absender Kiel (Joachim 09.11.2026, laut Ausschreibungen) ist ein Anwendungsfall dieser Regel.
+
+**Kalkulationsauszüge** (Joachim 10.11.2026 08:58, laut One, #222): Bekommen den Vermerk „Vertraulich“, mindestens wenn sie nach außen gehen.
+
+**Alte Drive-Vorlage „Briefkopf_Northdocks“** (Joachim 10.11.2026 08:58, laut One, #223): Die UG-Fassung von 2015 mit Kieler Adresse wird archiviert, nicht gelöscht und nicht mehr verwendet.
 
 ## Angebots-Paket
 
