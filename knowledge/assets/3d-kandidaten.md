@@ -327,3 +327,17 @@ PICO-HEADSET: In Runde 12 ist kein neues Headset-Modell dazugekommen, weder in T
 - **Carport S_Carport.fbx (FFVR-1829):** wie WoodenCarport; ~~Assets social-video → nur intern (#215).~~ **geschlossen #215:** `social-video` (Joachim 09.11.2026 08:58, laut One).
 - **Safety Glasses (FFVR-1820):** social-video, Lizenz nicht schriftlich belegt (Vorgabe 18.10.).
 - **VERTRAULICH/Herstellerbezug Wipes-Spender (FFVR-1821):** nur intern (#216).
+
+
+## Runde 15 (10.11.2026)
+
+### Hygiene-/RTW-Ausstattung (FirefighterVR / Assets, Renke)
+- **Messbecher (FFVR-1843–1847):** Blend, FBX, Substance, Referenzfoto und Texturgruppe. Nur intern (Regel 7, Präzedenz FFVR-0873). Hilfsdateien ohne Eintrag (R15-01).
+- **Mikrobac-Flasche (FFVR-1848–1853):** Blend, FBX, UE-FBX, Substance (Schreibweise Microbac), Referenzfoto und Texturgruppe. Nur intern (Regel 7, Präzedenz FFVR-0873). Schreibweise uneinheitlich (R15-02).
+- **Wipes-Spender [Herstellerbezug] (FFVR-1854–1860):** Einzeldateien zum bereits als Gruppeneintrag FFVR-1821 katalogisierten Ordner (Texturgruppe FFVR-1860 teilt den Ordner-Link). Titel und Pfade anonymisiert. Nur intern (#216 offen).
+
+### Pico-Headset
+- Kein neues Headset-Modell in Runde 15.
+
+### FYI A320
+- Unterordner (inkl. Blendswap) in dieser Lieferung nicht enthalten, bleiben offen.

@@ -753,3 +753,13 @@ Nur Vorschläge, nichts gelöscht oder verschoben. R12-01 bis R12-08 bleiben unb
 - **R14-06 (TEMA-Teilnehmerliste ND-1907):** Personenbezug in einem Lieferordner; Vorschlag: in Tabu/Projektordner mit eingeschränktem Zugriff.
 - **R14-07 (Ordnername "Firefighter VR" vs. "FirefighterVR"):** Schreibweise vereinheitlichen (Kennzeichnung nach Regel "ein Wort").
 - **R14-08 (Autosave-Dubletten in Safety-Glasses- und Herstellerordner FFVR-1820/1821):** .blend1/Autosave-Dateien entfernen oder in "_backup" ablegen.
+
+## Runde 15 (Assets, 10.11.2026)
+
+Nur Vorschläge, nichts gelöscht oder verschoben. R12-01 bis R12-08 bleiben unberührt (Renke Asana 1220239778700167).
+
+- **R15-01 (Autosaves/Backups in neuen Objektordnern):** Messbecher.blend1, Messbecher.spp.painter_lock, Messbecher_autosave_0.spp, Mikrobac.blend1, sowie .blend1 im Wipes-Spender-Ordner (FFVR-1821/FFVR-1854–1860, [Herstellerbezug]): Hilfsdateien, Papierkorb-Kandidaten nach Rückfrage (wie R13-01).
+- **R15-02 (Schreibweise Mikrobac/Microbac):** Ordner und FBX Mikrobac, .spp und .jpg Microbac. Einheitlich benennen.
+- **R15-03 (Wipes-Spender [Herstellerbezug], mehrere Texturfassungen):** Neben D/N/ORM liegen D_1, N_3, O_4, ORM_2 (FFVR-1860, gleicher Ordner wie FFVR-1821). Aktuelle Fassung behalten, Altfassungen in _alt.
+- **R15-04 (Hotkeys doppelt abgelegt):** Hotkeys-Ordner im FirefighterVR-Shared-Drive (FFVR-1861–1865) und Meeting-Ordner 11.11.2026/Firefighting (FFVR-1740). Eine Quelle festlegen.
+- **R15-05 (FlowAR-APK-Ordner mit Linkfreigabe):** Audit-Fund 10.11.2026 (Freigabe-Delta, mittel): Der Ordner der Test-APK FlowAR_ModelTest_v3 (ND-1909) ist per Link freigegeben. Prototyp-APK nicht per Link verteilen, falls nicht gewollt. Keine URL ins Repo. Katalog: nur intern, nie extern ohne Joachim.
