@@ -68,9 +68,9 @@ Live in **FreeAgent**. Verkaufszahlen aus FA **sind richtig** und zählen. Mail/
 
 ## Briefkopf
 
-Default für von uns erzeugte HTML-Docs: [.cursor/templates/northdocks-briefkopf.html](../.cursor/templates/northdocks-briefkopf.html) (Wortmarke quer, Haarlinien, vierspaltiger Footer, Telefon **6715**, USt-IdNr. in der Footer-Spalte Register). Ablauf in [.cursor/rules/google-docs-html.mdc](../.cursor/rules/google-docs-html.mdc). Gewertetes Konzept und Portal-Formulare **ohne** Briefkopf.
+Default für von uns erzeugte HTML-Docs: [.cursor/templates/northdocks-briefkopf.html](../.cursor/templates/northdocks-briefkopf.html) (Wortmarke quer, Haarlinien, vierspaltiger Footer, Telefon **6715**, USt-IdNr. in der Footer-Spalte Register). Ablauf in [.cursor/rules/google-docs-html.mdc](../.cursor/rules/google-docs-html.mdc). Der Briefkopf ist Standard, auch für Angebote und für Antworten auf Aufklärungsersuchen und Bieterfragen (Joachim 10.11.2026 07:38, laut Ausschreibungen, #218/#219). Eingereichte Fassungen ohne Briefkopf gelten für das Format nicht mehr als Maßstab. Gewertetes Konzept und Portal-Formulare **ohne** Briefkopf.
 
-**UKSH-Aufklärungsantwort, nur dieser Vorgang** (Joachim 09.11.2026, laut Ausschreibungen): Der Absender ist Kiel, wie im eingereichten Angebot. Welche Adresse allgemein im Briefkopf steht (Monheim oder Kiel), bleibt offen (siehe [open-questions.md](open-questions.md) #220).
+**Absenderadresse** (Joachim 10.11.2026 07:38, laut Ausschreibungen, #220): Als Absender Monheim am Rhein oder Kiel wählen, je nachdem, welcher Standort näher am Auftraggeber bzw. an der Ausschreibung liegt. Die UKSH-Aufklärungsantwort mit Absender Kiel (Joachim 09.11.2026, laut Ausschreibungen) ist ein Anwendungsfall dieser Regel.
 
 ## Angebots-Paket
 

@@ -1,6 +1,6 @@
 # Angebots-Paket (Standard ab UKFFM 02.11.2026)
 
-**Basis für alle zukünftigen Ausschreibungen.** Vorbilder: Uni Bielefeld `702-2026-10` (Inhalts- und Dateischnitt) und UKFFM `20261039` / `20261040` (Drive-Ordnerstruktur, Abgabe vs. Intern). Entscheidung Joachim 02.11.2026.
+**Basis für alle zukünftigen Ausschreibungen.** Vorbilder: Uni Bielefeld `702-2026-10` (Inhalts- und Dateischnitt) und UKFFM `20261039` / `20261040` (Drive-Ordnerstruktur, Abgabe vs. Intern). Entscheidung Joachim 02.11.2026. In Bot-Nachrichten auch als Northdocks-Textregel 44 bezeichnet (laut One 05.11.2026 08:22). Gemeint ist die Ordnerstruktur unten, mit `03-Abgabe` nur für abgabefähige Dokumente.
 
 Google Docs im Drive gelten vor HTML-Erstentwürfen. Nutzer redigiert im Doc; das Doc nicht zurück in HTML schreiben. Nichts aus dem Angebotsordner ins Git.
 
@@ -67,7 +67,9 @@ Nur beschreiben, was angeboten wird. Keine Negativ-Abgrenzungen ([document-rules
 
 Nicht ins Anschreiben: Förderprogrammnamen der AG, Internkalkulation, Portal-Feldlisten.
 
-**UKSH-Aufklärungsantwort (nur dieser Vorgang, Joachim 09.11.2026, laut Ausschreibungen):** Absender Kiel, wie im eingereichten Angebot. Die allgemeine Absenderadresse im Briefkopf bleibt offen ([open-questions.md](../../../knowledge/open-questions.md) #220).
+Der Briefkopf aus [northdocks-briefkopf.html](../../templates/northdocks-briefkopf.html) ist Standard, auch für Angebote und für Antworten auf Aufklärungsersuchen und Bieterfragen (Joachim 10.11.2026 07:38, laut Ausschreibungen, #218/#219). Eingereichte Fassungen ohne Briefkopf gelten für das Format nicht mehr als Maßstab. Gewertetes Konzept und Portal-Formulare bleiben ohne Briefkopf.
+
+**Absenderadresse** (Joachim 10.11.2026 07:38, laut Ausschreibungen, #220): Als Absender Monheim am Rhein oder Kiel wählen, je nachdem, welcher Standort näher am Auftraggeber bzw. an der Ausschreibung liegt. Die UKSH-Aufklärungsantwort mit Absender Kiel (Joachim 09.11.2026, laut Ausschreibungen) ist ein Anwendungsfall dieser Regel.
 
 ## Personaltabelle im Konzept
 
