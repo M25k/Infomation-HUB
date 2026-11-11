@@ -24,7 +24,8 @@ Steuert Formulierungen, Canonical-URLs, Footer/Impressum und Verbote, bevor HTML
 - Keine Antrags-/Eignungstexte (dafür `grants-and-contracts`)
 - Keine Portal-Passwörter, AVPQ-Codes, Kundentelefone
 - BMA nicht vermarkten
-- intern belegte Claims (z. B. >100 Kunden, TMA, Umsatz) nicht auf die Website heben
+- intern belegte Claims (z. B. >250 Kunden, TMA, Umsatz) nicht auf die Website heben
+- Keine frei generierten KI-Bilder; KI-Aufwertung nur für echte App-Screenshots (und Frames aus echten Videos), Szene und Objekte unverändert, nichts Erfundenes, keine neue Schrift oder Logos (Joachim 11.11.2026 16:33, laut One; Details in [_shared.md](../../knowledge/websites/_shared.md) unter „Bilder“)
 
 ## Nach der Änderung
 

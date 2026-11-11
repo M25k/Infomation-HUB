@@ -68,6 +68,10 @@ Satelliten (keine der sieben Hub-Kacheln):
 
 Sachlich, produktbezogen. Keine Superlative ohne Beleg („Pioniere“, „radikal“, „nie dagewesen“, „100 %“). Keine erfundenen Kundenzahlen. Deutsch und Englisch getrennt pflegen, wo die Site zweisprachig ist — Inhalte spiegeln, nicht maschinell halb übersetzen.
 
+## Bilder
+
+- **Bilder: KI-Aufwertung nur für echtes Material** („KI-Aufwertung echter App-Screenshots erlaubt, nichts Erfundenes“, Joachim 11.11.2026 16:33, laut One): Echte App-Screenshots dürfen per KI aufgewertet werden (Schärfe, Auflösung, Licht, Rauschen), wenn Szene und Objekte gleich bleiben; keine erfundenen Inhalte, keine neue Schrift, keine Logos. Gleiches gilt für Frames aus echten Videos (Ergänzung laut One; Joachims Wortlaut nennt nur App-Screenshots). Frei generierte KI-Bilder bleiben auf den Websites verboten.
+
 ## Video und Clips
 
 - Schriften: Pro Brand die definierte Schrift aus [../brand/fonts.md](../brand/fonts.md) verwenden, in Reels, auf Webseiten und in Grafiken; Fallback nur bei fehlender Lizenz. FirefighterVR vorläufig Teko Bold (Titel) und Open Sans (Joachim, 20.10.2026).
