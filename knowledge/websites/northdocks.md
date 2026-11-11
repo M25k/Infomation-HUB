@@ -35,7 +35,7 @@ Nav heute: Verticals, Über uns, News, Preise & Förderungen, Kontakt. DE/EN üb
 
 ## Nicht auf diese Site
 
-- >100 Kunden, Umsatz, AVPQ
+- >250 Kunden, Umsatz, AVPQ
 - Spearhead-Zahlen, TMA, Kosovo
 - Meditrain-Ausgründung
 - Interne GodView-Hostingdetails

@@ -13,7 +13,7 @@ Nicht in Git geschrieben: AVPQ-Zugangscode, Mailbox-Passwörter, Hardcoded-User 
 User-Entscheidungen:
 - Vertikale: sieben wie northdocks.com
 - Canonical FFVR-URL: firefightervr.de
-- >100 Kunden: in Eignung erlaubt
+- >250 Kunden: in Eignung erlaubt
 
 Lokaler Zusatzscan: `C:\Users\joach\source\repos` ohne sichtbare Projektordner. `gh` nicht installiert. Drive-Referenzen-Ordner enthält mindestens Wilhelmshaven.
 

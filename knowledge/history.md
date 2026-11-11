@@ -91,7 +91,7 @@ Produktlinie läuft weiter (Abschnitt A/H in projects.md). Hier nur archivierte 
 | FFVR - Waldbrand | 2023 | 26 |
 | RescueArena Koppenhagen | 2025 | 25 |
 
-**Playground / Planspiel:** Meta-Store-Einreichung `FirefighterVR Playground` (von Planspiel) genehmigt **28.07.2025** — intern Produktfakt, nicht „>100 Kunden“-Zähler.
+**Playground / Planspiel:** Meta-Store-Einreichung `FirefighterVR Playground` (von Planspiel) genehmigt **28.07.2025** — intern Produktfakt, nicht „>250 Kunden“-Zähler.
 
 ## TMA / State of Emergency (National Guard)
 

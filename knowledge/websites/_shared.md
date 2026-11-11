@@ -22,7 +22,7 @@ Marken (FirefighterVR, MeditrainVR, …) sind Marken der GmbH. Footer: „powere
 
 Nur Claims der Stufe **öffentlich** in [claims.md](../claims.md). Beispiele die **nicht** auf die Site, außer GF gibt sie frei:
 
-- >100 Kunden FirefighterVR (Eignung ja, Website nein)
+- >250 Kunden FirefighterVR (Eignung ja, Website nein)
 - ca. 1 Mio. € Umsatz
 - AVPQ-Nummer und Zugangscodes
 - TMA / Omnicom / National Guard als Vertragstext

@@ -9,7 +9,7 @@ Beim Ändern einer Website zuerst:
 2. [_shared.md](_shared.md)
 3. Die Datei der betroffenen Domain (unten)
 
-Nur Stufe **öffentlich** aus claims.md auf die Site. Intern Belegtes (Eignung, >100 Kunden, Umsatz, TMA-Vertrag) nicht ungefragt auf die Website kopieren.
+Nur Stufe **öffentlich** aus claims.md auf die Site. Intern Belegtes (Eignung, >250 Kunden, Umsatz, TMA-Vertrag) nicht ungefragt auf die Website kopieren.
 
 | Datei | Domain | Repo |
 |---|---|---|

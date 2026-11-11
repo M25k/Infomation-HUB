@@ -42,7 +42,7 @@ Das gewollte Produkt ist dasselbe Komplettpaket wie FirefighterVR: **Koffer + Ha
 
 ## Formulierung für Anträge (Medizin-Linie)
 
-FirefighterVR belegt: wir können ein skalierbares VR-Trainingsprodukt bauen, vertreiben und im Feld halten (100+ Kunden, Koffer, Haptik, Offline).
+FirefighterVR belegt: wir können ein skalierbares VR-Trainingsprodukt bauen, vertreiben und im Feld halten (250+ Kunden, Koffer, Haptik, Offline).
 
 Meditrain ist die fachliche Übertragung auf Klinik und Rettung mit denselben technischen Prinzipien (Standalone, Local-Only, Multiuser, Haptik, Debriefing) und mit medizinischen Partnern (UKK, BfS, Björn-Steiger-Stiftung, UKSH/Flashlight).
 

@@ -14,7 +14,7 @@ Geklärte Punkte bleiben kurz dokumentiert. Nur offene Punkte blockieren Formuli
 |---|---|
 | Vertikale | Sieben wie northdocks.com. Deck mit fünf ist veraltet. |
 | FFVR-URL | Canonical https://firefightervr.de/ |
-| >100 Kunden | In Eignung erlaubt |
+| >250 Kunden | In Eignung erlaubt |
 | Firmenalter | Tätigkeit 2009 CAU Kiel (Narrative). GmbH ab 2015: siehe Geklärt 2026-08-31. Nicht „17 Jahre FirefighterVR“. |
 | Dom-Erfassung | Aktualisiert 21.10.2026: Aufnahme mehr als 200.000 Fotos **und** 1.000 Laserscans; aktuelles Modell rund 100.000 Fotos, über 2 Mrd. Polygone (claims.md). 30.000 aus 2020 verwerfen. |
 | Spot-KI | Nur KI-Transfer-Hub SH / EU+Land. Keine Vodafone, keine UKK. |
@@ -39,7 +39,7 @@ Geklärte Punkte bleiben kurz dokumentiert. Nur offene Punkte blockieren Formuli
 | Kepler-Fulldome-Profil (Drive, 07.07.2026) | **Ignorieren.** XFEL/IWS-Outreach-Fusion: Konsortium hat sich am 13.07.2026 für einen anderen Anbieter entschieden. Dokument nicht zitieren (Dom-Zahlen, Renderfarm, ESA/ESO). |
 | FFVR-Modulzahl | Öffentlich und intern aktuell **23** (`trainingslist.html`). Die Zahl steigt periodisch. Didaktik v47 (22 Module, März 2026) nicht als Zähler. |
 | ERVR-Name / Domains | Außen für das UKK-Schockraum-Projekt: **ERVR** / **Emergency Room VR**. Quelle: Asana [ERVR: Domains sichern und Wortmarke anmelden](https://app.asana.com/1/8864272155433/project/1201612522482993/task/1216921060272475) (27.07.2026). Domains und Markenlage dort sind gültig. Interner Projektname **Schockraum VR** bleibt. **Emergency Response** nicht (Unionsmarken Klasse 41). Zielhardware **PICO Space Pro** (vormals Project Swan); Mobile-Ports laufen deshalb. |
-| EIC-Pitch-Mail 17.07.2026 | C-Level darf nach außen gelegentlich übertreiben. **Interne** Zahlen (KB, Eignung, Agenten) müssen real bleiben: >100 Kunden, TMA nicht Army, keine Spin-Off-GmbH, keine 1,5-Mio-€-Fördersumme. |
+| EIC-Pitch-Mail 17.07.2026 | C-Level darf nach außen gelegentlich übertreiben. **Interne** Zahlen (KB, Eignung, Agenten) müssen real bleiben: >250 Kunden, TMA nicht Army, keine Spin-Off-GmbH, keine 1,5-Mio-€-Fördersumme. |
 | FlowAR iOS vs. Android | Endziel **Android und iOS**. Mac für Deployment in Beschaffung. Prototyp weiter Android. Nicht „native iOS-App live“. |
 | UKK 357k vs. 380k vs. FA | **FA gilt.** Paid **328.403 €** netto. 357 k brutto und Mappe 380 k nicht verwenden. KI 40 k€ zugesagt, noch nicht in FA. |
 | EIC-Verschiebung | Grund: **Absprachen mit der UniBw**. Kein Kurzantrag 01.09.2026, kein Vollantrag 04.11.2026. Termine: Abschnitt unten. |

@@ -28,7 +28,7 @@ Zum Schreiben immer [claims.md](claims.md) und [document-rules.md](document-rule
 | Verfahren | Was Gutachter kaufen | Northdocks-Hebel |
 |---|---|---|
 | **Horizon Europe** RIA/IA | Excellence, Impact, Implementation je 0–5, Schwelle 3, Summe 10. IA: Impact 1,5× beim Ranking. Part B 2026/27: 40 Seiten (45 Lump Sum). | TEMA-Partner, Endnutzer Feuerwehr/Klinik/Dom, Methodik XR+Twin, nicht Koordinator spielen |
-| **EIC Accelerator** | Excellence, Impact, Need-for-EU-support/Risk. Short any time, dann Full. TRL ≥ 6. EU-/internationaler Markt Pflicht. Interview nur Firmenangehörige. | FirefighterVR 100+ Kunden, Koffer-Skalierung, nicht nur DE-Markt. **Anlauf 2027** (Absprachen UniBw), nicht Cut-off 04.11.2026. Nächstes Full-Fenster Entwurf **03.02.2027**. NKS 08/2026: Deep-Tech Psychologie/Biometrie, nicht KI-as-such; kein Spin-Off ohne GF; Investment max. 10 Mio. €. Historische Referenzen: [history.md](history.md) |
+| **EIC Accelerator** | Excellence, Impact, Need-for-EU-support/Risk. Short any time, dann Full. TRL ≥ 6. EU-/internationaler Markt Pflicht. Interview nur Firmenangehörige. | FirefighterVR 250+ Kunden, Koffer-Skalierung, nicht nur DE-Markt. **Anlauf 2027** (Absprachen UniBw), nicht Cut-off 04.11.2026. Nächstes Full-Fenster Entwurf **03.02.2027**. NKS 08/2026: Deep-Tech Psychologie/Biometrie, nicht KI-as-such; kein Spin-Off ohne GF; Investment max. 10 Mio. €. Historische Referenzen: [history.md](history.md) |
 | **KMU-innovativ** | Skizze 15.04./15.10., dann Antrag. Innovation über Tagesgeschäft, Verwertung beim KMU, Eigenanteil, **keine bereits bezahlte Auftrags-FuE** | PFIF-Regel: Eigenentwicklung ja; Kundenauftrag nein. Playground, AI-Inspect, Adapter |
 | **Interreg / EFRE** | Kooperation, Region, Output-Indikatoren, Nachhaltigkeit nach Laufzeit | Flashlight/UKSH, FlowAR, Standort Kiel/NRW ehrlich zuordnen |
 | **Öffentliche Vergabe** | Erst **Eignung** (dürfen wir?), dann **Zuschlag** (welches Angebot ist wirtschaftlich?). Nicht denselben Satz zweimal werten lassen. | Referenzen in Eignung; im Angebot technische Lösung, Personal **dieses** Auftrags, Support, Hosting DE |
@@ -42,7 +42,7 @@ Ersetzen von weichen Floskeln durch belegbare, auftragsbezogene Aussagen.
 | Statt | Besser |
 |---|---|
 | Pioniere / führend / einzigartig | Seit 2009 Softwarehaus; immersive Linie über Fulldome zum Kern XR + Digital Twin. Konkrete Referenz: … |
-| Wir digitalisieren die Feuerwehr | FirefighterVR ist bei mehr als 100 Kunden im Einsatz; Los X liefert nur die genannten Komponenten, nicht den Gesamtkatalog. |
+| Wir digitalisieren die Feuerwehr | FirefighterVR ist bei mehr als 250 Kunden im Einsatz; Los X liefert nur die genannten Komponenten, nicht den Gesamtkatalog. |
 | GodView ist unsere Kommandozentrale | GodView bedient zwei Kundentypen auf einer Plattform: (A) Bauinspektion, belegt am Kölner Dom (mehr als 200.000 Fotos und 1.000 Laserscans aufgenommen, aktuelles Modell aus rund 100.000 Fotos mit über 2 Mrd. Polygonen); (B) Einsatzleitung analog Planspiel/Playground. Die Headset-Trainingsapp ist Unreal/OpenXR, nicht GodView. |
 | KI revolutioniert das Training | In feir entwickeln wir KI-gestützte Szenariengenerierung aus nutzergenerierten Daten (BMBF-Teilvorhaben). Spot-KI: KI-Transfer-Hub SH, nicht Vodafone/UKK. |
 | Horizon-Erfahrung | Partner in TEMA (Horizon Europe), Koordinator AUTH; Northdocks liefert 3D/XR, nicht die Verbundkoordination. |
@@ -78,7 +78,7 @@ Evaluatoren scoren unabhängig. Ein brillanter Impact rettet eine dünne Methodi
 Offizielle Tips: disruptiv, EU-Markt, TRL 6+, IP, Umsatz/Jobs, Funding Gap. **GF 28.08.2026: Anlauf 2027**, Texte hier nur vorhalten.
 
 - **Excellence:** Koffer + Haptik + 23 Module + Offline. Disruptiv gegen Brandübungsanlage/Realbrand, nicht gegen „alle XR-Firmen“.
-- **Impact:** 100+ Kunden ist Traktion — nutzen. Internationalisierung (nicht nur DE) muss im Text stehen, sonst NO-GO.
+- **Impact:** 250+ Kunden ist Traktion — nutzen. Internationalisierung (nicht nur DE) muss im Text stehen, sonst NO-GO.
 - **Need for Union support:** warum Banken/VC das Risiko nicht allein tragen (Hardware+Content, BOS-Vertrieb, Zertifizierung).
 - Interview: nur GmbH-Angehörige, kein Berater. CTO/GF. TRL-Claims werden live geprüft.
 - Keywords im Portal entscheiden, welcher Gutachter kommt — Public Safety / XR / Training, nicht „Web“.
@@ -134,7 +134,7 @@ Schreibregeln dagegen:
 
 Wenn der Antrag Medizin, Klinik, Rettung, Strahlenschutz, interprofessionelle Lehre betrifft:
 
-- Traction-Satz über **FirefighterVR** (Betriebsmodell, 100+ Kunden, Koffer).
+- Traction-Satz über **FirefighterVR** (Betriebsmodell, 250+ Kunden, Koffer).
 - Fachsatz über **UKK / BfS / Steiger**, nicht über erfundene Klinik-Abos.
 - StrahlenschutzVR darf Preise und Pflichtunterweisung § 63 nennen (öffentliche Site).
 - Station VR darf Frontiers 2026 zitieren.

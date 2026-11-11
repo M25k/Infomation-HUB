@@ -27,8 +27,10 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 
 | Claim | Stufe | Quelle |
 |---|---|---|
-| >100 Kunden | intern, **in Eignung erlaubt** (Entscheidung 2026-08-26) | UKSH-Eignung; nicht so auf der FFVR-Website. Nicht als Website-Claim ohne Zählung kopieren |
-| rund 400 internationale Kundenorganisationen | **nicht verwenden** intern/Eignung | EIC-Pitch-Mail an IB.SH 17.07.2026. C-Level darf außen gelegentlich übertreiben; KB und Angebote bleiben bei **>100** |
+| FirefighterVR ist ein kommerzielles Produkt mit **mehr als 250 Kunden** | intern belegt, **in Angeboten und Eignung erlaubt** | Joachim 11.11.2026 15:06, laut Ausschreibungen; ersetzt „>100 Kunden“. Auf Websites/Social erst nach Joachims Freigabe; nicht mit „rund 400“ oder „rund 600“ vermischen |
+| Das FFVR-Planspiel ist **Teil von FirefighterVR** (kein eigenes Produkt) und kann auch **AR** | intern belegt | Joachim 11.11.2026 15:06, laut Ausschreibungen. Kundenbezug Werkfeuer nur intern (Bürrig-/Currenta-Regeln gelten weiter) |
+| ~~>100 Kunden~~ | ~~intern, in Eignung erlaubt (Entscheidung 2026-08-26)~~ **ersetzt** | Ersetzt durch „mehr als 250 Kunden“ (Joachim 11.11.2026 15:06, laut Ausschreibungen) |
+| rund 400 internationale Kundenorganisationen | **nicht verwenden** intern/Eignung | EIC-Pitch-Mail an IB.SH 17.07.2026. C-Level darf außen gelegentlich übertreiben; KB und Angebote bleiben bei ~~**>100**~~ **mehr als 250** (Joachim 11.11.2026 15:06, laut Ausschreibungen) |
 | rund 600 Kunden | **nicht verwenden** | Satz entfällt auf firefightervr.de (Joachim 20.10.2026 15:15 im Chat mit One) |
 | 23 Trainingsmodule (Stand 2026; Zahl steigt periodisch) | öffentlich | firefightervr.de `trainingslist.html`. Didaktik v47 (22) nicht als Zähler |
 | Vorgänger PCVR mit PC-Launcher (Steam-ähnlich); Wechsel auf Koffer, weil Kunden PCVR als zu teuer/kompliziert rückmeldeten | intern, **kanonisch** (2026-08-26) | GF. Nicht „Plattform gescheitert“ nach außen |
@@ -87,6 +89,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | **GodView VR** ist ein eigenes, bestehendes Headset-Produkt (Unreal/Cesium, PICO), bereits auf Kunden-Headsets im Einsatz; GodView Web bleibt „nicht die Headset-App“ | intern belegt | Joachim 11.11.2026 14:39, laut Ausschreibungen; Asana „ND - Godview VR“ (1203634721673389). Version v1.11.4 und Kundennamen nur intern |
 | Verknüpfung GodView Web ↔ GodView VR (Übertragung per QR/JSON) | intern (in Arbeit) | Joachim 11.11.2026 14:39, laut Ausschreibungen: „hat begonnen“. Nicht als fertige Funktion behaupten |
 | Kölner Dom: Archäologie / Grabungsmodell unter dem Dom **ab 2026** (fortlaufend) | **Zielbild** | Handout Digitaler Zwilling Kölner Dom + Case GodView Kölner Dom (auf dem Bot-Rechner, nicht im Repo); Joachim 21.10.2026 hat den LinkedIn-Entwurf von Social gesehen und nur die Fotozahl korrigiert (Tags Dombauhütte/ZDV erlaubt). Handout Z. 287/293 „ab 2026 Archäologie“ / „Grabungsbereich unter dem Dom“; Case Z. 142, 290, 514. Formulierung „in den nächsten Monaten“ steht **nicht** im Handout/Case, nur „ab 2026“; öffentlich nur als Ziel („wird“/„künftig“), nie als fertig |
+| Kölner Dom / GodView: Gesamtvolumen **über 300.000 €**; in Angeboten zurückhaltend als **„sechsstellig“** angeben | intern (Angebote: nur „sechsstellig“) | Joachim 11.11.2026 15:06, laut Ausschreibungen. Exakte Summe nicht nach außen |
 | <1 mm Accuracy / 216K Textur | öffentlich | meta-dom.de, nicht unabhängig gemessen |
 
 ## Storywalx
@@ -94,7 +97,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | Claim | Stufe | Quelle |
 |---|---|---|
 | Blicksteuerung Wilhelmshaven 2021/22, Trier, Hannover | intern | UKSH-Mappe |
-| Volumina Wilhelmshaven ca. 70 k€ (Mappe); Trier **142.920 €** FA; Hannover ca. 55 k€ (Mappe, 2026 amatik 40.600 € bisher) | intern | WHV: AG WTF GmbH, FA über amatik, keine Stadt-Rechnung. Trier = FA Paid `20221209-01`+`20230906-02`. 80 k€-Mappe für Trier verworfen |
+| Volumina Wilhelmshaven ca. 70 k€ (Mappe); Trier **142.920 €** FA; Hannover **Referenzwert 55.000 €** (Joachim 11.11.2026 15:06, laut Ausschreibungen; 2026 amatik 40.600 € bisher fakturiert) | intern | WHV: AG WTF GmbH, FA über amatik, keine Stadt-Rechnung. Trier = FA Paid `20221209-01`+`20230906-02`. 80 k€-Mappe für Trier verworfen |
 | 5+ Touren, 50.000+ Besucher | öffentlich | storywalx.com |
 | 3+ Städte, 100+ Headsets | intern | Deck |
 | Partnerschaft amatik | öffentlich | storywalx.com |
@@ -157,7 +160,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 ## Formulierungshilfen (konservativ)
 
 - „Northdocks entwickelt seit 2009 Software und immersive Medien (CAU Kiel). Die **GmbH** besteht seit **2015** (HRB 76844 Düsseldorf, zuvor Kiel HRB 16574). Die VR-Linie begann mit Fulldome- und Planetariumsproduktionen und ist heute der Kern (XR-Training und Digital Twins). FirefighterVR als Produktlinie: mehr als sechs Jahre.“
-- „FirefighterVR ist Referenzprodukt und bei mehr als 100 Kunden im Einsatz (Stand Eignungsmappe 2026).“
+- „FirefighterVR ist ein kommerzielles Produkt und bei mehr als 250 Kunden im Einsatz.“ (Joachim 11.11.2026 15:06, laut Ausschreibungen; ersetzt „mehr als 100 Kunden“)
 - „Nachgewiesener Multiplayer-Peak im Planspiel: 16 gleichzeitige Nutzer.“
 - „Eye-Tracking und Blicksteuerung seit 2021/22 (Wilhelmshaven), fortgeführt in Trier, Hannover und ARiNeP.“ Hinweis zu ARiNeP: Eye-Tracking-Daten laut Klinik kaum verwertbar, nur als technische Umsetzung nennen ([Asana](https://app.asana.com/0/0/1216337250485610)).
 - „Produktionsengine der Trainingsanwendungen: Unreal Engine 5 mit OpenXR. GodView ist die browserbasierte Twin-Plattform mit zwei Kundentypen: Bauinspektion (z. B. Kölner Dom) und Einsatzleitung (z. B. Feuerwehr, analog Planspiel/Playground). GodView ist nicht die Headset-Trainingsanwendung.“
