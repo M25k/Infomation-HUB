@@ -42,6 +42,7 @@ Eine Datei → ein Google Doc → eine Portal-Anlage. Nichts hinten anhängen. N
 - Typografie DE: [german-prose.mdc](../../rules/german-prose.mdc).
 - Bekannte HUB-/Website-Kontakte und Firmentelefone einsetzen; keine Platzhalter, wenn die KB den Wert hat.
 - Interne Begründung, Annahmen-IDs, Freigabepunkte F1–Fn nur in `01-Angebot` / `99-Intern`, nie in `03-Abgabe`.
+- **Wissen aus anderen Verfahren** (Joachim 11.11.2026 11:15, laut Ausschreibungen): Erkenntnisse aus Bieterantworten anderer Ausschreibungen dürfen in Angebotstexte einfließen. Andere Verfahren, ihre Vergabenummern, Bieterfragen oder Bieterantworten aber nie nennen (also nicht „gemäß Bieterantwort F9“); den Inhalt als eigene Aussage formulieren.
 
 ## Konzept: was rausbleibt
 
