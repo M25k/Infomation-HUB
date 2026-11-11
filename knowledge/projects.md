@@ -30,7 +30,7 @@ Referenzierbar = in Eignung/Angeboten nutzbar. Freigabe = Namensnennung Person v
 | UAD Training | FVR – UAD | archiviert | — | Feuerwehr-VR | intern | — |
 | RescueArena Koppenhagen (Aerzen) | Auftrag 2024/25 | archiviert | — | VR-Veranschaulichung Übungsanlage der Koppenhagen112 in Aerzen (Dibbetweg 31, 31855 Aerzen), nicht Kopenhagen; FA (Koppenhagen GmbH): KV `20250109-01`, Rechnung `20250702-01` 8.640 € netto Paid. Abo-Verlängerung 2026 nur als Entwurf `20261016-01` (499 €, Draft) (FreeAgent, Abruf 17.10.2026) | intern | — |
 
-Öffentliche FirefighterVR-Kundenleiste (Deck, nicht alle mit Volumen): Dräger Safety AG, BASF Werkfeuerwehr, Henkel, Currenta „and many more“. Claim **>250 Kunden** intern belegt in UKSH-Mappe, nicht öffentlich nachgezählt.
+Öffentliche FirefighterVR-Kundenleiste (Deck, nicht alle mit Volumen): Dräger Safety AG, BASF Werkfeuerwehr, Henkel, Currenta „and many more“. Claim **mehr als 250 Kunden** intern belegt (Joachim 11.11.2026 15:06, laut Ausschreibungen; zuvor >100 laut UKSH-Mappe), nicht öffentlich nachgezählt.
 
 Asana-Projekt [Kundenanfragen / Bestellungen](https://app.asana.com/1/8864272155433/project/1206062987689733) mischt Anfragen und Aufträge (734 Karten). Für Eignungslisten nur **Abos FFVR**, **Erledigt**, Versand/Rechnung — nicht To-do. Organisation nennen, keine privaten Telefone. Beispiel Rettungsschule: **VITA-GUARD-RETTUNGSSCHULE** (10 FFVR-Setups, Asana). GodView- und Strahlenschutz-Karten nicht unter FirefighterVR führen.
 
