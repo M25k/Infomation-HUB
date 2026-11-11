@@ -49,6 +49,17 @@ Interner Kontext (Weekly 21.10.2026, Transkript gegengeprüft; übermittelt von 
 | `3D-Asset-Manager` | Northdocks-GmbH/3D-Asset-Manager | – | Repo des Bots 3D Asset Manager (Ersatz für Composer) (laut One 04.11.). |
 | ~~`Skills` (geplant)~~ `northdocks-skills` | [Northdocks-GmbH/northdocks-skills](https://github.com/Northdocks-GmbH/northdocks-skills) (privat) | main | ~~**Geplant, noch nicht angelegt:** privates gemeinsames Skills-Repo (u. a. ue5-blueprint-layout); Pflege IT und Unreal Build; Verweis aus Agent.md (Joachim 06.11.2026 09:34, laut One; #204).~~ **Final (Joachim 06.11.2026, laut One; #204):** privates gemeinsames Skills-Repo; Pflege IT und Unreal Build; Verweis aus Agent.md. Erster Import-PR #1 von IT lokal umgesetzt (kein Cloud-Agent, Joachim 09:41), Unreal Build fachlich geprüft; nach Joachims Mergefreigabe 09:55 gemergt (Merge-Commit `a94a9bcd2ce98abaffe7ff0ecff45f73a88a7c13`). Erste Kategorien `unreal` / `native-apps` / `webapps` (drei Bereiche sauber getrennt); erster Skill `ue5-blueprint-layout` unverändert importiert (Hash geprüft). Projekte prüfen das Repo vor Arbeitsbeginn; Nutzung und neue Skills per PR. Gemeinsames Ticket für Finn, Marcel und Moritz in Asana „Northdocks IT“: [1220292200953428](https://app.asana.com/0/0/1220292200953428). Branch-Schutz final (Joachim 10:05, von IT verifiziert, Unreal Build verifiziert): PRs mit 1 fremdem Approval auf `main`; ausdrücklich **keine** CODEOWNERS-/verbindliche Bereichszuordnung; dismiss-stale=false, last-push=false; enforce_admins=false (Notfall-Bypass für Admins frei); keine Status-Checks, keine Push-Restrictions; force-push=false, delete=false. Berechtigungen unverändert: M25k + NDMarcel admin, NDFinn/RenkeNiehaus/ndstephanzm/moritznd write. Reviewerrollen unverbindlich: M25k Maintainer, NDFinn Unreal, NDMarcel allgemein/Vertretung. Keine Sync-Skripte, keine org-weiten Rechte, kein weiterer Branch-Schutz ohne spätere Freigabe Joachims. **Doku-Hinweis (nur notieren, nicht ändern):** Die README im Repo `northdocks-skills` enthält noch den überholten Satz „GitHub-Zuordnung IT separat, Branch-Schutz erst wenn Rechte klar“; eine Repo-Änderung daran ist **nicht** von Joachim freigegeben und wird nicht umgesetzt. |
 
+### Rechner-Rollen (Joachim 11.11.2026 09:13, laut IT über One)
+
+Bots legen ihre Jobs auf dem passenden Rechner an:
+
+| Rechner | Rolle |
+|---|---|
+| ND-NB-20 | Joachims Notebook: Cursor- und Build-Arbeit, Projekte unter `C:\Githup` |
+| nd-pc-25 | Unreal-Builds (Kiel, UE 5.8) |
+| ND-PC-80 | Blender, 3D und 3D-Render-Jobs |
+| joachim-Alpha-17-C7VG | Video-PC (Linux-Laptop) |
+
 ### Unreal-Projekte: Ablage (Unreal Build, 27.10.2026)
 
 - Alle Unreal-Projekte liegen auf GitHub in der Org Northdocks-GmbH mit **Git LFS**; Perforce ist nicht bekannt.
