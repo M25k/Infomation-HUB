@@ -84,7 +84,7 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 - **/ar/brandschutz/: arabische Fassung des DGUV-Wortlauts** (Joachim 29.10.2026 09:07 direkt im Chat von Web; live laut Web; ~~Gegenlesung durch eine arabischsprachige Person offen~~ bleibt, wie sie ist, kein Korrekturleser (Joachim 03.11.2026 08:52 direkt im Chat von One: „lassen wir erstmal wie sie ist.“; Zuordnung laut One); Punkt geschlossen): „الواقع الافتراضي يكمّل التدريب الأولي ولا يحلّ محله: تنصّ معلومات DGUV رقم 205-023 على أن يقوم كل شخص في التدريب الأولي بإطفاء لهب حقيقي بنفسه (مثل جهاز تدريب على الإطفاء يعمل بالغاز)، وتقرّر المنشأة ذلك بناءً على تقييم المخاطر.“ Rückübersetzung: „VR ergänzt die Erstausbildung und ersetzt sie nicht: Die DGUV Information 205-023 sieht vor, dass in der Erstausbildung jede Person selbst eine reale Flamme löscht (z. B. gasbetriebener Löschtrainer); der Betrieb entscheidet auf Grundlage der Gefährdungsbeurteilung.“ Steht in Zeile 529 (Absatz); Zeile 481 (Listenpunkt) trägt den ersten Satzteil.
 - FAQ-Kategorie „Standorte“ live: Vorführorte Kabelsketal (BTL), Fritz Massong, MEDIGUYS, B-Safe (Mainz), FW Werl, KFV Northeim (laut Chat 10 Orte inkl. Northdocks Monheim).
 - Basis-Set auf der Startseite: „Pico 4 Ultra Enterprise“, ohne „16 GB“.
-- Tracking: AppLovin `generate_lead` und Formspree-Formular auf `/brandschutz/` und `/ar/brandschutz/`; AppLovin steht in der Datenschutzerklärung. Kein Pixel-ID hier.
+- Tracking: AppLovin `generate_lead` (EUR, value 1) und Formspree-Formular auf `/brandschutz/`, `/ar/brandschutz/` und `/vr-training/`; AppLovin steht in der Datenschutzerklärung. Kein Pixel-ID hier (Axon-Pixel-Key im Web-Repo). Keine FFVR-Seite sendet `user_data`; `loader.iife.js` ist von allen FFVR-Seiten entfernt (laut Web, 10.11.2026).
 - HDMI-hochkant-Tipp (Taste „R“ am Empfänger dreht das Bild) live in der FAQ (DE/EN) und im Handbuch unter Troubleshooting und Setup.
 - `/shop/` live (index.html und catalog.json; Shopify-Backend über feuerwehrvr.de, siehe [feuerwehrvr.md](feuerwehrvr.md)). Miete-Woche-Preise und Kaution offen.
 - Neue Startseite live („23 Szenarien auf der Brille …“), Umbau 15.10.2026 wegen viel Traffic und wenig Leads.
@@ -96,6 +96,15 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 - Kampagnen DACH Feuerwehr, Brandschutz, Erste Hilfe; UTM-Schema `utm_source=google&utm_medium=paid&utm_campaign=dach_*_202608`; Callouts und Sitelinks erstellt.
 - Ads-CSV-Packs unter `_ref/ads/` (Repo www-firefightervr) auf firefightervr.de umgestellt; ob die Live-Anzeigen noch auf die alte Domain zeigen, prüft Social.
 - Bewertungshelden (Kununu, Google) geprüft, nicht beauftragt. Kununu zeigt noch die alte Firmierung „NorthDocks UG“ (offen).
+
+### AppLovin und Landingpage /vr-training/ (Stand 11.11.2026)
+
+- Landingpage https://firefightervr.de/vr-training/ für AppLovin-Ads, von Joachim freigegeben (laut Web, 10.11.2026). noindex, nicht in der Navigation.
+- Formular: Formspree-Formular wie die anderen FFVR-Kontaktformulare, mit Make-Hook und `source=applovin-landing`.
+- Eingebettet: Action-Video v2 (FFVR-1889), Autoplay stumm; nicht Reel 11.
+- Tracking: AppLovin-Axon-Pixel, Event `generate_lead` mit EUR und value 1; Axon-Pixel-Key im Web-Repo, nicht hier. Keine FFVR-Seite sendet noch `user_data`; `loader.iife.js` ist von allen FFVR-Seiten entfernt (laut Web, 10.11.2026).
+- Stand laut One, 11.11.2026: Landingpage und Creative-Set sind live. Die Kampagne bleibt Entwurf, weil AppLovin Web-Ads in Westeuropa bzw. DACH derzeit nicht unterstützt (Support-Anfrage 136625, kein Zeitplan).
+- Material (Joachim 10.11.2026, laut Video (über One) und laut One): Reels, die hauptsächlich die Feuerlöscher-Sammlung zeigen (z. B. Reel 11, FFVR-1873), nicht für Werbung oder Landingpages; stattdessen Action-Material (Atemschutz, Strahlrohr, Feuer). Action v2 (FFVR-1889) ist auf der Landingpage und als Ersatz für 11 im AppLovin-Set freigegeben. Die übrigen AppLovin-Creatives (09/12/15/02, Abschlussseite, Image kurz) sind nur für AppLovin/Ads freigegeben, nicht für Social; Katalogstufe bleibt nur intern (keine eigene Ads-Stufe).
 
 ## Versand (intern)
 
