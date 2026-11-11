@@ -36,3 +36,5 @@ Spiegel des Feedback-Trackers bei One (nicht im Repo, geführt von One), Stand d
 W1028 (Weekly 28.10.2026): eigener Spiegel in [weekly-2026-10-28-feedback.md](weekly-2026-10-28-feedback.md) (laut One, 28.10.2026).
 
 W1104 (Weekly 04.11.2026): eigener Spiegel in [weekly-2026-11-04-feedback.md](weekly-2026-11-04-feedback.md) (laut One, 04.11.2026).
+
+W1111 (Weekly 11.11.2026): eigener Spiegel in [weekly-2026-11-11-feedback.md](weekly-2026-11-11-feedback.md) (laut One, 11.11.2026).
