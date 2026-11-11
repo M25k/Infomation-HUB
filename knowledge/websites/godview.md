@@ -25,8 +25,8 @@ Hosting-Aussage auf der Site: Deutschland, DSGVO. Intern Linode / DLR-On-Prem **
 
 1. Typ A unverändert klar (das ist der aktuelle öffentliche Stand).
 2. **Typ B ergänzen**, ohne zwei Produkte zu erfinden: eine Plattform, zweite Nutzung „Lage / Einsatz / Kommando“. Anker: Planspiel/Playground, Chempark Bürrig, DRZ nur wenn öffentlich gewollt.
-3. Nie behaupten, GodView sei die Unreal-Trainingsapp auf dem Headset. Headset = Training; GodView = Twin + Leitung/Inspektion.
-4. VR-Export und 3D Tiles (auch kundeneigene Tilesets, analog FFVR-FAQ) sind Produktfeatures, kein FirefighterVR-Katalog.
+3. Nie behaupten, GodView Web sei die Unreal-Trainingsapp oder die Headset-App. GodView Web = Browser-Twin + Leitung/Inspektion. **GodView VR** ist ein eigenes, bestehendes Headset-Produkt (Unreal/Cesium, PICO, v1.11.4, auf Kunden-Headsets im Einsatz); die Verknüpfung mit GodView Web per QR/JSON hat begonnen (Joachim 11.11.2026 14:39, laut Ausschreibungen). Auf der Site erst nennen, wenn Joachim das freigibt (claims.md: intern belegt).
+4. IFC-Importer in GodView Web ist vorhanden, nicht Roadmap (Joachim 11.11.2026 14:39, laut Ausschreibungen; claims.md intern belegt). VR-Export und 3D Tiles (auch kundeneigene Tilesets, analog FFVR-FAQ) sind Produktfeatures, kein FirefighterVR-Katalog.
 5. Englisch: entweder vollwertige EN-Texte oder klarer Umschalter; keine halben Strings.
 6. Kontakt: kontakt@northdocks.com, Telefon Hub **+49 (0) 2173 9996715**. `godview@…` nicht zum Firmenstandard machen.
 7. **AGB:** Die GodView-AGB stellt Joachim selbst am Wochenende online, nicht automatisch über den GodView-Bot (Joachim, 21.10.2026, Discord #small_talk, via One). ~~Bis dahin keine AGB-Seite durch Bots anlegen oder veröffentlichen.~~ Erledigt: AGB 1.0 und AVV live seit 03.11.2026 abends (laut GodView App 04.11.2026), Details unten.

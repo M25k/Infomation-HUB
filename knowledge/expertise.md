@@ -19,6 +19,8 @@ Nur Fähigkeiten, die durch Produkt, Repo oder dokumentierte Referenz gedeckt si
 ### Digital Twin / Geospatial
 
 - GodView: SvelteKit + Cesium (`ND-GodViewWeb`, Docker/Postgres/MinIO). Zusätzlich Potree-Punktwolkenviewer (`www-pointclouds`, Express, LAS/LAZ-Export) für Szenen Dom / Holcim Höver / Bürrig. Beide sind Browser-Twins, keine Headset-Trainingsapp. Google Earth 3D Tiles, Sentinel-2, Drohnen-Photogrammetrie, GLB, Rollen/Orgs, PDF/JSON, VR-Export.
+- **GodView Web** läuft nur im Browser und hat einen **IFC-Importer** (Joachim 11.11.2026 14:39, laut Ausschreibungen).
+- **GodView VR**: eigenes, bestehendes Headset-Produkt (Unreal/Cesium, PICO), aktuell v1.11.4, bereits auf Kunden-Headsets im Einsatz; Asana-Projekt „ND - Godview VR“ (1203634721673389). Die Verknüpfung mit GodView Web hat begonnen (Übertragung per QR/JSON), ist also in Arbeit und nicht fertig (Joachim 11.11.2026 14:39, laut Ausschreibungen). Keine Trainingsanwendung aus dem FirefighterVR-Katalog.
 - Hosting in Deutschland, DSGVO-Aussage auf godview.solutions. Intern (DLR-Gespräch 2026): Betrieb derzeit bei Linode; DLR will On-Premise — für Anträge nicht als Linode nennen, On-Prem nicht als Standard behaupten.
 - Photogrammetrie: Drohnenbefliegung, RealityCapture-Headless über `ND-Processing` (Express Port 3000 → Python `process.py` → RealityCapture.exe → Cesium-3D-Tiles; lokal oder MinIO; Export u. a. GLB und Orthophoto). Hardcoded-User nicht zitieren.
 - Volumenextraktion Punktwolke → LAS/LAZ.
@@ -65,7 +67,7 @@ Nur Fähigkeiten, die durch Produkt, Repo oder dokumentierte Referenz gedeckt si
 ## Was wir nicht als Standard behaupten
 
 - Unity als Leit-Engine (nicht der lokale Hauptstack).
-- IFC/BIM-Vollintegration in GodView (Roadmap, nicht fertig).
-- Dass GodView die Headset-Trainingsanwendung sei.
+- ~~IFC/BIM-Vollintegration in GodView (Roadmap, nicht fertig).~~ Veraltet: GodView Web hat einen **IFC-Importer** (Joachim 11.11.2026 14:39, laut Ausschreibungen). Darüber hinausgehende BIM-Funktionen nicht ohne Beleg behaupten.
+- Dass GodView Web die Headset-App oder die Headset-Trainingsanwendung sei. Headset-Produkt ist **GodView VR** (eigenes Produkt, siehe Digital Twin / Geospatial; Joachim 11.11.2026 14:39, laut Ausschreibungen).
 - Dass jeder Auftrag den ganzen FirefighterVR-Katalog enthält.
 - `McpAutomationBridge` (in `NDVRActemium.uproject` enabled) als Liefergegenstand oder öffentliche API.
