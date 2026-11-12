@@ -2,6 +2,8 @@
 
 Gilt für alle Northdocks-Domains, solange die Site-Datei nichts Engeres festlegt.
 
+**Web-Bot (laut One, 12.11.2026):** Web nutzt die Emil-Kowalski-Skills. Unsere Textregeln ([README.md](../../README.md), [document-rules.md](../document-rules.md), [claims.md](../claims.md), diese Datei, Skill [website-content](../../.cursor/skills/website-content/SKILL.md)) haben Vorrang.
+
 ## Rechtsträger (Impressum / Footer)
 
 | Feld | Wert |

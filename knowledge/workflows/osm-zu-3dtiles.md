@@ -50,7 +50,15 @@ Skript `run_place.py config.json` im 3D-Arbeitsordner führt DGM → npz, Urspru
 
 **Regel 03.11.2026:** Bei internen Projekten Lizenzfragen ignorieren; ODbL- und DGM1-Lizenzen erst klären, wenn Joachim produktive Nutzung ansagt (Joachim 03.11.2026 08:22 direkt im Chat von One). Die Hinweise unten gelten dann als Ausgangspunkt.
 
-- Sichtbar: „© OpenStreetMap contributors“ mit Link auf openstreetmap.org/copyright und der DGM-Vermerk des Landes.
+- Sichtbar: „© OpenStreetMap contributors“ mit Hinweis auf die ODbL und Link auf openstreetmap.org/copyright, in Credits oder Abspann; dazu der DGM-Vermerk des Landes. Präzisiert 12.11.2026 (Joachim 08:06, laut 3D; siehe Abschnitt Produktionsweg).
 - OSM-Attribute getrennt von Kunden- und Feuerwehrdaten halten (ODbL, ~~juristische Bestätigung offen: #150~~ bei produktiver Nutzung klären; #150 geschlossen nach Regel 03.11.2026).
 - Nicht verwenden: Google Photorealistic 3D Tiles, Bing-/Cesium-ion-/Mapbox-/ESRI-Satellitenbilder als Export in eigene Assets (Anbieter-AGB).
 - Werkzeuge (Prüfung 3D 03.11.2026): CesiumForBlender (MIT, v0.1) nicht für die Produktion, weil es nur Anbieter-Streams anzeigt. BlenderGIS (GPL-3.0) nur optional für DGM-/Shapefile-Import. Standard bleibt der eigene Import.
+
+## Produktionsweg Stadt- und Ortsteil-Assets (Joachim 12.11.2026 08:06, laut 3D)
+
+Für Stadt- und Ortsteil-Assets aus OSM bleibt der eigene offene Import der Produktionsweg (v5-Pipeline: Geofabrik-PBF, DGM1, Blender). Joachim: „da ist unser Prozess besser“ (12.11.2026 08:06, laut 3D). Bestätigt durch die Werkzeugprüfung und den Vergleich Blosm gegen v5 an der Rendsburger Altstadt (laut 3D, 12.11.2026).
+
+- **Blosm Base** (GPL v3) dient nur als Gegenprobe für Grundrisse, nicht als Generator für Lieferobjekte. Vergleich Rendsburger Altstadt (laut 3D, 12.11.2026): die Grundrisse lagen auf 1 bis 10 cm genau; die Gebäude kamen als ein einziges Mesh, ohne OSM-IDs, ohne Gelände und mit falschen Höhen; ein Kirchenschiff fehlte.
+- **Geopogo for Blender** und **GeoScape** (beide proprietär) kommen nicht in die Pipeline.
+- **OSM-Lizenz ODbL:** Attribution „© OpenStreetMap contributors“ mit Hinweis auf die ODbL, sichtbar in Credits oder Abspann. Bei Weitergabe strukturierter OSM-Daten greift Share-Alike; eigene Daten deshalb getrennt halten. Ergänzt die Pflichthinweise oben; die Regel 03.11.2026 (Lizenzfragen bei internen Projekten erst bei produktiver Nutzung klären) bleibt.

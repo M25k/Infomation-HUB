@@ -148,7 +148,7 @@ Information-HUB bleibt die Textquelle. Technik belegen: lokaler Ordner **oder** 
 
 ## Bot-Verzeichnis (im Aufbau)
 
-Bisher nur hier gelistet; weitere Bots (One, Video, Assets, Social, Web, 3D, Pico Native, BMA App, GodView App, Unreal Build, Wissen) werden nachgetragen. Neu: **3D Asset Manager** (laut One 04.11.).
+Bisher nur hier gelistet; weitere Bots (One, Video, Assets, Social, Web, 3D, Pico Native, BMA App, GodView App, Unreal Build, Wissen) werden nachgetragen. Neu: **3D Asset Manager** (laut One 04.11.). **Web** nutzt die Emil-Kowalski-Skills; unsere Textregeln ([README.md](../README.md), [document-rules.md](document-rules.md), [claims.md](claims.md), [websites/_shared.md](websites/_shared.md), Skill website-content) haben Vorrang (laut One, 12.11.2026).
 
 **Kontingente** (Weekly 11.11.2026, 00:37:27–00:42:14, Joachim, laut One; W1111-23): Das Grok-Bot-Kontingent ist unabhängig vom Cursor-Kontingent. Accountübergreifende Group-Chats funktionieren noch nicht wie gewünscht (Feature liegt bei xAI).
 

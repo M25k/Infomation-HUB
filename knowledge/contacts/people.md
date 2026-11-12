@@ -529,12 +529,25 @@ Format und Regeln: [README.md](README.md).
 - **Organisation:** [Kreutz & Partner](organizations.md#kreutz--partner)
 - **Rolle:** Berater
 - **Kontaktweg:** E-Mail (Silas, Mailakte Asana)
-- **Themen:** Nikon SLM VR-Projekt
-- **Bezug:** Kein Auftrag
+- **Themen:** früher Nikon SLM VR-Projekt
+- **Bezug:** Kein Auftrag. **Stand 12.11.2026:** Kreutz & Partner ist komplett raus; der neue Aufschlag zu Nikon SLM geht direkt an [Nils Krug](people.md#nils-krug) (Joachim 12.11.2026, laut One).
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
+  - 12.11.2026 · Entscheidung · Kreutz & Partner raus; Aufschlag Nikon SLM nicht mehr über Paul Ens (Joachim 12.11.2026, laut One)
   - 01.08.2024 · E-Mail · Leitet Absage Nikon SLM weiter ([Asana](https://app.asana.com/0/0/1219577380573167))
   - 26.07.2024 · E-Mail · Kündigt Business Case und Angebot an ([Asana](https://app.asana.com/0/0/1219577380573167))
+
+## Nils Krug
+
+- **Organisation:** Offen (im HUB keiner Organisation fest zugeordnet; tritt in der Historie im Zusammenhang mit der Absage von Nikon SLM auf)
+- **Rolle:** Offen
+- **Kontaktweg:** Offen
+- **Themen:** Nikon SLM
+- **Bezug:** Der neue Aufschlag zu [Nikon SLM Solutions](organizations.md#nikon-slm-solutions) geht direkt an Nils Krug; [Kreutz & Partner](organizations.md#kreutz--partner) ist komplett raus (Joachim 12.11.2026, laut One).
+- **Freigabe:** Freigabe fehlt
+- **Historie:**
+  - 12.11.2026 · Entscheidung · Neuer Aufschlag zu Nikon SLM geht direkt an Nils Krug (Joachim 12.11.2026, laut One)
+  - 01.08.2024 · E-Mail · Absage Nikon SLM (laut Nils Krug „zu früh“, Grundlagen für Roll-out im Aufbau) ([Asana](https://app.asana.com/0/0/1219577380573167))
 
 ## Panos Malliris
 

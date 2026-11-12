@@ -679,14 +679,29 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** Offen
 - **Typ:** Beratung
 - **Ansprechpartner:** [Paul Ens](people.md#paul-ens)
-- **Themen:** VR-Training für Nikon SLM Solutions (Lübeck), Business Case, DACS-Programm
-- **Bezug:** Projekt nicht zustande gekommen
+- **Themen:** früher Vermittlung VR-Training für Nikon SLM Solutions (Lübeck), Business Case, DACS-Programm
+- **Bezug:** Projekt 2024 nicht zustande gekommen. **Stand 12.11.2026:** Kreutz & Partner ist komplett raus; der neue Aufschlag zu Nikon SLM geht direkt an [Nils Krug](people.md#nils-krug) (Joachim 12.11.2026, laut One). Siehe [Nikon SLM Solutions](#nikon-slm-solutions).
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
+  - 12.11.2026 · Entscheidung · Komplett raus; Aufschlag Nikon SLM geht direkt an Nils Krug (Joachim 12.11.2026, laut One)
   - 01.08.2024 · E-Mail · Absage Nikon SLM (laut Nils Krug „zu früh“, Grundlagen für Roll-out im Aufbau) ([Asana](https://app.asana.com/0/0/1219577380573167))
   - 30.07.2024 · E-Mail · Workshop-Ergebnis „Zielbild, Use Cases, Fragen“ an Nikon SLM ([Asana](https://app.asana.com/0/0/1219577380573167))
   - 26.07.2024 · E-Mail · Frageliste Silas (Mobile VR, vermutlich Quest 3; CAD, Handbücher, Videos nötig) ([Asana](https://app.asana.com/0/0/1219577380573167))
   - 25.07.2024 · Vor Ort · Workshop bei Nikon SLM in Lübeck ([Asana](https://app.asana.com/0/0/1219577380573167))
+
+## Nikon SLM Solutions
+
+- **Ort/Land:** Lübeck, DE
+- **Typ:** Unternehmen
+- **Ansprechpartner:** [Nils Krug](people.md#nils-krug)
+- **Themen:** VR-Training, Business Case, DACS-Programm
+- **Bezug:** Kreutz & Partner ist komplett raus; der neue Aufschlag geht direkt an Nils Krug (Joachim 12.11.2026, laut One). Workshop 07/2024, Absage 08/2024 (laut Nils Krug damals „zu früh“).
+- **Freigabe:** Freigabe fehlt
+- **Historie:**
+  - 12.11.2026 · Entscheidung · Kreutz & Partner raus, Aufschlag direkt an Nils Krug (Joachim 12.11.2026, laut One)
+  - 01.08.2024 · E-Mail · Absage (laut Nils Krug „zu früh“, Grundlagen für Roll-out im Aufbau) ([Asana](https://app.asana.com/0/0/1219577380573167))
+  - 30.07.2024 · E-Mail · Workshop-Ergebnis „Zielbild, Use Cases, Fragen“ an Nikon SLM ([Asana](https://app.asana.com/0/0/1219577380573167))
+  - 25.07.2024 · Vor Ort · Workshop in Lübeck ([Asana](https://app.asana.com/0/0/1219577380573167))
 
 ## Marita Hellas
 
