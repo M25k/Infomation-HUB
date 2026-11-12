@@ -16,7 +16,7 @@
 
 ## Rolle (Kurz)
 
-Shopify-Kauf/Miete und geplanter Vergleichs-/SEO-Funnel für Feuerwehr-VR. Marketing und 23 Module bleiben auf firefightervr.de.
+Shopify-Kauf/Miete und geplanter Vergleichs-/SEO-Funnel für Feuerwehr-VR. Marketing und 24 Module bleiben auf firefightervr.de.
 
 Claims und gemeinsame Regeln: [_shared.md](_shared.md), [claims.md](../claims.md). Website-Skill: [website-content/SKILL.md](../../.cursor/skills/website-content/SKILL.md).
 

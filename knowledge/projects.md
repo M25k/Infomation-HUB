@@ -10,7 +10,7 @@ Referenzierbar = in Eignung/Angeboten nutzbar. Freigabe = Namensnennung Person v
 
 | Produkt | Status | Kurz | Beleg |
 |---|---|---|---|
-| FirefighterVR | Produkt | Koffer, 23 Module, Kauf/Miete | firefightervr.de, Asana Platform Development |
+| FirefighterVR | Produkt | Koffer, 24 Module, Kauf/Miete | firefightervr.de, Asana Platform Development |
 | MeditrainVR | Produkt | Medizinisches Multiplayer-VR | meditrainvr.com, Asana MediTrain VR (archiviert als Plattformprojekt) |
 | Next Factory VR | Produkt | Industrie-VR, Infinity | nextfactoryvr.com, `NDVRActemium` |
 | SpearheadVR | Produkt | Defense/Public Safety | spearheadvr.de |

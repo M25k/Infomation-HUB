@@ -79,7 +79,7 @@ Die wichtigsten Dateien je Marke im Katalog:
 
 ## Markenarchitektur
 
-- **FirefighterVR:** Trainingsplattform mit vielen Modulen (Ist-Stand, 23 Module laut claims.md).
+- **FirefighterVR:** Trainingsplattform mit vielen Modulen (Ist-Stand, 24 Module laut claims.md).
 - **MeditrainVR (Zielbild, Joachim über One, 20.10.2026, 16:27):** soll wie FirefighterVR zur Trainingsplattform mit vielen Modulen werden.
 - **StrahlenschutzVR:** wird eines der Trainings innerhalb von MeditrainVR; Gestaltung nach MeditrainVR-CI (Joachim 20.10.2026, 16:26, [strahlenschutzvr.md](strahlenschutzvr.md)). Bezeichnung in Logo/Titel: „Strahlenschutz – ein MeditrainVR-Training“ (Logo/Titel); im Fließtext „Strahlenschutz, ein MeditrainVR-Training“ (Joachim 21.10.2026, #100).
 - Darstellung nach außen nur als Ziel ([../document-rules.md](../document-rules.md) Nr. 8, [../claims.md](../claims.md) Stufe Zielbild).

@@ -32,7 +32,7 @@ Nur diese Zahlen/Sätze in Dokumente. Stufe: öffentlich | intern | widersprüch
 | ~~>100 Kunden~~ | ~~intern, in Eignung erlaubt (Entscheidung 2026-08-26)~~ **ersetzt** | Ersetzt durch „mehr als 250 Kunden“ (Joachim 11.11.2026 15:06, laut Ausschreibungen) |
 | rund 400 internationale Kundenorganisationen | **nicht verwenden** intern/Eignung | EIC-Pitch-Mail an IB.SH 17.07.2026. C-Level darf außen gelegentlich übertreiben; KB und Angebote bleiben bei ~~**>100**~~ **mehr als 250** (Joachim 11.11.2026 15:06, laut Ausschreibungen) |
 | rund 600 Kunden | **nicht verwenden** | Satz entfällt auf firefightervr.de (Joachim 20.10.2026 15:15 im Chat mit One) |
-| 23 Trainingsmodule (Stand 2026; Zahl steigt periodisch) | öffentlich | firefightervr.de `trainingslist.html`. Didaktik v47 (22) nicht als Zähler |
+| 24 Trainingsmodule (Stand 12.11.2026; Zahl steigt periodisch; vorher 23, neu: Ladungssicherung) | öffentlich | firefightervr.de `trainingslist.html` (geprüft Wissen 12.11.2026: „24 professionelle VR-Trainings“, 24 Einträge). Reels/Texte mit „23“ sind veraltet; vor Veröffentlichung Zahl gegen die Seite prüfen. Didaktik v47 (22) nicht als Zähler |
 | Vorgänger PCVR mit PC-Launcher (Steam-ähnlich); Wechsel auf Koffer, weil Kunden PCVR als zu teuer/kompliziert rückmeldeten | intern, **kanonisch** (2026-08-26) | GF. Nicht „Plattform gescheitert“ nach außen |
 | Mehr als sechs Jahre virtuelle Feuerwehrausbildung als Produktlinie | öffentlich + intern | FFVR-Site. Firma seit 2009, immersive Arbeit früher (Fulldome). Nicht zu „17 Jahre FirefighterVR“ aufblasen |
 | Planspiel-Peak 16 gleichzeitige Nutzer | intern | UKSH-Mappe. Addon: UKK CeMIT 13 Plätze nur Nachreichbeleg, nicht Peak-Claim |

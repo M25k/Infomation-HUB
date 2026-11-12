@@ -13,7 +13,7 @@ Muster, das Meditrain kopieren soll — nicht die Feuerwehr-Inhalte.
 | All-in-one Koffer, auspacken und trainieren | Klinik-IT hasst Setup. Standalone-Headset, Local-Only, gleiche Kofferlogik |
 | Kauf / Miete, Softwarekatalog inklusive | StrahlenschutzVR macht das schon (Miete ab 499 €/Woche, Kauf ab 3.499 €). Schockraum/Station noch eher Projekt |
 | Haptik statt Robotersimulator | CPR-Puppe, medizinische Geräte als Tangibles — wie Strahlrohr/Löscher |
-| 23 Module, stetig erweitert | Katalog statt Einzelauftrag: Schockraum, Station, CPR, Strahlenschutz, dann OP/Koni |
+| 24 Module, stetig erweitert | Katalog statt Einzelauftrag: Schockraum, Station, CPR, Strahlenschutz, dann OP/Koni |
 | Anfragen / Reseller | Klinik-Vertrieb, SSB, Akademien, Unikliniken; nicht nur Custom-Projekte |
 | Offline, Pico/Quest, OpenXR, NDFramework | Dieselbe Engine-Linie, andere Fachlogik (Physiologie statt Brand) |
 | Playground / GodView Typ B | Spielleitung, Debriefing, Lage — Flashlight/UKSH und Schockraum-Debriefing |

@@ -38,7 +38,7 @@ CI: [brand/firefightervr.md](brand/firefightervr.md). BMA Trainer (eigene Marke)
 
 Produktplattform für Feuerwehr, Werkfeuerwehr, Brandschutz, Jugendfeuerwehr, Recruiting. All-in-one Koffer, Kauf/Miete, kein laufendes Software-Abo im öffentlichen Preismodell.
 
-Öffentliche Pakete (netto, Website 2026): Strahlrohr 3.299 €, Feuerlöscher 3.199 €, CPR 3.199 €. Software aller Trainings in jedem Paket. 23 Module laut Website.
+Öffentliche Pakete (netto, Website 2026): Strahlrohr 3.299 €, Feuerlöscher 3.199 €, CPR 3.199 €. Software aller Trainings in jedem Paket. 24 Module laut Website (Stand 12.11.2026).
 
 Vorgänger: **PCVR** mit PC-Launcher (Steam-ähnlich). Eingestellt nach Kundenfeedback (zu teuer, zu kompliziert). Aktuelles Produkt ist die **Koffer-/Standalone-Lösung**. Nicht als „gescheiterte Plattform“ nach außen formulieren.
 

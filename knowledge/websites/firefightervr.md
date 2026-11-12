@@ -5,14 +5,14 @@ EN: https://www.firefightervr.de/en/
 Alias (nicht verlinken): firefightervrmobile.de  
 Repo: `C:\Githup\www-firefightervr`
 
-Rolle: **Leitprodukt** — Koffer, Pakete, 23 Module, Kauf/Miete. Cash- und Referenzprodukt; wird nicht durch Meditrain abgelöst.
+Rolle: **Leitprodukt** — Koffer, Pakete, 24 Module, Kauf/Miete. Cash- und Referenzprodukt; wird nicht durch Meditrain abgelöst.
 
 ## Ist-Struktur (Kern)
 
 | Bereich | Zweck |
 |---|---|
 | Start `#pakete` | Strahlrohr, Feuerlöscher, CPR |
-| `/trainingslist.html` | 23 Trainingsmodule |
+| `/trainingslist.html` | 24 Trainingsmodule (Stand 12.11.2026) |
 | `/feuerwehr/`, `/brandschutz/`, `/erstehilfe/` | Zielgruppen-Landings |
 | `/faq.html` | FAQ (u. a. 3D Tilesets in GodView und Planspiel) |
 | `/handbuch/` | Handbuch |
@@ -29,7 +29,7 @@ Legacy (Paketpreise bis 30.09.2026, nicht mehr auf der Live-Site): Strahlrohr 3.
 
 Preishistorie laut Mailakte Silas (historisch, ungültig; nur intern): Koffer 4.999 € (11/2023, für Teilmodule reduziert), 3.499 € brutto (07/2024), Komplettset Feuerlöscher 3.475 € brutto (05/2025); Updates nach Jahr 1: 500 €/Jahr (ab 03/2024), seit 2026 499 € netto je Headset; Miete 499 €/Woche, 999 €/Monat, Kaution 1.500 €, volle Anrechnung beim Kauf; Softwarelizenz ohne Hardware 1.900 € je Gerät; Reseller 15 % Rabatt; RPVR Mobile 2.600 € netto, PC-Paket 2.700 € netto, PC-Version kostenlos, nicht weiterentwickelt. Weitere Stände: Koffer einmalig 5.000 € netto mit Pico 4 Enterprise, ein Jahr Updates, danach 500 € je Headset und Jahr oder unverändert ohne Kosten, Miete 1.000 €/Monat (03/2024, [Asana](https://app.asana.com/0/0/1219577266068127)); Miete 02/2025 nur wochenweise 419,33 € netto/Woche bzw. 839,50 € netto/Monat (entspricht 499/999 € brutto), Versand 50 €, Kaution 1.500 €, Vorkasse; Einsatztag mit Mitarbeiter und Koffer 2.160 € netto plus Reisekosten ([Asana](https://app.asana.com/0/0/1219577380304679)).
 
-23 Module laut `trainingslist.html` (öffentlich): Firesaber, Löschangriff, Innenbrand, Feuerlöscher, Flashover, Flughafen, Waldbrand, Gastankbrand, Kreiselpumpe, Sprinklerwartung, CPR, Erste Hilfe, Notfallpneumatik, Sprungkissen, Unfallsicherung, Erkundung, Bürobrand, Elektronikbrand, Ladeflächenbrand, Ölflächenbrand, Planspiel, Übungsstrecken, Drehleiter.
+24 Module laut `trainingslist.html` (öffentlich, Stand 12.11.2026; neu: Ladungssicherung): Firesaber, Ladungssicherung, Löschangriff, Innenbrand, Feuerlöscher, Flashover, Flughafen, Waldbrand, Gastankbrand, Kreiselpumpe, Sprinklerwartung, CPR, Erste Hilfe, Notfallpneumatik, Sprungkissen, Unfallsicherung, Erkundung, Bürobrand, Elektronikbrand, Ladeflächenbrand, Ölflächenbrand, Planspiel, Übungsstrecken, Drehleiter.
 
 Internes Didaktik-Dokument v47 (März 2026, Drive Work) beschreibt Methode und Jugendfeuerwehr-Einsatz; es zählt 22 Module — nicht als öffentliche Zahl verwenden. In Custom-Angeboten Prinzipien umlegen, nicht den Katalog mitliefern.
 
@@ -50,7 +50,7 @@ Produktkontakt auf Landings oft `service@firefightervr.de`; Telefon **+49 (0) 21
 
 ## Öffentlich sagbar
 
-- 23 Module, Basis-Set plus optionale Übungsgeräte, Offline, Pico, OpenXR
+- 24 Module, Basis-Set plus optionale Übungsgeräte, Offline, Pico, OpenXR
 - Mitgliedschaften WFVD/vfdb/DRZ/DIBT
 - Haptik (Strahlrohr, Löscher, CPR-Puppe)
 - AWG-Logo (freigegeben, [claims.md](../claims.md)): darf auf der Site stehen (Website, auch Social, Präsentationen, Angebote). Nicht den Satz „zusammen mit AWG entwickelt“. Der Wortlaut „AWG unterstützt FirefighterVR“ ist nicht gesondert als Claim freigegeben.

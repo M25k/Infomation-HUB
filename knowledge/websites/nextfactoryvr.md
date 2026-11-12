@@ -52,7 +52,7 @@ Hero-Headset trägt das **Infinity**-Logo (Kunde Actemium). Copy spricht von ein
 ## Nicht auf diese Site
 
 - Spearhead/Defense-Zahlen, TMA, Kosovo
-- FFVR-Katalog (23 Module, Kofferpreise) als Factory-Standard
+- FFVR-Katalog (24 Module, Kofferpreise) als Factory-Standard
 - Interne Currenta-/Merck-/Henkel-Volumina
 - RWE oder Framatome als Digital-Twin-Vollprojekt
 - Craftsmen, Philips, ElevenVoice

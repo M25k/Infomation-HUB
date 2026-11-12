@@ -77,7 +77,7 @@ Evaluatoren scoren unabhängig. Ein brillanter Impact rettet eine dünne Methodi
 
 Offizielle Tips: disruptiv, EU-Markt, TRL 6+, IP, Umsatz/Jobs, Funding Gap. **GF 28.08.2026: Anlauf 2027**, Texte hier nur vorhalten.
 
-- **Excellence:** Koffer + Haptik + 23 Module + Offline. Disruptiv gegen Brandübungsanlage/Realbrand, nicht gegen „alle XR-Firmen“.
+- **Excellence:** Koffer + Haptik + 24 Module + Offline. Disruptiv gegen Brandübungsanlage/Realbrand, nicht gegen „alle XR-Firmen“.
 - **Impact:** 250+ Kunden ist Traktion — nutzen. Internationalisierung (nicht nur DE) muss im Text stehen, sonst NO-GO.
 - **Need for Union support:** warum Banken/VC das Risiko nicht allein tragen (Hardware+Content, BOS-Vertrieb, Zertifizierung).
 - Interview: nur GmbH-Angehörige, kein Berater. CTO/GF. TRL-Claims werden live geprüft.
