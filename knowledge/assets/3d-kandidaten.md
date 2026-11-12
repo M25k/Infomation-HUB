@@ -341,3 +341,17 @@ PICO-HEADSET: In Runde 12 ist kein neues Headset-Modell dazugekommen, weder in T
 
 ### FYI A320
 - Unterordner (inkl. Blendswap) in dieser Lieferung nicht enthalten, bleiben offen.
+
+## Runde 17 (12.11.2026)
+
+### FAHRZEUGMODELLE
+- **[Herstellerbezug]-Bus** (Airplane Training): ManBus.max, spp-Projekt, 52 Fremdtexturen (FFVR-1960–1963), nur intern.
+- **Gepäckwagen** BaggageWagon.max und BaggageCart.spp (FFVR-1964–1967), nur intern; Stock-Referenzbild (FFVR-1965).
+- **HLF20** (HLF20_[Herstellerbezug].3ds, FFVR-1968, 94,7 MiB) und **[Herstellerbezug]-Wagen** (Schlingmannwagen.max, FFVR-1969, 178,6 MiB): nur intern, Herkunft/Lizenz nicht belegt.
+- Fluggastbrücke BoardingBridge.max/.spp (FFVR-1971–1975, Gebäudetechnik, kein Fahrzeug), nur intern.
+- Cockpit: Turbosquid-Fremdmodell a_320_fbx.fbx / a_320_max.max und Texturen (FFVR-1957–1959), nur intern; A320Cockpit_rework.max und APUPanel.spp (FFVR-1953–1956) nur intern bis Klärung Eigenarbeit oder Turbosquid-Basis (#231).
+- **Pico-Headset: keins.**
+
+### Bild-zu-3D-Quellen
+- Webseiten-Fotoauswahl 2026-11 (FFVR-1952, MED-0233, NFVR-0326, ND-1933, SW-0043, STR-0047): Headset-/Messefotos, keine Objektfotos für Bild-zu-3D; `website` (Joachim 12.11.2026 07:38, laut One).
+- Dräger-Feuerwache vorher/nachher (ND-1925–1931) sind Render-Vergleiche, nur intern (#73).
