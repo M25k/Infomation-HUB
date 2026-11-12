@@ -25,8 +25,8 @@ Hosting-Aussage auf der Site: Deutschland, DSGVO. Intern Linode / DLR-On-Prem **
 
 1. Typ A unverändert klar (das ist der aktuelle öffentliche Stand).
 2. **Typ B ergänzen**, ohne zwei Produkte zu erfinden: eine Plattform, zweite Nutzung „Lage / Einsatz / Kommando“. Anker: Planspiel/Playground, Chempark Bürrig, DRZ nur wenn öffentlich gewollt.
-3. Nie behaupten, GodView Web sei die Unreal-Trainingsapp oder die Headset-App. GodView Web = Browser-Twin + Leitung/Inspektion. **GodView VR** ist ein eigenes, bestehendes Headset-Produkt (Unreal/Cesium, PICO, v1.11.4, auf Kunden-Headsets im Einsatz); die Verknüpfung mit GodView Web per QR/JSON hat begonnen (Joachim 11.11.2026 14:39, laut Ausschreibungen). Auf der Site erst nennen, wenn Joachim das freigibt (claims.md: intern belegt).
-4. IFC-Importer in GodView Web ist vorhanden, nicht Roadmap (Joachim 11.11.2026 14:39, laut Ausschreibungen; claims.md intern belegt). VR-Export und 3D Tiles (auch kundeneigene Tilesets, analog FFVR-FAQ) sind Produktfeatures, kein FirefighterVR-Katalog.
+3. Nie behaupten, GodView Web sei die Unreal-Trainingsapp oder die Headset-App. GodView Web = Browser-Twin + Leitung/Inspektion. **GodView VR** ist ein eigenes, bestehendes Headset-Produkt (Unreal/Cesium, PICO, v1.11.4, auf Kunden-Headsets im Einsatz); die Verknüpfung mit GodView Web per QR/JSON hat begonnen (Joachim 11.11.2026 14:39, laut Ausschreibungen). Auf der Site erst nennen, wenn Joachim das freigibt (claims.md: intern belegt). Zugesagt für 15.12.2026, nicht ausgeliefert: **AR-Funktion** mit Object Tracking, Depth Sensing und Object Permanence (Tiefensensor und Kameras) in der GodView-PICO-App (Joachim 12.11.2026, laut Ausschreibungen; claims.md intern belegt). In Angeboten als Zusage mit Termin nutzbar; auf der Site und auf roadmap.html nicht, bis ausgeliefert und freigegeben.
+4. IFC-Importer in GodView Web ist vorhanden, nicht Roadmap (Joachim 11.11.2026 14:39, laut Ausschreibungen; claims.md intern belegt). Auf der Site erst, wenn Site oder App-Hilfe ihn nennt oder Joachim freigibt. **Zusätzlich zugesagt bis 15.12.2026:** Import von OBJ, FBX und DXF; **DWG ist nicht zugesagt** (Joachim 12.11.2026 14:19, laut Ausschreibungen; claims.md intern belegt). Zusage/Roadmap, nicht ausgeliefert — nicht auf die Site und nicht auf roadmap.html, bis ausgeliefert und freigegeben. In Angeboten als Zusage mit Termin nutzbar. VR-Export und 3D Tiles (auch kundeneigene Tilesets, analog FFVR-FAQ) sind Produktfeatures, kein FirefighterVR-Katalog.
 5. Englisch: entweder vollwertige EN-Texte oder klarer Umschalter; keine halben Strings.
 6. Kontakt: kontakt@northdocks.com, Telefon Hub **+49 (0) 2173 9996715**. `godview@…` nicht zum Firmenstandard machen.
 7. **AGB:** Die GodView-AGB stellt Joachim selbst am Wochenende online, nicht automatisch über den GodView-Bot (Joachim, 21.10.2026, Discord #small_talk, via One). ~~Bis dahin keine AGB-Seite durch Bots anlegen oder veröffentlichen.~~ Erledigt: AGB 1.0 und AVV live seit 03.11.2026 abends (laut GodView App 04.11.2026), Details unten.
@@ -42,6 +42,7 @@ Hosting-Aussage auf der Site: Deutschland, DSGVO. Intern Linode / DLR-On-Prem **
 - Linode, On-Prem als Standard
 - TED/TEMA als GodView-App-Store
 - Headset-Multiplayer-Peak 16 als GodView-Claim
+- OBJ-/FBX-/DXF-Import und die AR-Funktion in GodView VR, solange nicht ausgeliefert und freigegeben; DWG-Import nie (nicht zugesagt)
 
 ## App app.godview.solutions (intern, Cursor-Chat ND-NB-20, Abgleich 20.10.2026)
 

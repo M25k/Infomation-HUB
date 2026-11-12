@@ -96,7 +96,9 @@ Eine Plattform, **zwei Nutzungen**. In Anträgen immer zuerst den Kundentyp nenn
 
 Technisch: Cesium, 3D Tiles, Punktwolken, Drohnenfotos, Messung, VR-Export, Hosting DE/DSGVO.
 
-**Nicht vermischen:** GodView (Browser) ist nicht die Unreal-Trainingsanwendung auf dem Headset. Headset = Training/Avatar; GodView = Twin + Leitung/Inspektion. UKSH: GodView darf als Einsatzleiter-Sicht weiterentwickelt werden, ist aber nicht die VR-App der Einsatzkräfte.
+**Nicht vermischen:** GodView Web (Browser) ist nicht die Unreal-Trainingsanwendung auf dem Headset. Headset-Training/Avatar bleibt die Trainingsapp; GodView Web = Twin + Leitung/Inspektion. **GodView VR** ist ein eigenes Headset-Produkt (Unreal/Cesium, PICO), nicht die FirefighterVR-Trainingsanwendung (Joachim 11.11.2026 14:39, laut Ausschreibungen; claims.md intern belegt, auf Websites erst nach Freigabe). UKSH: GodView darf als Einsatzleiter-Sicht weiterentwickelt werden, ist aber nicht die VR-App der Einsatzkräfte.
+
+**GodView Web** hat einen **IFC-Importer** (vorhanden; intern belegt, auf Websites erst nach Freigabe; Joachim 11.11.2026 14:39, laut Ausschreibungen). Zusätzlich zugesagt bis **15.12.2026**: Import von **OBJ, FBX und DXF**; **DWG ist nicht zugesagt** (Joachim 12.11.2026 14:19, laut Ausschreibungen). Zugesagt für **15.12.2026** in GodView VR (PICO 4 Ultra): **AR-Funktion** mit Object Tracking, Depth Sensing und Object Permanence (Tiefensensor und Kameras) (Joachim 12.11.2026, laut Ausschreibungen). Beides Zusage/Roadmap, nicht ausgeliefert; in Angeboten als Zusage mit Termin nutzbar, auf Websites/Social nicht, bis ausgeliefert und freigegeben.
 
 ## Querschnitt (kein Vertical, aber für Anträge zentral)
 
