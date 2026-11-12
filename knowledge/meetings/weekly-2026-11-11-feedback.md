@@ -1,6 +1,6 @@
 # Weekly 11.11.2026: Feedback (Spiegel)
 
-intern, Quelle: Feedback-Tracker von One (W1111-01 bis -40, Stand 11.11.2026 16:19 Berlin; laut One); das Transkript selbst wurde nicht verwendet. Gespiegelt 11.11.2026. Nur Entscheidungen mit Quelle und die an Wissen gemeldeten Kontextpunkte; reine Aufgaben und Infos für andere Bots stehen nur im Tracker. Zeitstempel = Position im Mitschnitt. Ohne Zitate. Nachgetragen 11.11.2026: Joachims Entscheidungen von 16:22 (laut One) zu W1111-13, -14, -34; #230 bleibt offen.
+intern, Quelle: Feedback-Tracker von One (W1111-01 bis -40, Stand 11.11.2026 16:19 Berlin; laut One); das Transkript selbst wurde nicht verwendet. Gespiegelt 11.11.2026. Nur Entscheidungen mit Quelle und die an Wissen gemeldeten Kontextpunkte; reine Aufgaben und Infos für andere Bots stehen nur im Tracker. Zeitstempel = Position im Mitschnitt. Ohne Zitate. Nachgetragen 11.11.2026: Joachims Entscheidungen von 16:22 (laut One) zu W1111-13, -14, -34; #230 seit 12.11.2026 zurückgestellt (Joachim 08:54, laut One).
 
 Vertraulich: EVO/Turbospritze (W1111-24) bleibt intern und ist hier nicht gespiegelt.
 
