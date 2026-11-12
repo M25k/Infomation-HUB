@@ -70,7 +70,7 @@ Sachlich, produktbezogen. Keine Superlative ohne Beleg („Pioniere“, „radik
 
 ## Bilder
 
-- **Bilder: KI-Aufwertung nur für echtes Material** („KI-Aufwertung echter App-Screenshots erlaubt, nichts Erfundenes“, Joachim 11.11.2026 16:33, laut One): Echte App-Screenshots dürfen per KI aufgewertet werden (Schärfe, Auflösung, Licht, Rauschen), wenn Szene und Objekte gleich bleiben; keine erfundenen Inhalte, keine neue Schrift, keine Logos. Gleiches gilt für Frames aus echten Videos (Ergänzung laut One; Joachims Wortlaut nennt nur App-Screenshots). Frei generierte KI-Bilder bleiben auf den Websites verboten.
+- **Bilder: KI-Aufwertung nur für echtes Material** („KI-Aufwertung echter App-Screenshots erlaubt, nichts Erfundenes“, Joachim 11.11.2026 16:33, laut One): Echte App-Screenshots dürfen per KI aufgewertet werden (Schärfe, Auflösung, Licht, Rauschen), wenn Szene und Objekte gleich bleiben; keine erfundenen Inhalte, keine neue Schrift, keine Logos. Frames aus echten Videos: unbestätigte Ergänzung laut One, keine feste Regel; Joachims Wortlaut nennt nur App-Screenshots, bis zu seiner Bestätigung offen (One 12.11.2026). Frei generierte KI-Bilder bleiben auf den Websites verboten.
 
 ## Video und Clips
 
