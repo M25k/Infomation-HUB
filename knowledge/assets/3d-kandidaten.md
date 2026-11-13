@@ -355,3 +355,13 @@ PICO-HEADSET: In Runde 12 ist kein neues Headset-Modell dazugekommen, weder in T
 ### Bild-zu-3D-Quellen
 - Webseiten-Fotoauswahl 2026-11 (FFVR-1952, MED-0233, NFVR-0326, ND-1933, SW-0043, STR-0047): Headset-/Messefotos, keine Objektfotos für Bild-zu-3D; `website` (Joachim 12.11.2026 07:38, laut One).
 - Dräger-Feuerwache vorher/nachher (ND-1925–1931) sind Render-Vergleiche, nur intern (#73).
+
+## Runde 18 (13.11.2026)
+
+### FAHRZEUGMODELLE
+- **[Herstellerbezug]ProXT** (Trage, Blender): FFVR-1981 (.blend und Autosave .blend1), nur intern; Herkunft und Lizenz nicht schriftlich belegt, sehr kleine Datei (vermutlich Rohling/Platzhalter).
+- **Flughafenbus** FBX-Export und zugehörige Renders/Texturen (FFVR-1986–1989), nur intern; Herstellerbezug im Dateinamen, Kunden-/Fremd-CI in importTex (FFVR-1989).
+- **Gepäckwagen** FBX-Export und zugehörige Renders/Texturen (FFVR-1990–1993), nur intern; Stock-Texturen in importTex (FFVR-1993).
+- **Fluggastbrücke** FBX-Export und zugehörige Renders/Texturen (FFVR-1994–1996, Gebäudetechnik, kein Fahrzeug), nur intern.
+- **A320-Cockpit** FBX-Export, Renders und Substance-Texturen (FFVR-1982–1985): zu den bereits katalogisierten Quelldateien FFVR-1953–1976; Turbosquid-Anteil möglich, nur intern (vgl. #231).
+- **Pico-Headset: keins.**
