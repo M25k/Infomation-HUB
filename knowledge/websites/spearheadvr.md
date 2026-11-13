@@ -22,7 +22,7 @@ Rolle: Defense / Public Safety **Marke**. Öffentliche Site vorsichtig: intern b
 
 - Northdocks-Marke für taktisches XR-Training, Standalone/Offline
 - Playground als Spielleitung (ohne Kundennamen)
-- **Nur auf northdocks.com, nicht automatisch hier:** das Wort „Militär“ bei SpearheadVR (Joachim 12.11.2026, laut One). Ob das auch für spearheadvr.de gilt, ist offen (#243). Bis zur Klärung hier nicht übernehmen.
+- **Nur auf northdocks.com, nicht automatisch hier:** das Wort „Militär“ bei SpearheadVR (Joachim 12.11.2026, laut One). Auf spearheadvr.de bleibt das Tabu (Joachim 13.11.2026 09:16, laut One, wörtlich: „Militär nur als Wort auf northdocks.com, sonst bleibt das Tabu“; #243 erledigt).
 
 ## Nicht auf diese Site
 

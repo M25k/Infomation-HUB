@@ -29,7 +29,7 @@ Nur Claims der Stufe **öffentlich** in [claims.md](../claims.md). Beispiele die
 - AVPQ-Nummer und Zugangscodes
 - TMA / Omnicom / National Guard als Vertragstext
 - Kosovo-Playground als öffentliche Referenz ohne Freigabe
-- Army VR, Urban Tank und übrige Militär-Tabus. **Ausnahme (Joachim 12.11.2026, laut One):** auf northdocks.com darf SpearheadVR mit dem Wort „Militär“ stehen. Nicht auf andere Sites oder in Angebote/Social übertragen, bis #243 geklärt ist.
+- Army VR, Urban Tank und übrige Militär-Tabus. **Ausnahme (Joachim 12.11.2026, laut One):** auf northdocks.com darf SpearheadVR mit dem Wort „Militär“ stehen. Nur das Wort, nur auf northdocks.com; auf anderen Sites, in Angeboten, Social und Reels bleibt das Tabu (Joachim 13.11.2026 09:16, laut One, wörtlich: „Militär nur als Wort auf northdocks.com, sonst bleibt das Tabu“; #243).
 - Schockraum-Volumen intern **328.403 €** Paid (Mappe 380 k€ tot); KI 40 k€ (ein Topf Voice/Lisa, nicht auf die Site)
 - Linode / On-Prem-Hosting intern
 - Pitch 2024 Meditrain-Ausgründung

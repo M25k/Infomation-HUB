@@ -85,7 +85,7 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 | northdocks.com `foundingDate` | 2015 (GmbH). Firma bzw. Tätigkeit seit 2009 bleibt daneben, beides getrennt. |
 | „10+ Jahre 3D-Erfassung“ | Öffentlich zulässig. |
 | Currenta HR Excellence 2016 / ChemTech 2018 | Formulierung „umgesetzt von Northdocks“ zulässig. |
-| SpearheadVR „Militär“ | Ausnahme nur für northdocks.com. Tabu bleibt für Army VR, National Guard, Kosovo, Urban Tank und TMA. Reichweite offen, #243. |
+| SpearheadVR „Militär“ | Ausnahme nur für northdocks.com. Tabu bleibt für Army VR, National Guard, Kosovo, Urban Tank und TMA. Reichweite geklärt (#243, siehe 13.11.). |
 | Reel 02 mit 23 Modulen | Bleibt als Ausnahme zur aktuellen Zahl 24. |
 | Disclaimer-Sätze | Nicht verwenden. Stattdessen Angebotsformulierung (z. B. Stadtmodell auf Anfrage). |
 | FlowAR-Zugangsdaten | Klartext von Joachim bis zum Public-Start akzeptiert, nicht mehr melden. Keine Werte ins HUB. |
@@ -98,6 +98,7 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 |---|---|
 | Kontaktformular-Vertriebsanfragen | Landen automatisch im Asana-Projekt 1206062987689733. Bots erstellen keine Entwürfe, leiten nicht an Patrick weiter, melden nicht. |
 | Steinmeier-Tabu (#241) | Entfällt vollständig. Joachim 13.11.2026 09:03, laut One, wörtlich: „Steinmeier kann immer genutzt werden.“ Gilt mit und ohne VR-Brille, auch auf Websites und Social. FFVR-0868 (Reel 03 v8) `social-video;website`. |
+| Reichweite „Militär“ bei SpearheadVR (#243) | Joachim 13.11.2026 09:16, laut One, wörtlich: „Militär nur als Wort auf northdocks.com, sonst bleibt das Tabu“. Nur das Wort, nur auf northdocks.com (SpearheadVR-Kachel/Kurztext). Nicht auf spearheadvr.de, nicht in Angebote, Social oder Reels. Keine Kundennamen oder Einsatzorte. |
 
 ## Noch offen
 
@@ -180,7 +181,7 @@ Quelle: Joachim 12.11.2026, laut One (Runde 13.11.).
 | # | Frage | Kontext und Vorschlag | Status |
 |---|---|---|---|
 | 242 | Was bezeichnen die Zahlen 90,6 / 93,7 / 96,9 („Hero-Trio“)? | Im HUB nicht belegt. Die bekannten Evaluationszahlen sind 97 / 94 / 91 % Presence / Verständnis / Glaubwürdigkeit (intern + Deck, [claims.md](claims.md)). Ob das Hero-Trio eine aktualisierte oder andere Messreihe ist (gleiche Reihenfolge oder eine andere Zuordnung), ist unklar. Vorschlag: die 97/94/91 weiter nur mit Quellenkontext nutzen; 90,6 / 93,7 / 96,9 nicht verwenden, bis Joachim die Bedeutung und die öffentliche Nutzbarkeit festlegt. | offen |
-| 243 | Wie weit gilt die Ausnahme „SpearheadVR mit Militär“? | Joachim 12.11.2026, laut One: SpearheadVR darf auf northdocks.com mit „Militär“ stehen. Das Militär-Tabu bleibt für Army VR, National Guard, Kosovo, Urban Tank und TMA (TMA wird nicht genannt). Vorschlag: die Ausnahme gilt nur für den Kurztext bzw. die Kachel auf northdocks.com, nicht für spearheadvr.de, Angebote oder Social, und ohne Kundennamen oder Einsatzorte. | offen |
+| 243 | Wie weit gilt die Ausnahme „SpearheadVR mit Militär“? | Joachim 12.11.2026, laut One: SpearheadVR darf auf northdocks.com mit „Militär“ stehen. Das Militär-Tabu bleibt für Army VR, National Guard, Kosovo, Urban Tank und TMA (TMA wird nicht genannt). Vorschlag: die Ausnahme gilt nur für den Kurztext bzw. die Kachel auf northdocks.com, nicht für spearheadvr.de, Angebote oder Social, und ohne Kundennamen oder Einsatzorte. | erledigt: Joachim 13.11.2026 09:16, laut One, wörtlich: „Militär nur als Wort auf northdocks.com, sonst bleibt das Tabu“ |
 
 ### Marken-CI und Schreibweisen (19.10.2026)
 

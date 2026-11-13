@@ -29,7 +29,7 @@ Nav heute: Verticals, Über uns, News, Preise & Förderungen, Kontakt. DE/EN üb
 7. **schema.org `foundingDate`:** 2015 (GmbH-Gründung), nicht 2009 (Joachim 12.11.2026, laut One).
 8. „10+ Jahre 3D-Erfassung“ ist auf dieser Site zulässig (Joachim 12.11.2026, laut One).
 9. Currenta-Awards HR Excellence 2016 und ChemTech 2018: die Formulierung „umgesetzt von Northdocks“ ist zulässig (Joachim 12.11.2026, laut One).
-10. SpearheadVR-Kachel: das Wort „Militär“ ist auf northdocks.com zulässig (Joachim 12.11.2026, laut One). Ausnahme zum Militär-Tabu, nur für diese Site und nur als Kurzbezeichnung der Marke. Weiter tabu: Army VR, National Guard, Kosovo, Urban Tank, TMA. Reichweite darüber hinaus offen (#243).
+10. SpearheadVR-Kachel: das Wort „Militär“ ist auf northdocks.com zulässig (Joachim 12.11.2026, laut One). Ausnahme zum Militär-Tabu, nur für diese Site und nur als Kurzbezeichnung der Marke. Weiter tabu: Army VR, National Guard, Kosovo, Urban Tank, TMA. Reichweite geklärt (Joachim 13.11.2026 09:16, laut One, wörtlich: „Militär nur als Wort auf northdocks.com, sonst bleibt das Tabu“; #243): nur das Wort, nur hier.
 11. Reel 02 mit „23 Modulen“ bleibt (Joachim 12.11.2026, laut One), Ausnahme zur aktuellen Zahl 24 Trainingsmodule.
 
 ## Öffentlich sagbar
