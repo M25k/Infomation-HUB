@@ -97,6 +97,7 @@ FreeAgent-MCP in diesem Lauf **ohne Tokens** (Auth-Dialog speichert nicht). FA-D
 | Thema | Entscheidung |
 |---|---|
 | Kontaktformular-Vertriebsanfragen | Landen automatisch im Asana-Projekt 1206062987689733. Bots erstellen keine Entwürfe, leiten nicht an Patrick weiter, melden nicht. |
+| Steinmeier-Tabu (#241) | Entfällt vollständig. Joachim 13.11.2026 09:03, laut One, wörtlich: „Steinmeier kann immer genutzt werden.“ Gilt mit und ohne VR-Brille, auch auf Websites und Social. FFVR-0868 (Reel 03 v8) `social-video;website`. |
 
 ## Noch offen
 
