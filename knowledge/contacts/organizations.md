@@ -335,7 +335,7 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
 - **Ort/Land:** DE
 - **Typ:** Bundesbehörde, Auftraggeber und Partner StrahlenschutzVR
 - **Ansprechpartner:** [Hugo de las Heras Gala](people.md#hugo-de-las-heras-gala) (bis 26.06.2025 im Projekt), Eugen Sperling (Nachfolge), Augusto Giussani, Sebastian Trinkl, Dr. Stella Winter, Judith Mantei (Presse)
-- **Themen:** StrahlenschutzVR (kostenlose PC-Version, 3621S42350; ~~Förderhinweis BMUV~~ überholt (Joachim 21.10.2026; Widerspruch aufgelöst 25.10., Hinweis von One): nur „im Auftrag des BfS entwickelt“, keine Förderung), Vermittlung von Kliniken, Hochschulen und Herstellern, Kongressauftritte (ECR, RÖKO, APT, ECMP, EUTERP)
+- **Themen:** StrahlenschutzVR (kostenlose PC-Version, 3621S42350; ~~Förderhinweis BMUV~~ überholt (Joachim 21.10.2026; Widerspruch aufgelöst 25.10., Hinweis von One): nur „im Auftrag des BfS entwickelt“, keine Förderung). Das Bundesministerium heißt jetzt **BMUKN** (Joachim 12.11.2026, laut One), älterer Name BMUV nicht mehr verwenden. Vermittlung von Kliniken, Hochschulen und Herstellern, Kongressauftritte (ECR Certificate of Merit 2024 bleibt öffentlich nennbar, Joachim 12.11.2026, laut One; RÖKO, APT, ECMP, EUTERP)
 - **Bezug:** [projects.md](../projects.md) (RadiationProtectionVR, 3621S42350, ca. 204 k€ intern); [meditrain.md](../meditrain.md); [mailakte-silas.md](../mailakte-silas.md); Fujiwara/BfS-Artikel in [open-questions.md](../open-questions.md); [Asana](https://app.asana.com/0/0/1217847528017752)
 - **Freigabe:** Freigabe fehlt (BfS als Partner laut [websites/meditrainvr.md](../websites/meditrainvr.md) öffentlich sagbar)
 - **Historie:**
@@ -354,14 +354,14 @@ Format und Regeln: [README.md](README.md). Freigabe-Default: Freigabe fehlt.
   - 07.03.2024 · E-Mail · Hugo stellt die App University College Dublin vor ([Asana](https://app.asana.com/0/0/1219577366883432))
   - 06.03.2024 · E-Mail · Hugo an DRG: ECR-Vorstellung erfolgreich, Anfrage RÖKO-Präsentation ([Asana](https://app.asana.com/0/0/1219577380283260))
   - 03.03.2024 · E-Mail · Kooperationsanfrage Université de Brest (LaTIM, Monte-Carlo-Dosimetrie) an Silas weitergegeben ([Asana](https://app.asana.com/0/0/1219577366947704))
-  - 27.02.2024 · Kongress · ECR 2024 Wien, Poster C-11877 mit Certificate of Merit (laut ESR, Urkunde offen) ([Asana](https://app.asana.com/0/0/1217847528017752))
+  - 27.02.2024 · Kongress · ECR 2024 Wien, Poster C-11877 mit Certificate of Merit (Joachim 12.11.2026, laut One: Award bleibt und darf öffentlich genannt werden; Autorenschaft intern nicht neu belegt) ([Asana](https://app.asana.com/0/0/1217847528017752))
 
 ## UKSH (Universitätsklinikum Schleswig-Holstein)
 
 - **Ort/Land:** Kiel und Lübeck, DE
 - **Typ:** Universitätsklinikum
 - **Ansprechpartner:** Prof. Norbert Weiler, Ansgar Büter-Menke und Andreas Voos (UKSH Akademie, Stabsstelle Digitale Transformation)
-- **Themen:** Schockraum VR in der Lehre (2023 bis 2024, verloren), Strahlenschutz-Historie, Flashlight 2026
+- **Themen:** Schockraum VR in der Lehre (2023 bis 2024, verloren), Strahlenschutz-Historie (nur Partner, keine Validierung, Joachim 12.11.2026, laut One), Flashlight 2026
 - **Bezug:** [meditrain.md](../meditrain.md) (Flashlight / UKSH), [grants.md](../grants.md); [Asana](https://app.asana.com/0/0/1204511809442504)
 - **Freigabe:** Freigabe fehlt
 - **Historie:**
@@ -853,7 +853,7 @@ Nur Organisationen mit belegtem Auftrag, Angebot mit Betrag, Abo oder Miete. Kon
 | David Hanny Fire Safety & Protection e.U. | AT | Rechnung 20251226-01 (2.942 €) | [Asana](https://app.asana.com/0/0/1212216734979910) |
 | Gemeinde Eichenzell (Smart City) | DE | Angebote 20260528-01/-02 (zwei Jahre Support je 499 €); beide am 28.05.2026 beauftragt; Ausgangsangebot 0260513-04 (FreeAgent-Nummer ohne führende 2); Förderprogramm verlangt getrennte Rechnungen für Hardware und Software (Call 13.05.2026: Hardware 2.382 €, Softwarelizenz 1.366 €) | [Asana](https://app.asana.com/0/0/1210845016938030) |
 | Stadt Hessisch Oldendorf | DE | Abo bis 01.05.2026, Auftrag Pico 4 Ultra 28.04.2026, Rechnung 20260512-01 | [Asana](https://app.asana.com/0/0/1209668136582090) |
-| Helios Klinikum Krefeld / Ausbildungszentrum | Krefeld | Mietrechnung 20260217-03; für HELIOS Kliniken GmbH (Patrick M. Voget) ist ein Onboarding am 15.06.2026 belegt (Set mit Feuerlöscher, Spielfläche 3x3 m), ohne Belegnummer; Zuordnung zu Krefeld offen ([open-questions.md](../open-questions.md)) | [Asana](https://app.asana.com/0/0/1208557399477742), [Asana](https://app.asana.com/0/0/1215574544472519) |
+| Helios Klinikum Krefeld / Ausbildungszentrum | Krefeld | Mietrechnung 20260217-03; für HELIOS Kliniken GmbH (Patrick M. Voget) ist ein Onboarding am 15.06.2026 belegt (Set mit Feuerlöscher, Spielfläche 3x3 m), ohne Belegnummer; Zuordnung zu Krefeld intern offen. **Öffentlich (Joachim 12.11.2026, laut One):** Helios und Fresenius sowie „88 Helios-Standorte“ dürfen genannt werden; die ältere Zahl „81 Helios Kliniken“ nicht mehr verwenden. | [Asana](https://app.asana.com/0/0/1208557399477742), [Asana](https://app.asana.com/0/0/1215574544472519) |
 | LWST Heilbad Heiligenstadt | DE | Bestellung 31.03.2026, Rechnung 20260402-01; Angebot 20260226-02, Zahlung 03.04.2026, Onboarding 09.06.2026 | [Asana](https://app.asana.com/0/0/1213452436486431) |
 | Berliner Stadtreinigung (BSR) | Berlin | Miete, dann Kauf (Rechnung 20260326-04), Bestellung 4500950990 701 € netto | [Asana](https://app.asana.com/0/0/1211946202779841) |
 | ERGO Tehnika (Luka und Marin Ševerdija) | HR | Reseller-Angebot 20250217 (Endkundenpreis inkl. CPR, 15 % Provision); Reseller-Konditionen vom 23.02.2026 nach Call 31.03.2026; Kauf CPR + Feuerlöscher laut Gesprächsnotiz beschlossen, Bestellung nicht belegt; NDA von Northdocks zugesagt, nicht verschickt | [Asana](https://app.asana.com/0/0/1209374797053539) |

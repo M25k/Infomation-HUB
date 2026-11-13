@@ -22,8 +22,10 @@ Rolle: Defense / Public Safety **Marke**. Öffentliche Site vorsichtig: intern b
 
 - Northdocks-Marke für taktisches XR-Training, Standalone/Offline
 - Playground als Spielleitung (ohne Kundennamen)
+- **Nur auf northdocks.com, nicht automatisch hier:** das Wort „Militär“ bei SpearheadVR (Joachim 12.11.2026, laut One). Ob das auch für spearheadvr.de gilt, ist offen (#243). Bis zur Klärung hier nicht übernehmen.
 
 ## Nicht auf diese Site
 
 - Alle Site-/Deck-Zahlen oben
 - GodView als Headset-Kampfsimulator
+- Army VR, National Guard, Kosovo, Urban Tank, TMA (Militär-Tabu bleibt; Ausnahme „Militär“ gilt vorerst nur für northdocks.com)

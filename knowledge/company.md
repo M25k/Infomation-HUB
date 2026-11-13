@@ -84,6 +84,8 @@ Pioniere im Spatial Computing: XR mit hochpräzisen Industriedaten zu Digital Tw
 
 Für Anträge die Linie: Software-Tätigkeit seit 2009 (CAU Kiel) → GmbH ab 2015 → frühe immersive Fulldome-Arbeit → heutiger Kern XR-Training und Digital Twin. Nicht „GmbH seit 2009“, nicht „17 Jahre FirefighterVR“.
 
+**northdocks.com (Joachim 12.11.2026, laut One):** schema.org `foundingDate` ist **2015** (GmbH-Gründung). Die Angabe „Firma seit 2009“ bleibt als Tätigkeit/Narrative daneben zulässig, beides nicht vermischen. „10+ Jahre 3D-Erfassung“ ist öffentlich zulässig.
+
 Business Deck (intern): all-in-one, schnelle Feedbackschleifen, praxisnahe Endnutzerprodukte. Gegründet 2009, 45+ Projektpartner (Zahl nicht unabhängig gezählt).
 
 ## Mitgliedschaften (FirefighterVR-Website, intern zu prüfen ob aktuell)
